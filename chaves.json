@@ -9,7 +9,7 @@
       "expire": "-",
       "time": "1",
       "enabled": true,
-      "quality": ["720P", "1080P"]
+      "quality": ["720P"]
     },
     {
       "name": "Abertura Mexicana",
@@ -20,7 +20,7 @@
       "expire": "-",
       "time": "1",
       "enabled": true,
-      "quality": ["720P", "1080P"]
+      "quality": ["720P"]
     }
   ],
   "videos_fixos": [
@@ -33,7 +33,7 @@
       "expire": "-",
       "time": "22",
       "enabled": true,
-      "quality": ["720P", "1080P"]
+      "quality": ["720P"]
     },
     {
       "name": "Os Farofeiros",
@@ -44,7 +44,7 @@
       "expire": "-",
       "time": "21",
       "enabled": true,
-      "quality": ["720P", "1080P"]
+      "quality": ["720P"]
     },
     {
       "name": "Os Farofeiros – Parte 2",
@@ -55,7 +55,7 @@
       "expire": "-",
       "time": "21",
       "enabled": true,
-      "quality": ["720P", "1080P"]
+      "quality": ["720P"]
     },
     {
       "name": "A Casa da Bruxa",
@@ -66,7 +66,7 @@
       "expire": "-",
       "time": "22",
       "enabled": true,
-      "quality": ["720P", "1080P"]
+      "quality": ["720P"]
     },
     {
       "name": "O Festival da Boa Vizinhança, Última Parte",
@@ -77,7 +77,7 @@
       "enabled": true,
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2Fec5e886c-7686-4a3e-8359-781a02111feb%2Fmain%2F1280x720%2F10m34s816ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxL2VjNWU4ODZjLTc2ODYtNGEzZS04MzU5LTc4MWEwMjExMWZlYi9tYWluLzEyODB4NzIwLzEwbTM0czgxNm1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NDYzNDU2ODN9fX1dfQ__%26Signature%3DOSRR4Qap7iVd2dGIY5uMJMJpdt2WVHMYOlIi~MKqUd4v2ePfLirTxTtejFMIrqtNpryDVF5Np5wi2FiA2k4BvWHaHS49GY-NGqAxG70B-RBiwxCzkWdot6ycC1Tjd-LZnZZ0PfzENR7vTnPLzgEmEypN5AtiOnsupAYYA-3VLNscUKMwXsKTc9UpTLjCq9Y~CfTA9JfFOD~RQ8yPccLCzsV52hiOBY-lI4ZaRKPzUTaxQhyghocupWQAeF--AnmlQbwRr7xyEEFYM1CZQsXyAvxR09-b8UVEtWr735PbECxOihBRLAQTeWdeiDTsttZdaTm76IFU9M28xhP6gDoIXA__&w=640&q=75",
       "expire": "-",
-      "quality": ["720P", "1080P"]
+      "quality": ["720P"]
     },
     {
       "name": "A Morte do Seu Madruga",
@@ -88,7 +88,7 @@
       "enabled": true,
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F00fb73b7-e8da-46f2-8633-b6ce50d5e6a6%2Fmain%2F1280x720%2F10m46s464ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzAwZmI3M2I3LWU4ZGEtNDZmMi04NjMzLWI2Y2U1MGQ1ZTZhNi9tYWluLzEyODB4NzIwLzEwbTQ2czQ2NG1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NDYzNDU2ODV9fX1dfQ__%26Signature%3DbpGIvD5Bghnl6IYkyQrLMNPcFnm24dIZWLVhxC3pScMqWvav-4j92bbJqkoHx9TJ~ubjnQxSJ0STzuwELjR5RExejbETC6SpQUsSGDF680TMuJzg7PSZHomh40eARRkkLFRnQUq5mXueH6doTJfFUBY8jTk5NMa0QF82gz~Y7wmxPJlHo~kGI5mJ5Vqhuxj1at0Ha0zoEW7R8OszJnVCnv~yUdDTO2aGzYDkYuDJmDzYh417e97U8lP-VFm9jeeo2Iu2Wg4JInU3iG54eT1gnOoggT65Tqoyb6pc8m4ylGIHmScD8zrZL7c-l2DEmRY7dgTf5eQrLYJBvYwtCTkEXg__&w=640&q=75",
       "expire": "-",
-      "quality": ["720P", "1080P"]
+      "quality": ["720P"]
     },
     {
       "name": "O Despejo do Seu Madruga",
@@ -99,7 +99,7 @@
       "enabled": true,
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F5b9dd110-085a-45be-b6e0-6112b73ad5bd%2Fmain%2F1280x720%2F10m202ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzViOWRkMTEwLTA4NWEtNDViZS1iNmUwLTYxMTJiNzNhZDViZC9tYWluLzEyODB4NzIwLzEwbTIwMm1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NDYzMzQ0ODN9fX1dfQ__%26Signature%3DW4ley908wISZ12cO2xraRjbuYlvY8XyEWgOgrr5GYblKBOQ2NlHoMFqkwPwtoyfxTTudgaURy5xB1HR6PFp6qQSCKzYBDRIiIGckDVL0jeOBuHb3c05Ea8LLc7CSKQb-d24ZoZnK37siS-cc~8ItE8aTLVZ0t5eX0-H1BM-ERDDu9Dx4TRkgcjSuWgEN1b0mxZ21Kp0OH6sflFkMm9QY2b0Y7ZxfKMCXaxZJrC6VjetCrTdn7Ztk5z9AQpccFGC5NDTu0jR4QBW9geEWTmsyNmRytLTSejRVU2CGG1Uw28YWtLSTQxoKX13yZnnp9lS4yfEKM9NXJHutYc-V0om8uw__&w=640&q=75",
       "expire": "-",
-      "quality": ["720P", "1080P"]
+      "quality": ["720P"]
     },
     {
       "name": "Eu Não Creio em Fantasmas, mas que Existem...",
@@ -110,7 +110,7 @@
       "enabled": true,
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F3874de68-dbfa-4deb-96e8-92abf2e74e5d%2Fmain%2F1280x720%2F10m40s277ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzM4NzRkZTY4LWRiZmEtNGRlYi05NmU4LTkyYWJmMmU3NGU1ZC9tYWluLzEyODB4NzIwLzEwbTQwczI3N21zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NDYzMjkwODB9fX1dfQ__%26Signature%3Dfu4p-VF0FPgXoQDd34pJ3EML-ZS7iyCBV7573ZONAKmIwFwAT03xIXZyPta2Cr2OLJ5U8fgCsYNotpc0tf8B~70Q6oNTjDhMs2mOx6OXvA34Du1HaZ~JpvBPSUqAh61gOi5m4CYXqOAeVRURTHvNc~Osuyf51DxNpCg2u84z7SnzXVaRTjS9T53mvaXqOo4s0sc2nKvNIkNb~ae5Xw4STfKHy4SF3MIz7r4TEXG39ue0VNeCC0TKkhdkBQhm~q8FRQECcQyC6CL~vsjAssa6j~LuHV9kTi8IIdWlFd4cDygDHC~AZwypj7uppyMqrx-Z~XfgoH9UKj1CuMzPRzMq~g__&w=640&q=75",
       "expire": "-",
-      "quality": ["720P", "1080P"]
+      "quality": ["720P"]
     },
     {
       "name": "Uma Lição de Boxe",
@@ -121,7 +121,7 @@
       "enabled": true,
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F53cbf839-9f41-4772-8a27-54985693cc77%2Fmain%2F1280x720%2F11m24s117ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzUzY2JmODM5LTlmNDEtNDc3Mi04YTI3LTU0OTg1NjkzY2M3Ny9tYWluLzEyODB4NzIwLzExbTI0czExN21zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NDYzMzU0ODJ9fX1dfQ__%26Signature%3DZN1fxN-O~B3yWcl9GaLqwiPTu~8Gn2qgJ~vOIav4bBU9nYrgkWCnF2VGIXRazKyAbU5GDdl9SqMDVm9YEKR5E-tAUKM9wP~lfRNs3zk4M4JKcqbuFKPF3UOO~lVPBWFNAf47eAvGUnWIzmJkPRhhV0aYyNR7oZ550OoKZO7ls4cDUkHKRptb0NPFBPbBY09sP3yefGkcJ2kXSTN30hZj0921NMaWDhefT9Fo-MD7hiS9vgwXpny9ARI2zRnNI5b13O~XhcGT3B8o0FE0IRqArL6h0vOr-mhxo2fZ5FmT5~KFnDnyPzPC6n1O3wM0fqq3xf0XIwi7dhoEANdWk1NJFQ__&w=640&q=75",
       "expire": "-",
-      "quality": ["720P", "1080P"]
+      "quality": ["720P"]
     },
     {
       "name": "A Briga dos Pombinhos",
@@ -132,7 +132,7 @@
       "enabled": true,
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F4e508dcd-6d33-4d7c-890b-7afad802e19e%2Fmain%2F1280x720%2F13m12s245ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzRlNTA4ZGNkLTZkMzMtNGQ3Yy04OTBiLTdhZmFkODAyZTE5ZS9tYWluLzEyODB4NzIwLzEzbTEyczI0NW1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NDYzNDA3NjJ9fX1dfQ__%26Signature%3DZtHilnWpOIYSCgFZLhcL-XAPJaDA8J0Ixnx4g1NUWDvZZc5nDOQ7wfPBeLs-r23bg90axaE9cmMfM7U43obTDSxKjeiln3QTi~MD4Z-gKmxpdifjMVLALjZ6yXutBsyMQ60lUi0pLwbJ9Kyeom2hWxDyw5uwuagYZ2V2ZBBmVaSO2WKymFMbrckrKDQZ-nnVb2tTDmESx5idqympJVbE~uZPbQr8q8vGvITp1nbNpNH3fAipSks7SwgdUsEu94t4AidDeZ4J~lUtNTHINZEKA84aOCrRnKPOqKlN5PzU3rWGydME5g6gfLGfs~QkuSjNJ~9ETwQvQTcPOkVxEEoIHQ__&w=640&q=75",
       "expire": "-",
-      "quality": ["720P", "1080P"]
+      "quality": ["720P"]
     }
   ],
   "videos_rotativos": [
@@ -244,7 +244,7 @@
       "expire": "23-04-2025",
       "time": "22",
       "enabled": true,
-      "quality": ["720P", "1080P"]
+      "quality": ["720P"]
     },
     {
       "name": "Reivindicação salariais (Reivindicação salarial para o Chaves)",
@@ -255,7 +255,7 @@
       "expire": "23-04-2025",
       "time": "21",
       "enabled": true,
-      "quality": ["720P", "1080P"]
+      "quality": ["720P"]
     },
     {
       "name": "Como sujar a roupa de Quico",
@@ -266,7 +266,7 @@
       "expire": "23-04-2025",
       "time": "20",
       "enabled": true,
-      "quality": ["720P", "1080P"]
+      "quality": ["720P"]
     },
     {
       "name": "O despejo do Sr. Madruga",
@@ -277,7 +277,7 @@
       "expire": "24-04-2025",
       "time": "19",
       "enabled": true,
-      "quality": ["720P", "1080P"]
+      "quality": ["720P"]
     },
     {
       "name": "Recordações",
@@ -288,7 +288,7 @@
       "expire": "24-04-2025",
       "time": "20",
       "enabled": true,
-      "quality": ["720P", "1080P"]
+      "quality": ["720P"]
     },
     {
       "name": "Jogando bola",
@@ -299,7 +299,7 @@
       "expire": "24-04-2025",
       "time": "19",
       "enabled": true,
-      "quality": ["720P", "1080P"]
+      "quality": ["720P"]
     },
     {
       "name": "A briga dos pombinhos",
@@ -310,7 +310,7 @@
       "expire": "26-04-2025",
       "time": "26",
       "enabled": true,
-      "quality": ["720P", "1080P"]
+      "quality": ["720P"]
     },
     {
       "name": "Os remédios do Kiko",
@@ -321,7 +321,7 @@
       "expire": "26-04-2025",
       "time": "20",
       "enabled": true,
-      "quality": ["720P", "1080P"]
+      "quality": ["720P"]
     },
     {
       "name": "A máquina de lavar",
@@ -332,7 +332,7 @@
       "expire": "26-04-2025",
       "time": "20",
       "enabled": true,
-      "quality": ["720P", "1080P"]
+      "quality": ["720P"]
     },
     {
       "name": "A troca de chapéus",
@@ -343,7 +343,7 @@
       "expire": "28-04-2025",
       "time": "21",
       "enabled": true,
-      "quality": ["720P", "1080P"]
+      "quality": ["720P"]
     },
     {
       "name": "Lavagem completa",
@@ -354,7 +354,7 @@
       "expire": "28-04-2025",
       "time": "21",
       "enabled": true,
-      "quality": ["720P", "1080P"]
+      "quality": ["720P"]
     },
     {
       "name": "Estou morrendo de saudades da minha amiga, mas não muito",
@@ -365,7 +365,7 @@
       "expire": "28-04-2025",
       "time": "22",
       "enabled": true,
-      "quality": ["720P", "1080P"]
+      "quality": ["720P"]
     },
     {
       "name": "Barquinho de papel",
@@ -376,7 +376,7 @@
       "expire": "29-04-2025",
       "time": "21",
       "enabled": true,
-      "quality": ["720P", "1080P"]
+      "quality": ["720P"]
     },
     {
       "name": "O vendedor de balões",
@@ -387,7 +387,7 @@
       "expire": "29-04-2025",
       "time": "21",
       "enabled": true,
-      "quality": ["720P", "1080P"]
+      "quality": ["720P"]
     },
     {
       "name": "O disco voador",
@@ -398,7 +398,7 @@
       "expire": "30-04-2025",
       "time": "21",
       "enabled": true,
-      "quality": ["720P", "1080P"]
+      "quality": ["720P"]
     },
     {
       "name": "Uma aula de canto",
@@ -409,7 +409,7 @@
       "expire": "30-04-2025",
       "time": "22",
       "enabled": true,
-      "quality": ["720P", "1080P"]
+      "quality": ["720P"]
     },
     {
       "name": "Santa ignorância",
@@ -420,7 +420,7 @@
       "expire": "30-04-2025",
       "time": "20",
       "enabled": true,
-      "quality": ["720P", "1080P"]
+      "quality": ["720P"]
     },
     {
       "name": "Batendo uma bolinha",
@@ -431,7 +431,7 @@
       "expire": "01-05-2025",
       "time": "22",
       "enabled": true,
-      "quality": ["720P", "1080P"]
+      "quality": ["720P"]
     },
     {
       "name": "A mudinha de chirimoia ",
@@ -442,7 +442,7 @@
       "expire": "01-05-2025",
       "time": "23",
       "enabled": true,
-      "quality": ["720P", "1080P"]
+      "quality": ["720P"]
     },
     {
       "name": "A louca das escadaria",
@@ -453,7 +453,7 @@
       "expire": "01-05-2025",
       "time": "21",
       "enabled": true,
-      "quality": ["720P", "1080P"]
+      "quality": ["720P"]
     },
     {
       "name": "Uma ajuda para a Cruz Vermelha",
@@ -464,7 +464,7 @@
       "expire": "02-05-2025",
       "time": "21",
       "enabled": true,
-      "quality": ["720P", "1080P"]
+      "quality": ["720P"]
     },
     {
       "name": "O bolo",
@@ -475,7 +475,7 @@
       "expire": "02-05-2025",
       "time": "22",
       "enabled": true,
-      "quality": ["720P", "1080P"]
+      "quality": ["720P"]
     },
     {
       "name": "De gota em gota, minha mãe fica louca",
@@ -486,7 +486,7 @@
       "expire": "02-05-2025",
       "time": "21",
       "enabled": true,
-      "quality": ["720P", "1080P"]
+      "quality": ["720P"]
     },
     {
       "name": "Violinistas e Violinadas",
@@ -497,7 +497,7 @@
       "expire": "03-05-2025",
       "time": "21",
       "enabled": true,
-      "quality": ["720P", "1080P"]
+      "quality": ["720P"]
     },
     {
       "name": "A máquina fotográfica - Parte 1",
@@ -508,7 +508,7 @@
       "expire": "03-05-2025",
       "time": "22",
       "enabled": true,
-      "quality": ["720P", "1080P"]
+      "quality": ["720P"]
     },
     {
       "name": "O fotógrafo - Parte 2",
@@ -519,7 +519,7 @@
       "expire": "03-05-2025",
       "time": "22",
       "enabled": true,
-      "quality": ["720P", "1080P"]
+      "quality": ["720P"]
     },
     {
       "name": "A casinha do Kiko",
@@ -531,7 +531,7 @@
       "expire": "05-05-2025",
       "time": "23",
       "enabled": true,
-      "quality": ["720P", "1080P"]
+      "quality": ["720P"]
     },
     {
       "name": "Quem convida paga",
@@ -543,7 +543,7 @@
       "expire": "05-05-2025",
       "time": "22",
       "enabled": true,
-      "quality": ["720P", "1080P"]
+      "quality": ["720P"]
     },
     {
       "name": "Posso emprestar o que é meu, mas dos outros...",
@@ -555,7 +555,7 @@
       "expire": "05-05-2025",
       "time": "29",
       "enabled": true,
-      "quality": ["720P", "1080P"]
+      "quality": ["720P"]
     },
     {
       "name": "O frango da dona Clotilde",
@@ -567,7 +567,7 @@
       "expire": "06-05-2025",
       "time": "21",
       "enabled": false,
-      "quality": ["720P", "1080P"]
+      "quality": ["720P"]
     },
     {
       "name": "O ladrão da vila",
@@ -579,7 +579,7 @@
       "expire": "06-05-2025",
       "time": "22",
       "enabled": false,
-      "quality": ["720P", "1080P"]
+      "quality": ["720P"]
     },
     {
       "name": "O atropelamento",
@@ -591,7 +591,7 @@
       "expire": "06-05-2025",
       "time": "20",
       "enabled": false,
-      "quality": ["720P", "1080P"]
+      "quality": ["720P"]
     },
     {
       "name": "Quem manda é o chefe",
@@ -603,7 +603,7 @@
       "expire": "07-05-2025",
       "time": "25",
       "enabled": true,
-      "quality": ["720P", "1080P"]
+      "quality": ["720P"]
     },
     {
       "name": "As pessoas boas devem amar seus inimigos",
@@ -615,7 +615,7 @@
       "expire": "07-05-2025",
       "time": "21",
       "enabled": true,
-      "quality": ["720P", "1080P"]
+      "quality": ["720P"]
     },
     {
       "name": "O calo do senhor Barriga",
@@ -627,7 +627,7 @@
       "expire": "07-05-2025",
       "time": "20",
       "enabled": true,
-      "quality": ["720P", "1080P"]
+      "quality": ["720P"]
     },
     {
       "name": "Campeão meio pesado (como treinar um novo campeão)",
@@ -639,7 +639,7 @@
       "expire": "08-05-2025",
       "time": "23",
       "enabled": false,
-      "quality": ["720P", "1080P"]
+      "quality": ["720P"]
     },
     {
       "name": "Dando sorte com muito azar",
@@ -651,7 +651,7 @@
       "expire": "08-05-2025",
       "time": "20",
       "enabled": false,
-      "quality": ["720P", "1080P"]
+      "quality": ["720P"]
     },
     {
       "name": "Os chifre queimados do professor Girafales",
@@ -663,7 +663,7 @@
       "expire": "08-05-2025",
       "time": "19",
       "enabled": false,
-      "quality": ["720P", "1080P"]
+      "quality": ["720P"]
     },
     {
       "name": "Vai graxa? - Parte 1",
@@ -675,7 +675,7 @@
       "expire": "09-05-2025",
       "time": "19",
       "enabled": false,
-      "quality": ["720P", "1080P"]
+      "quality": ["720P"]
     },
     {
       "name": "O Engraxate - Parte 2",
@@ -687,7 +687,7 @@
       "expire": "09-05-2025",
       "time": "21",
       "enabled": false,
-      "quality": ["720P", "1080P"]
+      "quality": ["720P"]
     },
     {
       "name": "O dinheiro perdido",
@@ -699,7 +699,7 @@
       "expire": "09-05-2025",
       "time": "19",
       "enabled": false,
-      "quality": ["720P", "1080P"]
+      "quality": ["720P"]
     },
     {
       "name": "A fonte dos desejos",
@@ -711,7 +711,7 @@
       "expire": "10-05-2025",
       "time": "22",
       "enabled": false,
-      "quality": ["720P", "1080P"]
+      "quality": ["720P"]
     },
     {
       "name": "Tem uma mosca no meu café",
@@ -723,7 +723,7 @@
       "expire": "10-05-2025",
       "time": "21",
       "enabled": false,
-      "quality": ["720P", "1080P"]
+      "quality": ["720P"]
     },
     {
       "name": "O cãozinho satanás",
@@ -735,7 +735,7 @@
       "expire": "10-05-2025",
       "time": "20",
       "enabled": false,
-      "quality": ["720P", "1080P"]
+      "quality": ["720P"]
     },
     {
       "name": "Os penetras - Parte 1",
@@ -747,7 +747,7 @@
       "expire": "12-05-2025",
       "time": "21",
       "enabled": false,
-      "quality": ["720P", "1080P"]
+      "quality": ["720P"]
     },
     {
       "name": "Dona Florinda abre um restaurante - Parte 2",
@@ -759,7 +759,7 @@
       "expire": "12-05-2025",
       "time": "21",
       "enabled": false,
-      "quality": ["720P", "1080P"]
+      "quality": ["720P"]
     },
     {
       "name": "O restaurante da dona Florinda",
@@ -771,7 +771,7 @@
       "expire": "12-05-2025",
       "time": "20",
       "enabled": false,
-      "quality": ["720P", "1080P"]
+      "quality": ["720P"]
     },
     {
       "name": "Futebol americano",
@@ -783,7 +783,7 @@
       "expire": "13-05-2025",
       "duration": "20",
       "enabled": false,
-      "quality": ["720P", "1080P"]
+      "quality": ["720P"]
     },
     {
       "name": "Peixe cru faz bem para a memória",
@@ -795,7 +795,7 @@
       "expire": "13-05-2025",
       "duration": "20",
       "enabled": false,
-      "quality": ["720P", "1080P"]
+      "quality": ["720P"]
     },
     {
       "name": "Caça ao rato - Parte 1",
@@ -807,7 +807,7 @@
       "expire": "14-05-2025",
       "duration": "21",
       "enabled": false,
-      "quality": ["720P", "1080P"]
+      "quality": ["720P"]
     },
     {
       "name": "O último exame",
@@ -819,7 +819,7 @@
       "expire": "14-05-2025",
       "duration": "21",
       "enabled": false,
-      "quality": ["720P", "1080P"]
+      "quality": ["720P"]
     },
     {
       "name": "Caça ao rato - Parte 2",
@@ -831,7 +831,7 @@
       "expire": "14-05-2025",
       "duration": "22",
       "enabled": false,
-      "quality": ["720P", "1080P"]
+      "quality": ["720P"]
     }
   ]
 }
