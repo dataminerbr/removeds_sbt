@@ -832,6 +832,30 @@
       "duration": "22",
       "enabled": false,
       "quality": ["720P"]
+    },
+    {
+      "name": "Um banho para o Chaves",
+      "reference_id": "000000610_16001224_chaves_2024_039",
+      "original_title": "Manos negras del Chavo",
+      "episode_order_number": "62",
+      "id": "6372384264112",
+      "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F78c38018-3fca-41d8-bd65-be50df5209c9%2Fmain%2F1280x720%2F10m19s605ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzc4YzM4MDE4LTNmY2EtNDFkOC1iZDY1LWJlNTBkZjUyMDljOS9tYWluLzEyODB4NzIwLzEwbTE5czYwNW1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NDY3NzI3NDN9fX1dfQ__%26Signature%3DgTG4EAEDFTWZwSn2HMV0hJFN518gaN3DVgKFFAsCZiIVjvWJzjxh~5kUStvGUn4RwOWN5qGjxf0xz1rAZj7dXunfRHp6p1z6Gs9bRMH0o4amwFagtqqBm1153HRQx0w0fYCO7Mw4s6aPWjW0k89462eRcBw8lLz-KCfROWqj2Mko7XRBSFPDam8xjHTDdyS82INS-1p8st0ApHYT8TEAATEVKVfQBzFIreuMN2akl2Ci~F7ddyufZZpZdwqNva16y4ko5hV8GZbXcXgQpd2vggNTuQIaUjvNq5waaf1VFeg4xDl3TxP8ij4z3XFnAIVRe9USby6vkNN01wUemOa3RA__&w=640&q=75",
+      "expire": "15-05-2025",
+      "duration": "21",
+      "enabled": false,
+      "quality": ["720P"]
+    },
+    {
+      "name": "Roupa limpa suja-se em casa",
+      "reference_id": "000000610_16001224_chaves_2024_090",
+      "original_title": "La munequita prietita del chilindrina",
+      "episode_order_number": "63",
+      "id": "6372384938112",
+      "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2Faaf551a5-82af-456c-9817-2751fa70586b%2Fmain%2F1280x720%2F11m213ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxL2FhZjU1MWE1LTgyYWYtNDU2Yy05ODE3LTI3NTFmYTcwNTg2Yi9tYWluLzEyODB4NzIwLzExbTIxM21zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NDY3NTkzODd9fX1dfQ__%26Signature%3DU1~lZUkTtC7MaDoym0z5~3KR6EJNWu4epkoWUwPkyW5Am1ScMG-f9pofvQ0RzcU9WYzrVxH1Ue-BjMji12zSSZ73bHNrer-sgcIsJGMZ8HoIke9lKCLndf5GNKwtB57ZzXKlc~23HWJKu6zB4wLgJytokdTvxP0FIcoEfg2FjRanL-s3DYcWatWkCASRJY45F8Qhdki-sILYnOkAHSSK2EniklQTiMxtuNhZu7vQMSNxrM~~kuEptQa95o5W9PxZlTuTMXYE79faj5fAtNvh7MQwtqnvNAhxzmVVmDMSZ47VPwurgwaM7AORcMoVeNI0UtYyTMjKfeJyIN69LnFlQg__&w=640&q=75",
+      "expire": "15-05-2025",
+      "duration": "22",
+      "enabled": false,
+      "quality": ["720P"]
     }
   ]
 }
