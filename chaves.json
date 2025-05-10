@@ -710,7 +710,7 @@
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F82b4c051-f296-4575-9aa2-57326a35e734%2Fmain%2F1280x720%2F11m18s144ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzgyYjRjMDUxLWYyOTYtNDU3NS05YWEyLTU3MzI2YTM1ZTczNC9tYWluLzEyODB4NzIwLzExbTE4czE0NG1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NDYzMzk5OTR9fX1dfQ__%26Signature%3DWfFGe-bcLOjAD69NbF~NEtNToSvjXMQUtWL7pzLD-jlt4miqLHvx8jrD451TerqSD0HYtismoTk~Kt3oWQurjURN2D9h3pKh6GNc7qB-bsujMtOZbPlI0HLzJdfDSXKZtmNNXcVY803z6zJ0jRg-OdaZ9kfi9-GuerIuderkL1qicz9Sk5giFOkJYMDmVsDq2beGOW3akcQg-yP9My2ampHxwbNtk5ibyaUDGpso2uhXloyq6oQZcZlz8l~MK7sNkjxgO94bT6f~08g5WjVTQgz1R-Ujc4ylIP6ZuxdusMlz6r7eL9AW~~Ige4vvdIIu54hINVItlifGaH3RVJ0SLg__&w=640&q=75",
       "expire": "10-05-2025",
       "time": "22",
-      "enabled": false,
+      "enabled": true,
       "quality": ["720P"]
     },
     {
@@ -722,7 +722,7 @@
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F433dc6d7-ff5f-4c48-9218-b583f8316c37%2Fmain%2F1280x720%2F10m31s658ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzQzM2RjNmQ3LWZmNWYtNGM0OC05MjE4LWI1ODNmODMxNmMzNy9tYWluLzEyODB4NzIwLzEwbTMxczY1OG1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NDYzMzk4ODZ9fX1dfQ__%26Signature%3DGkaVKDwk1kYO2Pp-Ni3EUa2GTYBNaoH4cv0MO8wTeQkzOQeaK7uXVB02huJdqHt2qz3nyu4TqzwlD2iUMZuwUT0sFPDNycTKC42fcAzcuRyA6z0bFZFssZVfIHVgI8dFpaErXvlWufiRjyEYRvX5xf2XztqUT5TPZMSa5Z1wJFQaDkNagPSlN0GYP~x5hWID3YNXBbHzay4jCMJH-UGxqZOcXDMBJengiisZfHlvAJC7ILGvJHzmd4JvJ0sz9VEuCRj2FWkRqj0KL3qFYN2FFjXB4Uc27nNwcpmzh28bjilXu8St7lgd5OlRzj5xehXflpDSQpmlq~d~-7y5gbDzBg__&w=640&q=75",
       "expire": "10-05-2025",
       "time": "21",
-      "enabled": false,
+      "enabled": true,
       "quality": ["720P"]
     },
     {
