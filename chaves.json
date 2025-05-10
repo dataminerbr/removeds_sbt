@@ -698,7 +698,7 @@
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F5ab768ea-055c-45d0-aacd-65c43e6b3217%2Fmain%2F1280x720%2F9m48s192ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzVhYjc2OGVhLTA1NWMtNDVkMC1hYWNkLTY1YzQzZTZiMzIxNy9tYWluLzEyODB4NzIwLzltNDhzMTkybXMvbWF0Y2gvaW1hZ2UuanBnKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0NjMzMzc0OH19fV19%26Signature%3DUNJgdNVQPDqFA1VcIp71a3VXRyletNM7JJio7mvmULVr-7784g0IAfK115ngESyIO6mdpP2kVWSfVUZR1AXuhcYrfCRVKHyAEWhUYoEGJdJRjcJ11pbxdklDS4edbLKJUospd8ujC8bhSoIIDHx-MTKQkOvZjhrMdac-YFXS6JlUTPNLv4a4qqpEHfcOJsSPxRX~fxJbm5OLxWI6trOW51LUBOBNWOkfcr~ckWhdluhcseoqOtpoptv4QQG4wVC9zLL8DFCzxMPKONo55967iIJcXpqrcKq7P4f9NUWgmIeMHcD04cogQsJrDJ2SS6OhRtxL~Zn8NBUhBgqSEj7aHw__&w=640&q=75",
       "expire": "09-05-2025",
       "time": "19",
-      "enabled": false,
+      "enabled": true,
       "quality": ["720P"]
     },
     {
@@ -854,6 +854,42 @@
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2Faaf551a5-82af-456c-9817-2751fa70586b%2Fmain%2F1280x720%2F11m213ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxL2FhZjU1MWE1LTgyYWYtNDU2Yy05ODE3LTI3NTFmYTcwNTg2Yi9tYWluLzEyODB4NzIwLzExbTIxM21zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NDY3NTkzODd9fX1dfQ__%26Signature%3DU1~lZUkTtC7MaDoym0z5~3KR6EJNWu4epkoWUwPkyW5Am1ScMG-f9pofvQ0RzcU9WYzrVxH1Ue-BjMji12zSSZ73bHNrer-sgcIsJGMZ8HoIke9lKCLndf5GNKwtB57ZzXKlc~23HWJKu6zB4wLgJytokdTvxP0FIcoEfg2FjRanL-s3DYcWatWkCASRJY45F8Qhdki-sILYnOkAHSSK2EniklQTiMxtuNhZu7vQMSNxrM~~kuEptQa95o5W9PxZlTuTMXYE79faj5fAtNvh7MQwtqnvNAhxzmVVmDMSZ47VPwurgwaM7AORcMoVeNI0UtYyTMjKfeJyIN69LnFlQg__&w=640&q=75",
       "expire": "15-05-2025",
       "duration": "22",
+      "enabled": false,
+      "quality": ["720P"]
+    },
+    {
+      "name": "Estatísticas - Parte 1",
+      "reference_id": "000000610_16001224_chaves_2024_139",
+      "original_title": "Chavo atropellado",
+      "episode_order_number": "65",
+      "id": "6372385728112",
+      "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2Fad078fed-5d14-4b2f-8cb7-1bad08193a5c%2Fmain%2F1280x720%2F10m30s816ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxL2FkMDc4ZmVkLTVkMTQtNGIyZi04Y2I3LTFiYWQwODE5M2E1Yy9tYWluLzEyODB4NzIwLzEwbTMwczgxNm1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NDY4NTgzMzd9fX1dfQ__%26Signature%3DPEIsVCrhX1A5PVLvN1YcfSeuo4gYPGcMfLRXZbF9XciakomNHomjSujkFkczIs3ePNXetYAV0HkJrF-y6tBMdan4YhND12taJ73sx45aJOSeOutxFrnx3DSLAbuKeIhuP2EYLfnZ3TBpTiILrhNN3wgjZo0Uf7Z9tTBjxx1u5rXtDGDRSvlmNAPtq7SzYakNcBqHXzAdrAuaibgwhJ0VcTEwmPzbiyNujngp-szQ5KGXWpgCbm6-0O5FeEiCjgYPFJK7W5nbQCblcYNLyT7Ea1WQmwpisGNoUOLRbIhKw5ZY-tlzeLO14YCTkf80mV~MKm2qqFUxXSJ3fL9QMpl7vg__&w=640&q=75",
+      "expire": "16-05-2025",
+      "duration": "21",
+      "enabled": false,
+      "quality": ["720P"]
+    },
+    {
+      "name": "A perna quebrada - Parte 2",
+      "reference_id": "000000610_16001224_chaves_2024_140",
+      "original_title": "Accidente de Don Ramon",
+      "episode_order_number": "66",
+      "id": "6372384158112",
+      "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2Fb10ef282-fb60-4b97-a8f6-cb623ae749a2%2Fmain%2F1280x720%2F11m14s442ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxL2IxMGVmMjgyLWZiNjAtNGI5Ny1hOGY2LWNiNjIzYWU3NDlhMi9tYWluLzEyODB4NzIwLzExbTE0czQ0Mm1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NDY4NTg0Mzl9fX1dfQ__%26Signature%3DWLc-pA8Sq6UWgIUW-X74DNr06jrU9WDx3rA5Wf~qu3iI08wTCs4L3pnS~~6fovBbgfV9YgvrFEJmUteEErflUVZGNQyqOqdUdpgvcuPZl4AcHkMyzRnlc8mMyhPoNJp-eezVLJIOham2x3ez1lkzVvlISUv7RlxY5c~Tc0qRVr~GoEI4zoG-nAXjUHrY3BZCY4Rn0Q-FHRlJ7-XvnqLsu8CaJ1XvJUanRYAkBJFjpP5y8lM9of0EraRm28sQHVMRKeB4uFiVFvHoflZCNdoj~F~Tp052tB49Gd3KSc469KRVaCjPTLwW~K450vunIkwP8eyzrA5enzc5q1Y6gZMfkA__&w=640&q=75",
+      "expire": "16-05-2025",
+      "duration": "22",
+      "enabled": false,
+      "quality": ["720P"]
+    },
+    {
+      "name": "Uma aula de história",
+      "reference_id": "000000610_16001224_chaves_2024_064",
+      "original_title": "El exame de historia",
+      "episode_order_number": "67",
+      "id": "6372383088112",
+      "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F6d6fec1e-9e44-44f1-bc0e-2e4056fbfa39%2Fmain%2F1280x720%2F10m32s480ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzZkNmZlYzFlLTllNDQtNDRmMS1iYzBlLTJlNDA1NmZiZmEzOS9tYWluLzEyODB4NzIwLzEwbTMyczQ4MG1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NDY4NjA5MjF9fX1dfQ__%26Signature%3DLU4hAMA0vTYCbORzfEBNPvvRsEwNsoPxhpjgCHqnHKzvNb55SGCPqfDdhC-ZVB5p3hFoMvByYOYXp0GitEALoks2ZR0Hg8Gc9EGELm8Yq4klEyJhy2hOZm~nebKE-vQpvPJ3ibPl58Xzt~bcjl8yJ~8WUVwY4BSLDxvGCR67QhKnRfrJtRHU2G5iXNUViq1GVQhDTNyuHgs7CUNjJ6pEg9rmohDQcAXijOTzBa~PgK9fwDCA1nlY9GlRuMRQMk8snFelCUCzeeV9~-tFve0eQ~CFGKczzVzervxupEc208lb73KvCFNpYKLro7tNr2ZAjkZNEja4~PJKfJHxOyqGiQ__&w=640&q=75",
+      "expire": "16-05-2025",
+      "duration": "21",
       "enabled": false,
       "quality": ["720P"]
     }
