@@ -212,12 +212,36 @@
     {
       "name": "Vamos cérebros, não sabemos",
       "reference_id": "000000611_16007465_chapolincolorado_2024_037",
-      "episode_order_number": "7",
+      "episode_order_number": "8",
       "original_title": "CHAPULINES VEMOS CEREBROS NO SABEMOS ",
       "id": "6372381880112",
       "cover":"https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2Fca9350e4-72b2-442a-b467-380e69b7e6ac%2Fmain%2F1280x720%2F11m5s450ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxL2NhOTM1MGU0LTcyYjItNDQyYS1iNDY3LTM4MGU2OWI3ZTZhYy9tYWluLzEyODB4NzIwLzExbTVzNDUwbXMvbWF0Y2gvaW1hZ2UuanBnKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0Njc3ODIxNH19fV19%26Signature%3DDQgwuHAN4UdKuJwpd3pfy7Vv1BFX3HAz4LtmFDK6cpPCirJOFHUFuG7gIq-FD0~eIb5LLTXT-neLt3wvxTuP250mtY5YkuvpP7QCxgHM6ivdmjUDqjowt3WFOyxrzsknIZcm0k7rXFNwenAN3EDhIOoqGZH~EubKeGcRZHolg1JDE1zXiUjSD4HrfrhlAJGQpC~l2e~kGeWP2Rs2nNs7KTFPm2iuNbul5hQ5CuuwJSKUaWyOmkU-xRrCtRL8vqsGLeadq0Ur-7JS7INKL-9cGJxUqEhpFzegBq0TF8vwaG3A4lIcKXevXG9d6wQklblaxm35uNb6EOHBte31yMVCrg__&w=640&q=75",
       "expire": "15-05-2025",
       "time": "22",
+      "enabled": false,
+      "quality": ["720P"]
+    },
+    {
+      "name": "Jantar complicado",
+      "reference_id": "000000611_16007465_chapolincolorado_2024_064",
+      "episode_order_number": "9",
+      "original_title": "Jantar complicado",
+      "id": "6372536352112",
+      "cover":"https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2Fd0cdea5c-575f-457f-81e9-e62f56c1af15%2Fmain%2F1280x720%2F9m53s312ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxL2QwY2RlYTVjLTU3NWYtNDU3Zi04MWU5LWU2MmY1NmMxYWYxNS9tYWluLzEyODB4NzIwLzltNTNzMzEybXMvbWF0Y2gvaW1hZ2UuanBnKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0NzE4MDYzNn19fV19%26Signature%3DA8ag0Xd-hro8MEWrTfJeOL4zw3SeOemn1-BW2dLIODqu7zlXk8PJY0GGAQWt5FSHKEGMr~QqbM4OtCLd9VrJAx~ytXNd~BfzoPZSEZiI0iUWDdu7TOYP3Fe3Pyxu0WNz8VdcLUv3XNbjxpEuTOPBV2SQ5CbmOSEwol2281Zpm7Xg41Y3XIK~qSD4oUANOwsBq7srZrRz~rnvhKmmoCBWNxODVG1eq1eVcJxDG2-9b~xKO99PSJJ11CY0VEpm8TKmrYgrq1XSpH7g~T1nlBR9y8FsTlC~GQ7zDRZa6KDzdgTvSycsr5QWDrX2ytUoT9SVg9ZcNIAhPcXSYFhUxMtvgA__&w=640&q=75",
+      "expire": "16-05-2025",
+      "time": "20",
+      "enabled": false,
+      "quality": ["720P"]
+    },
+    {
+      "name": "Em casa de fantasma até os mortos se assustam",
+      "reference_id": "000000611_16001293_chapolincolorado_2024_028",
+      "episode_order_number": "10",
+      "original_title": "EL MIEDO NO ANDA EN BURRO",
+      "id": "6372699519112",
+      "cover":"https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2Fad54fbaa-5a6a-46b9-b890-09dbe5f406cb%2Fmain%2F1280x720%2F11m44s21ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxL2FkNTRmYmFhLTVhNmEtNDZiOS1iODkwLTA5ZGJlNWY0MDZjYi9tYWluLzEyODB4NzIwLzExbTQ0czIxbXMvbWF0Y2gvaW1hZ2UuanBnKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0NzE3Mzg5NH19fV19%26Signature%3DPoiKorG9bVS337L2~xg57pHnxM-aWBi59mMcSVO2t4fIH2UpJbUf2ky80qre985VcjWn2QAGVayz1DoTy~H6VKe-EwULMdBJazMbmPUq1kkVHyTmFIzMrTEDvGdpaY7X5WS6Qg6b17Ic~LKuxJuYTKdhkC18TntO09gXYEnduQX2-d2x~gS8pSVt8WzQsKbTNT4nx-kGNfdLc61nvLzrJs3nkz04zRBhobXzCwmhpXoMN94EINsz0aX5PwIEv6A96m6PytuCqiZtxpMmqbqpoEAxVnhJ68KnqheDYalcwnHW3tSSrONFC88fKk8~Q~nfZx5hJkZf6PUtBedQLTb2PQ__&w=640&q=75",
+      "expire": "19-05-2025",
+      "time": "23",
       "enabled": false,
       "quality": ["720P"]
     }
