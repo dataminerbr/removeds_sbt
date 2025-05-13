@@ -194,7 +194,7 @@
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2Fca402489-3fe2-4ea1-bc24-5ed89be9be13%2Fmain%2F1280x720%2F10m28s544ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxL2NhNDAyNDg5LTNmZTItNGVhMS1iYzI0LTVlZDg5YmU5YmUxMy9tYWluLzEyODB4NzIwLzEwbTI4czU0NG1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NDY1MTg4ODZ9fX1dfQ__%26Signature%3DXGYADCxWoAgRs9TWcGncUkf1FuYT7V0u~glx2Vz31Y3qFWxuBmM~II5YJmyegeI1FM7BFJSaFDC2AG8pKCBXbdZXIMmiWPXQtsmM9~50XizPv4PGMm9DvlE1ahcDfBKpsvwllvXRSzJec8rjCZvEe7kNjrVucjqBeeNNCTIe3SXutkYWLnbdsVtMf~QS1MP9VoQ25uHbXwPQ~YYOoh7Zh1OkfhZMZSJOe92z4nlZLmyOjpWOYG-9IcxZPYKbJjGR9~5lWpy92QlKhbMifPD~bLvOkVDWp0MwZWttpLOpjjErEpO587yJ6kK21L0r8MoDyX6Od~IAPlG6k5bZU8LTkQ__&w=640&q=75",
       "expire": "12-05-2025",
       "time": "22",
-      "enabled": false,
+      "enabled": true,
       "quality": ["720P"]
     },
     {
