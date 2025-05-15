@@ -4,90 +4,211 @@
   <meta charset="UTF-8">
   <title>WIKI CH SBT+</title>
   <style>
+    * {
+      box-sizing: border-box;
+    }
+
     body {
-      font-family: sans-serif;
-      background: #f0f0f0;
+      margin: 0;
+      padding: 0;
+      background: #f7f7f7;
+      font-family: 'Segoe UI', sans-serif;
+      color: #333;
+    }
+
+    header {
+      background: #c62828;
+      color: white;
+      padding: 20px;
+      text-align: center;
+      font-size: 2rem;
+      font-weight: bold;
+    }
+
+    main {
+      max-width: 1200px;
+      margin: auto;
       padding: 20px;
     }
+
     h2 {
       margin-top: 40px;
+      font-size: 1.8rem;
+      border-left: 6px solid #c62828;
+      padding-left: 12px;
     }
+
     .grid {
       display: grid;
-      grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
-      gap: 10px;
+      grid-template-columns: repeat(auto-fill, minmax(130px, 1fr));
+      gap: 16px;
+      margin-top: 20px;
     }
+
     .fig {
+      background: white;
+      border-radius: 10px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+      overflow: hidden;
       text-align: center;
+      transition: transform 0.2s ease;
     }
+
+    .fig:hover {
+      transform: scale(1.03);
+    }
+
     .fig img {
       width: 100%;
-      border-radius: 8px;
+      display: block;
     }
+
     .fig span {
       display: block;
-      margin-top: 5px;
+      padding: 10px;
       font-size: 14px;
+      color: #555;
     }
+
+    @media (max-width: 600px) {
+      h2 {
+        font-size: 1.5rem;
+      }
+      .fig span {
+        font-size: 12px;
+      }
+    }
+section {
+  border: 4px solid #c62828; /* vermelho do cabeçalho */
+  border-radius: 10px;
+  padding: 16px;
+  margin-top: 40px;
+  background-color: white;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+}
   </style>
 </head>
 <body>
 
-  <h1>WIKI CH SBT+</h1>
+  <header>WIKI CH SBT+</header>
 
-  <div id="chavesI">
-    <h2>CHAVES I (1–181)</h2>
-    <div class="grid" id="grid-chaves-i"></div>
-  </div>
+  <main>
+    <section id="chavesI">
+      <h2>SEMANAIS: CHAVES I (1–181)</h2>
+      <div class="grid" id="grid-chaves-i"></div>
+    </section>
 
-  <div id="chavesII">
-    <h2>CHAVES II (1–103)</h2>
-    <div class="grid" id="grid-chaves-ii"></div>
-  </div>
+    <section id="chavesII">
+      <h2>SEMANAIS: CHAVES II (1–103)</h2>
+      <div class="grid" id="grid-chaves-ii"></div>
+    </section>
+  
+    <section id="chapolinI">
+      <h2>SEMANAIS: CHAPOLIN I (1–146)</h2>
+      <div class="grid" id="grid-chapolin-i"></div>
+  </section>
 
-  <script>
-    const coverDefault = 'cover.jpg';
+    <section id="chapolinII">
+      <h2>SEMANAIS: CHAPOLIN II (1–125)</h2>
+      <div class="grid" id="grid-chapolin-ii"></div>
+  </section>
+  
+  </main>
 
-    fetch('chaves.json')
-      .then(res => res.json())
-      .then(data => {
-        const episodesMap = {};
+<script>
+const coverDefault = 'cover.jpg';
 
-        data.videos_rotativos.forEach(ep => {
-          const parts = ep.reference_id.split('_');
-          const loteId = parts.slice(0, -1).join('_') + '_'; // pega o prefixo do lote
-          const epNumber = parseInt(parts.at(-1), 10);
+function renderLote(containerId, loteId, totalEps, episodesMap, fallbackTitles) {
+  const grid = document.getElementById(containerId);
+  for (let i = 1; i <= totalEps; i++) {
+    const episode = episodesMap[loteId]?.[i];
+    const fallbackName = fallbackTitles?.[i];
+    const div = document.createElement('div');
+    div.className = 'fig';
 
-          if (!episodesMap[loteId]) episodesMap[loteId] = {};
-          episodesMap[loteId][epNumber] = {
-            name: ep.name,
-            cover: ep.cover
-          };
-        });
+    const img = document.createElement('img');
+    img.src = episode?.cover || coverDefault;
+    img.alt = episode?.name || fallbackName || `Episódio ${i}`;
 
-        function renderLote(containerId, loteId, totalEps) {
-          const grid = document.getElementById(containerId);
-          for (let i = 1; i <= totalEps; i++) {
-            const episode = episodesMap[loteId]?.[i];
-            const div = document.createElement('div');
-            div.className = 'fig';
+    const span = document.createElement('span');
+    const displayName = episode?.name || fallbackName || 'Episódio ' + i;
+    span.innerHTML = `#${String(i).padStart(3, '0')} - ${displayName}`;
+    if (episode?.name) span.classList.add('has-episode');
+    else if (fallbackName) span.classList.add('fallback-episode');
 
-            const img = document.createElement('img');
-            img.src = episode?.cover || coverDefault;
-            img.alt = episode?.name || `Episódio ${i}`;
+    div.appendChild(img);
+    div.appendChild(span);
+    grid.appendChild(div);
+  }
+}
 
-            const span = document.createElement('span');
-            span.textContent = episode?.name || `Episódio ${i}`;
-
-            div.appendChild(img);
-            div.appendChild(span);
-            grid.appendChild(div);
-          }
+function fetchTxtTitles(txtUrl) {
+  return fetch(txtUrl)
+    .then(res => res.text())
+    .then(text => {
+      const lines = text.trim().split('\n');
+      const titles = {};
+      for (const line of lines) {
+        const match = line.match(/^(\d{3})\.\s+(.+)/);
+        if (match) {
+          const epNum = parseInt(match[1], 10);
+          const name = match[2].trim();
+          titles[epNum] = name;
         }
+      }
+      return titles;
+    });
+}
 
-        renderLote('grid-chaves-i', '000000610_16001224_chaves_2024_', 181);
-        renderLote('grid-chaves-ii', '000000610_16007200_chaves_2024_', 103);
-      });
-  </script>
+// CHAVES
+fetch('chaves.json')
+  .then(res => res.json())
+  .then(async data => {
+    const episodesMap = {};
+
+    data.videos_rotativos.forEach(ep => {
+      const parts = ep.reference_id.split('_');
+      const loteId = parts.slice(0, -1).join('_') + '_';
+      const epNumber = parseInt(parts.at(-1), 10);
+      if (!episodesMap[loteId]) episodesMap[loteId] = {};
+      episodesMap[loteId][epNumber] = {
+        name: ep.name,
+        cover: ep.cover
+      };
+    });
+
+    const chavesI = await fetchTxtTitles('000000610_16001224_chaves_2024.txt');
+    const chavesII = await fetchTxtTitles('000000610_16007200_chaves_2024.txt');
+
+    renderLote('grid-chaves-i', '000000610_16001224_chaves_2024_', 181, episodesMap, chavesI);
+    renderLote('grid-chaves-ii', '000000610_16007200_chaves_2024_', 103, episodesMap, chavesII);
+  });
+
+// CHAPOLIN
+fetch('chapolin.json')
+  .then(res => res.json())
+  .then(async data => {
+    const episodesMap = {};
+
+    data.videos_rotativos.forEach(ep => {
+      const parts = ep.reference_id.split('_');
+      const loteId = parts.slice(0, -1).join('_') + '_';
+      const epNumber = parseInt(parts.at(-1), 10);
+      if (!episodesMap[loteId]) episodesMap[loteId] = {};
+      episodesMap[loteId][epNumber] = {
+        name: ep.name,
+        cover: ep.cover
+      };
+    });
+
+    const chapolinI = await fetchTxtTitles('000000611_16001293_chapolincolorado_2024.txt');
+    const chapolinII = await fetchTxtTitles('000000611_16007465_chapolincolorado_2024.txt');
+
+    renderLote('grid-chapolin-i', '000000611_16001293_chapolincolorado_2024_', 146, episodesMap, chapolinI);
+    renderLote('grid-chapolin-ii', '000000611_16007465_chapolincolorado_2024_', 125, episodesMap, chapolinII);
+  });
+</script>
+
+<!-- bom -->
 </body>
 </html>
