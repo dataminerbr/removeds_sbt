@@ -161,7 +161,7 @@ function fetchTxtTitles(txtUrl) {
 }
 
 // CHAVES
-fetch('chaves.json')
+fetch('https://dataminerbr.github.io/removeds_sbt/chaves.json')
   .then(res => res.json())
   .then(async data => {
     const episodesMap = {};
@@ -177,15 +177,15 @@ fetch('chaves.json')
       };
     });
 
-    const chavesI = await fetchTxtTitles('000000610_16001224_chaves_2024.txt');
-    const chavesII = await fetchTxtTitles('000000610_16007200_chaves_2024.txt');
+    const chavesI = await fetchTxtTitles('https://dataminerbr.github.io/removeds_sbt/000000610_16001224_chaves_2024.txt');
+    const chavesII = await fetchTxtTitles('https://dataminerbr.github.io/removeds_sbt/000000610_16007200_chaves_2024.txt');
 
     renderLote('grid-chaves-i', '000000610_16001224_chaves_2024_', 181, episodesMap, chavesI);
     renderLote('grid-chaves-ii', '000000610_16007200_chaves_2024_', 103, episodesMap, chavesII);
   });
 
 // CHAPOLIN
-fetch('chapolin.json')
+fetch('https://dataminerbr.github.io/removeds_sbt/chapolin.json')
   .then(res => res.json())
   .then(async data => {
     const episodesMap = {};
@@ -201,8 +201,8 @@ fetch('chapolin.json')
       };
     });
 
-    const chapolinI = await fetchTxtTitles('000000611_16001293_chapolincolorado_2024.txt');
-    const chapolinII = await fetchTxtTitles('000000611_16007465_chapolincolorado_2024.txt');
+    const chapolinI = await fetchTxtTitles('https://dataminerbr.github.io/removeds_sbt/000000611_16001293_chapolincolorado_2024.txt');
+    const chapolinII = await fetchTxtTitles('https://dataminerbr.github.io/removeds_sbt/000000611_16007465_chapolincolorado_2024.txt');
 
     renderLote('grid-chapolin-i', '000000611_16001293_chapolincolorado_2024_', 146, episodesMap, chapolinI);
     renderLote('grid-chapolin-ii', '000000611_16007465_chapolincolorado_2024_', 125, episodesMap, chapolinII);
