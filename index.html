@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>WIKI CH SBT+</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      background: #f0f0f0;
+      padding: 20px;
+    }
+    h2 {
+      margin-top: 40px;
+    }
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+      gap: 10px;
+    }
+    .fig {
+      text-align: center;
+    }
+    .fig img {
+      width: 100%;
+      border-radius: 8px;
+    }
+    .fig span {
+      display: block;
+      margin-top: 5px;
+      font-size: 14px;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>WIKI CH SBT+</h1>
+
+  <div id="chavesI">
+    <h2>CHAVES I (1–181)</h2>
+    <div class="grid" id="grid-chaves-i"></div>
+  </div>
+
+  <div id="chavesII">
+    <h2>CHAVES II (1–103)</h2>
+    <div class="grid" id="grid-chaves-ii"></div>
+  </div>
+
+  <script>
+    const coverDefault = 'cover.jpg';
+
+    fetch('chaves.json')
+      .then(res => res.json())
+      .then(data => {
+        const episodesMap = {};
+
+        data.videos_rotativos.forEach(ep => {
+          const parts = ep.reference_id.split('_');
+          const loteId = parts.slice(0, -1).join('_') + '_'; // pega o prefixo do lote
+          const epNumber = parseInt(parts.at(-1), 10);
+
+          if (!episodesMap[loteId]) episodesMap[loteId] = {};
+          episodesMap[loteId][epNumber] = {
+            name: ep.name,
+            cover: ep.cover
+          };
+        });
+
+        function renderLote(containerId, loteId, totalEps) {
+          const grid = document.getElementById(containerId);
+          for (let i = 1; i <= totalEps; i++) {
+            const episode = episodesMap[loteId]?.[i];
+            const div = document.createElement('div');
+            div.className = 'fig';
+
+            const img = document.createElement('img');
+            img.src = episode?.cover || coverDefault;
+            img.alt = episode?.name || `Episódio ${i}`;
+
+            const span = document.createElement('span');
+            span.textContent = episode?.name || `Episódio ${i}`;
+
+            div.appendChild(img);
+            div.appendChild(span);
+            grid.appendChild(div);
+          }
+        }
+
+        renderLote('grid-chaves-i', '000000610_16001224_chaves_2024_', 181);
+        renderLote('grid-chaves-ii', '000000610_16007200_chaves_2024_', 103);
+      });
+  </script>
+</body>
+</html>
