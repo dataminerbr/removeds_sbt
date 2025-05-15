@@ -94,25 +94,24 @@ section {
 
   <main>
     <section id="chavesI">
-      <h2>SEMANAIS: CHAVES I (1–181)</h2>
+      <h2>SEMANAIS: CHAVES I (1 / 181)</h2>
       <div class="grid" id="grid-chaves-i"></div>
     </section>
 
     <section id="chavesII">
-      <h2>SEMANAIS: CHAVES II (1–103)</h2>
+      <h2>SEMANAIS: CHAVES II (1 / 103)</h2>
       <div class="grid" id="grid-chaves-ii"></div>
     </section>
-  
+
     <section id="chapolinI">
-      <h2>SEMANAIS: CHAPOLIN I (1–146)</h2>
+      <h2>SEMANAIS: CHAPOLIN I (1 / 146)</h2>
       <div class="grid" id="grid-chapolin-i"></div>
-  </section>
+    </section>
 
     <section id="chapolinII">
-      <h2>SEMANAIS: CHAPOLIN II (1–125)</h2>
+      <h2>SEMANAIS: CHAPOLIN II (1 / 125)</h2>
       <div class="grid" id="grid-chapolin-ii"></div>
-  </section>
-  
+    </section>
   </main>
 
 <script>
@@ -120,6 +119,8 @@ const coverDefault = 'https://dataminerbr.github.io/removeds_sbt/cover.jpg';
 
 function renderLote(containerId, loteId, totalEps, episodesMap, fallbackTitles) {
   const grid = document.getElementById(containerId);
+  let exibidos = 0;
+
   for (let i = 1; i <= totalEps; i++) {
     const episode = episodesMap[loteId]?.[i];
     const fallbackName = fallbackTitles?.[i];
@@ -130,6 +131,8 @@ function renderLote(containerId, loteId, totalEps, episodesMap, fallbackTitles) 
     img.src = episode?.cover || coverDefault;
     img.alt = episode?.name || fallbackName || `Episódio ${i}`;
 
+    if (episode?.cover) exibidos++;
+
     const span = document.createElement('span');
     const displayName = episode?.name || fallbackName || 'Episódio ' + i;
     span.innerHTML = `#${String(i).padStart(3, '0')} - ${displayName}`;
@@ -139,6 +142,14 @@ function renderLote(containerId, loteId, totalEps, episodesMap, fallbackTitles) 
     div.appendChild(img);
     div.appendChild(span);
     grid.appendChild(div);
+  }
+
+  // Atualiza o <h2> com o contador
+  const section = grid.closest('section');
+  const h2 = section?.querySelector('h2');
+  if (h2) {
+    const titleText = h2.innerText.replace(/\(.*?\)/, `(${exibidos} / ${totalEps})`);
+    h2.innerText = titleText;
   }
 }
 
@@ -209,6 +220,6 @@ fetch('https://dataminerbr.github.io/removeds_sbt/chapolin.json')
   });
 </script>
 
-<!-- bom -->
 </body>
+
 </html>
