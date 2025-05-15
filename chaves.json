@@ -806,7 +806,7 @@
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2Ff69859f1-eef9-4746-9144-8acbae73bd67%2Fmain%2F1280x720%2F10m18s581ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxL2Y2OTg1OWYxLWVlZjktNDc0Ni05MTQ0LThhY2JhZTczYmQ2Ny9tYWluLzEyODB4NzIwLzEwbTE4czU4MW1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NDY2ODU5MTh9fX1dfQ__%26Signature%3DMvtPd9~z8x3XFUQOl-pxI6JD5oQmaXHjROcnQbcvD3rVIdkp-HBtVEuVWnZiQZiASRaRwC-FPUn7OqetRI-8gt~G9U4zBa1Dy6i9XfH~S9AmyZ1YWXEO0ko59bp5G7d8e17ifbxNiqjJUPUuMoVsA6beoP4wKQE8hZf1IhmL18wKK7mZNaWwgLgYnrnbnrrbVTYLIxlUPftqkFxrIs43elQ61sGncJwZ3yxNQnCcrng30eqOqRT88OlMq0Mtq450c3hRAksNkkrhM9UsfH9vuNphQAkhYFa6nJInpZ6o1X9gCDImOpMyOZ~WtJ4k47gWzP4qtHMVfz44-2uQkz-Hsw__&w=640&q=75",
       "expire": "14-05-2025",
       "duration": "21",
-      "enabled": false,
+      "enabled": true,
       "quality": ["720P"]
     },
     {
@@ -818,7 +818,7 @@
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F0fada6db-f67e-41f3-9eb4-4236d19da8eb%2Fmain%2F1280x720%2F10m23s456ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzBmYWRhNmRiLWY2N2UtNDFmMy05ZWI0LTQyMzZkMTlkYThlYi9tYWluLzEyODB4NzIwLzEwbTIzczQ1Nm1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NDY2ODU5MzB9fX1dfQ__%26Signature%3DLkAFVISY8BOxiF06GrQ-gA1swKVnsrpgD4MI~IR4kNkmVWpTAjhYPhefY9~n7cHXwHxqTGQiTAiz2jcuAdx6rj2kXqySYhXiHOvd0nT-GCS2f7I90faFxE0h8Dpz91yjslAU0sNzEXffssptYyXmJuv0MiO5mI-JgtcpNGIgIvCtV3~uGO94kNgNZyoFhfYl3U5rMyn0Eqe5TgeFQ2i00JoLSPVRgFoAbNj2d8QaRdeTadtLF8tEh9tNm35XKzSCKrxUKmDMrfbQDH-NP~lrcke~B573P95zFYT2EyJSYj6ZKclVLNECImM93MqPQYWiyXtmGdqiruwoqp~smpi8fA__&w=640&q=75",
       "expire": "14-05-2025",
       "duration": "21",
-      "enabled": false,
+      "enabled": true,
       "quality": ["720P"]
     },
     {
@@ -830,7 +830,7 @@
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F1e4c8675-8a4c-4a30-a969-0deb1087075a%2Fmain%2F1280x720%2F10m53s301ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzFlNGM4Njc1LThhNGMtNGEzMC1hOTY5LTBkZWIxMDg3MDc1YS9tYWluLzEyODB4NzIwLzEwbTUzczMwMW1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NDY2ODc5NzF9fX1dfQ__%26Signature%3DSeraGNqt2gR5uhULkzaux1S3Xs9DWP5iQfum6woWiG17tFdVTw2gGQ3WngKwtDiweu8OtvbrYWFz~wSj6-W92FUKXXaOYh2b3FmMyzPpVJWTZ1rs8e~fVC2jsRyI5MyLEuAWCDkPrOzIgzODaEVl6Se87ZxcMasx8xUho24qQ3AIh2egcxa61D5SVaFw8EnP929glndvvZpsmaA587PFvwTWGoGxfPHqnM9SFYc9UNGKp3VkrGSit5cUuVykmMcEc572q~Whr1nzP9QiChWsybaS3wm~hVC5LdYtduiAlLmeQZgZGVszZiKo8Szvo-ZSbvXqtGT~Eg5Ft1IlbZkBVQ__&w=640&q=75",
       "expire": "14-05-2025",
       "duration": "22",
-      "enabled": false,
+      "enabled": true,
       "quality": ["720P"]
     },
     {
@@ -969,7 +969,7 @@
       "name": "Amarelinhas e balões",
       "reference_id": "000000610_16001224_chaves_2024_164",
       "original_title": "Ayuda a tus semejantes",
-      "episode_order_number": "74",
+      "episode_order_number": "75",
       "id": "6372701313112",
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F19bf687a-72ea-4511-b0ef-db9592968ad1%2Fmain%2F1280x720%2F11m27s850ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzE5YmY2ODdhLTcyZWEtNDUxMS1iMGVmLWRiOTU5Mjk2OGFkMS9tYWluLzEyODB4NzIwLzExbTI3czg1MG1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NDcxNzk5NTl9fX1dfQ__%26Signature%3DC4uV6JbiTFWWxi4ggCfPlo74kS6SstMSwLnxDFOVslis2V4sKQIbJ2jghe0wBI-0gbtpmFZruiKkISMAtoLr8lkON~7-4KX~PZofTEcyWhVARrIgT6X~UhnYGYmCY25t0RFOBlA~9jU85rsC7cbJtOUxNLpHeSMyQ9P~F8-hEtIi6pLIOYywaGMob9GL5geIT-TNm~x3QbQQ2KSJEGFp2IQ-pyWl1V3orVJbJr1ocgbRV44RqHwpx4Ct5~F5x5apPlKSna7cxUTo8GnyyN6nojYZjuiwxZyTj2dDRE-mbTdMJMOsxmVqsi5vgNT8bJgQDhWbWKOqWTxb7Q8LpJ87Dw__&w=640&q=75",
       "expire": "20-05-2025",
