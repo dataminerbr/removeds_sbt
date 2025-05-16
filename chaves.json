@@ -715,7 +715,7 @@
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F7923fd85-ab5b-468c-834d-5e2a35abb9c7%2Fmain%2F1280x720%2F11m24s736ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzc5MjNmZDg1LWFiNWItNDY4Yy04MzRkLTVlMmEzNWFiYjljNy9tYWluLzEyODB4NzIwLzExbTI0czczNm1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NDYzNDIyMDB9fX1dfQ__%26Signature%3DIA4Op33sGeUvgBb9e8JEn3I1r9uQKj7NLYwDIOHwLkF7P5yleYnr4GmxQCR26Qn-3kRwx0tJmbHKejHvYD7YGFGiusWa~AnW2RzMgwIF~kLPjv8REt0t9dpHvpABlGbqAkF4C-s4KKLpt3psorExDdsypAUSQOP5oBbKAuiYf1z3vnnDWR7ZouC0G34aauBqN2SCowJcEs6pvKvq8iYsLvepYrhDXzLnVw8Q5nMv6ZlfojH381g~cvJmz1n2XUX5NM1GP0Uwu6V9kzzv9DByPHVFvCwqHDXbMK-4mFLubAwBd5JFdbxtkkffaVWoRikLaqcr2H-~SnLhJZzGxdjKuQ__&w=640&q=75",
       "expire": "06-05-2025",
       "time": "22",
-      "enabled": false,
+      "enabled": true,
       "quality": [
         "720P"
       ]
@@ -1261,6 +1261,20 @@
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F3aa411ed-8037-4165-a5f2-a9a4a4005200%2Fmain%2F1280x720%2F11m9s301ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzNhYTQxMWVkLTgwMzctNDE2NS1hNWYyLWE5YTRhNDAwNTIwMC9tYWluLzEyODB4NzIwLzExbTlzMzAxbXMvbWF0Y2gvaW1hZ2UuanBnKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0NzM1Mjg0Nn19fV19%26Signature%3DehNzTBdyTxDHKcmfydINrkouDlSszfoTxqdYkn0Y5Mm6R4ZslrYS0mYJEej5RqUFHmxDD48BgP7YJ7cOWXfapgnp-LzeTMDYnAifTJnMKRFT7KJqruNg5cVztESXmneKq6KbDKbsYG-JI1SNjMkSwyCDz2Ti8Ca7CfAaAIunFmIOsWNScXhWbq5dHjXkcqFm2FVOlS7ToMFG02JlpMlNNTcbvZXCVlYp4Uhq~8PsT9tXjAZxJA1WFEZrIi1DqWG2cOFrOy9oTbPuiwT8NAXsYMRtgTI07OhyU4IJcquqYeaofnfRjw6SfQ1sy4xwlNAxuI8dSlBymkWA4XlHCME1-g__&w=640&q=75",
       "expire": "2025-05-22",
       "time": "22",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "Quem com catapora fere, com catapora será ferido",
+      "reference_id": "000000610_16001224_chaves_2024_030",
+      "original_title": "La viruela",
+      "episode_order_number": "81",
+      "id": "6372701511112",
+      "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F0e45f14e-187c-46fe-94af-70114ffa10f9%2Fmain%2F1280x720%2F10m12s160ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzBlNDVmMTRlLTE4N2MtNDZmZS05NGFmLTcwMTE0ZmZhMTBmOS9tYWluLzEyODB4NzIwLzEwbTEyczE2MG1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NDczNzgzNjd9fX1dfQ__%26Signature%3DNUUQpaGVAdInqxx1hqb7w4Yr-4PSQPPUm5VPTs35yQP8OaAIDRE2vn3RY06O7LZ8GJwj4qmIV3cDNjpXuOtuIVpWybOPZ7vGHSkquJ7wFCN~QE9gydzEoRwd7gici-aTsPaEPlZHhS5POJaanLVnc~Cb7cgs1xR1TnOPnetpHY3nueI39JNJg16RHLv0RpkQnHCE~DhFwm5eYK1BysxSZqfrV-spZgiBebKd7EAWlRRkseMnvGDeOZNGCPJF~6LmmvclpGzc8Zv4RZJ9Q9DzlG-ZNBImmq-Nic5W6-fem4uq~by94UnnjmkUC34kt5lVihhtLYwj3UZScRTBbeiZnA__&w=640&q=75",
+      "expire": "2025-05-22",
+      "time": "20",
       "enabled": false,
       "quality": [
         "720P"
