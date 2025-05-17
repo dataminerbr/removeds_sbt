@@ -1093,7 +1093,7 @@
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2Fdccea342-c3a3-4d85-ba15-7d4ba0e22613%2Fmain%2F1280x720%2F12m5s525ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxL2RjY2VhMzQyLWMzYTMtNGQ4NS1iYTE1LTdkNGJhMGUyMjYxMy9tYWluLzEyODB4NzIwLzEybTVzNTI1bXMvbWF0Y2gvaW1hZ2UuanBnKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0NzE3NjIxNn19fV19%26Signature%3DbLSgYGVYHfFfFhWsLNxTkZZA76SzLS2NsAgv5CGeVvI4lttxEAYviqJHUckXSGXVQdT4TatkL3XSjkSjc8zRIk33a5i1Xt-Pe5y3yhfz2xG7RvGDrfYBGqABG9TE1WoYFk7e1uzeR1ugoPDlxQsbxcN7Eeh3rv5Z8bOk7bm0myAdM94EEUqXW14Yhodt0HHgR3O80qqlFnTGmP5qCRTpjrYJR0HSlc3VJebBSCi8QEltbdWdFe1iF0zoTEi2qPQygmHbZM4YNOGmvZ2yWCMjQlI4SLRY~qRo9GjrJ1~1kcu2RDjUbYXX0peq2CXEPq0-B57v5FCmyvYKAgQFvGBPRQ__&w=640&q=75",
       "expire": "17-05-2025",
       "time": "25",
-      "enabled": false,
+      "enabled": true,
       "quality": [
         "720P"
       ]
@@ -1107,7 +1107,7 @@
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F01b215bb-cb92-44b5-a129-ef20fd39de98%2Fmain%2F1280x720%2F11m13s205ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzAxYjIxNWJiLWNiOTItNDRiNS1hMTI5LWVmMjBmZDM5ZGU5OC9tYWluLzEyODB4NzIwLzExbTEzczIwNW1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NDcxNzU3ODd9fX1dfQ__%26Signature%3DDe7dA9Zpjq~TNjfoc6P43Pw848523qUZh0GHcpdjjdB2qwrd53P5z-P20NPyNCP5-TkAfuQ7RcwYVTSKE477d32SGu8Ag3rpRLuHb1Ieo-IdjkvR02LtRjj-8mgk37G5ftaqQWDJ304k7wCr8LELcUhDusrNZRKw-rHYBuPZjda8w6zZyFhWLJJQpyXdY8b96RvHAjdGF4rXZuyWfh0xcw3cYfPPJmO8yh9WL~9Is0yO4AJ4sn-vsXBu2tjdLLEZe7UvXXIocgBOyqpkKu~70CCTZ-0nda1Zg5xarl0Df8KbeJH96siRMgjUOo1TobDbGwQkdNWw3kv91VD5Ft5K6g__&w=640&q=75",
       "expire": "17-05-2025",
       "time": "22",
-      "enabled": false,
+      "enabled": true,
       "quality": [
         "720P"
       ]
@@ -1121,7 +1121,7 @@
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F835025b9-a91a-41e8-a696-241a35f2de28%2Fmain%2F1280x720%2F9m39s114ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzgzNTAyNWI5LWE5MWEtNDFlOC1hNjk2LTI0MWEzNWYyZGUyOC9tYWluLzEyODB4NzIwLzltMzlzMTE0bXMvbWF0Y2gvaW1hZ2UuanBnKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0NzE3NDg3MX19fV19%26Signature%3DN62L~YRLNXhbh4aEcR19Nw2wR0PSw-I4NAk~zwYvqvBL4QnztyqgV9SZOiX4HbPbgWsVVTBEtTV61kfsFGGD-u47P-HVsMxcsawILCNpYdcT8ET08PGwqdm9fSAOcoQlBYeLOzJ14RpS6IAnMujxtMdepdUwmGbxVchgLGdd2flyv0Wwz-s9e72tEl5C0q3LzV1oJXAbr0Q8csXrST7tylnS3Sx7eTVJhlSH4r~S7JgcAYqK-gmMxhpfhWVxmzWawAPso6sCuxJn5ipG~jAk3QulSSh~8~8tUFXrruMNOBZ8f74TakZL8rPh21uewTsRTdmk9fBdGrfHGRIzbNdHbA__&w=640&q=75",
       "expire": "17-05-2025",
       "time": "19",
-      "enabled": false,
+      "enabled": true,
       "quality": [
         "720P"
       ]
@@ -1317,6 +1317,48 @@
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2Fdc069932-1dc0-4b85-a432-01166c82ee8a%2Fmain%2F1280x720%2F11m9s984ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxL2RjMDY5OTMyLTFkYzAtNGI4NS1hNDMyLTAxMTY2YzgyZWU4YS9tYWluLzEyODB4NzIwLzExbTlzOTg0bXMvbWF0Y2gvaW1hZ2UuanBnKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0NzQ2NzUwM319fV19%26Signature%3DdPROuhJL4trcRSt~BFP5hcC~6Lz9hEJsXt~J14HxoMDMLDjqQDQhZ~rPkBdiZZZT50uwnJ3T8wFJWzSbSSbzyZDkwANP8XcA~bf2O9apmc99JXXWJBoXymrnLaj4TLezh~~Ew0wImE2ixeK1uUL9dbVBZ0CW2cG0i0FopbVLoal--uyn2KsUSoZ7G3tAgSSBtsNb1DoQeofDGQgnosEhV-XSjVEMrZ81vuDJ3fr35p5hhloV56yHgkU6Zp34UpPw8RXq7ctBsZszSWJHoKzuwl0O7ajlAfS5OVAhwpx-vyin473hddjvM8SZ3x7gh15ylBrGMD4-67gWpx0jYJ6Nqg__&w=640&q=75",
       "expire": "2025-05-23",
       "time": "22",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "A nova vizinhança - Parte 2",
+      "reference_id": "000000610_16001224_chaves_2024_035",
+      "original_title": "Celos en la vencidad",
+      "episode_order_number": "86",
+      "id": "6372796937112",
+      "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F87828262-9930-45c8-8ca8-d9dfc2949792%2Fmain%2F1280x720%2F10m22s549ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzg3ODI4MjYyLTk5MzAtNDVjOC04Y2E4LWQ5ZGZjMjk0OTc5Mi9tYWluLzEyODB4NzIwLzEwbTIyczU0OW1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NDc1MjQ5NzB9fX1dfQ__%26Signature%3DKOiqTHyvgRoA-khzC1M8YcMT~zNCvggCR2FnXRKrgtEttupoyL0RiK3CN8VXrsBtHm-7HtMIyzE9zEColvjbRaTKilerO3DrHnmOqo7USnPPUj1R0m3WrOREwpm5tArB86YVKLWNvxmZVm4vmj7tGgBwbPb92mIsstr7JpjL93D2OgV0qLft8D7SwIHCjeseq4hq9sP0ksUK5eC~XYWVpI5sFUPElLyrImsG~LL~R8suFeI9JjsbevxWH5qkFgRSaFu0vGqSp5BJ4Ss27n~-5EXxD4MS6wFYJqGIc-yz04C6HvGeI62n5aS42MGb7dS7Gjo5SeI8DzqHZppT~6sY6g__&w=640&q=75",
+      "expire": "2025-05-24",
+      "time": "21",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "Sr. Madruga, o conquistador - Parte 3",
+      "reference_id": "000000610_16001224_chaves_2024_036",
+      "original_title": "La gloria de Don Ramon",
+      "episode_order_number": "87",
+      "id": "6372795060112",
+      "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F8defdefe-e98d-4b37-9b6c-74db2c7bbf50%2Fmain%2F1280x720%2F10m42s805ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzhkZWZkZWZlLWU5OGQtNGIzNy05YjZjLTc0ZGIyYzdiYmY1MC9tYWluLzEyODB4NzIwLzEwbTQyczgwNW1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NDc1MjUwMTd9fX1dfQ__%26Signature%3DTo7vArCMajFRHpzJ7WhxxybwHn-1bF4wFTDMc6n1IjpBc0orXQqlLXhxHiMMHM8nEAI-Qkz2TTzbF4eX44S1BWNJy66GFTLduaF2fA6056Jp1d7mvx7WlKwxXxLuoznUWc4LQM--1apXInARpbQ~vf1z4UV2Y1Av04Likm2gI~EBZOCknenNK63XrLoI4WJonqSK3tLiIC~VTlrvgIB07ig5PdeD62HPp-3eMxyvSBA6hkGIbyowcHgAP6UM1sG1FUFxwqeGdmUW5gLKcha8nramDHhwyvBvqcghrqLrvZwN8ltaSIhUNzjs73LdFh25E2enj1-KNz1mqLSvyKnhBQ__&w=640&q=75",
+      "expire": "2025-05-24",
+      "time": "21",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "Cupido ataca de novo - Parte 4",
+      "reference_id": "000000610_16001224_chaves_2024_037",
+      "original_title": "El beso",
+      "episode_order_number": "88",
+      "id": "6372796731112",
+      "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F0bae2034-8a24-4fe0-b98f-5e764ccca65f%2Fmain%2F1280x720%2F10m42s741ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzBiYWUyMDM0LThhMjQtNGZlMC1iOThmLTVlNzY0Y2NjYTY1Zi9tYWluLzEyODB4NzIwLzEwbTQyczc0MW1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NDc1MjUwMTd9fX1dfQ__%26Signature%3DdAF1jUrA8WkACD5ed4j~qxbaeTd0Pryy4rh-0~z7W3iR9obd3LuUSUT-aj6TmIOXUyYDD9QYpy5NV2JMdE8uRkVTvJeRg3eLY~ly8KwTMX2lmbbVepoNxXUO6vf4qY5WhRXemB9XcyGHJPdNXnJrCy~DysM9aisZVT2H6vAnzRrmt6bliba-t0UlqDjqLgeirQE10wIOl9ozB1irJ5rTpjNokHC2W~Qq76LP1bJNtVmMx7f66w~XEYuFHESkAGGnuwsuJu8h1b6ZB7-H15F8GMc9sA-bmOas8C8ckfUPqbgzX4Nmz8UuhRpWKDYCNNvy2MO6ZLsFfqjAnpeOBRIF9A__&w=640&q=75",
+      "expire": "2025-05-24",
+      "time": "21",
       "enabled": false,
       "quality": [
         "720P"
