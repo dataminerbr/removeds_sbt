@@ -1079,7 +1079,7 @@
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F6d6fec1e-9e44-44f1-bc0e-2e4056fbfa39%2Fmain%2F1280x720%2F10m32s480ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzZkNmZlYzFlLTllNDQtNDRmMS1iYzBlLTJlNDA1NmZiZmEzOS9tYWluLzEyODB4NzIwLzEwbTMyczQ4MG1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NDY4NjA5MjF9fX1dfQ__%26Signature%3DLU4hAMA0vTYCbORzfEBNPvvRsEwNsoPxhpjgCHqnHKzvNb55SGCPqfDdhC-ZVB5p3hFoMvByYOYXp0GitEALoks2ZR0Hg8Gc9EGELm8Yq4klEyJhy2hOZm~nebKE-vQpvPJ3ibPl58Xzt~bcjl8yJ~8WUVwY4BSLDxvGCR67QhKnRfrJtRHU2G5iXNUViq1GVQhDTNyuHgs7CUNjJ6pEg9rmohDQcAXijOTzBa~PgK9fwDCA1nlY9GlRuMRQMk8snFelCUCzeeV9~-tFve0eQ~CFGKczzVzervxupEc208lb73KvCFNpYKLro7tNr2ZAjkZNEja4~PJKfJHxOyqGiQ__&w=640&q=75",
       "expire": "16-05-2025",
       "time": "21",
-      "enabled": false,
+      "enabled": true,
       "quality": [
         "720P"
       ]
@@ -1303,6 +1303,20 @@
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2Faaa49224-668d-44f9-8d33-34acbcb27f68%2Fmain%2F1280x720%2F10m42s69ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxL2FhYTQ5MjI0LTY2OGQtNDRmOS04ZDMzLTM0YWNiY2IyN2Y2OC9tYWluLzEyODB4NzIwLzEwbTQyczY5bXMvbWF0Y2gvaW1hZ2UuanBnKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0NzQ0MDA5OH19fV19%26Signature%3DaZRL24qimTgT21a8SgvJZtU4PdYSP0eYFki3yEiWTCNbcwpuTz8A5KBPSdQP0thLiJyN9DKTb7KusYaMZgLt2x~uhFkrCKULZhyq~Ay~dFcSI3FgSgVF7zgpK60nWMxV9E-FBHWh16YMfPrAncvPpG7amW3f-s9GskvR5xAkGjFJgaVp9Lf7ldnzd2tq36oVV6nv5Mntcx7KoO4psg7HmjPu8KWQE7i2Z7ZUbz9-I3xqnRWJDvr5QO2mapEkMRA4MX7oJKmMPzmGX1muoo4FfIIMCl7unlAWF8Abk0R4Bh1nQU1EG2~VTUkAhFeHTqlkuqTDdVUWFyd2h-HfS1y72g__&w=640&q=75",
       "expire": "2025-05-23",
       "time": "21",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "Quem brinca com fogo faz pipi na cama",
+      "reference_id": "000000610_16007200_chaves_2024_045",
+      "original_title": "Grupo musical",
+      "episode_order_number": "84",
+      "id": "6372701512112",
+      "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2Fdc069932-1dc0-4b85-a432-01166c82ee8a%2Fmain%2F1280x720%2F11m9s984ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxL2RjMDY5OTMyLTFkYzAtNGI4NS1hNDMyLTAxMTY2YzgyZWU4YS9tYWluLzEyODB4NzIwLzExbTlzOTg0bXMvbWF0Y2gvaW1hZ2UuanBnKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0NzQ2NzUwM319fV19%26Signature%3DdPROuhJL4trcRSt~BFP5hcC~6Lz9hEJsXt~J14HxoMDMLDjqQDQhZ~rPkBdiZZZT50uwnJ3T8wFJWzSbSSbzyZDkwANP8XcA~bf2O9apmc99JXXWJBoXymrnLaj4TLezh~~Ew0wImE2ixeK1uUL9dbVBZ0CW2cG0i0FopbVLoal--uyn2KsUSoZ7G3tAgSSBtsNb1DoQeofDGQgnosEhV-XSjVEMrZ81vuDJ3fr35p5hhloV56yHgkU6Zp34UpPw8RXq7ctBsZszSWJHoKzuwl0O7ajlAfS5OVAhwpx-vyin473hddjvM8SZ3x7gh15ylBrGMD4-67gWpx0jYJ6Nqg__&w=640&q=75",
+      "expire": "2025-05-23",
+      "time": "22",
       "enabled": false,
       "quality": [
         "720P"
