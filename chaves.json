@@ -1173,8 +1173,8 @@
       "reference_id": "000000610_16001224_chaves_2024_080",
       "original_title": "El mejor escondite",
       "episode_order_number": "74",
-      "id": "0000000000080",
-      "cover": "https://i.ibb.co/F4ZFh1F0/0000000000080.png",
+      "id": "0000000000074",
+      "cover": "https://i.ibb.co/qYd4P446/0000000000074.png",
       "expire": "20-05-2025",
       "time": "22",
       "enabled": true,
@@ -1328,10 +1328,10 @@
       "original_title": "El amor llegó a la vecindad - parte 1",
       "episode_order_number": "85",
       "id": "0000000000085",
-      "cover": "https://i.ibb.co/4g4774CK/0000000000085.png",
+      "cover": "https://i.ibb.co/GvbbnwpZ/0000000000085.png",
       "expire": "2025-05-24",
       "time": "23",
-      "enabled": false,
+      "enabled": true,
       "quality": [
         "720P"
       ]
