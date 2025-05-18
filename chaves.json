@@ -204,6 +204,34 @@
         "720P"
       ]
     },
+    {
+      "name": "Bilhetes trocados",
+      "reference_id": "000000610_16001224_chaves_2024_077",
+      "original_title": "Los pensamientos del profesor",
+      "episode_order_number": "0",
+      "id": "20241211_013",
+      "cover": "https://i.ibb.co/99p9c18H/20241211-013.jpg",
+      "expire": "11-12-2024",
+      "time": "22",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "Na escola... domingo!",
+      "reference_id": "000000610_16001224_chaves_2024_009",
+      "original_title": "El pretexto para ir a la escuela",
+      "episode_order_number": "0",
+      "id": "20241216_016",
+      "cover": "https://i.ibb.co/KjXZqRMR/20241216-016.jpg",
+      "expire": "16-12-2024",
+      "time": "21",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
 
 
     {
