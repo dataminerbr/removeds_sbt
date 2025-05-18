@@ -302,6 +302,34 @@
         "720P"
       ]
     },
+    {
+      "name": "O Ano Novo de Chaves",
+      "reference_id": "000000610_16001224_chaves_2024_174",
+      "original_title": "El año nuevo",
+      "episode_order_number": "0",
+      "id": "20250101_027",
+      "cover": "https://i.ibb.co/5gRm47LG/20250101-027.jpg",
+      "expire": "01-01-2025",
+      "time": "24",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "Roupa suja lava-se em público",
+      "reference_id": "000000610_16001224_chaves_2024_029",
+      "original_title": "Ropa sucia",
+      "episode_order_number": "0",
+      "id": "20250103_029",
+      "cover": "https://i.ibb.co/hxvFnhtc/20250103-029.jpg",
+      "expire": "03-01-2025",
+      "time": "24",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
 
 
 
