@@ -358,6 +358,20 @@
         "720P"
       ]
     },
+    {
+      "name": "Vamos ao cinema",
+      "reference_id": "000000610_16001224_chaves_2024_154",
+      "original_title": "",
+      "episode_order_number": "0",
+      "id": "20250110_034",
+      "cover": "https://i.ibb.co/nNHFvpb8/20250110-034.jpg",
+      "expire": "10-01-2025",
+      "time": "16",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
 
 
 
