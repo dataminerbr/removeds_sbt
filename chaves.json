@@ -160,6 +160,24 @@
     }
   ],
   "videos_rotativos": [
+
+
+    {
+      "name": "O Aniversário do Kiko",
+      "reference_id": "000000610_16007200_chaves_2024_116",
+      "original_title": "El cumpleaños de Quico",
+      "episode_order_number": "0",
+      "id": "20241209_008",
+      "cover": "https://i.ibb.co/gLhzLPQ6/unpublished-001.jpg",
+      "expire": "09-12-2024",
+      "time": "20",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+
+
     {
       "name": "Os carpinteiros - Parte 1",
       "reference_id": "000000610_16001224_chaves_2024_065",
