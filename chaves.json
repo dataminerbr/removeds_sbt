@@ -330,6 +330,34 @@
         "720P"
       ]
     },
+    {
+      "name": "Guerra às Crianças",
+      "reference_id": "000000610_16001224_chaves_2024_128",
+      "original_title": "",
+      "episode_order_number": "0",
+      "id": "20250108_032",
+      "cover": "https://i.ibb.co/VYQsKtZ9/20250108-032.jpg",
+      "expire": "08-01-2025",
+      "time": "18",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "Refrescos numa fria - parte 2",
+      "reference_id": "000000610_16001224_chaves_2024_007",
+      "original_title": "",
+      "episode_order_number": "0",
+      "id": "20250109_033",
+      "cover": "https://i.ibb.co/ZRL5R0d6/20250109-033.jpg",
+      "expire": "09-01-2025",
+      "time": "18",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
 
 
 
