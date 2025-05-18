@@ -232,6 +232,37 @@
         "720P"
       ]
     },
+    {
+      "name": "O sonho que deu bolo",
+      "reference_id": "000000610_16001224_chaves_2024_020",
+      "original_title": "Los sueños",
+      "episode_order_number": "0",
+      "id": "20241218_018",
+      "cover": "https://i.ibb.co/svJ8BKdT/20241218-018.jpg",
+      "expire": "18-12-2024",
+      "time": "20",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "Ser professor é padecer no inferno!",
+      "reference_id": "000000610_16001224_chaves_2024_027",
+      "original_title": "El examen de admisión",
+      "episode_order_number": "0",
+      "id": "20241220_020",
+      "cover": "https://i.ibb.co/7JXbmJ9C/20241220-020.jpg",
+      "expire": "20-12-2024",
+      "time": "22",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+
+
+
 
 
     {
