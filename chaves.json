@@ -385,20 +385,6 @@
       ]
     },
     {
-      "name": "Um Finíssimo Tecido Made in Taubaté",
-      "reference_id": "000000610_16001224_chaves_2024_046",
-      "original_title": "",
-      "episode_order_number": "0",
-      "id": "20250218_061",
-      "cover": "https://i.ibb.co/KjqGfHmD/20250218-061.jpg",
-      "expire": "18-02-2025",
-      "time": "2",
-      "enabled": false,
-      "quality": [
-        "720P"
-      ]
-    },
-    {
       "name": "O dia internacional da mulher",
       "reference_id": "000000610_16007200_chaves_2024_014",
       "original_title": "",
@@ -589,20 +575,6 @@
       "cover": "https://i.ibb.co/8nTCdxb9/20250321-099.jpg",
       "expire": "21-03-2025",
       "time": "18",
-      "enabled": false,
-      "quality": [
-        "720P"
-      ]
-    },
-    {
-      "name": "A Prova de Aritmética",
-      "reference_id": "000000610_16001224_chaves_2024_088",
-      "original_title": "",
-      "episode_order_number": "0",
-      "id": "20250321_100",
-      "cover": "https://i.ibb.co/MDxXt7MJ/20250321-100.jpg",
-      "expire": "21-03-2025",
-      "time": "21",
       "enabled": false,
       "quality": [
         "720P"
@@ -945,20 +917,6 @@
       ]
     },
     {
-      "name": "Na pontas dos pé",
-      "reference_id": "000000610_16001224_chaves_2024_031",
-      "original_title": "",
-      "episode_order_number": "0",
-      "id": "20250404_134",
-      "cover": "https://i.ibb.co/5xLPBSJS/20250404-134.jpg",
-      "expire": "04-04-2025",
-      "time": "21",
-      "enabled": false,
-      "quality": [
-        "720P"
-      ]
-    },
-    {
       "name": "O mistério dos pratos desaparecidos - Parte 1",
       "reference_id": "000000610_16001224_chaves_2024_099",
       "original_title": "",
@@ -1021,20 +979,6 @@
       "episode_order_number": "0",
       "id": "20250408_142",
       "cover": "https://i.ibb.co/F4gVzcxq/20250408-142.jpg",
-      "expire": "08-04-2025",
-      "time": "22",
-      "enabled": false,
-      "quality": [
-        "720P"
-      ]
-    },
-    {
-      "name": "Quem semeia moeda, colhe tempestade!",
-      "reference_id": "000000610_16007200_chaves_2024_089",
-      "original_title": "",
-      "episode_order_number": "0",
-      "id": "20250408_143",
-      "cover": "https://i.ibb.co/PsVj16LG/20250408-143.jpg",
       "expire": "08-04-2025",
       "time": "22",
       "enabled": false,
@@ -2073,7 +2017,7 @@
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F5fff6a3f-d3ce-4855-91a3-057365b9bb0b%2Fmain%2F1280x720%2F10m15s50ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzVmZmY2YTNmLWQzY2UtNDg1NS05MWEzLTA1NzM2NWI5YmIwYi9tYWluLzEyODB4NzIwLzEwbTE1czUwbXMvbWF0Y2gvaW1hZ2UuanBnKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0NzE2NjE4M319fV19%26Signature%3DbVcKJASf9h0uQKI4LDmdC6onma1YWK9NbUGoiElPZehAhs7jK6P~vxS00ciIMFuIV0Y-hcMyTXPbae4K8OwEnITsoPuxDdMrypVvu~iZD6eQlCRysj5DL-kJP3YwgATf7SN6vvLFynFrkPsz1Y4NQe-Ld25VUFX3q-UtFiI-tMtH-CSW2pCFZFgtMyt~r5pFsUH9PnNCQf61bAnr~-HVgkjAb5n5rYQfEbLbyGYXsqeh3SVmwLQh-gl5Ulr~Yw0b0~QlVsCHcTGmMDbeT9Rx5L5GUw~1sXbEbeW4nrfRqot73js~hNwyCvK01Fx5~NtZyeNzBPK17PONV39gzNXwYQ__&w=640&q=75",
       "expire": "19-05-2025",
       "time": "20",
-      "enabled": false,
+      "enabled": true,
       "quality": [
         "720P"
       ]
@@ -2087,7 +2031,7 @@
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2Fe1873ddb-04b1-4255-8069-da7a599b179b%2Fmain%2F1280x720%2F11m19s61ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxL2UxODczZGRiLTA0YjEtNDI1NS04MDY5LWRhN2E1OTliMTc5Yi9tYWluLzEyODB4NzIwLzExbTE5czYxbXMvbWF0Y2gvaW1hZ2UuanBnKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0NzE2NjYyMn19fV19%26Signature%3DUt8OT2FTaMsmhVdzq16nnC2afQbHSFn8dKEuRwjTpiG4XDVKo1rYKVKVlqX0TV--3vnhDruvLs8R5p4s7EVUf7iqOk-UP-d6CMYVZ58mJoRHkQ8YnyrrecOUXkGQNsrJUWmxLHlT79x161URrk8ttkf5A713-hccOflEBhPTabLYY~q3Sx86LnGP1RSht9subYW52eDjX8s86Ro6oXAHntQiaBN7Yd1dpcBmrpkWuJfHBmLVbgckwpxy34Uq8r-yFFh8bJaddKjvVNEpsTa0Tv4HbtyrDWTD3rO2RQMti0Iru23fQXEIWJK5kUCsQQ6v7qyg6j-ta1y4Opz3Hdr6XQ__&w=640&q=75",
       "expire": "19-05-2025",
       "time": "23",
-      "enabled": false,
+      "enabled": true,
       "quality": [
         "720P"
       ]
@@ -2315,6 +2259,62 @@
       "quality": [
         "720P"
       ]
-    }
+    },
+  {
+    "name": "Um finíssimo tecido made in Taubaté (pic nic no pátio)",
+    "reference_id": "000000610_16001224_chaves_2024_046",
+    "original_title": "El casimir",
+    "episode_order_number": "90",
+    "id": "6369061593112",
+    "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F29cdf693-b673-45e8-92c9-8bfad8b95b9d%2Fmain%2F1280x720%2F11m24s245ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzI5Y2RmNjkzLWI2NzMtNDVlOC05MmM5LThiZmFkOGI5NWI5ZC9tYWluLzEyODB4NzIwLzExbTI0czI0NW1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NDc2OTk5MzN9fX1dfQ__%26Signature%3DH6tsueVOe1AF2cdyeIqVISITGcJRH3KsCsugwfEGQx03bMdYcgU70NzkynPcJQE6AlTa2rWNYOibSM4E6D~jSE1Ldi2HmohblExyIsflMP2ori3lK3JGweqt0BF0bSp85qqe96CoieSalAArdgVA-9sP0PDFQThDlUBlwFtPgI5MAD8zlSPCajMoCYK2SuxgSSRWOH-dV5d~Fc-SS9q4D1P-Znb7iQOQOFPkIJelOju9uEdRlrq-hPTPYIjBK8mVz4fmJ0~Yzvkm-7KRdZfwm~6DaRgsLbdQfe8tGOxvftgZUsMckUYBF8ImcU2m-DT5Ks6D8wOrz0tlvpB3URIDHQ__&w=640&q=75",
+    "expire": "2025-05-26",
+    "time": "23",
+    "enabled": false,
+    "quality": [
+      "720P"
+    ]
+  },
+  {
+    "name": "Quem semeia moeda colhe tempestade",
+    "reference_id": "000000610_16001224_chaves_2024_075",
+    "original_title": "Dinero en maceta",
+    "episode_order_number": "89",
+    "id": "6372928482112",
+    "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2Fc465fb52-3013-4bd4-aa52-c844197b16ff%2Fmain%2F1280x720%2F11m23s594ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxL2M0NjVmYjUyLTMwMTMtNGJkNC1hYTUyLWM4NDQxOTdiMTZmZi9tYWluLzEyODB4NzIwLzExbTIzczU5NG1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NDc3MDA4NzB9fX1dfQ__%26Signature%3DXob7XNgK5Mj14ji-r-NoeUQrFW4~bIadmvo2bFL~WTfYJc09smhYIu~~2bMPykzs-UyxYWUQnJ50uN7YORl5zJVULgLPZSm4KVtj8g7XSzHLoHxFkATv-zlcvbLa5-VCnwGQ-uCtqqf8GP68VeRYSXndbsDXwbZszk6cA2I6BVTZj7yjBhuXSMIrvezpCbcHOM1HKBlhmyBbXoNeKavX1yARLgj4wwIRAvzv5gr2K5gycHU4FdT63r0hkQRafkOziLyVuYzjFMUGng27ZgQCc2g8ssshAUnvB5s-dLLN-Mo1UT6VfILk9MNYPUXpS34drurEwwXxDmDBYPo4ys-YJw__&w=640&q=75",
+    "expire": "2025-05-26",
+    "time": "23",
+    "enabled": false,
+    "quality": [
+      "720P"
+    ]
+  },
+  {
+    "name": "Na ponta dos pés",
+    "reference_id": "000000610_16001224_chaves_2024_031",
+    "original_title": "Pretendiendo a Don Ramon",
+    "episode_order_number": "91",
+    "id": "6372929752112",
+    "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F242b5947-706f-4cd9-ad25-dc6156874ad0%2Fmain%2F1280x720%2F11m2s997ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzI0MmI1OTQ3LTcwNmYtNGNkOS1hZDI1LWRjNjE1Njg3NGFkMC9tYWluLzEyODB4NzIwLzExbTJzOTk3bXMvbWF0Y2gvaW1hZ2UuanBnKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0NzcwMDgyMn19fV19%26Signature%3DMN8EKwOBZbiSRHH9Ok1sbpqG8HkCrqKQettmeFwTvpfXLWduycXMcHhF7TTKTjuEDVyEmATUN1GUM39I3-gMFQ2DyWlmVhHNihA4df~uoxatxlMGh0u1VIG58kn6mXMteMW1jZnSX~Y6g7c7xVaoB2WIMJu2pG0D34ITjDPS2UD0EZ6Y~i2sgpY9lsQ-hyry~L1XDZDIjpB0WB715Z863IjbPs6kTue3e6TkAlUTzxX3C4jvxnAQ-awchvKunjRrtkFkkzjylgaKeQXf98X8NFPN5eBKCs5nfF2TnlDGz2y1m5DyOWfhoLUSPhEMRMKauxOFi1qtG009Mih6A006iw__&w=640&q=75",
+    "expire": "2025-05-26",
+    "time": "22",
+    "enabled": false,
+    "quality": [
+      "720P"
+    ]
+  },
+  {
+    "name": "A prova de aritmética",
+    "reference_id": "000000610_16001224_chaves_2024_088",
+    "original_title": "La casa de aritmetica",
+    "episode_order_number": "92",
+    "id": "6372929957112",
+    "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2Feeb9e15c-c6f8-498d-b47e-2c9ec3fe8354%2Fmain%2F1280x720%2F10m40s53ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxL2VlYjllMTVjLWM2ZjgtNDk4ZC1iNDdlLTJjOWVjM2ZlODM1NC9tYWluLzEyODB4NzIwLzEwbTQwczUzbXMvbWF0Y2gvaW1hZ2UuanBnKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0NzcwMDc2OH19fV19%26Signature%3DCSupwHZ~mCLjMR0a3N7qrdroADf8Lv201i9icSCAp-dZiYew1Y8Wq7j8QNqmVxYzJkPWQmoKXk-ObxqQx~BHPOkdhaUBn6L1iav1fIxBTFRmgaDxpmvW~qvWXoQvwutb9lmthJ9fZWMIBku0jeL6Suc7uLoSkpuID5SqCwNNKZgqAMSfqmA98u--ira5JjuVHZvUMD9apj8MmTyAg1gMAqqkhQni~s7aeCTr~31ybgwb9FVJBozS88Fje9966Q728SBIbvgOdolZf~BdNZwO~8k96qGnkIP~BBzIJ92uq7kjxq36MnHW~Bk~UZVn2fwUvoE-XMG-9AgWs2cbBMhluA__&w=640&q=75",
+    "expire": "2025-05-26",
+    "time": "21",
+    "enabled": false,
+    "quality": [
+      "720P"
+    ]
+  }
   ]
 }
