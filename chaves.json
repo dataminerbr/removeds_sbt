@@ -586,12 +586,26 @@
     {
       "name": "O escorpião - parte 2",
       "reference_id": "000000610_16001224_chaves_2024_163",
-      "original_title": "https://i.ibb.co/8nTCdxb9/20250321-099.jpg",
+      "original_title": "",
       "episode_order_number": "0",
       "id": "20250321_099",
-      "cover": "",
+      "cover": "https://i.ibb.co/8nTCdxb9/20250321-099.jpg",
       "expire": "21-03-2025",
       "time": "18",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "A Prova de Aritmética",
+      "reference_id": "000000610_16001224_chaves_2024_088",
+      "original_title": "",
+      "episode_order_number": "0",
+      "id": "20250321_100",
+      "cover": "https://i.ibb.co/MDxXt7MJ/20250321-100.jpg",
+      "expire": "21-03-2025",
+      "time": "21",
       "enabled": false,
       "quality": [
         "720P"
