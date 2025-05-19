@@ -557,13 +557,13 @@
     },
     {
       "name": "Como Sujar Uma Roupa de Festa",
-      "reference_id": "000000610_16001224_chaves_2024_XXX",
+      "reference_id": "000000610_16007200_chaves_2024_043",
       "original_title": "",
       "episode_order_number": "0",
       "id": "20250320_097",
-      "cover": "",
-      "expire": "01-03-2025",
-      "time": "",
+      "cover": "https://i.ibb.co/4nThccJw/20250320-097.png",
+      "expire": "20-03-2025",
+      "time": "19",
       "enabled": false,
       "quality": [
         "720P"
