@@ -160,8 +160,6 @@
     }
   ],
   "videos_rotativos": [
-
-
     {
       "name": "O Aniversário do Kiko",
       "reference_id": "000000610_16001224_chaves_2024_116",
@@ -470,7 +468,6 @@
         "720P"
       ]
     },
-
     {
       "name": "O primeiro dia de aula - Parte 2",
       "reference_id": "000000610_16001224_chaves_2024_114",
@@ -696,6 +693,20 @@
       ]
     },
     {
+      "name": "Falta Água Sobram Problemas - Parte 1",
+      "reference_id": "000000610_16001224_chaves_2024_097",
+      "original_title": "",
+      "episode_order_number": "0",
+      "id": "20250325_109",
+      "cover": "https://i.ibb.co/847SGWdX/20250325-109.jpg",
+      "expire": "25-03-2025",
+      "time": "17",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
       "name": "O violão do seu madruga",
       "reference_id": "000000610_16001224_chaves_2024_148",
       "original_title": "",
@@ -891,13 +902,202 @@
         "720P"
       ]
     },
-
-
-
-
-
-
-
+    {
+      "name": "O Livro da Chiquinha",
+      "reference_id": "000000610_16001224_chaves_2024_158",
+      "original_title": "",
+      "episode_order_number": "0",
+      "id": "20250403_130",
+      "cover": "https://i.ibb.co/9kWVvjv6/20250403-130.png",
+      "expire": "03-04-2025",
+      "time": "22",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "Beijinhos",
+      "reference_id": "000000610_16007200_chaves_2024_017",
+      "original_title": "",
+      "episode_order_number": "0",
+      "id": "20250403_132",
+      "cover": "https://i.ibb.co/CpHTbKz6/20250403-132.jpg",
+      "expire": "03-04-2025",
+      "time": "21",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "Mal Entendidos",
+      "reference_id": "000000610_16001224_chaves_2024_095",
+      "original_title": "",
+      "episode_order_number": "0",
+      "id": "20250404_133",
+      "cover": "https://i.ibb.co/qL1Rjwh3/20250404-133.jpg",
+      "expire": "04-04-2025",
+      "time": "21",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "Na pontas dos pé",
+      "reference_id": "000000610_16001224_chaves_2024_031",
+      "original_title": "",
+      "episode_order_number": "0",
+      "id": "20250404_134",
+      "cover": "https://i.ibb.co/5xLPBSJS/20250404-134.jpg",
+      "expire": "04-04-2025",
+      "time": "21",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "O mistério dos pratos desaparecidos - Parte 1",
+      "reference_id": "000000610_16001224_chaves_2024_099",
+      "original_title": "",
+      "episode_order_number": "0",
+      "id": "20250405_136",
+      "cover": "https://i.ibb.co/qL1Rjwh3/20250404-133.jpg",
+      "expire": "05-04-2025",
+      "time": "25",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "A volta dos espíritos zombeteiros - Parte 2",
+      "reference_id": "000000610_16001224_chaves_2024_100",
+      "original_title": "",
+      "episode_order_number": "0",
+      "id": "20250405_137",
+      "cover": "https://i.ibb.co/5xLPBSJS/20250404-134.jpg",
+      "expire": "05-04-2025",
+      "time": "26",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "A Festa Da Amizade",
+      "reference_id": "000000610_16001224_chaves_2024_101",
+      "original_title": "",
+      "episode_order_number": "0",
+      "id": "20250405_138",
+      "cover": "https://i.ibb.co/99sfXRc9/20250405-136.jpg",
+      "expire": "05-04-2025",
+      "time": "24",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "Pintores Amadores",
+      "reference_id": "000000610_16007200_chaves_2024_028",
+      "original_title": "",
+      "episode_order_number": "0",
+      "id": "20250407_141",
+      "cover": "https://i.ibb.co/rRbSHm9k/20250407-141.jpg",
+      "expire": "07-04-2025",
+      "time": "23",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "O Professor Apaixonado",
+      "reference_id": "000000610_16001224_chaves_2024_061",
+      "original_title": "",
+      "episode_order_number": "0",
+      "id": "20250408_142",
+      "cover": "https://i.ibb.co/F4gVzcxq/20250408-142.jpg",
+      "expire": "08-04-2025",
+      "time": "22",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "Quem semeia moeda, colhe tempestade!",
+      "reference_id": "000000610_16007200_chaves_2024_089",
+      "original_title": "",
+      "episode_order_number": "0",
+      "id": "20250408_143",
+      "cover": "https://i.ibb.co/PsVj16LG/20250408-143.jpg",
+      "expire": "08-04-2025",
+      "time": "22",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "Quem Canta Seus Males Espanca!",
+      "reference_id": "000000610_16007200_chaves_2024_064",
+      "original_title": "",
+      "episode_order_number": "0",
+      "id": "20250409_146",
+      "cover": "https://i.ibb.co/M5974MqN/20250409-146.jpg",
+      "expire": "09-04-2025",
+      "time": "21",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "O Trocador de Lâmpadas",
+      "reference_id": "000000610_16007200_chaves_2024_070",
+      "original_title": "",
+      "episode_order_number": "0",
+      "id": "20250410_149",
+      "cover": "https://i.ibb.co/kstTRFLd/20250410-149.jpg",
+      "expire": "10-04-2025",
+      "time": "21",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "O Surto de Catapora",
+      "reference_id": "000000610_16007200_chaves_2024_011",
+      "original_title": "",
+      "episode_order_number": "0",
+      "id": "20250411_152",
+      "cover": "https://i.ibb.co/kgLSp60H/20250411-152.jpg",
+      "expire": "11-04-2025",
+      "time": "22",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "Sustos na Vila",
+      "reference_id": "000000610_16001224_chaves_2024_112",
+      "original_title": "",
+      "episode_order_number": "0",
+      "id": "20250412_153",
+      "cover": "https://i.ibb.co/zzmmXT5/20250412-153.jpg",
+      "expire": "12-04-2025",
+      "time": "26",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
     {
       "name": "Os carpinteiros - Parte 1",
       "reference_id": "000000610_16001224_chaves_2024_065",
