@@ -527,6 +527,34 @@
         "720P"
       ]
     },
+    {
+      "name": "Era uma vez, um gato... - Parte 1",
+      "reference_id": "000000610_16001224_chaves_2024_117",
+      "original_title": "",
+      "episode_order_number": "0",
+      "id": "20250320_095",
+      "cover": "https://i.ibb.co/twHZGfzH/20250320-095.jpg ",
+      "expire": "20-03-2025",
+      "time": "21",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "Era uma vez, um gato... - Parte 2",
+      "reference_id": "000000610_16001224_chaves_2024_118",
+      "original_title": "https://i.ibb.co/mV9J8sTZ/20250320-096.jpg",
+      "episode_order_number": "0",
+      "id": "20250320_096",
+      "cover": "",
+      "expire": "20-03-2025",
+      "time": "21",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
 
 
 
