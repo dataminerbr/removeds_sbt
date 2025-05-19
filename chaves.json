@@ -569,6 +569,34 @@
         "720P"
       ]
     },
+    {
+      "name": "O castigo da escola - parte 1",
+      "reference_id": "000000610_16001224_chaves_2024_162",
+      "original_title": "",
+      "episode_order_number": "0",
+      "id": "20250321_098",
+      "cover": "https://i.ibb.co/Jwxgvc1N/20250321-098.jpg",
+      "expire": "21-03-2025",
+      "time": "21",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "O escorpião - parte 2",
+      "reference_id": "000000610_16001224_chaves_2024_163",
+      "original_title": "https://i.ibb.co/8nTCdxb9/20250321-099.jpg",
+      "episode_order_number": "0",
+      "id": "20250321_099",
+      "cover": "",
+      "expire": "21-03-2025",
+      "time": "18",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
 
 
 
