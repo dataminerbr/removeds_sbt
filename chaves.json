@@ -456,6 +456,36 @@
         "720P"
       ]
     },
+    {
+      "name": "O primeiro dia de aula - Parte 1",
+      "reference_id": "000000610_16001224_chaves_2024_113",
+      "original_title": "",
+      "episode_order_number": "0",
+      "id": "20250317_086",
+      "cover": "https://i.ibb.co/j93W2XF4/20250317-086.jpg",
+      "expire": "17-03-2025",
+      "time": "20",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+
+    {
+      "name": "O primeiro dia de aula - Parte 2",
+      "reference_id": "000000610_16001224_chaves_2024_114",
+      "original_title": "",
+      "episode_order_number": "0",
+      "id": "20250317_087",
+      "cover": "https://i.ibb.co/b5fF6yx7/20250317-087.jpg",
+      "expire": "17-03-2025",
+      "time": "21",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+
 
 
 
