@@ -441,34 +441,6 @@
       ]
     },
     {
-      "name": "O primeiro dia de aula - Parte 1",
-      "reference_id": "000000610_16001224_chaves_2024_113",
-      "original_title": "",
-      "episode_order_number": "0",
-      "id": "20250317_086",
-      "cover": "https://images.weserv.nl/?sat=0&url=https://i.ibb.co/j93W2XF4/20250317-086.jpg",
-      "expire": "17-03-2025",
-      "time": "20",
-      "enabled": false,
-      "quality": [
-        "720P"
-      ]
-    },
-    {
-      "name": "O primeiro dia de aula - Parte 2",
-      "reference_id": "000000610_16001224_chaves_2024_114",
-      "original_title": "",
-      "episode_order_number": "0",
-      "id": "20250317_087",
-      "cover": "https://images.weserv.nl/?sat=0&url=https://i.ibb.co/b5fF6yx7/20250317-087.jpg",
-      "expire": "17-03-2025",
-      "time": "21",
-      "enabled": false,
-      "quality": [
-        "720P"
-      ]
-    },
-    {
       "name": "O Cachorrinho",
       "reference_id": "000000610_16001224_chaves_2024_142",
       "original_title": "",
@@ -743,34 +715,6 @@
       "cover": "https://images.weserv.nl/?sat=0&url=https://i.ibb.co/PZG5hJY2/20250327-115.jpg",
       "expire": "27-03-2025",
       "time": "21",
-      "enabled": false,
-      "quality": [
-        "720P"
-      ]
-    },
-    {
-      "name": "Abre a torneira! - Parte 1",
-      "reference_id": "000000610_16001224_chaves_2024_150",
-      "original_title": "",
-      "episode_order_number": "0",
-      "id": "20250328_116",
-      "cover": "https://images.weserv.nl/?sat=0&url=https://i.ibb.co/GQWn559P/20250328-116.jpg",
-      "expire": "28-03-2025",
-      "time": "22",
-      "enabled": false,
-      "quality": [
-        "720P"
-      ]
-    },
-    {
-      "name": "Pintando a vila - Parte 2",
-      "reference_id": "000000610_16001224_chaves_2024_151",
-      "original_title": "",
-      "episode_order_number": "0",
-      "id": "20250328_117",
-      "cover": "https://images.weserv.nl/?sat=0&url=https://i.ibb.co/B28wcvJH/20250328-117.png",
-      "expire": "28-03-2025",
-      "time": "14",
       "enabled": false,
       "quality": [
         "720P"
@@ -2311,6 +2255,62 @@
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2Fbed958d5-1ff0-4e6c-bc56-18acd9552645%2Fmain%2F1280x720%2F11m19s413ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxL2JlZDk1OGQ1LTFmZjAtNGU2Yy1iYzU2LTE4YWNkOTU1MjY0NS9tYWluLzEyODB4NzIwLzExbTE5czQxM21zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NDc3MjQ3NTl9fX1dfQ__%26Signature%3DM17fCeJjHB2F8VvcWeVoOndLRblzJZ3IIp~FzK7amE3BX1lQLeRuLi88eKrDv5DUPNSWXuazpcCPfOw60wjJAIQMhESW-wtoIGwjtW7gzdMzpWdE90gCsbxmhP2qUeSiS5mRxxLARHsZnWgGn8Hxwzcr4pZ5OJuP-vKyHri0PpuxQ0JMkIagB27lddIP2qXzqLIbaaSEx6p4AMW1TNVMylVe-9npq4shwJ6ezBTzdZDd71RYkqVDQ37voVoeEWQOfpt4Dnv9UWcRTOdCVw9KAnDKPL5ADlIxSuCqDENEnFmfAMZCTHPKHCSwwZ22hSiKBCo5TLJliiGbkGrkAWP03g__&w=640&q=75",
       "expire": "2025-05-26",
       "time": "23",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "O primeiro dia de aula  - Parte 1",
+      "reference_id": "000000610_16001224_chaves_2024_113",
+      "original_title": "Primer dia de clases",
+      "episode_order_number": "94",
+      "id": "6372930832112",
+      "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F6441c567-67f9-476d-8daf-672f5f8ee8b6%2Fmain%2F1280x720%2F11m1s994ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzY0NDFjNTY3LTY3ZjktNDc2ZC04ZGFmLTY3MmY1ZjhlZThiNi9tYWluLzEyODB4NzIwLzExbTFzOTk0bXMvbWF0Y2gvaW1hZ2UuanBnKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0Nzc4Njg3M319fV19%26Signature%3DU5cpEhIRg2eu74eevS-7RJmfhV90-OcbpqnlJ9fFQk6sZQ9eX6tgtHDgYxbGDMcqIQCx1RHyqd--0t30QVni2hBUf0A-LBOcp1t5m-MBFyiKnUwJyERe2VkIPThhV83pjXob9HaNM3ufnZ2qiYIkNnTWQTjsNY61jQ6r4Hz7NoQPQZc2IKG7KkVGScYnKe2WGUUsMYfimUsUBuFhjk-fRPWjofCD-Ka70fMjzdfqdKSfc2Pt5Bv2tsfiRw9d5lyc1qnsq7g6IrJRJkJ5ZunpY1a2nBDL6rzg6SS0XlhAwcZhakRlI9kIXJnJOwnXs-ioH3tuMMbqxTZU~gtJxCPP3g__&w=640&q=75",
+      "expire": "27-05-2025",
+      "time": "22",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "O primeiro dia de aula - Parte 2",
+      "reference_id": "000000610_16001224_chaves_2024_114",
+      "original_title": "Don Ramon, el estudiante",
+      "episode_order_number": "95",
+      "id": "6372929368112",
+      "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2Fe464d66f-5b56-4ca1-b452-3c0c1eca7c99%2Fmain%2F1280x720%2F10m48s245ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxL2U0NjRkNjZmLTViNTYtNGNhMS1iNDUyLTNjMGMxZWNhN2M5OS9tYWluLzEyODB4NzIwLzEwbTQ4czI0NW1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NDc3ODY4NDF9fX1dfQ__%26Signature%3DRqcbsBJRLOosWALVjP~1EmAF-lfPvFYjF1p63xuY5lHdKB~MmnC1woIWMfo5XktDln0GN-nFOl01iXeq~UNcUsghnPM97ssFw~hI2-N4XhaJ1nRW8IZ0TtadCKWo~DkQuNZd0x~1Q5hdPImtmQitJjny0XZCmxnNmS-eqiTMfBDomIvkzP-vBJygOnfwLpWBcYVSMJpEm3RkgvmEzDmJgxMTnIyfCveSwPuzGJvZ6wvzmO0QoCRhYvA~4aMx9-k~mVhQcu8LkQygM9rHNaW8NH3ovjZZvmdgyQ6SSc0ReiYVW-VR4IcPOl8VhLMmdS1NDfgJ4WP-pmTe3pk0VniVYg__&w=640&q=75",
+      "expire": "27-05-2025",
+      "time": "22",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "Abre a torneira - Parte 1",
+      "reference_id": "000000610_16001224_chaves_2024_150",
+      "original_title": "Pintando la vencidad",
+      "episode_order_number": "96",
+      "id": "6372929173112",
+      "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F89dbe56f-bd10-4077-93da-a59288df000e%2Fmain%2F1280x720%2F9m20s597ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzg5ZGJlNTZmLWJkMTAtNDA3Ny05M2RhLWE1OTI4OGRmMDAwZS9tYWluLzEyODB4NzIwLzltMjBzNTk3bXMvbWF0Y2gvaW1hZ2UuanBnKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0Nzc4NjYzNn19fV19%26Signature%3Dco65yYrAB5CVj4D-1d7KmD7~T-PgfCIr7RKEaXZvZ2AsUV38sC3H0VYZBaU4LWSPM0xG3n3NG8VTpYha~X-cd4nBYiRtZSfwgLBnz~~hxUhsORYxPvHrJyIJJ4QQIrgUsv5z3fInITex0FbV7pihAvRj-HJrZQ6Q075UQIO5iT-mK51PULrVWuv6ZNVt7mrcmh5ePWwileD8lnIH5JXoOPeGaUzxB7CluFQBCibxuKXLYS0fBQg6gYDGT8QVH36uk-9qvNEzvClLuOXXX3pCYRXnpqGmYxUw1X7xu~cQYHl0vPSvFKca~~xK2LEuJ6Hy3DTSItebPinGlUEHdyESoQ__&w=640&q=75",
+      "expire": "27-05-2025",
+      "time": "19",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "Pintando a vila - Parte 2",
+      "reference_id": "000000610_16001224_chaves_2024_151",
+      "original_title": "Pintando la vencidad",
+      "episode_order_number": "97",
+      "id": "6372929958112",
+      "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2Fa465850a-2360-430d-b8bb-ad94a68d6513%2Fmain%2F1280x720%2F9m17s493ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxL2E0NjU4NTBhLTIzNjAtNDMwZC1iOGJiLWFkOTRhNjhkNjUxMy9tYWluLzEyODB4NzIwLzltMTdzNDkzbXMvbWF0Y2gvaW1hZ2UuanBnKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0Nzc4NjYyOX19fV19%26Signature%3DVwA5TpIchsd7tdTaK6G7~o-y6J7ILNwHI6BnLlBMTyio2m6dsbHsiAReumZgEY1~UxEpA9fC662pdsSUwEMJbAlUj6Z376MplBu0H~PgNxPQL4NaJt5durewheVam3p2PcaNcjvKjj9UPhwT56vXefhIH5MxeCLTOsmtYar-d~24lIAVwxWBMTTScWE0T1eZzxAAeE33kcC~lSZ5DNBIHBsr1xkoq8ISZbAK3UUs~uhle4jXEYkA683fie2ZmcDOOXdgDoP9vWrjMJZV12H-VU~QhF4tgdrQzDH9xeySrsgnzApFb7SKnSv1kHNVMR2Ex3Bij70jHftfTjy7SLfcNQ__&w=640&q=75",
+      "expire": "27-05-2025",
+      "time": "19",
       "enabled": false,
       "quality": [
         "720P"
