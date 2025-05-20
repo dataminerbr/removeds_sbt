@@ -282,7 +282,7 @@
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2Fad54fbaa-5a6a-46b9-b890-09dbe5f406cb%2Fmain%2F1280x720%2F11m44s21ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxL2FkNTRmYmFhLTVhNmEtNDZiOS1iODkwLTA5ZGJlNWY0MDZjYi9tYWluLzEyODB4NzIwLzExbTQ0czIxbXMvbWF0Y2gvaW1hZ2UuanBnKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0NzE3Mzg5NH19fV19%26Signature%3DPoiKorG9bVS337L2~xg57pHnxM-aWBi59mMcSVO2t4fIH2UpJbUf2ky80qre985VcjWn2QAGVayz1DoTy~H6VKe-EwULMdBJazMbmPUq1kkVHyTmFIzMrTEDvGdpaY7X5WS6Qg6b17Ic~LKuxJuYTKdhkC18TntO09gXYEnduQX2-d2x~gS8pSVt8WzQsKbTNT4nx-kGNfdLc61nvLzrJs3nkz04zRBhobXzCwmhpXoMN94EINsz0aX5PwIEv6A96m6PytuCqiZtxpMmqbqpoEAxVnhJ68KnqheDYalcwnHW3tSSrONFC88fKk8~Q~nfZx5hJkZf6PUtBedQLTb2PQ__&w=640&q=75",
       "expire": "19-05-2025",
       "time": "23",
-      "enabled": false,
+      "enabled": true,
       "quality": [
         "720P"
       ]
@@ -308,7 +308,7 @@
       "episode_order_number": "13",
       "id": "6372700203112",
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F71076430-50ff-4112-823b-5fbedcac1b20%2Fmain%2F1280x720%2F9m32s224ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzcxMDc2NDMwLTUwZmYtNDExMi04MjNiLTVmYmVkY2FjMWIyMC9tYWluLzEyODB4NzIwLzltMzJzMjI0bXMvbWF0Y2gvaW1hZ2UuanBnKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0NzM0MDU4N319fV19%26Signature%3DOuygv3BN46Z~QPlf69k3DuAZN9NowStInPjUB~PV7MQaj7VSoM6zJTQmIWc7RkSZJgDpN4nr1ZA-NL21ZP0eyyeM-~PabtVlj0y5PQI95~m2ZeE7v8mmHmccO2HkFBc8H95UuC7LQO~oMIjoeij8flVflKlzuIWkXKwW2~gcPGBqj8KzNYv4RhxRh39CbIRKdMDMVWubWyN9lfv1kuI-M9Gh2ICDtcp30B9yq3uhgoKtEHnqYczPTYM6P3t2yRjsH00-pLKYRacsWhL1438mWxy6dpRTgUl-x7~0564XZhlpkMT6lypd7dxtCqNn2AVigbwhQUuMIbAoqIsAI8AgzQ__&w=640&q=75",
-      "expire": "2025-05-22",
+      "expire": "22-05-2025",
       "time": "19",
       "enabled": false,
       "quality": [
@@ -322,7 +322,21 @@
       "episode_order_number": "14",
       "id": "6372796469112",
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2Ff9ca628e-72f3-4f27-822c-f65b15bd7724%2Fmain%2F1280x720%2F10m17s184ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxL2Y5Y2E2MjhlLTcyZjMtNGYyNy04MjJjLWY2NWIxNWJkNzcyNC9tYWluLzEyODB4NzIwLzEwbTE3czE4NG1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NDc0Njg4OTJ9fX1dfQ__%26Signature%3DKgC9MbqX7~Eechiid2u~s0P1TxsIKxEh531eoFbwxE7ouEwSm-DWoQCZEewywBpsGci3Bq35yIthXW4FPKRgC5QATSoz~dNsOS-k9-PIzpcp4plRaKtTkA1W4-aNE-t6oexZA6J5IE8xtZAUpNO0mO~MwJbvdI8ykRF3bqjsShmeYHcjfiuZ4UYJh4aiTMHM8RKEDektYddyzk3wXrUBRJqqh0av6IR2nBXQcmvMY~vvVqOLLm6Zbg6OsCbLJhTil9817cVWmRbK5Di3pox5x6q5cKd2VqQmwTeclJeo7G1NPdrF1gbuXx19Gk87da2B6Eaa5SOY6COL24u2kxShkg__&w=640&q=75",
-      "expire": "2025-05-23",
+      "expire": "23-05-2025",
+      "time": "21",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "A ameaça de morte",
+      "reference_id": "000000611_16001293_chapolincolorado_2024_114",
+      "original_title": "Hay que explotar el negocio",
+      "episode_order_number": "15",
+      "id": "6373067598112",
+      "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2Fcfcb63cd-0e23-43c5-92a6-330278e60e6e%2Fmain%2F1280x720%2F10m39s690ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxL2NmY2I2M2NkLTBlMjMtNDNjNS05MmE2LTMzMDI3OGU2MGU2ZS9tYWluLzEyODB4NzIwLzEwbTM5czY5MG1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NDc3Mjg2NDl9fX1dfQ__%26Signature%3DG~aTKPr2uXhp1enuBkgf9PA-dIQA92nxs6RkYgP9SiaTU7WWhdrbFE8iKaVVMCdDMT6uNnXGWeFeZllwKB8UrEyABvjRI2XYxU-zN0qyL1hpg2X1fyFCBUiAkHEeTTofbio-wnKHZ45XDJ2m4kpS~pIFoc0mVR9XdI7jCFI8eUeXQKTOEvff0Tx0y1Sbf55atlOMoHfcLl7MaqS2Vsot7c50DkL-kjrq8iogzavWsF~adW7TBd9h7-OJiQPq~XLnJsSm097FVypF6pKkYSOAUB6vOJXVaiCoHELeR251OdZutVFLUgR~Yimw6-dytQRtz9oDOZ1NoO9Y4Eb4muYzow__&w=640&q=75",
+      "expire": "26-05-2025",
       "time": "21",
       "enabled": false,
       "quality": [
