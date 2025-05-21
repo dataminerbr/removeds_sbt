@@ -511,34 +511,6 @@
       ]
     },
     {
-      "name": "Era uma vez, um gato... - Parte 1",
-      "reference_id": "000000610_16001224_chaves_2024_117",
-      "original_title": "",
-      "episode_order_number": "0",
-      "id": "20250320_095",
-      "cover": "https://images.weserv.nl/?sat=0&url=https://i.ibb.co/twHZGfzH/20250320-095.jpg ",
-      "expire": "20-03-2025",
-      "time": "21",
-      "enabled": false,
-      "quality": [
-        "720P"
-      ]
-    },
-    {
-      "name": "Era uma vez, um gato... - Parte 2",
-      "reference_id": "000000610_16001224_chaves_2024_118",
-      "original_title": "",
-      "episode_order_number": "0",
-      "id": "20250320_096",
-      "cover": "https://images.weserv.nl/?sat=0&url=https://i.ibb.co/mV9J8sTZ/20250320-096.jpg",
-      "expire": "20-03-2025",
-      "time": "21",
-      "enabled": false,
-      "quality": [
-        "720P"
-      ]
-    },
-    {
       "name": "Como Sujar Uma Roupa de Festa",
       "reference_id": "000000610_16007200_chaves_2024_043",
       "original_title": "",
@@ -673,20 +645,6 @@
       "cover": "https://images.weserv.nl/?sat=0&url=https://i.ibb.co/847SGWdX/20250325-109.jpg",
       "expire": "25-03-2025",
       "time": "17",
-      "enabled": false,
-      "quality": [
-        "720P"
-      ]
-    },
-    {
-      "name": "O violão do seu madruga",
-      "reference_id": "000000610_16001224_chaves_2024_148",
-      "original_title": "",
-      "episode_order_number": "0",
-      "id": "20250326_111",
-      "cover": "https://images.weserv.nl/?sat=0&url=https://i.ibb.co/gFfr4t45/20250326-111.jpg",
-      "expire": "26-03-2025",
-      "time": "20",
       "enabled": false,
       "quality": [
         "720P"
@@ -2357,6 +2315,62 @@
       "quality": [
         "720P"
       ]
-    }
+    },
+  {
+    "name": "Era uma vez um gato - Parte 1",
+    "reference_id": "000000610_16001224_chaves_2024_117",
+    "original_title": "La mascota de Quico",
+    "episode_order_number": "99",
+    "id": "6372930927112",
+    "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F22479edf-2699-4121-ae51-b2513c2aacdb%2Fmain%2F1280x720%2F10m12s832ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzIyNDc5ZWRmLTI2OTktNDEyMS1hZTUxLWIyNTEzYzJhYWNkYi9tYWluLzEyODB4NzIwLzEwbTEyczgzMm1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NDc4NzA2MjR9fX1dfQ__%26Signature%3DLR--C4FkuRim8uT07uvcLzTYo5bEoreX41~WCFl09uFNA8y4Ih8CvpbZVE4tkIG-PCKBV~0VvQz~E1d-bPRUq0jPuh0FxfmdNTQWALsxRrtS56szyJ2lG3ex9ekQggbFucsApxkPe1gvlNlP7~7BgtIpo-EXfC76G9xAEQtrsjhsZNnhomC~aHQSurO-yMaLd1It6bD1qQcwp1G5wg0thaDdg5MCH3ZzbKeZuMtJ90vMpNXpomT5wSs9hCmlTjT7AKZ6ckTMONSUShdYx9Y8LiTaAe7oFFPJdaSrU4wwqR~TJYh-jc569394OlOH7XpSoYejJRkUo-NPcJtbUectuQ__&w=640&q=75",
+    "expire": "28-05-2025",
+    "time": "20",
+    "enabled": false,
+    "quality": [
+      "720P"
+    ]
+  },
+  {
+    "name": "Era uma vez um gato - Parte 2",
+    "reference_id": "000000610_16001224_chaves_2024_118",
+    "original_title": "El jucito del Chavo",
+    "episode_order_number": "100",
+    "id": "6372930339112",
+    "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2Fb75beaa0-0bf0-460c-a0c8-a1810c0c4b4f%2Fmain%2F1280x720%2F11m25s450ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxL2I3NWJlYWEwLTBiZjAtNDYwYy1hMGM4LWExODEwYzBjNGI0Zi9tYWluLzEyODB4NzIwLzExbTI1czQ1MG1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NDc4NzA3OTN9fX1dfQ__%26Signature%3DdRhXf9lpMKhpNg0jGyWyjF6Zqo0NuBmBDg28ZTZJ4Ga8DO~34djJaQskwswiA6gnlN8HCFliwHhAA26ZHMOxMNSTyGAO9WL2jezdSusL-2jYwpNjYSvfkBhyt52hnxkCSKuwoCfKdx9SmU3ehzhEQKlo6lXzTjkxZzHbWXd9UeC6lPVsVYeTd9AWXs48wZaQMEJxNRXAuZ97dUg5EV7UO21JI~Q5eqT6BO3cNZkIVAAkAGx1rmm6AxsqME~9bq2FVG5-Q7yqySU0n-CkVmAPey-BWRiKZca07ywzv7XuSGs8d8pNEZLv4xumC04KVdgx0zjpPJvig9RmwhByZYj-kQ__&w=640&q=75",
+    "expire": "28-05-2025",
+    "time": "23",
+    "enabled": false,
+    "quality": [
+      "720P"
+    ]
+  },
+  {
+    "name": "O banho de Chaves",
+    "reference_id": "000000610_16007200_chaves_2024_088",
+    "original_title": "El bano del chavo",
+    "episode_order_number": "101",
+    "id": "6373070030112",
+    "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2Fb5302f71-5174-4268-89aa-babd4a77a792%2Fmain%2F1280x720%2F10m45s781ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxL2I1MzAyZjcxLTUxNzQtNDI2OC04OWFhLWJhYmQ0YTc3YTc5Mi9tYWluLzEyODB4NzIwLzEwbTQ1czc4MW1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NDc4NzA3MDF9fX1dfQ__%26Signature%3DUCSw2kxDwgnaI70HeN7k9zVU2279E4PxLjginR53ZhN0NvZ--wwudxN07D8chXn1OIBXWO6DdwLlkz0asrdGBGcQf5l5np8WtWWAC6BHEE7NOzEgD3Y0sYuB1FFzmaRQhfJaSl4CY7abCe4mDFngVLLu4dOzKRFzxM~yXwKyUjUVBoVCbNqH-vTiS4YF9z11WLSq09UnDn-q7SHZyXe-DhOFRX9UydPFqrAUDZetqK1~0tf~eEJYC1ZY9cMj2YPT3ISTFQnUVLaWv1i7jTo52oab0Y3M9m~y7dBVgzyKMs-mXrnvl0sz0WvkXqTXBNYrvI4xrU6-5qGMpWwLd9ubdg__&w=640&q=75",
+    "expire": "28-05-2025",
+    "time": "22",
+    "enabled": false,
+    "quality": [
+      "720P"
+    ]
+  },
+  {
+    "name": "O violão do senhor Madruga",
+    "reference_id": "000000610_16001224_chaves_2024_148",
+    "original_title": "O violão do senhor Madruga",
+    "episode_order_number": "102",
+    "id": "6373069470112",
+    "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2Fc7cfcab3-c33a-4b01-9dc4-366a88cc1c38%2Fmain%2F1280x720%2F10m58s208ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxL2M3Y2ZjYWIzLWMzM2EtNGIwMS05ZGM0LTM2NmE4OGNjMWMzOC9tYWluLzEyODB4NzIwLzEwbTU4czIwOG1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NDc4NzA3MzB9fX1dfQ__%26Signature%3DfxgsR8IkiS9HUcrEN39tCOrX3CAOFy9phS1mpeorG1aWNMfgEzNr6yP6YjxseuECz9XuybJFJpmDu6beFLmtji4Ddjus3k9e-I82xrwv-HUVWNRoFQiTkjDdU1Wyu9qHYYAt1Q~PnY2q4APcHRZknPn8kOW5e3fShsINGDF2fdbdWZFIRghDaQkHYs9JEIg8UPyf6s-AqiIqyCcOgI6vrfHT0BxLJI0xnnq3ZVE5H-BNAgwMyMZMltLVrZS5P3M9DwAJNGE3Vf9VhMfyYST-6AsWQQV1V3luj1dqMONFuWMJMSi7EObohyMwn5xIhcVpelY0a3xyuRmoXGufUS2HpQ__&w=640&q=75",
+    "expire": "28-05-2025",
+    "time": "22",
+    "enabled": false,
+    "quality": [
+      "720P"
+    ]
+  }
   ]
 }
