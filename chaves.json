@@ -469,20 +469,6 @@
       ]
     },
     {
-      "name": "Um astro cai na vila",
-      "reference_id": "000000610_16001224_chaves_2024_157",
-      "original_title": "",
-      "episode_order_number": "0",
-      "id": "20250319_094",
-      "cover": "https://images.weserv.nl/?sat=0&url=https://i.ibb.co/hJxKXHPJ/20250319-094.jpg",
-      "expire": "19-03-2025",
-      "time": "20",
-      "enabled": false,
-      "quality": [
-        "720P"
-      ]
-    },
-    {
       "name": "Era uma vez, um gato... - Parte 1",
       "reference_id": "000000610_16001224_chaves_2024_117",
       "original_title": "",
@@ -2003,7 +1989,7 @@
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F19bf687a-72ea-4511-b0ef-db9592968ad1%2Fmain%2F1280x720%2F11m27s850ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzE5YmY2ODdhLTcyZWEtNDUxMS1iMGVmLWRiOTU5Mjk2OGFkMS9tYWluLzEyODB4NzIwLzExbTI3czg1MG1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NDcxNzk5NTl9fX1dfQ__%26Signature%3DC4uV6JbiTFWWxi4ggCfPlo74kS6SstMSwLnxDFOVslis2V4sKQIbJ2jghe0wBI-0gbtpmFZruiKkISMAtoLr8lkON~7-4KX~PZofTEcyWhVARrIgT6X~UhnYGYmCY25t0RFOBlA~9jU85rsC7cbJtOUxNLpHeSMyQ9P~F8-hEtIi6pLIOYywaGMob9GL5geIT-TNm~x3QbQQ2KSJEGFp2IQ-pyWl1V3orVJbJr1ocgbRV44RqHwpx4Ct5~F5x5apPlKSna7cxUTo8GnyyN6nojYZjuiwxZyTj2dDRE-mbTdMJMOsxmVqsi5vgNT8bJgQDhWbWKOqWTxb7Q8LpJ87Dw__&w=640&q=75",
       "expire": "20-05-2025",
       "time": "23",
-      "enabled": false,
+      "enabled": true,
       "quality": [
         "720P"
       ]
@@ -2017,7 +2003,7 @@
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F51c2b0c5-a43b-4f1c-b658-4c684ad13e43%2Fmain%2F1280x720%2F11m3s328ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzUxYzJiMGM1LWE0M2ItNGYxYy1iNjU4LTRjNjg0YWQxM2U0My9tYWluLzEyODB4NzIwLzExbTNzMzI4bXMvbWF0Y2gvaW1hZ2UuanBnKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0NzI4OTcyMX19fV19%26Signature%3DF7plJRkI-ri~9juik5-01fPUhz4H4Kwxv328h8xEAP91CH2B3HuOG3M0gTAtpPNmRM6qYTQxIZH9Ql2rTdfghoEJvuxwEW69BqSBAX2CzLB9on-TF00HMd7mll~~~gIOcoGtT3KlFjdjkYtQDLLY~XI3ds03Zc8REJ2X1SRLq7WiEI4P9YqF50PCIPm6sSZ7Z7VaEB7rl1p6WiycRb9MiEwBLc8DMFGYTucywI~GOmnDaivp~GYFHHoGHl4ymLgH5NGHb1arpupoBe3WyGj59rx5oGVEDAyX050CHDZh2fUiPt-tJTouy7HHDeYO5w7ZZIV03yBRv991vYvTSmDLxw__&w=640&q=75",
       "expire": "21-05-2025",
       "time": "22",
-      "enabled": false,
+      "enabled": true,
       "quality": [
         "720P"
       ]
@@ -2031,7 +2017,7 @@
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F38002d19-fe6f-4e84-a8a3-8820789d5095%2Fmain%2F1280x720%2F11m31s402ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzM4MDAyZDE5LWZlNmYtNGU4NC1hOGEzLTg4MjA3ODlkNTA5NS9tYWluLzEyODB4NzIwLzExbTMxczQwMm1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NDcyOTAyMzd9fX1dfQ__%26Signature%3DVgCGrHuBJ5pSulbYS9aG3E3nXw5HElnP7XbySWjveXyMy7Z-8nmPcwO--DNIaNVAVFqt8V1f25COU-tJDlqloltPoJyWpiVHPZnglJNqcD~52PwE41Q9gQPLvveS0WUTnlBSWFOKUWomonoSRZrYzBE4BUtpoOwxdwWovS-aEQbvq1lYWzgz4iJvQO9lbLHPXaNcy8ZBf-GJ-GIQt~7XuORR88YQHeUCuAKxSWYtUJwkVaLgShamaMX-PcSHIOpuYF4hda2ZuFpEl1b2mXbqV0mtwcVnvD~fyd0n1vYsfQTlTh2IXBbP-YBxTgnf5J3Hzjmy0Bxw3YvqeaNPrARy1A__&w=640&q=75",
       "expire": "21-05-2025",
       "time": "23",
-      "enabled": false,
+      "enabled": true,
       "quality": [
         "720P"
       ]
@@ -2045,7 +2031,7 @@
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F1e1f8b11-56de-461c-ba33-56165d95c8db%2Fmain%2F1280x720%2F10m1s429ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzFlMWY4YjExLTU2ZGUtNDYxYy1iYTMzLTU2MTY1ZDk1YzhkYi9tYWluLzEyODB4NzIwLzEwbTFzNDI5bXMvbWF0Y2gvaW1hZ2UuanBnKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0NzI4OTU3NX19fV19%26Signature%3DMY8pb9-uTldpBbNBELLoPuzPS6y1EnpC8WL21NXcFnzO6E-iP8jlK3uJfFXWoSx5MMXJx2zwPDmPrKyZxc3hWOX-SB1ySWLEAN3Zb-alHOUYj0IRJNCCadLfFxclauISPKupOAMzT11L5j3F8s3w8bxj89xWFM7exwtGYRxVVH8I5wm9bR9EaLDENn6ebmT4XWWzYfdhneK693ueFJLPft3QwDl5aZ8CWVh~JkvMYJLfW6HQyuWu49MOdqkpVrtrZ-cMdBo~M6j9kEMqWsrL3qPtbihXJfDlnq~Is2cn-Vdi7vXK~oj5fKnlnpr77C6Wj1eozS671j5r9xAdRON6XQ__&w=640&q=75",
       "expire": "21-05-2025",
       "time": "20",
-      "enabled": false,
+      "enabled": true,
       "quality": [
         "720P"
       ]
@@ -2311,6 +2297,20 @@
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2Fa465850a-2360-430d-b8bb-ad94a68d6513%2Fmain%2F1280x720%2F9m17s493ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxL2E0NjU4NTBhLTIzNjAtNDMwZC1iOGJiLWFkOTRhNjhkNjUxMy9tYWluLzEyODB4NzIwLzltMTdzNDkzbXMvbWF0Y2gvaW1hZ2UuanBnKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0Nzc4NjYyOX19fV19%26Signature%3DVwA5TpIchsd7tdTaK6G7~o-y6J7ILNwHI6BnLlBMTyio2m6dsbHsiAReumZgEY1~UxEpA9fC662pdsSUwEMJbAlUj6Z376MplBu0H~PgNxPQL4NaJt5durewheVam3p2PcaNcjvKjj9UPhwT56vXefhIH5MxeCLTOsmtYar-d~24lIAVwxWBMTTScWE0T1eZzxAAeE33kcC~lSZ5DNBIHBsr1xkoq8ISZbAK3UUs~uhle4jXEYkA683fie2ZmcDOOXdgDoP9vWrjMJZV12H-VU~QhF4tgdrQzDH9xeySrsgnzApFb7SKnSv1kHNVMR2Ex3Bij70jHftfTjy7SLfcNQ__&w=640&q=75",
       "expire": "27-05-2025",
       "time": "19",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "Um astro cai na vila",
+      "reference_id": "000000610_16001224_chaves_2024_157",
+      "original_title": "El actor bonilla",
+      "episode_order_number": "98",
+      "id": "6372928395112",
+      "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F54fc4edd-292d-493b-91fd-74b780725c74%2Fmain%2F1280x720%2F10m29s632ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzU0ZmM0ZWRkLTI5MmQtNDkzYi05MWZkLTc0Yjc4MDcyNWM3NC9tYWluLzEyODB4NzIwLzEwbTI5czYzMm1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NDc4MTA5MjR9fX1dfQ__%26Signature%3DRQLbUH5dD1fuL4B1LHBJcDz3Xmt-bZX1eCpGP0DCE9QDGMe~Z2wq5N0-UY7EmNWBxLXRR6K9ooYAvh0E5TBEPkBSkhMMi6zFeMminbyHy4kK44-5z14ahtPOLgRi8eLDNzmej-L3dhCqSrq9x1GQyjfV3qYPOOHpBV4EM3dXgPL4K5UQv5VFZIsCeuesZVft3vYI1UrvEflnW7AijVdgWvPpyxVY8nKXgKH5TTzAi38iKuhbCPmXCcNCUtC3UZ5NX8CBJBk5tr909~UjChGAWA~ggScQDl6EHePBLd3I8-0ipon0~rZQT2CQT-sv5s9YP6nd5YtecN24YWbwkolG1Q__&w=640&q=75",
+      "expire": "27-05-2025",
+      "time": "21",
       "enabled": false,
       "quality": [
         "720P"
