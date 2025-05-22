@@ -1485,7 +1485,7 @@
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2Fbfc6840d-32fe-439a-a2a0-45f241c285b8%2Fmain%2F1280x720%2F10m44s640ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxL2JmYzY4NDBkLTMyZmUtNDM5YS1hMmEwLTQ1ZjI0MWMyODViOC9tYWluLzEyODB4NzIwLzEwbTQ0czY0MG1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NDYzMzg3MTV9fX1dfQ__%26Signature%3DWnIgM8l1SpZxrSdaUFvX1CzBiIsLz-K5wcw1bV8UGowvlGsEC6XAQJKZxfHLH3h-NWrRVVgiYDRXJyaOcQC4ESPRGLtmUI7-FsxUf-JZCt~15OUI4pvQRnPGE4T0GkffITtqC~nyFH7sun35Vr-lL5PS~3JsmqMOPOphx3KzdNJ54NJTRw78X2qsskIFWFJSmG6yNncdhmrbRZ9G0wvzYDCqFV9PP2LgMxBg7QlZy6bWRgQO-z8Z77Per2pMebeCbzr3O5rRHQpZ3GZ9plS1ya3MXft0AU~nZUVXJEM2BopPZjEJ-h~1xv42QUhniKwAN240diMSDulnsydv8pgRsA__&w=640&q=75",
       "expire": "06-05-2025",
       "time": "21",
-      "enabled": false,
+      "enabled": true,
       "quality": [
         "720P"
       ]
@@ -1513,7 +1513,7 @@
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2Ffe5a4150-7c72-46e3-b6f0-53b60b463e41%2Fmain%2F1280x720%2F10m18s869ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxL2ZlNWE0MTUwLTdjNzItNDZlMy1iNmYwLTUzYjYwYjQ2M2U0MS9tYWluLzEyODB4NzIwLzEwbTE4czg2OW1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NDYzMjUwNjh9fX1dfQ__%26Signature%3DLrYNbnb6XaZdjhC16waL-faq2ljziboRflyoo37kZlMBGBZnppYd9c7b9qqJT5P65XYxL6t7R5GwC3bRuZ7x~RTu7MP8bQzxqD4B1g3sFvCnWiuSBsKU6EKXFTYuQa2H6IuE3JYZGgrxuMhMYkVZ6d258qGONhVn1TEhsgteoo4G9OL0ZDyiLxSe2~x9iEM6UKEo66J0Yi4zt2bdbLbfj8vRDtfyaRt~z30ecpxkzZb24C2crdXK6NoQWyTMbbMPpfzOjtDZQVVdbktpgfIsBdA5OV4Vk1Z2a2tFIyRyERREU~35smuse1gEnr7e-SWRlEikTfFWMtcL78rJGGYKoQ__&w=640&q=75",
       "expire": "06-05-2025",
       "time": "20",
-      "enabled": false,
+      "enabled": true,
       "quality": [
         "720P"
       ]
@@ -2031,7 +2031,7 @@
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2Fc3cfbb5d-6a7c-43d0-8f89-a73c275f82f6%2Fmain%2F1280x720%2F10m44s309ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxL2MzY2ZiYjVkLTZhN2MtNDNkMC04Zjg5LWE3M2MyNzVmODJmNi9tYWluLzEyODB4NzIwLzEwbTQ0czMwOW1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NDczNTI3ODd9fX1dfQ__%26Signature%3DDiOVOAKtsUSEIdVG0DfiGUX2tMXKGTY7~pDnxM9E5aYuySP4S-WxLxF8UTdRgNaejWKvXgdKJkH6kKo~3BafhTt37C0v4Z5gA1VV~aCZgYgVr8ww-GYnZcTr1kp3ZnwK3Di~sY9bLDIWf3NQEfY87k52pzCJAdqbt08-346Y7fm~9xtKxpg6VL85Iqf26HolrTPlhL8YZqTUgXuiTY-6K6yw7iKCyCG3ZzM3uoKFgUm2Xb981kR9jRF0daqWQ8~dWF1xhrF8XdrTV7hr6x7CRTnv3rrHCzxsPj98nPlbCyYd5M1y2XdvD8gzKErIgQctiPJ5XCPFDbmhdd1FXtm38w__&w=640&q=75",
       "expire": "22-05-2025",
       "time": "21",
-      "enabled": false,
+      "enabled": true,
       "quality": [
         "720P"
       ]
@@ -2045,7 +2045,7 @@
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F3aa411ed-8037-4165-a5f2-a9a4a4005200%2Fmain%2F1280x720%2F11m9s301ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzNhYTQxMWVkLTgwMzctNDE2NS1hNWYyLWE5YTRhNDAwNTIwMC9tYWluLzEyODB4NzIwLzExbTlzMzAxbXMvbWF0Y2gvaW1hZ2UuanBnKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0NzM1Mjg0Nn19fV19%26Signature%3DehNzTBdyTxDHKcmfydINrkouDlSszfoTxqdYkn0Y5Mm6R4ZslrYS0mYJEej5RqUFHmxDD48BgP7YJ7cOWXfapgnp-LzeTMDYnAifTJnMKRFT7KJqruNg5cVztESXmneKq6KbDKbsYG-JI1SNjMkSwyCDz2Ti8Ca7CfAaAIunFmIOsWNScXhWbq5dHjXkcqFm2FVOlS7ToMFG02JlpMlNNTcbvZXCVlYp4Uhq~8PsT9tXjAZxJA1WFEZrIi1DqWG2cOFrOy9oTbPuiwT8NAXsYMRtgTI07OhyU4IJcquqYeaofnfRjw6SfQ1sy4xwlNAxuI8dSlBymkWA4XlHCME1-g__&w=640&q=75",
       "expire": "22-05-2025",
       "time": "22",
-      "enabled": false,
+      "enabled": true,
       "quality": [
         "720P"
       ]
@@ -2311,7 +2311,7 @@
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F22479edf-2699-4121-ae51-b2513c2aacdb%2Fmain%2F1280x720%2F10m12s832ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzIyNDc5ZWRmLTI2OTktNDEyMS1hZTUxLWIyNTEzYzJhYWNkYi9tYWluLzEyODB4NzIwLzEwbTEyczgzMm1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NDc4NzA2MjR9fX1dfQ__%26Signature%3DLR--C4FkuRim8uT07uvcLzTYo5bEoreX41~WCFl09uFNA8y4Ih8CvpbZVE4tkIG-PCKBV~0VvQz~E1d-bPRUq0jPuh0FxfmdNTQWALsxRrtS56szyJ2lG3ex9ekQggbFucsApxkPe1gvlNlP7~7BgtIpo-EXfC76G9xAEQtrsjhsZNnhomC~aHQSurO-yMaLd1It6bD1qQcwp1G5wg0thaDdg5MCH3ZzbKeZuMtJ90vMpNXpomT5wSs9hCmlTjT7AKZ6ckTMONSUShdYx9Y8LiTaAe7oFFPJdaSrU4wwqR~TJYh-jc569394OlOH7XpSoYejJRkUo-NPcJtbUectuQ__&w=640&q=75",
       "expire": "28-05-2025",
       "time": "20",
-      "enabled": false,
+      "enabled": true,
       "quality": [
         "720P"
       ]
@@ -2325,7 +2325,7 @@
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2Fb75beaa0-0bf0-460c-a0c8-a1810c0c4b4f%2Fmain%2F1280x720%2F11m25s450ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxL2I3NWJlYWEwLTBiZjAtNDYwYy1hMGM4LWExODEwYzBjNGI0Zi9tYWluLzEyODB4NzIwLzExbTI1czQ1MG1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NDc4NzA3OTN9fX1dfQ__%26Signature%3DdRhXf9lpMKhpNg0jGyWyjF6Zqo0NuBmBDg28ZTZJ4Ga8DO~34djJaQskwswiA6gnlN8HCFliwHhAA26ZHMOxMNSTyGAO9WL2jezdSusL-2jYwpNjYSvfkBhyt52hnxkCSKuwoCfKdx9SmU3ehzhEQKlo6lXzTjkxZzHbWXd9UeC6lPVsVYeTd9AWXs48wZaQMEJxNRXAuZ97dUg5EV7UO21JI~Q5eqT6BO3cNZkIVAAkAGx1rmm6AxsqME~9bq2FVG5-Q7yqySU0n-CkVmAPey-BWRiKZca07ywzv7XuSGs8d8pNEZLv4xumC04KVdgx0zjpPJvig9RmwhByZYj-kQ__&w=640&q=75",
       "expire": "28-05-2025",
       "time": "23",
-      "enabled": false,
+      "enabled": true,
       "quality": [
         "720P"
       ]
@@ -2367,6 +2367,62 @@
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F9e4894e7-fdc2-4911-97fc-a3f5c8805f30%2Fmain%2F1280x720%2F10m14s581ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzllNDg5NGU3LWZkYzItNDkxMS05N2ZjLWEzZjVjODgwNWYzMC9tYWluLzEyODB4NzIwLzEwbTE0czU4MW1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NDc4OTYzNjl9fX1dfQ__%26Signature%3DKTb~A2Gj4yYSFsvns9PdzyWe7S-tWM4-WklgcM-RqCjldf9~TyvPuJdGLdFgwW5TBms6GIAriVugGKt9zipRbFTjQ2F-KFJ~m29jJ4Dcw6PexbmL8osd5qlVHIOZ3z61DkxP5hkkEjklPlciAliReR3yrog1B9z67iks9o-4uHWM-KT3EQE183XYLyFIxkVNaEecFAlwo4GOe3I6xrRwB7VyxwGTRf9CY5B2VrRB1lM7HvezHx5mcbOev7DDIkoxwfjGKJXpcVu1MCnE3pV2E~LZkiFqvXQJsuzpVJ2~S-8C76hX0kfyVPY1aH7VwzXA9UvQtjljsAMvj1Iaj8yCNA__&w=640&q=75",
       "expire": "28-05-2025",
       "time": "20",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "O castigo da escola - Parte 1",
+      "reference_id": "000000610_16001224_chaves_2024_162",
+      "original_title": "Ciencias naturales",
+      "episode_order_number": "104",
+      "id": "6373070620112",
+      "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F1c9c22e7-eae6-45ee-b6b8-ccfff5666c4b%2Fmain%2F1280x720%2F9m50s389ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzFjOWMyMmU3LWVhZTYtNDVlZS1iNmI4LWNjZmZmNTY2NmM0Yi9tYWluLzEyODB4NzIwLzltNTBzMzg5bXMvbWF0Y2gvaW1hZ2UuanBnKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0Nzk1NzA3NH19fV19%26Signature%3DFFjVnp7wehkAUNjREzLiG0Ep4qDn-7242uXcOF09yashlQiqVPziceF4cytLYX-eASVN2prf3DSuEKepyqe6MgGW7fpJBLGsNnZJc-cGMse2-fanvDE-yBV-UL1057N23MUvgTCtOk-z04PkjiSdAoTMmZcc8RyFYAnTTDhm5yL6KjC71lrV4BkZR8DVprIVhW3BcbfzRRZeudPWr1N4nqec9lnBJBAfxHaU3-9c4wrL6Zc-eaq987RPH9d1-QPAV-INQ~T4MRpXVVcTYILirhsLcytQxx-bjt3fJjSy4M83qG9njnxfZGxVUTP8uLJQddz-dTx8NUakD1wdrsyxEw__&w=640&q=75",
+      "expire": "29-05-2025",
+      "time": "20",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "O escorpião - Parte 2",
+      "reference_id": "000000610_16001224_chaves_2024_163",
+      "original_title": "Ciencias naturales",
+      "episode_order_number": "105",
+      "id": "6373070812112",
+      "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2Fa74fbb05-b8eb-4ab7-a68b-8825a308dabb%2Fmain%2F1280x720%2F10m23s872ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxL2E3NGZiYjA1LWI4ZWItNGFiNy1hNjhiLTg4MjVhMzA4ZGFiYi9tYWluLzEyODB4NzIwLzEwbTIzczg3Mm1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NDc5NTcxNTJ9fX1dfQ__%26Signature%3DWOLgTSzfVy-rAN1bt7ueV90bWsMAXE3BPTmumU5Px-Wc~0NmkLrXWyueGzPEw9Ff5Rl0EotS9nK-vE3md1ttGbGQqqxa7e7XbdhMFU3bvIRCi3t1KuaGisCKbpephFFm3vU0KgjOEW95qOxHpORDGmu0bhiTIqL1XgCjr1soUV5AL~22i5FWJTmN~CRlrLXZC2dyNowcPlkJDhAHb7-uiMaOkUUZaoMsmgt46Fev3X2XbhAYYWTjObO-j9wG9F3zd0o6YNDareRewF~s6lsMvlpw60l3YnLn2nAzM4ihaqo-PJLPQh12md-A0xl3ChTLuICktWsXt2NdpeUyUlUaZA__&w=640&q=75",
+      "expire": "29-05-2025",
+      "time": "21",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "Os dois ladrões / Sr. Madruga carpinteiro",
+      "reference_id": "000000610_16007200_chaves_2024_006",
+      "original_title": "INTENTO DE ROBO / LOS CAQUITOS / LA CARPINTERIA",
+      "episode_order_number": "106",
+      "id": "6373069776112",
+      "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F402a1692-8c9b-43dc-a45a-bae76fb1bcb9%2Fmain%2F1280x720%2F10m35s754ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzQwMmExNjkyLThjOWItNDNkYy1hNDVhLWJhZTc2ZmIxYmNiOS9tYWluLzEyODB4NzIwLzEwbTM1czc1NG1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NDc5NTcxNzh9fX1dfQ__%26Signature%3DJXA2cDBvhQDER-n63wW-gQaJodDdfN7UHTBfYcJJeJxD50eEORnO7yqXLWxRS43kkYz1y9Y5GtHRpyeGAmDU9q3O6j3I3eUllDAf6ei36pXkoi7VgNbWugWw~LrM94TyQv5R5CJ6mYaflRhMlPAl7DUMFmCWCw-sFhqVR2oCMs-WogIshbo-Ji0CUmK4akhUYuqe0aIkhb4ujALZQ2lBXRwLhx4ppCjTF8Q1l8qn1ouaxRPjttjHaG6FNaarRlX8-JKZyM~kFC4Z~fWyxC1WaqHSgc3ltWpozEAhCRHmY3xjO9gZrzvxaed8oTIlQReRL3Nx1onNxYN8igSm23XlhQ__&w=640&q=75",
+      "expire": "29-05-2025",
+      "time": "21",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "O álbum de figurinhas",
+      "reference_id": "000000610_16001224_chaves_2024_087",
+      "original_title": "Album de billetes",
+      "episode_order_number": "107",
+      "id": "6373067967112",
+      "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F5a0e3665-64d5-4544-ac7f-a18ab90af5a0%2Fmain%2F1280x720%2F11m21s77ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzVhMGUzNjY1LTY0ZDUtNDU0NC1hYzdmLWExOGFiOTBhZjVhMC9tYWluLzEyODB4NzIwLzExbTIxczc3bXMvbWF0Y2gvaW1hZ2UuanBnKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0Nzk1NzI4NH19fV19%26Signature%3DCnuY5xy1XkOLCXyzXkJVHpMNgyO9RpiKcRUu-L0ISdx-FvuGal4Og4M0X5mbHiOssK4SUjmOjQBQd0eN9FAdK1mhgLgZnsB62yyW7DnOyjTibXCgcgrjOSnSUFLxcBRgwWZAuFUzwiqTIJGljhmXdPoIDfRtSibnS3ualdr8xwtH8Id0l8PtS2BXbY54jaha884sfnYDQrZzN-iaaP5hqD-l9CtEtPHvx9suMTaJS5QcPZMjJZEiD9-cF3VRH7ey50RRRNJfBwxYrhoTLWVAxQVCiPYdfE9udUSd-GzLT8hfWN7XdFwqcnbBk2lGaQL-xxNY3PShAgN4xqP82bpgRw__&w=640&q=75",
+      "expire": "29-05-2025",
+      "time": "23",
       "enabled": false,
       "quality": [
         "720P"
