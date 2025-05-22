@@ -356,6 +356,48 @@
       "quality": [
         "720P"
       ]
+    },
+    {
+      "name": "Os Piratas do Cabribe - Parte 1",
+      "reference_id": "000000611_16001293_chapolincolorado_2024_059",
+      "original_title": "",
+      "episode_order_number": "17",
+      "id": "0611000000017",
+      "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/L3R9afPgrzI/maxresdefault.jpg",
+      "expire": "22-05-2025",
+      "time": "20",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "Os Piratas do Cabribe - Parte 2",
+      "reference_id": "000000611_16001293_chapolincolorado_2024_060",
+      "original_title": "",
+      "episode_order_number": "18",
+      "id": "0611000000018",
+      "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/m77Mn8ydPE4/maxresdefault.jpg",
+      "expire": "22-05-2025",
+      "time": "20",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "Don Juan Tenório / Os marcianos",
+      "reference_id": "000000611_16001293_chapolincolorado_2024_097",
+      "original_title": "",
+      "episode_order_number": "19",
+      "id": "0611000000019",
+      "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/zaPnYzgfw8M/maxresdefault.jpg",
+      "expire": "22-05-2025",
+      "time": "20",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
     }
   ]
 }
