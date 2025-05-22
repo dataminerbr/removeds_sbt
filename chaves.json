@@ -511,34 +511,6 @@
       ]
     },
     {
-      "name": "O castigo da escola - parte 1",
-      "reference_id": "000000610_16001224_chaves_2024_162",
-      "original_title": "",
-      "episode_order_number": "0",
-      "id": "20250321_098",
-      "cover": "https://images.weserv.nl/?sat=0&url=https://i.ibb.co/Jwxgvc1N/20250321-098.jpg",
-      "expire": "21-03-2025",
-      "time": "21",
-      "enabled": false,
-      "quality": [
-        "720P"
-      ]
-    },
-    {
-      "name": "O escorpião - parte 2",
-      "reference_id": "000000610_16001224_chaves_2024_163",
-      "original_title": "",
-      "episode_order_number": "0",
-      "id": "20250321_099",
-      "cover": "https://images.weserv.nl/?sat=0&url=https://i.ibb.co/8nTCdxb9/20250321-099.jpg",
-      "expire": "21-03-2025",
-      "time": "18",
-      "enabled": false,
-      "quality": [
-        "720P"
-      ]
-    },
-    {
       "name": "O velho do saco - Parte 1",
       "reference_id": "000000610_16001224_chaves_2024_050",
       "original_title": "",
@@ -645,20 +617,6 @@
       "cover": "https://images.weserv.nl/?sat=0&url=https://i.ibb.co/rK6tyVMQ/20250326-112.jpg",
       "expire": "26-03-2025",
       "time": "19",
-      "enabled": false,
-      "quality": [
-        "720P"
-      ]
-    },
-    {
-      "name": "O Álbum de Figurinhas",
-      "reference_id": "000000610_16001224_chaves_2024_087",
-      "original_title": "",
-      "episode_order_number": "0",
-      "id": "20250327_113",
-      "cover": "https://images.weserv.nl/?sat=0&url=https://i.ibb.co/d4zDRHwK/20250327-113.jpg",
-      "expire": "27-03-2025",
-      "time": "22",
       "enabled": false,
       "quality": [
         "720P"
