@@ -469,20 +469,6 @@
       ]
     },
     {
-      "name": "O defunto será maior?",
-      "reference_id": "000000610_16001224_chaves_2024_073",
-      "original_title": "",
-      "episode_order_number": "0",
-      "id": "20250314_083",
-      "cover": "https://images.weserv.nl/?sat=0&url=https://i.ibb.co/TQ7635J/20250314-083.jpg",
-      "expire": "14-03-2025",
-      "time": "20",
-      "enabled": false,
-      "quality": [
-        "720P"
-      ]
-    },
-    {
       "name": "O Cachorrinho",
       "reference_id": "000000610_16001224_chaves_2024_142",
       "original_title": "",
@@ -2409,6 +2395,20 @@
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F45779d99-bb3c-41ca-9eed-fc2b1262e07e%2Fmain%2F1280x720%2F10m55s808ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzQ1Nzc5ZDk5LWJiM2MtNDFjYS05ZWVkLWZjMmIxMjYyZTA3ZS9tYWluLzEyODB4NzIwLzEwbTU1czgwOG1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NDgwNTYzNjV9fX1dfQ__%26Signature%3DQ8CgphGXFBzy0xfAWbvVtv2WU25wSd28JAlkfATOV9U6Ih~8xqZGzW2kJ-DwFZFMnpuFY7wAwhfsWca2r4IWTnNtf~~cl1nbugjYkwWPRXn44hefNd~uMNMQsHY2y2IG0U4JFF~XoryTFolxmzX-Lqik4R-B06vJ~Ef2CVEo4SlGExRD-QbovpWQEU5J-KC5-mb9lk~c0WQK5XiL1yySseGjUqH8NZS7-O98gcuAC-bobkNm4WsqpV~pgFQxN9Y0PS3wa9SntWR-vv~aOstTEO44pu5~o5KM6HehIVnngAH93vriUmQfTpG-QvRsWiBnTHyn5pt5cwWCEkpR~9p7Uw__&w=640&q=75",
       "expire": "30-05-2025",
       "time": "22",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "O defunto será maior? ",
+      "reference_id": "000000610_16001224_chaves_2024_073",
+      "original_title": "La losca de la escalera",
+      "episode_order_number": "113",
+      "id": "6373236246112",
+      "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F15e52cb9-527d-4ed0-a2e5-965bc851d333%2Fmain%2F1280x720%2F10m25s472ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzE1ZTUyY2I5LTUyN2QtNGVkMC1hMmU1LTk2NWJjODUxZDMzMy9tYWluLzEyODB4NzIwLzEwbTI1czQ3Mm1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NDgwNjk3Njd9fX1dfQ__%26Signature%3DCaq3y-DnUCDbBHH02OTkBB2jGcrVW8pHzdfgBcEtyFnFlJcfRLY3~JrK-S0HT0AdnPumlRJsM26TfPjJUEBBneGup1kzV~f~5PnHak-tL3ohVk0Gnfh2MCkETQEdlNqEnn7DxVTLIg~a4q-lWdkKvJls-IvB4EnJlospIguGAFUjsRMxJHGOFseCdeCfw4EAFMI~w1KhR4~xe5He6ouDiOb-xXKAs~By6l6Eh94MVB7sCWP2J4TG1tF6hYUkS7Yl2QlnZefmfVKQQpUbpczRBgaHcdz0IVwdXNZqXQE-gHyiXSX9MWtqCia0AqDWPMs5Q9daKchrAWAx6Wxvb2rLhQ__&w=640&q=75",
+      "expire": "30-05-2025",
+      "time": "21",
       "enabled": false,
       "quality": [
         "720P"
