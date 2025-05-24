@@ -2031,7 +2031,7 @@
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F87828262-9930-45c8-8ca8-d9dfc2949792%2Fmain%2F1280x720%2F10m22s549ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzg3ODI4MjYyLTk5MzAtNDVjOC04Y2E4LWQ5ZGZjMjk0OTc5Mi9tYWluLzEyODB4NzIwLzEwbTIyczU0OW1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NDc1MjQ5NzB9fX1dfQ__%26Signature%3DKOiqTHyvgRoA-khzC1M8YcMT~zNCvggCR2FnXRKrgtEttupoyL0RiK3CN8VXrsBtHm-7HtMIyzE9zEColvjbRaTKilerO3DrHnmOqo7USnPPUj1R0m3WrOREwpm5tArB86YVKLWNvxmZVm4vmj7tGgBwbPb92mIsstr7JpjL93D2OgV0qLft8D7SwIHCjeseq4hq9sP0ksUK5eC~XYWVpI5sFUPElLyrImsG~LL~R8suFeI9JjsbevxWH5qkFgRSaFu0vGqSp5BJ4Ss27n~-5EXxD4MS6wFYJqGIc-yz04C6HvGeI62n5aS42MGb7dS7Gjo5SeI8DzqHZppT~6sY6g__&w=640&q=75",
       "expire": "24-05-2025",
       "time": "21",
-      "enabled": false,
+      "enabled": true,
       "quality": [
         "720P"
       ]
@@ -2045,7 +2045,7 @@
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F8defdefe-e98d-4b37-9b6c-74db2c7bbf50%2Fmain%2F1280x720%2F10m42s805ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzhkZWZkZWZlLWU5OGQtNGIzNy05YjZjLTc0ZGIyYzdiYmY1MC9tYWluLzEyODB4NzIwLzEwbTQyczgwNW1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NDc1MjUwMTd9fX1dfQ__%26Signature%3DTo7vArCMajFRHpzJ7WhxxybwHn-1bF4wFTDMc6n1IjpBc0orXQqlLXhxHiMMHM8nEAI-Qkz2TTzbF4eX44S1BWNJy66GFTLduaF2fA6056Jp1d7mvx7WlKwxXxLuoznUWc4LQM--1apXInARpbQ~vf1z4UV2Y1Av04Likm2gI~EBZOCknenNK63XrLoI4WJonqSK3tLiIC~VTlrvgIB07ig5PdeD62HPp-3eMxyvSBA6hkGIbyowcHgAP6UM1sG1FUFxwqeGdmUW5gLKcha8nramDHhwyvBvqcghrqLrvZwN8ltaSIhUNzjs73LdFh25E2enj1-KNz1mqLSvyKnhBQ__&w=640&q=75",
       "expire": "24-05-2025",
       "time": "21",
-      "enabled": false,
+      "enabled": true,
       "quality": [
         "720P"
       ]
@@ -2059,7 +2059,7 @@
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F0bae2034-8a24-4fe0-b98f-5e764ccca65f%2Fmain%2F1280x720%2F10m42s741ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzBiYWUyMDM0LThhMjQtNGZlMC1iOThmLTVlNzY0Y2NjYTY1Zi9tYWluLzEyODB4NzIwLzEwbTQyczc0MW1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NDc1MjUwMTd9fX1dfQ__%26Signature%3DdAF1jUrA8WkACD5ed4j~qxbaeTd0Pryy4rh-0~z7W3iR9obd3LuUSUT-aj6TmIOXUyYDD9QYpy5NV2JMdE8uRkVTvJeRg3eLY~ly8KwTMX2lmbbVepoNxXUO6vf4qY5WhRXemB9XcyGHJPdNXnJrCy~DysM9aisZVT2H6vAnzRrmt6bliba-t0UlqDjqLgeirQE10wIOl9ozB1irJ5rTpjNokHC2W~Qq76LP1bJNtVmMx7f66w~XEYuFHESkAGGnuwsuJu8h1b6ZB7-H15F8GMc9sA-bmOas8C8ckfUPqbgzX4Nmz8UuhRpWKDYCNNvy2MO6ZLsFfqjAnpeOBRIF9A__&w=640&q=75",
       "expire": "24-05-2025",
       "time": "21",
-      "enabled": false,
+      "enabled": true,
       "quality": [
         "720P"
       ]
