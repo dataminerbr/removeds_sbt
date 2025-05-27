@@ -338,7 +338,7 @@
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2Fcfcb63cd-0e23-43c5-92a6-330278e60e6e%2Fmain%2F1280x720%2F10m39s690ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxL2NmY2I2M2NkLTBlMjMtNDNjNS05MmE2LTMzMDI3OGU2MGU2ZS9tYWluLzEyODB4NzIwLzEwbTM5czY5MG1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NDc3Mjg2NDl9fX1dfQ__%26Signature%3DG~aTKPr2uXhp1enuBkgf9PA-dIQA92nxs6RkYgP9SiaTU7WWhdrbFE8iKaVVMCdDMT6uNnXGWeFeZllwKB8UrEyABvjRI2XYxU-zN0qyL1hpg2X1fyFCBUiAkHEeTTofbio-wnKHZ45XDJ2m4kpS~pIFoc0mVR9XdI7jCFI8eUeXQKTOEvff0Tx0y1Sbf55atlOMoHfcLl7MaqS2Vsot7c50DkL-kjrq8iogzavWsF~adW7TBd9h7-OJiQPq~XLnJsSm097FVypF6pKkYSOAUB6vOJXVaiCoHELeR251OdZutVFLUgR~Yimw6-dytQRtz9oDOZ1NoO9Y4Eb4muYzow__&w=640&q=75",
       "expire": "26-05-2025",
       "time": "21",
-      "enabled": false,
+      "enabled": true,
       "quality": [
         "720P"
       ]
@@ -358,38 +358,10 @@
       ]
     },
     {
-      "name": "Os Piratas do Caribe - Parte 1",
-      "reference_id": "000000611_16001293_chapolincolorado_2024_059",
-      "original_title": "",
-      "episode_order_number": "17",
-      "id": "0611000000017",
-      "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/L3R9afPgrzI/maxresdefault.jpg",
-      "expire": "20-05-2025",
-      "time": "20",
-      "enabled": false,
-      "quality": [
-        "720P"
-      ]
-    },
-    {
-      "name": "Os Piratas do Caribe - Parte 2",
-      "reference_id": "000000611_16001293_chapolincolorado_2024_060",
-      "original_title": "",
-      "episode_order_number": "18",
-      "id": "0611000000018",
-      "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/m77Mn8ydPE4/maxresdefault.jpg",
-      "expire": "20-05-2025",
-      "time": "20",
-      "enabled": false,
-      "quality": [
-        "720P"
-      ]
-    },
-    {
       "name": "Don Juan Tenório / Os marcianos",
       "reference_id": "000000611_16001293_chapolincolorado_2024_097",
       "original_title": "",
-      "episode_order_number": "19",
+      "episode_order_number": "17",
       "id": "0611000000019",
       "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/zaPnYzgfw8M/maxresdefault.jpg",
       "expire": "21-05-2025",
@@ -403,7 +375,7 @@
       "name": "Os loucos mais perigosos estão fora do manicômio",
       "reference_id": "000000611_16007465_chapolincolorado_2024_044",
       "original_title": "",
-      "episode_order_number": "20",
+      "episode_order_number": "18",
       "id": "0611000000020",
       "cover": "https://images.weserv.nl/?sat=0&url=https://i3.ytimg.com/vi/dAAs2YK1edU/hqdefault.jpg",
       "expire": "22-05-2025",
@@ -422,6 +394,62 @@
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2Ffbe4a266-28fc-4094-b429-9fd81ec03462%2Fmain%2F1280x720%2F10m21s717ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxL2ZiZTRhMjY2LTI4ZmMtNDA5NC1iNDI5LTlmZDgxZWMwMzQ2Mi9tYWluLzEyODB4NzIwLzEwbTIxczcxN21zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NDgwNzM4NzJ9fX1dfQ__%26Signature%3DOtQVw2Z0Mh-uLQejVOXV9A1806-W9WsXJuwIdB5q-2lhFYv8ZCY~Wwt4q2gZldPupZ4NTBlqMJDiezT5kN9jqcMVy3A5ULp82mRbq1GUezQ6XNsNn0JTcNJ6nCPHSYwajrlmfCrF-YMzYbLL7nU7H5DjwtMPquvZDAElL9whBmnuG-aQ8jphOtmqsplnSWxwmE0pDvC3JZZZKktrTSvNDJeRDVniO~hnyL~bQHNLbeXr~HZrPQvErP5bdlLjqbfM4M1qtGCgV9OgKbmSPx8u1ik0mC1Oj5K16F2zjfbnz-VuZSnsDfg-Z2gyLxNCJ5PFXV0-utgBCC0T4B5cZObgaw__&w=640&q=75",
       "expire": "30-05-2025",
       "time": "21",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "Os Piratas do Caribe - Parte 1",
+      "reference_id": "000000611_16001293_chapolincolorado_2024_059",
+      "original_title": "Los piratas de Pittsburgh, perdon del caribe",
+      "episode_order_number": "20",
+      "id": "6373506092112",
+      "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F8aeccb5e-bc68-4986-b921-27db81fc3568%2Fmain%2F1280x720%2F20m2s368ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzhhZWNjYjVlLWJjNjgtNDk4Ni1iOTIxLTI3ZGI4MWZjMzU2OC9tYWluLzEyODB4NzIwLzIwbTJzMzY4bXMvbWF0Y2gvaW1hZ2UuanBnKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0ODMxNzk4NH19fV19%26Signature%3DAWW8LxVw7vJtB9leBFOlY~BySNCtGjSp1El~1df9vPwNNMoNxEoA~ICPpFFHCgWknYv0-~34fTcXfmm6mGoVubPzXtkCTQNQQqjYCMqk9nLjo2XRZjcTOl4UyAEWj52KEBIFqeg6YoMGr6CmBeJP7-xONp0QWYu1G~IFz71yQmdLBhu8OqQLv2YkIAtpNZ5sf5sT7OfV9QWRDEGBz-fS8Tn1zuxnuNyFS5Tnbc2AT-OGPh-UbUF6kLn0xgdNR-k-LFNMD7gxti~w7Gueglr3d4YvT57WISnbJtFplkDEWH0XhDHrZ0k16Kxb1FbVondS1~Y0fKqhwnXpDybKrUET-A__&w=640&q=75",
+      "expire": "28-05-2025",
+      "time": "20",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "Os Piratas do Caribe - Parte 2",
+      "reference_id": "000000611_16001293_chapolincolorado_2024_060",
+      "original_title": "Los piratas de Pittsburgh, perdon del caribe",
+      "episode_order_number": "21",
+      "id": "6373506092112",
+      "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F8aeccb5e-bc68-4986-b921-27db81fc3568%2Fmain%2F1280x720%2F20m2s368ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzhhZWNjYjVlLWJjNjgtNDk4Ni1iOTIxLTI3ZGI4MWZjMzU2OC9tYWluLzEyODB4NzIwLzIwbTJzMzY4bXMvbWF0Y2gvaW1hZ2UuanBnKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0ODMxNzk4NH19fV19%26Signature%3DAWW8LxVw7vJtB9leBFOlY~BySNCtGjSp1El~1df9vPwNNMoNxEoA~ICPpFFHCgWknYv0-~34fTcXfmm6mGoVubPzXtkCTQNQQqjYCMqk9nLjo2XRZjcTOl4UyAEWj52KEBIFqeg6YoMGr6CmBeJP7-xONp0QWYu1G~IFz71yQmdLBhu8OqQLv2YkIAtpNZ5sf5sT7OfV9QWRDEGBz-fS8Tn1zuxnuNyFS5Tnbc2AT-OGPh-UbUF6kLn0xgdNR-k-LFNMD7gxti~w7Gueglr3d4YvT57WISnbJtFplkDEWH0XhDHrZ0k16Kxb1FbVondS1~Y0fKqhwnXpDybKrUET-A__&w=640&q=75",
+      "expire": "28-05-2025",
+      "time": "20",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "Os piratas do Caribe",
+      "reference_id": "000000611_16001293_chapolincolorado_2024_059",
+      "original_title": "Los piratas de Pittsburgh, perdon del caribe",
+      "episode_order_number": "17",
+      "id": "6373506092112",
+      "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F8aeccb5e-bc68-4986-b921-27db81fc3568%2Fmain%2F1280x720%2F20m2s368ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzhhZWNjYjVlLWJjNjgtNDk4Ni1iOTIxLTI3ZGI4MWZjMzU2OC9tYWluLzEyODB4NzIwLzIwbTJzMzY4bXMvbWF0Y2gvaW1hZ2UuanBnKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0ODMxNzk4NH19fV19%26Signature%3DAWW8LxVw7vJtB9leBFOlY~BySNCtGjSp1El~1df9vPwNNMoNxEoA~ICPpFFHCgWknYv0-~34fTcXfmm6mGoVubPzXtkCTQNQQqjYCMqk9nLjo2XRZjcTOl4UyAEWj52KEBIFqeg6YoMGr6CmBeJP7-xONp0QWYu1G~IFz71yQmdLBhu8OqQLv2YkIAtpNZ5sf5sT7OfV9QWRDEGBz-fS8Tn1zuxnuNyFS5Tnbc2AT-OGPh-UbUF6kLn0xgdNR-k-LFNMD7gxti~w7Gueglr3d4YvT57WISnbJtFplkDEWH0XhDHrZ0k16Kxb1FbVondS1~Y0fKqhwnXpDybKrUET-A__&w=640&q=75",
+      "expire": "28-05-2025",
+      "time": "40",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "A volta da pistola paralizadora",
+      "reference_id": "000000611_16007465_chapolincolorado_2024_062",
+      "original_title": "El retorno de la chicharra paralizadora",
+      "episode_order_number": "22",
+      "id": "6373505688112",
+      "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F7d34b34d-c0f5-4d93-987e-8e6d47a8d831%2Fmain%2F1280x720%2F9m20s869ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzdkMzRiMzRkLWMwZjUtNGQ5My05ODdlLThlNmQ0N2E4ZDgzMS9tYWluLzEyODB4NzIwLzltMjBzODY5bXMvbWF0Y2gvaW1hZ2UuanBnKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0ODMzMzUwN319fV19%26Signature%3DJ3we57Z2bEZFWs9uppcpOghFmjhjIhSWLidxpTL4jgSR3bFjKoExhd6tDBtI-wmmmbNSVkHNPFmtMW3weloFkWLcA8KCRgNvXPBu1hLWTSrJx1nLheelejy~aPUl7Ig7oMegHNLBgScWN5b8C-yvL596mcfIfNlOBudCyfMvl2KohKEbhw2qpv~5k61QwNCo133G6UgsduSGg3Qz-lB9o9biY2Vr8aOiGhqxVZIcJvdBxO5YDX7QDrm6jU7WprJxK9qI2Nyaly88TD9vlMIHtm1cXr7cyclyGaN8OkvxlgiUFS4ba9sfCJN92S~-hkbAqKhWFTwyAhDjIha5dMLIpw__&w=640&q=75",
+      "expire": "02-06-2025",
+      "time": "19",
       "enabled": false,
       "quality": [
         "720P"
