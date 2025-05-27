@@ -371,20 +371,6 @@
       ]
     },
     {
-      "name": "Guerra às Crianças",
-      "reference_id": "000000610_16001224_chaves_2024_128",
-      "original_title": "",
-      "episode_order_number": "0",
-      "id": "20250108_032",
-      "cover": "https://images.weserv.nl/?sat=0&url=https://i.ibb.co/VYQsKtZ9/20250108-032.jpg",
-      "expire": "08-01-2025",
-      "time": "18",
-      "enabled": false,
-      "quality": [
-        "720P"
-      ]
-    },
-    {
       "name": "Refrescos numa fria - parte 2",
       "reference_id": "000000610_16001224_chaves_2024_007",
       "original_title": "",
@@ -2073,7 +2059,7 @@
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2Fc465fb52-3013-4bd4-aa52-c844197b16ff%2Fmain%2F1280x720%2F11m23s594ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxL2M0NjVmYjUyLTMwMTMtNGJkNC1hYTUyLWM4NDQxOTdiMTZmZi9tYWluLzEyODB4NzIwLzExbTIzczU5NG1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NDc3MDA4NzB9fX1dfQ__%26Signature%3DXob7XNgK5Mj14ji-r-NoeUQrFW4~bIadmvo2bFL~WTfYJc09smhYIu~~2bMPykzs-UyxYWUQnJ50uN7YORl5zJVULgLPZSm4KVtj8g7XSzHLoHxFkATv-zlcvbLa5-VCnwGQ-uCtqqf8GP68VeRYSXndbsDXwbZszk6cA2I6BVTZj7yjBhuXSMIrvezpCbcHOM1HKBlhmyBbXoNeKavX1yARLgj4wwIRAvzv5gr2K5gycHU4FdT63r0hkQRafkOziLyVuYzjFMUGng27ZgQCc2g8ssshAUnvB5s-dLLN-Mo1UT6VfILk9MNYPUXpS34drurEwwXxDmDBYPo4ys-YJw__&w=640&q=75",
       "expire": "26-05-2025",
       "time": "23",
-      "enabled": false,
+      "enabled": true,
       "quality": [
         "720P"
       ]
@@ -2087,7 +2073,7 @@
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F29cdf693-b673-45e8-92c9-8bfad8b95b9d%2Fmain%2F1280x720%2F11m24s245ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzI5Y2RmNjkzLWI2NzMtNDVlOC05MmM5LThiZmFkOGI5NWI5ZC9tYWluLzEyODB4NzIwLzExbTI0czI0NW1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NDc2OTk5MzN9fX1dfQ__%26Signature%3DH6tsueVOe1AF2cdyeIqVISITGcJRH3KsCsugwfEGQx03bMdYcgU70NzkynPcJQE6AlTa2rWNYOibSM4E6D~jSE1Ldi2HmohblExyIsflMP2ori3lK3JGweqt0BF0bSp85qqe96CoieSalAArdgVA-9sP0PDFQThDlUBlwFtPgI5MAD8zlSPCajMoCYK2SuxgSSRWOH-dV5d~Fc-SS9q4D1P-Znb7iQOQOFPkIJelOju9uEdRlrq-hPTPYIjBK8mVz4fmJ0~Yzvkm-7KRdZfwm~6DaRgsLbdQfe8tGOxvftgZUsMckUYBF8ImcU2m-DT5Ks6D8wOrz0tlvpB3URIDHQ__&w=640&q=75",
       "expire": "26-05-2025",
       "time": "23",
-      "enabled": false,
+      "enabled": true,
       "quality": [
         "720P"
       ]
@@ -2101,7 +2087,7 @@
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F242b5947-706f-4cd9-ad25-dc6156874ad0%2Fmain%2F1280x720%2F11m2s997ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzI0MmI1OTQ3LTcwNmYtNGNkOS1hZDI1LWRjNjE1Njg3NGFkMC9tYWluLzEyODB4NzIwLzExbTJzOTk3bXMvbWF0Y2gvaW1hZ2UuanBnKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0NzcwMDgyMn19fV19%26Signature%3DMN8EKwOBZbiSRHH9Ok1sbpqG8HkCrqKQettmeFwTvpfXLWduycXMcHhF7TTKTjuEDVyEmATUN1GUM39I3-gMFQ2DyWlmVhHNihA4df~uoxatxlMGh0u1VIG58kn6mXMteMW1jZnSX~Y6g7c7xVaoB2WIMJu2pG0D34ITjDPS2UD0EZ6Y~i2sgpY9lsQ-hyry~L1XDZDIjpB0WB715Z863IjbPs6kTue3e6TkAlUTzxX3C4jvxnAQ-awchvKunjRrtkFkkzjylgaKeQXf98X8NFPN5eBKCs5nfF2TnlDGz2y1m5DyOWfhoLUSPhEMRMKauxOFi1qtG009Mih6A006iw__&w=640&q=75",
       "expire": "26-05-2025",
       "time": "22",
-      "enabled": false,
+      "enabled": true,
       "quality": [
         "720P"
       ]
@@ -2115,7 +2101,7 @@
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2Feeb9e15c-c6f8-498d-b47e-2c9ec3fe8354%2Fmain%2F1280x720%2F10m40s53ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxL2VlYjllMTVjLWM2ZjgtNDk4ZC1iNDdlLTJjOWVjM2ZlODM1NC9tYWluLzEyODB4NzIwLzEwbTQwczUzbXMvbWF0Y2gvaW1hZ2UuanBnKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0NzcwMDc2OH19fV19%26Signature%3DCSupwHZ~mCLjMR0a3N7qrdroADf8Lv201i9icSCAp-dZiYew1Y8Wq7j8QNqmVxYzJkPWQmoKXk-ObxqQx~BHPOkdhaUBn6L1iav1fIxBTFRmgaDxpmvW~qvWXoQvwutb9lmthJ9fZWMIBku0jeL6Suc7uLoSkpuID5SqCwNNKZgqAMSfqmA98u--ira5JjuVHZvUMD9apj8MmTyAg1gMAqqkhQni~s7aeCTr~31ybgwb9FVJBozS88Fje9966Q728SBIbvgOdolZf~BdNZwO~8k96qGnkIP~BBzIJ92uq7kjxq36MnHW~Bk~UZVn2fwUvoE-XMG-9AgWs2cbBMhluA__&w=640&q=75",
       "expire": "26-05-2025",
       "time": "21",
-      "enabled": false,
+      "enabled": true,
       "quality": [
         "720P"
       ]
@@ -2129,7 +2115,7 @@
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2Fbed958d5-1ff0-4e6c-bc56-18acd9552645%2Fmain%2F1280x720%2F11m19s413ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxL2JlZDk1OGQ1LTFmZjAtNGU2Yy1iYzU2LTE4YWNkOTU1MjY0NS9tYWluLzEyODB4NzIwLzExbTE5czQxM21zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NDc3MjQ3NTl9fX1dfQ__%26Signature%3DM17fCeJjHB2F8VvcWeVoOndLRblzJZ3IIp~FzK7amE3BX1lQLeRuLi88eKrDv5DUPNSWXuazpcCPfOw60wjJAIQMhESW-wtoIGwjtW7gzdMzpWdE90gCsbxmhP2qUeSiS5mRxxLARHsZnWgGn8Hxwzcr4pZ5OJuP-vKyHri0PpuxQ0JMkIagB27lddIP2qXzqLIbaaSEx6p4AMW1TNVMylVe-9npq4shwJ6ezBTzdZDd71RYkqVDQ37voVoeEWQOfpt4Dnv9UWcRTOdCVw9KAnDKPL5ADlIxSuCqDENEnFmfAMZCTHPKHCSwwZ22hSiKBCo5TLJliiGbkGrkAWP03g__&w=640&q=75",
       "expire": "26-05-2025",
       "time": "23",
-      "enabled": false,
+      "enabled": true,
       "quality": [
         "720P"
       ]
@@ -2451,6 +2437,34 @@
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F0ed28db3-fc52-49fd-8756-369bdb124542%2Fmain%2F1280x720%2F10m38s421ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzBlZDI4ZGIzLWZjNTItNDlmZC04NzU2LTM2OWJkYjEyNDU0Mi9tYWluLzEyODB4NzIwLzEwbTM4czQyMW1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NDgwODkzNjJ9fX1dfQ__%26Signature%3DTYYY~X8gRptf6foLS3SnAUvrVd7xJeKMcQxMvWxb~33WVs1IFQPpwLQ0jeNSTaEQJq9xCIoqRCaNrgnLdKgga6WhLa152UxiFgDyCrw~OWbuu44TKh9wMUnRgwPaCE7KZz7nXBUVOBfZiXy5oyrQJmwM0ee7bfLO9Y7INAIjugwbLD0JGYyVpr~EvGVIUXQVSrf0eL2MOx8EYRzv5dY2o0k0AZLsr-my4xrPW8-xPHeE2jcEk1Bz2GTZArf67vuc2PgGvi8cxVRBKlUBrYhmQzHQ7WODt-qVgsbMdXl7XEcQ8AVotU7ErLFJixJpswEiWiZkE0r0B4vO6kFW1KnRMA__&w=640&q=75",
       "expire": "31-05-2025",
       "time": "21",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "Moedas / 2 ladrões / Dando bolo",
+      "reference_id": "000000610_16007200_chaves_2024_013",
+      "original_title": "La enfermedad de la chilindrina",
+      "episode_order_number": "118",
+      "id": "6373507259112",
+      "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F6a225f08-812f-4609-b40c-af5badf8e6e4%2Fmain%2F1280x720%2F13m10s223ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzZhMjI1ZjA4LTgxMmYtNDYwOS1iNDBjLWFmNWJhZGY4ZTZlNC9tYWluLzEyODB4NzIwLzEzbTEwczIyM21zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NDgzMTY0ODR9fX1dfQ__%26Signature%3Dc~ltIOmsmeXWryP0k6WSMvWhYE9IWhuxKo19ati1-prD6bU57di-Ww-W~Uf2CJuItgBty~ScFMRH6VNloLhKJGI~z7q4xyI4mMApW-xQYGKpG91pbA8NSl0qYmBA~p3YxxipMHmKPVnthmIym6gHd2AKPM~ze2QPvQWK2r~Fpgq6Vsdq~TAzm59YQr2pipMQUTW7WhFkrGyvgtqi4T0yyFBjnjcOKoJ5Xnyt3yiXkXNDc7YJLek4zAmFhseMlWfkZH8bf5RdD7hRw~j6gX9-fUY0QTyph8JCB1JA6lxkLGmmZOCbTutL-u1bygvZmiSYXzE2uw5liwLJ1Kgm07c3Cw__&w=640&q=75",
+      "expire": "02-06-2025",
+      "time": "26",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "A carabina (Guerra às crianças)",
+      "reference_id": "000000610_16001224_chaves_2024_128",
+      "original_title": "La guerra contra los ninos",
+      "episode_order_number": "119",
+      "id": "6373505202112",
+      "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F5b5f2039-20b9-4901-ac06-f3b2ed1fc34e%2Fmain%2F1280x720%2F9m29s690ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzViNWYyMDM5LTIwYjktNDkwMS1hYzA2LWYzYjJlZDFmYzM0ZS9tYWluLzEyODB4NzIwLzltMjlzNjkwbXMvbWF0Y2gvaW1hZ2UuanBnKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0ODMyOTcxM319fV19%26Signature%3DN8kG7S9Xx8Xyz7wckSCcB49SYno7ohc4ilyNKoLO~N8Vy188h37GMPGNxPhM4XlzQBO2q0NEoPm~Xv7a3XEh2DXhGUo8uSzIZ3yxW1q23ppVC1CKKSbQt43Feq4s9A~~YUfWtkiTWrXag-xS7rwMmQchNH2wcalkXM1dx244XuRbf76gV8O5dWV-DmqTVTgUoQ0~Xx0n~Yi6KmkUzIuf-sZodt2OvsF5AnBM2H8anE2nWhNJXT8-WZeEWOMVhdv4a8BZ5B-sRYVCc~pO41vKtVdfFnvoQaWdXOuXJL7cJnnf4pt3TEYIgWGJgX1TJJV3ls16eKqFW5CKP3qYruqDHA__&w=640&q=75",
+      "expire": "02-06-2025",
+      "time": "19",
       "enabled": false,
       "quality": [
         "720P"
