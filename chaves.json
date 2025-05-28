@@ -2129,7 +2129,7 @@
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F6441c567-67f9-476d-8daf-672f5f8ee8b6%2Fmain%2F1280x720%2F11m1s994ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzY0NDFjNTY3LTY3ZjktNDc2ZC04ZGFmLTY3MmY1ZjhlZThiNi9tYWluLzEyODB4NzIwLzExbTFzOTk0bXMvbWF0Y2gvaW1hZ2UuanBnKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0Nzc4Njg3M319fV19%26Signature%3DU5cpEhIRg2eu74eevS-7RJmfhV90-OcbpqnlJ9fFQk6sZQ9eX6tgtHDgYxbGDMcqIQCx1RHyqd--0t30QVni2hBUf0A-LBOcp1t5m-MBFyiKnUwJyERe2VkIPThhV83pjXob9HaNM3ufnZ2qiYIkNnTWQTjsNY61jQ6r4Hz7NoQPQZc2IKG7KkVGScYnKe2WGUUsMYfimUsUBuFhjk-fRPWjofCD-Ka70fMjzdfqdKSfc2Pt5Bv2tsfiRw9d5lyc1qnsq7g6IrJRJkJ5ZunpY1a2nBDL6rzg6SS0XlhAwcZhakRlI9kIXJnJOwnXs-ioH3tuMMbqxTZU~gtJxCPP3g__&w=640&q=75",
       "expire": "27-05-2025",
       "time": "22",
-      "enabled": false,
+      "enabled": true,
       "quality": [
         "720P"
       ]
@@ -2143,7 +2143,7 @@
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2Fe464d66f-5b56-4ca1-b452-3c0c1eca7c99%2Fmain%2F1280x720%2F10m48s245ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxL2U0NjRkNjZmLTViNTYtNGNhMS1iNDUyLTNjMGMxZWNhN2M5OS9tYWluLzEyODB4NzIwLzEwbTQ4czI0NW1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NDc3ODY4NDF9fX1dfQ__%26Signature%3DRqcbsBJRLOosWALVjP~1EmAF-lfPvFYjF1p63xuY5lHdKB~MmnC1woIWMfo5XktDln0GN-nFOl01iXeq~UNcUsghnPM97ssFw~hI2-N4XhaJ1nRW8IZ0TtadCKWo~DkQuNZd0x~1Q5hdPImtmQitJjny0XZCmxnNmS-eqiTMfBDomIvkzP-vBJygOnfwLpWBcYVSMJpEm3RkgvmEzDmJgxMTnIyfCveSwPuzGJvZ6wvzmO0QoCRhYvA~4aMx9-k~mVhQcu8LkQygM9rHNaW8NH3ovjZZvmdgyQ6SSc0ReiYVW-VR4IcPOl8VhLMmdS1NDfgJ4WP-pmTe3pk0VniVYg__&w=640&q=75",
       "expire": "27-05-2025",
       "time": "22",
-      "enabled": false,
+      "enabled": true,
       "quality": [
         "720P"
       ]
@@ -2157,7 +2157,7 @@
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F89dbe56f-bd10-4077-93da-a59288df000e%2Fmain%2F1280x720%2F9m20s597ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzg5ZGJlNTZmLWJkMTAtNDA3Ny05M2RhLWE1OTI4OGRmMDAwZS9tYWluLzEyODB4NzIwLzltMjBzNTk3bXMvbWF0Y2gvaW1hZ2UuanBnKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0Nzc4NjYzNn19fV19%26Signature%3Dco65yYrAB5CVj4D-1d7KmD7~T-PgfCIr7RKEaXZvZ2AsUV38sC3H0VYZBaU4LWSPM0xG3n3NG8VTpYha~X-cd4nBYiRtZSfwgLBnz~~hxUhsORYxPvHrJyIJJ4QQIrgUsv5z3fInITex0FbV7pihAvRj-HJrZQ6Q075UQIO5iT-mK51PULrVWuv6ZNVt7mrcmh5ePWwileD8lnIH5JXoOPeGaUzxB7CluFQBCibxuKXLYS0fBQg6gYDGT8QVH36uk-9qvNEzvClLuOXXX3pCYRXnpqGmYxUw1X7xu~cQYHl0vPSvFKca~~xK2LEuJ6Hy3DTSItebPinGlUEHdyESoQ__&w=640&q=75",
       "expire": "27-05-2025",
       "time": "19",
-      "enabled": false,
+      "enabled": true,
       "quality": [
         "720P"
       ]
@@ -2171,7 +2171,7 @@
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2Fa465850a-2360-430d-b8bb-ad94a68d6513%2Fmain%2F1280x720%2F9m17s493ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxL2E0NjU4NTBhLTIzNjAtNDMwZC1iOGJiLWFkOTRhNjhkNjUxMy9tYWluLzEyODB4NzIwLzltMTdzNDkzbXMvbWF0Y2gvaW1hZ2UuanBnKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0Nzc4NjYyOX19fV19%26Signature%3DVwA5TpIchsd7tdTaK6G7~o-y6J7ILNwHI6BnLlBMTyio2m6dsbHsiAReumZgEY1~UxEpA9fC662pdsSUwEMJbAlUj6Z376MplBu0H~PgNxPQL4NaJt5durewheVam3p2PcaNcjvKjj9UPhwT56vXefhIH5MxeCLTOsmtYar-d~24lIAVwxWBMTTScWE0T1eZzxAAeE33kcC~lSZ5DNBIHBsr1xkoq8ISZbAK3UUs~uhle4jXEYkA683fie2ZmcDOOXdgDoP9vWrjMJZV12H-VU~QhF4tgdrQzDH9xeySrsgnzApFb7SKnSv1kHNVMR2Ex3Bij70jHftfTjy7SLfcNQ__&w=640&q=75",
       "expire": "27-05-2025",
       "time": "19",
-      "enabled": false,
+      "enabled": true,
       "quality": [
         "720P"
       ]
@@ -2185,7 +2185,7 @@
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F54fc4edd-292d-493b-91fd-74b780725c74%2Fmain%2F1280x720%2F10m29s632ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzU0ZmM0ZWRkLTI5MmQtNDkzYi05MWZkLTc0Yjc4MDcyNWM3NC9tYWluLzEyODB4NzIwLzEwbTI5czYzMm1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NDc4MTA5MjR9fX1dfQ__%26Signature%3DRQLbUH5dD1fuL4B1LHBJcDz3Xmt-bZX1eCpGP0DCE9QDGMe~Z2wq5N0-UY7EmNWBxLXRR6K9ooYAvh0E5TBEPkBSkhMMi6zFeMminbyHy4kK44-5z14ahtPOLgRi8eLDNzmej-L3dhCqSrq9x1GQyjfV3qYPOOHpBV4EM3dXgPL4K5UQv5VFZIsCeuesZVft3vYI1UrvEflnW7AijVdgWvPpyxVY8nKXgKH5TTzAi38iKuhbCPmXCcNCUtC3UZ5NX8CBJBk5tr909~UjChGAWA~ggScQDl6EHePBLd3I8-0ipon0~rZQT2CQT-sv5s9YP6nd5YtecN24YWbwkolG1Q__&w=640&q=75",
       "expire": "27-05-2025",
       "time": "21",
-      "enabled": false,
+      "enabled": true,
       "quality": [
         "720P"
       ]
@@ -2241,7 +2241,7 @@
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2Fc7cfcab3-c33a-4b01-9dc4-366a88cc1c38%2Fmain%2F1280x720%2F10m58s208ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxL2M3Y2ZjYWIzLWMzM2EtNGIwMS05ZGM0LTM2NmE4OGNjMWMzOC9tYWluLzEyODB4NzIwLzEwbTU4czIwOG1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NDc4NzA3MzB9fX1dfQ__%26Signature%3DfxgsR8IkiS9HUcrEN39tCOrX3CAOFy9phS1mpeorG1aWNMfgEzNr6yP6YjxseuECz9XuybJFJpmDu6beFLmtji4Ddjus3k9e-I82xrwv-HUVWNRoFQiTkjDdU1Wyu9qHYYAt1Q~PnY2q4APcHRZknPn8kOW5e3fShsINGDF2fdbdWZFIRghDaQkHYs9JEIg8UPyf6s-AqiIqyCcOgI6vrfHT0BxLJI0xnnq3ZVE5H-BNAgwMyMZMltLVrZS5P3M9DwAJNGE3Vf9VhMfyYST-6AsWQQV1V3luj1dqMONFuWMJMSi7EObohyMwn5xIhcVpelY0a3xyuRmoXGufUS2HpQ__&w=640&q=75",
       "expire": "28-05-2025",
       "time": "22",
-      "enabled": false,
+      "enabled": true,
       "quality": [
         "720P"
       ]
@@ -2465,6 +2465,48 @@
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F5b5f2039-20b9-4901-ac06-f3b2ed1fc34e%2Fmain%2F1280x720%2F9m29s690ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzViNWYyMDM5LTIwYjktNDkwMS1hYzA2LWYzYjJlZDFmYzM0ZS9tYWluLzEyODB4NzIwLzltMjlzNjkwbXMvbWF0Y2gvaW1hZ2UuanBnKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0ODMyOTcxM319fV19%26Signature%3DN8kG7S9Xx8Xyz7wckSCcB49SYno7ohc4ilyNKoLO~N8Vy188h37GMPGNxPhM4XlzQBO2q0NEoPm~Xv7a3XEh2DXhGUo8uSzIZ3yxW1q23ppVC1CKKSbQt43Feq4s9A~~YUfWtkiTWrXag-xS7rwMmQchNH2wcalkXM1dx244XuRbf76gV8O5dWV-DmqTVTgUoQ0~Xx0n~Yi6KmkUzIuf-sZodt2OvsF5AnBM2H8anE2nWhNJXT8-WZeEWOMVhdv4a8BZ5B-sRYVCc~pO41vKtVdfFnvoQaWdXOuXJL7cJnnf4pt3TEYIgWGJgX1TJJV3ls16eKqFW5CKP3qYruqDHA__&w=640&q=75",
       "expire": "02-06-2025",
       "time": "19",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "O banho de Chaves",
+      "reference_id": "000000610_16007200_chaves_2024_018",
+      "original_title": "Tratando de banar al Chavo",
+      "episode_order_number": "121",
+      "id": "6373534687112",
+      "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F61566139-2d40-4d20-8234-3119fcc9d720%2Fmain%2F1280x720%2F11m13s658ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzYxNTY2MTM5LTJkNDAtNGQyMC04MjM0LTMxMTlmY2M5ZDcyMC9tYWluLzEyODB4NzIwLzExbTEzczY1OG1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NDg0NjI1MDF9fX1dfQ__%26Signature%3DVE7JWUaNmvOtwiRo2w~y2QH4xUMBXiTST4JtLjE90HR244zfLje9JarMvMtfjs36niKqGVoxdsEP5riNZyohgxHjnezA047ZuvQ9SqeMyVuwxuOYPWb83pTh9kZDxz0vjoUOGLzGkCgr5DyBZeGNjId6xDwMXKwki9KjMiLHYw~DFd5ONdV~rGup6meW-Be5TOI30cLzySJ61blGX3MFcVdFPxvvm4oP908hdI-YL3pNHNe941btM87rqInLnBoxnfIKBAg07gqeBX-sKo4SldMaKKov9csyXM~BunFF-yR~mPvbkSzF2sFXn0btAdtfZ4QIDPnd6Am0GcC0tjty3w__&w=640&q=75",
+      "expire": "03-06-2025",
+      "time": "22",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "Era uma vez um gato - Parte 1",
+      "reference_id": "000000610_16001224_chaves_2024_117",
+      "original_title": "La mascota de Quico",
+      "episode_order_number": "122",
+      "id": "6372930927112",
+      "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F22479edf-2699-4121-ae51-b2513c2aacdb%2Fmain%2F1280x720%2F10m12s832ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzIyNDc5ZWRmLTI2OTktNDEyMS1hZTUxLWIyNTEzYzJhYWNkYi9tYWluLzEyODB4NzIwLzEwbTEyczgzMm1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NDg0NzUzNTl9fX1dfQ__%26Signature%3DFwz2X72Sv9qwNR48J6sIoqlsBU8-nTbnRE9~NPs8zxqj-ifphKwNtxgdAIIUTCeQqmBPTSmzjwyOjvvLO-EIVbsWO1WXMZUzViWEoydnSh5VPQP3qMeNDzfHw-RCyxxHzFGBld2JkfP55x4xzQQpDUTiRJ1vZadABOq3vKLWURnWGaK6nwYczDeTijLv3dRlKykpwx11V-gz3YMYo77LvrbSe0vAGP8Bcs74KhyOGokamtYofKSlk6SERlSqb03LIi~J7kKxUhZ6GJH9aeIs31tlM6DL3VvAMd7dt2RJVd8FhVxdFe0r4WqmlGgkUxlX-2TREjRj0QEVN6yVq0FDaw__&w=640&q=75",
+      "expire": "04-06-2025",
+      "time": "20",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "Era uma vez um gato - Parte 2",
+      "reference_id": "000000610_16001224_chaves_2024_118",
+      "original_title": "El jucito del Chavo",
+      "episode_order_number": "123",
+      "id": "6372930339112",
+      "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2Fb75beaa0-0bf0-460c-a0c8-a1810c0c4b4f%2Fmain%2F1280x720%2F11m25s450ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxL2I3NWJlYWEwLTBiZjAtNDYwYy1hMGM4LWExODEwYzBjNGI0Zi9tYWluLzEyODB4NzIwLzExbTI1czQ1MG1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NDg0NzU1Mjh9fX1dfQ__%26Signature%3DBFrSjWeOEhgpliapyC6X7MswvqSPaxSyMH~4DDl7aPkhjgP8LDSamKD3pdo-JPmCl~tBoeqDo7W~jIeqMRBo4JmBAyjO7k-KfjQjetmrjjkVR-RVqMX6mpwqmzJI3FfkI~5wsD6AkmyNFREfyLN4bx~VmKafKpDnG-~p3V1eqgnXY52iwtx7RHXekWFm56zuLwLpEteD8lKelXQDE1tEN2RbAw3BtRBswbFjYVRfai~4P~UYm5VoR1Z4j67KPX8tIJRB0pn72vq7UMsoJplN7FSttQ2ZJFDZnZAWkOTDOR25VcjJOVSyB-yTKUFuYsbCixTsa3ltpgt8~vdz5XeIsQ__&w=640&q=75",
+      "expire": "04-06-2025",
+      "time": "23",
       "enabled": false,
       "quality": [
         "720P"
