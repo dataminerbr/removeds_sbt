@@ -217,20 +217,6 @@
       ]
     },
     {
-      "name": "Confusão no cabeleireiro",
-      "reference_id": "000000610_16001224_chaves_2024_028",
-      "original_title": "Trabajo nuevo",
-      "episode_order_number": "0",
-      "id": "20241210_011",
-      "cover": "https://images.weserv.nl/?sat=0&url=https://i.ibb.co/Kxj0Wfqv/20241210-011.jpg",
-      "expire": "10-12-2024",
-      "time": "21",
-      "enabled": false,
-      "quality": [
-        "720P"
-      ]
-    },
-    {
       "name": "Um porquinho de cada vez",
       "reference_id": "000000610_16001224_chaves_2024_074",
       "original_title": "La alcancía",
@@ -253,20 +239,6 @@
       "cover": "https://images.weserv.nl/?sat=0&url=https://i.ibb.co/99p9c18H/20241211-013.jpg",
       "expire": "11-12-2024",
       "time": "22",
-      "enabled": false,
-      "quality": [
-        "720P"
-      ]
-    },
-    {
-      "name": "Na escola... domingo!",
-      "reference_id": "000000610_16001224_chaves_2024_009",
-      "original_title": "El pretexto para ir a la escuela",
-      "episode_order_number": "0",
-      "id": "20241216_016",
-      "cover": "https://images.weserv.nl/?sat=0&url=https://i.ibb.co/KjXZqRMR/20241216-016.jpg",
-      "expire": "16-12-2024",
-      "time": "21",
       "enabled": false,
       "quality": [
         "720P"
@@ -441,20 +413,6 @@
       ]
     },
     {
-      "name": "Invisibilidade",
-      "reference_id": "000000610_16001224_chaves_2024_141",
-      "original_title": "",
-      "episode_order_number": "0",
-      "id": "20250313_082",
-      "cover": "https://images.weserv.nl/?sat=0&url=https://i.ibb.co/JhNTYM1/20250313-082.jpg",
-      "expire": "13-03-2025",
-      "time": "20",
-      "enabled": false,
-      "quality": [
-        "720P"
-      ]
-    },
-    {
       "name": "O Cachorrinho",
       "reference_id": "000000610_16001224_chaves_2024_142",
       "original_title": "",
@@ -539,34 +497,6 @@
       ]
     },
     {
-      "name": "Falta Água Sobram Problemas - Parte 1",
-      "reference_id": "000000610_16001224_chaves_2024_097",
-      "original_title": "",
-      "episode_order_number": "0",
-      "id": "20250325_109",
-      "cover": "https://images.weserv.nl/?sat=0&url=https://i.ibb.co/847SGWdX/20250325-109.jpg",
-      "expire": "25-03-2025",
-      "time": "17",
-      "enabled": false,
-      "quality": [
-        "720P"
-      ]
-    },
-    {
-      "name": "Um Bom Encanador Não Entra Pelo Cano! - Parte 2",
-      "reference_id": "000000610_16001224_chaves_2024_098",
-      "original_title": "",
-      "episode_order_number": "0",
-      "id": "20250326_112",
-      "cover": "https://images.weserv.nl/?sat=0&url=https://i.ibb.co/rK6tyVMQ/20250326-112.jpg",
-      "expire": "26-03-2025",
-      "time": "19",
-      "enabled": false,
-      "quality": [
-        "720P"
-      ]
-    },
-    {
       "name": "Uma Epidemia de Gripe",
       "reference_id": "000000610_16007200_chaves_2024_060",
       "original_title": "",
@@ -617,34 +547,6 @@
       "cover": "https://images.weserv.nl/?sat=0&url=https://i.ibb.co/cG0k3hR/20250331-124.jpg",
       "expire": "31-03-2025",
       "time": "18",
-      "enabled": false,
-      "quality": [
-        "720P"
-      ]
-    },
-    {
-      "name": "Entre Touros e Chifradas - Parte 2",
-      "reference_id": "000000610_16001224_chaves_2024_092",
-      "original_title": "",
-      "episode_order_number": "0",
-      "id": "20250402_127",
-      "cover": "https://images.weserv.nl/?sat=0&url=https://i.ibb.co/gLTYCBLj/20250402-127.jpg",
-      "expire": "02-04-2025",
-      "time": "20",
-      "enabled": false,
-      "quality": [
-        "720P"
-      ]
-    },
-    {
-      "name": "Os Toureadores - Parte 3",
-      "reference_id": "000000610_16001224_chaves_2024_093",
-      "original_title": "",
-      "episode_order_number": "0",
-      "id": "20250402_128",
-      "cover": "https://images.weserv.nl/?sat=0&url=https://i.ibb.co/zhBsDz5V/20250402-128.jpg",
-      "expire": "02-04-2025",
-      "time": "23",
       "enabled": false,
       "quality": [
         "720P"
@@ -2423,7 +2325,7 @@
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F6a225f08-812f-4609-b40c-af5badf8e6e4%2Fmain%2F1280x720%2F13m10s223ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzZhMjI1ZjA4LTgxMmYtNDYwOS1iNDBjLWFmNWJhZGY4ZTZlNC9tYWluLzEyODB4NzIwLzEzbTEwczIyM21zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NDgzMTY0ODR9fX1dfQ__%26Signature%3Dc~ltIOmsmeXWryP0k6WSMvWhYE9IWhuxKo19ati1-prD6bU57di-Ww-W~Uf2CJuItgBty~ScFMRH6VNloLhKJGI~z7q4xyI4mMApW-xQYGKpG91pbA8NSl0qYmBA~p3YxxipMHmKPVnthmIym6gHd2AKPM~ze2QPvQWK2r~Fpgq6Vsdq~TAzm59YQr2pipMQUTW7WhFkrGyvgtqi4T0yyFBjnjcOKoJ5Xnyt3yiXkXNDc7YJLek4zAmFhseMlWfkZH8bf5RdD7hRw~j6gX9-fUY0QTyph8JCB1JA6lxkLGmmZOCbTutL-u1bygvZmiSYXzE2uw5liwLJ1Kgm07c3Cw__&w=640&q=75",
       "expire": "02-06-2025",
       "time": "26",
-      "enabled": false,
+      "enabled": true,
       "quality": [
         "720P"
       ]
@@ -2437,7 +2339,7 @@
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F5b5f2039-20b9-4901-ac06-f3b2ed1fc34e%2Fmain%2F1280x720%2F9m29s690ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzViNWYyMDM5LTIwYjktNDkwMS1hYzA2LWYzYjJlZDFmYzM0ZS9tYWluLzEyODB4NzIwLzltMjlzNjkwbXMvbWF0Y2gvaW1hZ2UuanBnKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0ODMyOTcxM319fV19%26Signature%3DN8kG7S9Xx8Xyz7wckSCcB49SYno7ohc4ilyNKoLO~N8Vy188h37GMPGNxPhM4XlzQBO2q0NEoPm~Xv7a3XEh2DXhGUo8uSzIZ3yxW1q23ppVC1CKKSbQt43Feq4s9A~~YUfWtkiTWrXag-xS7rwMmQchNH2wcalkXM1dx244XuRbf76gV8O5dWV-DmqTVTgUoQ0~Xx0n~Yi6KmkUzIuf-sZodt2OvsF5AnBM2H8anE2nWhNJXT8-WZeEWOMVhdv4a8BZ5B-sRYVCc~pO41vKtVdfFnvoQaWdXOuXJL7cJnnf4pt3TEYIgWGJgX1TJJV3ls16eKqFW5CKP3qYruqDHA__&w=640&q=75",
       "expire": "02-06-2025",
       "time": "19",
-      "enabled": false,
+      "enabled": true,
       "quality": [
         "720P"
       ]
@@ -2465,7 +2367,7 @@
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F61566139-2d40-4d20-8234-3119fcc9d720%2Fmain%2F1280x720%2F11m13s658ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzYxNTY2MTM5LTJkNDAtNGQyMC04MjM0LTMxMTlmY2M5ZDcyMC9tYWluLzEyODB4NzIwLzExbTEzczY1OG1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NDg0NjI1MDF9fX1dfQ__%26Signature%3DVE7JWUaNmvOtwiRo2w~y2QH4xUMBXiTST4JtLjE90HR244zfLje9JarMvMtfjs36niKqGVoxdsEP5riNZyohgxHjnezA047ZuvQ9SqeMyVuwxuOYPWb83pTh9kZDxz0vjoUOGLzGkCgr5DyBZeGNjId6xDwMXKwki9KjMiLHYw~DFd5ONdV~rGup6meW-Be5TOI30cLzySJ61blGX3MFcVdFPxvvm4oP908hdI-YL3pNHNe941btM87rqInLnBoxnfIKBAg07gqeBX-sKo4SldMaKKov9csyXM~BunFF-yR~mPvbkSzF2sFXn0btAdtfZ4QIDPnd6Am0GcC0tjty3w__&w=640&q=75",
       "expire": "03-06-2025",
       "time": "22",
-      "enabled": false,
+      "enabled": true,
       "quality": [
         "720P"
       ]
@@ -2512,7 +2414,6 @@
         "720P"
       ]
     },
-
     {
       "name": "A Venda da Vila - Parte 1",
       "reference_id": "000000610_16001224_chaves_2024_166",
@@ -2615,7 +2516,7 @@
       "name": "Os carpinteiros - Parte 1",
       "reference_id": "000000610_16001224_chaves_2024_065",
       "original_title": "-",
-      "episode_order_number": "132",
+      "episode_order_number": "131",
       "id": "6371369121112",
       "cover": "https://img.youtube.com/vi/wifeDmXctJ8/maxresdefault.jpg",
       "expire": "20-04-2025",
@@ -2629,11 +2530,81 @@
       "name": "Quanto mais quente pior - Parte 2",
       "reference_id": "000000610_16001224_chaves_2024_010",
       "original_title": "-",
-      "episode_order_number": "133",
+      "episode_order_number": "132",
       "id": "6371368227112",
       "cover": "https://img.youtube.com/vi/o_BXqAuy3lY/maxresdefault.jpg",
       "expire": "20-04-2025",
       "time": "17",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "Jogando futebol",
+      "reference_id": "000000610_16001224_chaves_2024_040",
+      "original_title": "Futbol en la vencidad",
+      "episode_order_number": "133",
+      "id": "6373824978112",
+      "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2Fe1873ddb-04b1-4255-8069-da7a599b179b%2Fmain%2F1280x720%2F11m19s61ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxL2UxODczZGRiLTA0YjEtNDI1NS04MDY5LWRhN2E1OTliMTc5Yi9tYWluLzEyODB4NzIwLzExbTE5czYxbXMvbWF0Y2gvaW1hZ2UuanBnKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0NzE2NjYyMn19fV19%26Signature%3DUt8OT2FTaMsmhVdzq16nnC2afQbHSFn8dKEuRwjTpiG4XDVKo1rYKVKVlqX0TV--3vnhDruvLs8R5p4s7EVUf7iqOk-UP-d6CMYVZ58mJoRHkQ8YnyrrecOUXkGQNsrJUWmxLHlT79x161URrk8ttkf5A713-hccOflEBhPTabLYY~q3Sx86LnGP1RSht9subYW52eDjX8s86Ro6oXAHntQiaBN7Yd1dpcBmrpkWuJfHBmLVbgckwpxy34Uq8r-yFFh8bJaddKjvVNEpsTa0Tv4HbtyrDWTD3rO2RQMti0Iru23fQXEIWJK5kUCsQQ6v7qyg6j-ta1y4Opz3Hdr6XQ__&w=640&q=75",
+      "expire": "19-05-2025",
+      "time": "23",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "Viva a independência",
+      "reference_id": "000000610_16007200_chaves_2024_094",
+      "original_title": "La independencia",
+      "episode_order_number": "133",
+      "id": "6373824978112",
+      "cover": "https://images.weserv.nl/?sat=0&url=https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F60907de2-5dcf-4fa3-bd16-1b22a4bf1173%2Fmain%2F1280x720%2F11m19s61ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzYwOTA3ZGUyLTVkY2YtNGZhMy1iZDE2LTFiMjJhNGJmMTE3My9tYWluLzEyODB4NzIwLzExbTE5czYxbXMvbWF0Y2gvaW1hZ2UuanBnKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0ODk5MTU4OX19fV19%26Signature%3DI0aj3h9bGDu1IQnogcGK7KMhiOlwQgKVwG8KdqWmWfUOJtuSdCePqlrzL1zJ~f4urTEfM5220dldz5-HyD73V9Py-SxNGss4eql~gppM2sapXYtRkQ3yYnrhk6nmV7Xmgj6xub4NE1bIRntwvaqu0LEpcr4YxwyyZjx7EqjzdJNPHocgh2~TBZr1FL9P0byavqZvcmtGb0H1zLnxTH0qnASIGbmQU2TcNisvzQeHl5ZA9Hte5MsbAXeWBYDe94MD7r6JvunR1jED0v7~s~I2uHey4LW7pyrhJPfsn5UnF6OH9Apr61EnyzD09D-Ck5bUM5vJ35~EcvH157QhRt~OoQ__&w=640&q=75",
+      "expire": "09-06-2025",
+      "time": "23",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "Estou morrendo de saudade da minha amiga (Chiquinha, terror do cortiço)",
+      "reference_id": "000000610_16001224_chaves_2024_053",
+      "original_title": "El regreso de la Chilindrina",
+      "episode_order_number": "133",
+      "id": "6373793410112",
+      "cover": "https://images.weserv.nl/?sat=0&url=https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2Fc0768eb1-c3ec-4d4d-84c6-6c388d152c7e%2Fmain%2F1280x720%2F11m7s82ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxL2MwNzY4ZWIxLWMzZWMtNGQ0ZC04NGM2LTZjMzg4ZDE1MmM3ZS9tYWluLzEyODB4NzIwLzExbTdzODJtcy9tYXRjaC9pbWFnZS5qcGcqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzQ4OTkxNTYyfX19XX0_%26Signature%3DbAd1ad~cfi~VlI~9UTzFVDXmssY2Ad7-VzUDFthJEKqdre-WrVBoVncfrNCK3jpDNQfgIshLGkOjbDVEdr3~umLGie8IYM2ZHlVGcRfWT2rGf6fFT~9dsO~ySNWEAWDvIcRhzBk7MWRMO9VPt6dn40o0b995ozSvi-23dR3YaONNOM7wcNrmpxbVUfiy7eqFwGqAIJyfPEM5MH1E9T2~7IMy~Dufyg5FXDC-lEi4eQLMCSYYJyY5FvnK-b1eV2zqykZVH~lwAm4p26wZcSRT32rxqSq8oEEzANJyzD0DX5-7EmCXnqANALUWAzUhxBdV~ogdryhIFVSr0cdixIXzvQ__&w=640&q=75",
+      "expire": "09-06-2025",
+      "time": "22",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "Entre touros e chifradas - Parte 1",
+      "reference_id": "000000610_16001224_chaves_2024_092",
+      "original_title": "Los tereros y toros",
+      "episode_order_number": "134",
+      "id": "6373793891112",
+      "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2Fbc2f466b-dd82-449f-894e-1ab5816f8320%2Fmain%2F1280x720%2F10m26s954ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxL2JjMmY0NjZiLWRkODItNDQ5Zi04OTRlLTFhYjU4MTZmODMyMC9tYWluLzEyODB4NzIwLzEwbTI2czk1NG1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NDg5OTM2NTZ9fX1dfQ__%26Signature%3Db~jvZC-ZqKneV7qz8dDsbUOkptxclmECNiC2Ks7ZpN0wdpCfMW4jQM15Y0YYS4dsqaI7eRpjRQwtBfj6ZKCf46TC1JX0RKTaWX0QNnpJsFGozcw5O~vpKiZTvYCYaoT4htiEB9-Tvu6esDsxTk3f0SkM~jojm0lJdAcA0zrZKq3tro9FqQzblwBzLHXpshsLfUWcaZN8aS6ekIfCO1IXLT6FNOEpHmCzckGNy1i83fVenSDdvAYx5YhT3onwX2uixBzdicQVcHRGKmj6BPO5EWUwDYstD7oJxe0mKywDlpeHxueoL-67DZbbcBPpR5mYQts75HGW7mlMKNmDyvINpA__&w=640&q=75",
+      "expire": "10-06-2025",
+      "time": "21",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "Os toureadores - Parte 2",
+      "reference_id": "000000610_16001224_chaves_2024_093",
+      "original_title": "Que golpiza",
+      "episode_order_number": "135",
+      "id": "6373793892112",
+      "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2Fc6101c2f-ce96-44d1-87b4-b61229905b91%2Fmain%2F1280x720%2F10m44s490ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxL2M2MTAxYzJmLWNlOTYtNDRkMS04N2I0LWI2MTIyOTkwNWI5MS9tYWluLzEyODB4NzIwLzEwbTQ0czQ5MG1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NDg5OTM2OTd9fX1dfQ__%26Signature%3DRiYKUgUl6Pu0nAonqXWF1koULv0xBP1x5HApdwwLtORimvujHdFlRdWlj4PmvF5pNVTeelxv0lZQ7-L5ZaFFOXaTQ8zXSaGcVMFGV7gnISB2PhWUG9C7h7r4rqwYZ2KL94r6aXdJxGEFqVnltmOGxvHnOqs9l0Zs87hVwWB3VtgHx5NYFGFQACruUfbhmRCxZ-YcpbSqfajTAn-cypWqKLJwtHzUicmtD7FMFvILwEBC71Xw1ge51nx5MhjfMjEZ9c2jznr08jNWFUxRsYxQtBBqBsqmjNkjEIWCzNynUNIkoOwQUPRB8Zeseufdm8aWXQA7d0nQhOrH0PJLU~U5ow__&w=640&q=75",
+      "expire": "10-06-2025",
+      "time": "21",
       "enabled": false,
       "quality": [
         "720P"
