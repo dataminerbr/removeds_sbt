@@ -450,7 +450,7 @@
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F7d34b34d-c0f5-4d93-987e-8e6d47a8d831%2Fmain%2F1280x720%2F9m20s869ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzdkMzRiMzRkLWMwZjUtNGQ5My05ODdlLThlNmQ0N2E4ZDgzMS9tYWluLzEyODB4NzIwLzltMjBzODY5bXMvbWF0Y2gvaW1hZ2UuanBnKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0ODMzMzUwN319fV19%26Signature%3DJ3we57Z2bEZFWs9uppcpOghFmjhjIhSWLidxpTL4jgSR3bFjKoExhd6tDBtI-wmmmbNSVkHNPFmtMW3weloFkWLcA8KCRgNvXPBu1hLWTSrJx1nLheelejy~aPUl7Ig7oMegHNLBgScWN5b8C-yvL596mcfIfNlOBudCyfMvl2KohKEbhw2qpv~5k61QwNCo133G6UgsduSGg3Qz-lB9o9biY2Vr8aOiGhqxVZIcJvdBxO5YDX7QDrm6jU7WprJxK9qI2Nyaly88TD9vlMIHtm1cXr7cyclyGaN8OkvxlgiUFS4ba9sfCJN92S~-hkbAqKhWFTwyAhDjIha5dMLIpw__&w=640&q=75",
       "expire": "02-06-2025",
       "time": "19",
-      "enabled": false,
+      "enabled": true,
       "quality": [
         "720P"
       ]
@@ -491,6 +491,20 @@
       "id": "6373661475112",
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F93f9a381-7d86-4fac-9698-13e95572cc52%2Fmain%2F1280x720%2F9m48s554ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzkzZjlhMzgxLTdkODYtNGZhYy05Njk4LTEzZTk1NTcyY2M1Mi9tYWluLzEyODB4NzIwLzltNDhzNTU0bXMvbWF0Y2gvaW1hZ2UuanBnKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0ODY3OTQ4MX19fV19%26Signature%3DGrUsW9U-KzqjCvRm4y-998ekwVaFtLa3ohVL9TXDqbgo2uqTCiyCzZWr-CmpPk~F1jkMxe8-O5iXzq~iab6Mu0JBbFjB9tNqGpoTV65V95pxxlMixfx7ePz~2dmeywN-024BVaPjTMlpyPFk0365QTSxcNR62APW0TDiTPMhh6LyD9jSFBE8ZI1oLju1n~z54smqzL0Al9e-q-Z6sHr46Hykl4cVQZI8oBXIDYcwh3jOky2RFnA8JbTEzYXlfJ6tTsLSt6cgQH9rtSIuN5zGEJSu6huWZb6hjGUiKBVVMussfrrKi1iDjwFETnr2Ao~lk5QpG6bAphvXBlZkshPqeA__&w=640&q=75",
       "expire": "06-06-2025",
+      "time": "20",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "O anel brilhante",
+      "reference_id": "000000611_16001293_chapolincolorado_2024_005",
+      "original_title": "El robo del anillo",
+      "episode_order_number": "26",
+      "id": "6373792624112",
+      "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2Ffb79dda7-376e-434c-b856-accdcfa96fd0%2Fmain%2F1280x720%2F9m57s130ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxL2ZiNzlkZGE3LTM3NmUtNDM0Yy1iODU2LWFjY2RjZmE5NmZkMC9tYWluLzEyODB4NzIwLzltNTdzMTMwbXMvbWF0Y2gvaW1hZ2UuanBnKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0ODk5MTY0NH19fV19%26Signature%3DaIzoKZulVZOV9VtG3c3ETJ6e4tio2AHMp0g7hfFy1zST~NXi3hXEK61tvZfvDppuGF0-tn10cMzmRzS5KbX~~0vtAOwqpNxgvHqK5w2fsb0CUBuUwYBWeJGsY0fCJHNHYoTaIPfTW26X2AP51ngxMmfzTi4Zggz1LutvdzwQRxfa3omWBNb5Ggnmqp~YQEG~~MKgp6j~kquZg580LTxqDF~Mn8CplzgfPu7Hn3ND5TAo~Ij0hX0Kkej9aKEncJ3Z23cALQntYC3MWJgt~OayuPnPhmL-uE4iORB8i6Mn~sBaLod94ZcOhFQmJ8N2JB2dF49Av479nz-wucLY3TG9BQ__&w=640&q=75",
+      "expire": "09-06-2025",
       "time": "20",
       "enabled": false,
       "quality": [
