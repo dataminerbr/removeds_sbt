@@ -147,6 +147,40 @@
     }
   ],
   "videos_rotativos": [
+
+    {
+      "name": "O abominável homem das neves",
+      "reference_id": "000000611_16001293_chapolincolorado_2024_102",
+      "episode_order_number": "0",
+      "original_title": "",
+      "id": "20241012_001",
+      "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/wZarcQ2dMS8/maxresdefault.jpg",
+      "expire": "12-10-2024",
+      "time": "20",
+      "enabled": true,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "História de bruxas",
+      "reference_id": "000000611_16001293_chapolincolorado_2024_115",
+      "episode_order_number": "0",
+      "original_title": "",
+      "id": "20241012_002",
+      "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/Xf6wwpBAjLo/maxresdefault.jpg",
+      "expire": "12-10-2024",
+      "time": "20",
+      "enabled": true,
+      "quality": [
+        "720P"
+      ]
+    },
+
+
+
+
+
     {
       "name": "Uma conferência sobre o Chapolin",
       "reference_id": "000000611_16001293_chapolincolorado_2024_093",
