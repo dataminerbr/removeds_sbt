@@ -147,7 +147,6 @@
     }
   ],
   "videos_rotativos": [
-
     {
       "name": "O abominável homem das neves",
       "reference_id": "000000611_16001293_chapolincolorado_2024_102",
@@ -176,11 +175,20 @@
         "720P"
       ]
     },
-
-
-
-
-
+    {
+      "name": "A volta do Super Sam",
+      "reference_id": "000000611_16001293_chapolincolorado_2024_079",
+      "episode_order_number": "0",
+      "original_title": "",
+      "id": "20241102_003",
+      "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/ZTzKyCYhdZw/maxresdefault.jpg",
+      "expire": "02-11-2024",
+      "time": "XX",
+      "enabled": true,
+      "quality": [
+        "720P"
+      ]
+    },
     {
       "name": "Uma conferência sobre o Chapolin",
       "reference_id": "000000611_16001293_chapolincolorado_2024_093",
@@ -540,6 +548,90 @@
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2Ffb79dda7-376e-434c-b856-accdcfa96fd0%2Fmain%2F1280x720%2F9m57s130ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxL2ZiNzlkZGE3LTM3NmUtNDM0Yy1iODU2LWFjY2RjZmE5NmZkMC9tYWluLzEyODB4NzIwLzltNTdzMTMwbXMvbWF0Y2gvaW1hZ2UuanBnKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0ODk5MTY0NH19fV19%26Signature%3DaIzoKZulVZOV9VtG3c3ETJ6e4tio2AHMp0g7hfFy1zST~NXi3hXEK61tvZfvDppuGF0-tn10cMzmRzS5KbX~~0vtAOwqpNxgvHqK5w2fsb0CUBuUwYBWeJGsY0fCJHNHYoTaIPfTW26X2AP51ngxMmfzTi4Zggz1LutvdzwQRxfa3omWBNb5Ggnmqp~YQEG~~MKgp6j~kquZg580LTxqDF~Mn8CplzgfPu7Hn3ND5TAo~Ij0hX0Kkej9aKEncJ3Z23cALQntYC3MWJgt~OayuPnPhmL-uE4iORB8i6Mn~sBaLod94ZcOhFQmJ8N2JB2dF49Av479nz-wucLY3TG9BQ__&w=640&q=75",
       "expire": "09-06-2025",
       "time": "20",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "Dr. Chapatim / O bolo que deu bolo",
+      "reference_id": "000000611_16001293_chapolincolorado_2024_120",
+      "original_title": "El caso del pastel envenenadito",
+      "episode_order_number": "27",
+      "id": "6373794279112",
+      "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F7bbb42bf-42a5-4c1c-b045-5ee71d516dec%2Fmain%2F1280x720%2F10m51s520ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzdiYmI0MmJmLTQyYTUtNGMxYy1iMDQ1LTVlZTcxZDUxNmRlYy9tYWluLzEyODB4NzIwLzEwbTUxczUyMG1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NDkwMjAyMDd9fX1dfQ__%26Signature%3DRI6nS3ofIDnV0bOzv~~zt7p0WW0gdkp9B2UY-j5sSEWPO7zAN7hiD3Vwokm8q8BLaqOW0leqBnwqwyPGhjHYHcsOVA6hGFPcvIE5Yz28n7oCjaCmYeyFajgef~wBG0p7gLyunQN0Bo1I5QFgV~WWtzLxhhBJH~lsuZfliQQeoft9sJugRA5kSmqk7e2sLa~3R-EI0S01ENqjCPXXQbau60gGz-P0dzupm2XCjwj5s1gqrngAK5nl~UKNsGuz662OX2B89pXdYhwg9D7AYtkKMEepI-6dpFvT5YIfbLVGsLK9mqlqQU1gkjr8WC-N3Vbci5M22b432XORDksZOdZULw__&w=640&q=75",
+      "expire": "09-06-2025",
+      "time": "22",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "A vendedora de flores",
+      "reference_id": "000000611_16001293_chapolincolorado_2024_132",
+      "original_title": "MY FAIR LADY, QUE EN ESPAÑO QUIERE DECIR, QUE A MI DAMA LE FUE COMO EN FERIA",
+      "episode_order_number": "28",
+      "id": "6373903921112",
+      "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2Fcffc3c21-6dc8-41db-a8d2-a465d15c81b2%2Fmain%2F1280x720%2F10m35s530ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxL2NmZmMzYzIxLTZkYzgtNDFkYi1hOGQyLWE0NjVkMTVjODFiMi9tYWluLzEyODB4NzIwLzEwbTM1czUzMG1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NDkxNTY0OTZ9fX1dfQ__%26Signature%3DDnXFrS7LDl5AfHVbj~FcJ4bZ-6xk8AsnLXFGYMoElLXlFT12DQr8aaWE~t5ewg9x8kIsOBBJPjUuNFfBqHDFyFgBDFUqxg2Z92IV~bqcXfXStUW-5ZWORsMzPWSg6BqrzVwnm4Qu1xvyCn4aypwAFcGcPZeg7izsqkIr7C42lLVCSmBiL9a8vBiJtaicFQmTQmM~zOLOSIkIcjkoWJHDfMToYUYaZtusvIP2KenMS1nB6K-rAmzNhTRZDuet1fKjaooEW5i5HDJWulZVHxXseT~tlKJtuuEi5ncLrA1PJbHHC1zV4aCxtlxzN~Y3dQYDiBAIqWFBr6T0MDnCz4Ul6g__&w=640&q=75",
+      "expire": "11-06-2025",
+      "time": "21",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "O anel da bruxa",
+      "reference_id": "000000611_16001293_chapolincolorado_2024_002",
+      "original_title": "Una bruja no tan bruja",
+      "episode_order_number": "29",
+      "id": "6373908570112",
+      "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F8d8b1795-be76-4433-9ac9-0019dc77d281%2Fmain%2F1280x720%2F10m23s8ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzhkOGIxNzk1LWJlNzYtNDQzMy05YWM5LTAwMTlkYzc3ZDI4MS9tYWluLzEyODB4NzIwLzEwbTIzczhtcy9tYXRjaC9pbWFnZS5qcGcqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzQ5NTI2ODQ5fX19XX0_%26Signature%3DOjI4uwhB9p54EQBR5nmTpA6ygElOIRC6Ls18ZNJSnH~wMeo9D~c4Z2isAyab2~Kwiy2ClktG5hOFTkIrMhxt1qVc0TAsPKKZ6L3mmy9ZtOMKM5udbuducQEX4lC6690uTFEDqYLkGA63v~0sp3JNY8w93I4xMH7Yjvt2qoT8HLxro0QQso3-EzKvkZK6D25zEzJbR5ApLQgc1UfjLRlLndpc3~ucLavJJN~Ix5Df3Q5jbTaMmwtfSRihH-H9Ld3wEm6BUaVc6JjsD6KF~qx8PhEDKoqwFNR9HpmdWnu7Msm6SlrzzrzpdzXKmcuX98ry2mZ1E6NVbdBJftKqjJ5wUw__&w=640&q=75",
+      "expire": "12-06-2025",
+      "time": "21",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "O Boxeador ferido / O extrato da energia vital",
+      "reference_id": "000000611_16007465_chapolincolorado_2024_053",
+      "original_title": "MAS VALE SILLA EN LA MANO QUE ME SIENTO VOLANDO",
+      "episode_order_number": "30",
+      "id": "6373907488112",
+      "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F8a8f71fe-f3f3-4d9e-a4b9-c0f145ccaeb0%2Fmain%2F1280x720%2F10m2s80ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzhhOGY3MWZlLWYzZjMtNGQ5ZS1hNGI5LWMwZjE0NWNjYWViMC9tYWluLzEyODB4NzIwLzEwbTJzODBtcy9tYXRjaC9pbWFnZS5qcGcqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzQ5NTk3ODU1fX19XX0_%26Signature%3DBmzlX-09GIsz1bw3qx6JncZRyTa4nVmt05agXLVn8JUwp6fBc7sgWljAiLDpOy32vEJ8aFaQakj2gyfp~Rg7KkSDtelMfIQXeb-77NISJezSqMwWa52EqXV1pxxWo83WwSa~awvyEoDnWwq79vQWrfNJAf7MTWT1ISTDhV5kBltjE9hsxv9bmx8pgUKpguO-2yjGSA2CDk2uES~QB6z4tSs5LxZ3asA-LjnZhIw8HPYXp7EZRufK3SV7Y82rHYuTw3yBSsRuGq41SzkkZF9XIYtl26fWE0OQ-jRTBK26V7J2fPadmRJnkKnimkWyX4aiC4lDqHJvSIgZydX9zb35Bg__&w=640&q=75",
+      "expire": "13-06-2025",
+      "time": "20",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "A troca de fotografias / O fotógrafo",
+      "reference_id": "000000611_16001293_chapolincolorado_2024_107",
+      "original_title": "FOTOGRAFOS VEMOS MAÑAS NO SABEMOS ",
+      "episode_order_number": "31",
+      "id": "6374063188112",
+      "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2Fe0bda374-c8da-43ba-a915-6bd09215e336%2Fmain%2F1280x720%2F10m53s386ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxL2UwYmRhMzc0LWM4ZGEtNDNiYS1hOTE1LTZiZDA5MjE1ZTMzNi9tYWluLzEyODB4NzIwLzEwbTUzczM4Nm1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NDk1NDM3MDl9fX1dfQ__%26Signature%3DdGZkkvvyxO-dtgIYkECxc35--zsZkbPOVcqp6aTVI0UCN~qLS5LFWFRRpo8JX7vOE1pX0MGSUPoAw0skWTblrBDMwiy~J-iTauC7wVl5j5fp~39N~D3kxnti6B1fJO7wtw7nF~1qqb8CFbnG60FbtynoA0bqTBLIVy6hxKtxnydw-TPxmQVTMbYuIr2DCy92Fcm-NMNUzZ5r8oJJIIQRwCYfXl9EjwGasXoDTq8sbMtVOhW9Daa96GyVd3NLkdntJEahoVa13OlaVYWR9HCJDhQndmoNF4AMz--ekAeZGNpcMCoCtGScbyQLMR6HVRb9oKAoGamymG8B7nvsYvLHgA__&w=640&q=75",
+      "expire": "13-06-2025",
+      "time": "22",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "Hospedaria cem estrelas",
+      "reference_id": "000000611_16001293_chapolincolorado_2024_125",
+      "original_title": "TODOS CABEN EN UN CUARTITO SABIENDOLOS",
+      "episode_order_number": "32",
+      "id": "6374095600112",
+      "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2Fdbd862d8-b8e5-4442-a2ee-87a3d5af2a6b%2Fmain%2F1280x720%2F11m7s264ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxL2RiZDg2MmQ4LWI4ZTUtNDQ0Mi1hMmVlLTg3YTNkNWFmMmE2Yi9tYWluLzEyODB4NzIwLzExbTdzMjY0bXMvbWF0Y2gvaW1hZ2UuanBnKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0OTYyOTkzOX19fV19%26Signature%3DDxqjGI0eDYK1BSrxgev4odJR2OpWhak8pI2Fyh2f2kcz8W8N-iQLvxTTOpAKtFNhWk4VlSV58eFgMSY5KR719xPcnfNHJqxlOEI86IMlSbDdRcKuK9w6lHPUWBsaakw6MslccImw-a8L0UL7re4jOi10g0FApA-OCmf3qQemL7ltNvaYlw4suMVt-XEu~-2v-cdl4OCH6aAoBwVQCpNeSNDTKWUmNdBDr5R7B3~A0GpfqFqRDm5lbLq601mANmaKv5xbLTWCSY~HGC-Oo5VfD0Bf4JxmUoQsTFNgAo7-lI20vSe~G3TfVj2IlXEopS1fhpAfqNw7q0SRO4Vlk07eVA__&w=640&q=75",
+      "expire": "17-06-2025",
+      "time": "22",
       "enabled": false,
       "quality": [
         "720P"
