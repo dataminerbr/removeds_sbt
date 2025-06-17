@@ -203,7 +203,6 @@
         "720P"
       ]
     },
-
     {
       "name": "Os piratas, segunda parte",
       "reference_id": "000000611_16001293_chapolincolorado_2024_129",
@@ -212,6 +211,20 @@
       "id": "20241102_005",
       "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/fa6boPtrS6Y/maxresdefault.jpg",
       "expire": "02-11-2024",
+      "time": "XX",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "O Louco",
+      "reference_id": "000000611_16001293_chapolincolorado_2024_022",
+      "episode_order_number": "0",
+      "original_title": "",
+      "id": "20241210_007",
+      "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/J-5pQqsn32c/maxresdefault.jpg",
+      "expire": "10-12-2024",
       "time": "XX",
       "enabled": false,
       "quality": [
@@ -414,7 +427,6 @@
         "720P"
       ]
     },
-
     {
       "name": "Julieo e Romieta - Parte 2",
       "reference_id": "000000611_16001293_chapolincolorado_2024_123",
@@ -541,7 +553,6 @@
         "720P"
       ]
     },
-
     {
       "name": "A festa à fantasia, segunda parte",
       "reference_id": "000000611_16001293_chapolincolorado_2024_040",
@@ -794,52 +805,496 @@
         "720P"
       ]
     },
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-
-
-
-
-
-
-
-    
+    {
+      "name": "Parabéns, sargento! / O julgamento / O bandido Mata-Fácil",
+      "reference_id": "000000611_16001293_chapolincolorado_2024_063",
+      "episode_order_number": "0",
+      "original_title": "",
+      "id": "20250303_058",
+      "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/LQd5JLn5L60/maxresdefault.jpg",
+      "expire": "03-03-2025",
+      "time": "XX",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "O espião invisível",
+      "reference_id": "000000611_16001293_chapolincolorado_2024_009",
+      "episode_order_number": "0",
+      "original_title": "",
+      "id": "20250304_059",
+      "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/lWmt2Q9Wuuc/maxresdefault.jpg",
+      "expire": "04-03-2025",
+      "time": "XX",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "A revólver dado, não se olham as balas",
+      "reference_id": "000000611_16001293_chapolincolorado_2024_025",
+      "episode_order_number": "0",
+      "original_title": "",
+      "id": "20250304_060",
+      "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/-bxVmVwXhWY/maxresdefault.jpg",
+      "expire": "04-03-2025",
+      "time": "XX",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "O robô que pirou",
+      "reference_id": "000000611_16001293_chapolincolorado_2024_013",
+      "episode_order_number": "0",
+      "original_title": "",
+      "id": "20250305_061",
+      "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/04MItIns7C0/maxresdefault.jpg",
+      "expire": "05-03-2025",
+      "time": "XX",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "Quer apostar como nunca mais eu entro em uma aposta?",
+      "reference_id": "000000611_16001293_chapolincolorado_2024_023",
+      "episode_order_number": "0",
+      "original_title": "",
+      "id": "20250306_062",
+      "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/w4wk4BuVUfg/maxresdefault.jpg",
+      "expire": "06-03-2025",
+      "time": "XX",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "Doutor Chapatin no banco / O Gorila sai da jaula",
+      "reference_id": "000000611_16001293_chapolincolorado_2024_116",
+      "episode_order_number": "0",
+      "original_title": "",
+      "id": "20250307_063",
+      "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/7kk4wVzaBEw/maxresdefault.jpg",
+      "expire": "07-03-2025",
+      "time": "XX",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "O debilitador potencial",
+      "reference_id": "000000611_16001293_chapolincolorado_2024_072",
+      "episode_order_number": "0",
+      "original_title": "",
+      "id": "20250310_064",
+      "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/DqTB6trCYq4/maxresdefault.jpg",
+      "expire": "10-03-2025",
+      "time": "XX",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "A bola de cristal",
+      "reference_id": "000000611_16001293_chapolincolorado_2024_064",
+      "episode_order_number": "0",
+      "original_title": "",
+      "id": "20250311_065",
+      "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/vksGt8lRrWQ/sddefault.jpg",
+      "expire": "11-03-2025",
+      "time": "XX",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "O Chapolin em Acapulco",
+      "reference_id": "000000611_16001293_chapolincolorado_2024_133",
+      "episode_order_number": "0",
+      "original_title": "",
+      "id": "20250312_066",
+      "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/dmsJ3CjNjhA/mqdefault.jpg",
+      "expire": "12-03-2025",
+      "time": "XX",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "O patrão é quem manda",
+      "reference_id": "000000611_16001293_chapolincolorado_2024_074",
+      "episode_order_number": "0",
+      "original_title": "",
+      "id": "20250313_067",
+      "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/-dAK2JmVD8A/maxresdefault.jpg",
+      "expire": "13-03-2025",
+      "time": "XX",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "A ociosidade é a mãe de um amigo meu",
+      "reference_id": "000000611_16001293_chapolincolorado_2024_095",
+      "episode_order_number": "0",
+      "original_title": "",
+      "id": "20250314_068",
+      "cover": "https://images.weserv.nl/?sat=0&url=    ",
+      "expire": "14-03-2025",
+      "time": "XX",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "O rei do disfarce",
+      "reference_id": "000000611_16001293_chapolincolorado_2024_104",
+      "episode_order_number": "0",
+      "original_title": "",
+      "id": "20250317_069",
+      "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/1BzzFwTAueA/maxresdefault.jpg",
+      "expire": "17-03-2025",
+      "time": "XX",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "Olha o passarinho!",
+      "reference_id": "000000611_16001293_chapolincolorado_2024_067",
+      "episode_order_number": "0",
+      "original_title": "",
+      "id": "20250318_070",
+      "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/0h6v5-ZGiRE/maxresdefault.jpg",
+      "expire": "18-03-2025",
+      "time": "XX",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "Os documentos confidenciais",
+      "reference_id": "000000611_16001293_chapolincolorado_2024_075",
+      "episode_order_number": "0",
+      "original_title": "",
+      "id": "20250319_071",
+      "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/kwy1m0PxUNk/maxresdefault.jpg",
+      "expire": "19-03-2025",
+      "time": "XX",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "O rajá / O gigante",
+      "reference_id": "000000611_16001293_chapolincolorado_2024_099",
+      "episode_order_number": "0",
+      "original_title": "",
+      "id": "20250320_072",
+      "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/j-zQxH00X18/maxresdefault.jpg",
+      "expire": "20-03-2025",
+      "time": "XX",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "Cada um vale pelo que é",
+      "reference_id": "000000611_16001293_chapolincolorado_2024_078",
+      "episode_order_number": "0",
+      "original_title": "",
+      "id": "20250321_073",
+      "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/_B2dBSCGWwA/maxresdefault.jpg",
+      "expire": "21-03-2025",
+      "time": "XX",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "Doutor Chapatin e o contrabando / Com essas pulgas não se brinca de pula-pula!",
+      "reference_id": "000000611_16001293_chapolincolorado_2024_004",
+      "episode_order_number": "0",
+      "original_title": "",
+      "id": "20250324_074",
+      "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/XQ6GFWpouCw/maxresdefault.jpg",
+      "expire": "24-03-2025",
+      "time": "XX",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "O extrato de energia volátil (A casa voadora)",
+      "reference_id": "000000611_16001293_chapolincolorado_2024_037",
+      "episode_order_number": "0",
+      "original_title": "",
+      "id": "20250325_075",
+      "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/rtdZ3HHwlkE/mqdefault.jpg",
+      "expire": "25-03-2025",
+      "time": "XX",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "Segurem a minha mão!",
+      "reference_id": "000000611_16001293_chapolincolorado_2024_118",
+      "episode_order_number": "0",
+      "original_title": "",
+      "id": "20250326_076",
+      "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/cmjYO3e44ZE/maxresdefault.jpg  ",
+      "expire": "26-03-2025",
+      "time": "XX",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "O menino que jogava os seus brinquedos - parte 1",
+      "reference_id": "000000611_16001293_chapolincolorado_2024_130",
+      "episode_order_number": "0",
+      "original_title": "",
+      "id": "20250327_077",
+      "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/anG4kduUkpk/maxresdefault.jpg",
+      "expire": "27-03-2025",
+      "time": "XX",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "O menino que jogava os seus brinquedos - parte 2",
+      "reference_id": "000000611_16001293_chapolincolorado_2024_131",
+      "episode_order_number": "0",
+      "original_title": "",
+      "id": "20250328_078",
+      "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/3rRb69fIEdo/maxresdefault.jpg",
+      "expire": "28-03-2025",
+      "time": "XX",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "O sumiço do anel de brilhantes",
+      "reference_id": "000000611_16007465_chapolincolorado_2024_031",
+      "episode_order_number": "0",
+      "original_title": "",
+      "id": "20250402_080",
+      "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/EXXPdtBbZHk/maxresdefault.jpg",
+      "expire": "02-04-2025",
+      "time": "XX",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "Criando caso / Ratos e ratoeiras",
+      "reference_id": "000000611_16001293_chapolincolorado_2024_127",
+      "episode_order_number": "0",
+      "original_title": "",
+      "id": "20250403_081",
+      "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/42Xrewa29sU/maxresdefault.jpg",
+      "expire": "03-04-2025",
+      "time": "XX",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "Como tornar-se um herói",
+      "reference_id": "000000611_16001293_chapolincolorado_2024_144",
+      "episode_order_number": "0",
+      "original_title": "",
+      "id": "20250404_082",
+      "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/ZyXE3-pPSG8/maxresdefault.jpg",
+      "expire": "04-04-2025",
+      "time": "XX",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "Uma múmia bastante egípcia",
+      "reference_id": "000000611_16001293_chapolincolorado_2024_025",
+      "episode_order_number": "0",
+      "original_title": "",
+      "id": "20250407_083",
+      "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/F901vN8OoP4/mqdefault.jpg",
+      "expire": "07-04-2025",
+      "time": "XX",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "O alfaiatezinho valente - parte 1",
+      "reference_id": "000000611_16001293_chapolincolorado_2024_134",
+      "episode_order_number": "0",
+      "original_title": "",
+      "id": "20250409_084",
+      "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/qyJ3poEH1to/mqdefault.jpg",
+      "expire": "09-04-2025",
+      "time": "XX",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "O alfaiatezinho valente - parte 2",
+      "reference_id": "000000611_16001293_chapolincolorado_2024_134",
+      "episode_order_number": "0",
+      "original_title": "",
+      "id": "20250410_085",
+      "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/oXhiP07js5g/maxresdefault.jpg",
+      "expire": "10-04-2025",
+      "time": "XX",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "O alfaiate valente - parte 3",
+      "reference_id": "000000611_16001293_chapolincolorado_2024_136",
+      "episode_order_number": "0",
+      "original_title": "",
+      "id": "20250411_086",
+      "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/Zk-Ot5NAwY4/mqdefault.jpg",
+      "expire": "11-04-2025",
+      "time": "XX",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "Cyrano de Bergerac",
+      "reference_id": "000000611_16001293_chapolincolorado_2024_088",
+      "episode_order_number": "0",
+      "original_title": "",
+      "id": "20250414_087",
+      "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/pDZw3dlt6D0/mqdefault.jpg",
+      "expire": "14-04-2025",
+      "time": "XX",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "O soldado atrapalhado / Depois de jogarem o Chapolin, tapem o poço!",
+      "reference_id": "000000611_16001293_chapolincolorado_2024_016",
+      "episode_order_number": "0",
+      "original_title": "",
+      "id": "20250415_088",
+      "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/DNwvz85113o/mqdefault.jpg",
+      "expire": "15-04-2025",
+      "time": "XX",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "De médico, Chapolin e louco, todo mundo tem um pouco",
+      "reference_id": "000000611_16001293_chapolincolorado_2024_070",
+      "episode_order_number": "0",
+      "original_title": "",
+      "id": "20250416_089",
+      "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/JkJkbyxQerk/mqdefault.jpg",
+      "expire": "16-04-2025",
+      "time": "XX",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "A fortuna de Frédéric Chopin",
+      "reference_id": "000000611_16001293_chapolincolorado_2024_082",
+      "episode_order_number": "0",
+      "original_title": "",
+      "id": "20250417_090",
+      "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/cVRyg0dp8qY/mqdefault.jpg",
+      "expire": "17-04-2025",
+      "time": "XX",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "A fuga do Carne Seca / Museu / O roubo das maçãs",
+      "reference_id": "000000611_16007465_chapolincolorado_2024_052",
+      "episode_order_number": "0",
+      "original_title": "",
+      "id": "20250418_090",
+      "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/FPUsOjsLIUs/mqdefault.jpg",
+      "expire": "18-04-2025",
+      "time": "XX",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "Nós e os fantasmas",
+      "reference_id": "000000611_16001293_chapolincolorado_2024_083",
+      "episode_order_number": "0",
+      "original_title": "",
+      "id": "20250421_091",
+      "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/1Q1aGRYeRHc/mqdefault.jpg",
+      "expire": "21-04-2025",
+      "time": "XX",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "Na barbearia é fácil ficar parado!",
+      "reference_id": "000000611_16001293_chapolincolorado_2024_119",
+      "episode_order_number": "0",
+      "original_title": "",
+      "id": "20250425_094",
+      "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/KTdrNvy1Siw/mqdefault.jpg",
+      "expire": "25-04-2025",
+      "time": "XX",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
     {
       "name": "Uma conferência sobre o Chapolin",
       "reference_id": "000000611_16001293_chapolincolorado_2024_093",
