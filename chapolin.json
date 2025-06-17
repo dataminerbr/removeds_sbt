@@ -156,7 +156,7 @@
       "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/wZarcQ2dMS8/maxresdefault.jpg",
       "expire": "12-10-2024",
       "time": "20",
-      "enabled": true,
+      "enabled": false,
       "quality": [
         "720P"
       ]
@@ -170,7 +170,7 @@
       "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/Xf6wwpBAjLo/maxresdefault.jpg",
       "expire": "12-10-2024",
       "time": "20",
-      "enabled": true,
+      "enabled": false,
       "quality": [
         "720P"
       ]
@@ -184,11 +184,407 @@
       "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/ZTzKyCYhdZw/maxresdefault.jpg",
       "expire": "02-11-2024",
       "time": "XX",
-      "enabled": true,
+      "enabled": false,
       "quality": [
         "720P"
       ]
     },
+    {
+      "name": "Os piratas - parte 1",
+      "reference_id": "000000611_16001293_chapolincolorado_2024_128",
+      "episode_order_number": "0",
+      "original_title": "",
+      "id": "20241102_004",
+      "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/ZTlJ0HELKHk/maxresdefault.jpg",
+      "expire": "02-11-2024",
+      "time": "XX",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+
+    {
+      "name": "Os piratas, segunda parte",
+      "reference_id": "000000611_16001293_chapolincolorado_2024_129",
+      "episode_order_number": "0",
+      "original_title": "",
+      "id": "20241102_005",
+      "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/fa6boPtrS6Y/maxresdefault.jpg",
+      "expire": "02-11-2024",
+      "time": "XX",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "A troca de cérebros",
+      "reference_id": "000000611_16001293_chapolincolorado_2024_012",
+      "episode_order_number": "0",
+      "original_title": "",
+      "id": "20241212_009",
+      "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/4FclMteTCRU/mqdefault.jpg",
+      "expire": "12-12-2024",
+      "time": "XX",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "O vazamento de gás 2",
+      "reference_id": "000000611_16007465_chapolincolorado_2024_058",
+      "episode_order_number": "0",
+      "original_title": "",
+      "id": "20241216_011",
+      "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/WnQ9CIkvT0A/maxresdefault.jpg",
+      "expire": "16-12-2024",
+      "time": "XX",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "Sai de baixo que lá vem pedra!",
+      "reference_id": "000000611_16001293_chapolincolorado_2024_021",
+      "episode_order_number": "0",
+      "original_title": "",
+      "id": "20241218_012",
+      "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/Lemdkxe9cQc/maxresdefault.jpg",
+      "expire": "18-12-2024",
+      "time": "XX",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "Uma coisa é ser Sansão, e outra é usar a peruca",
+      "reference_id": "000000611_16001293_chapolincolorado_2024_027",
+      "episode_order_number": "0",
+      "original_title": "",
+      "id": "20241219_013",
+      "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/nXtQ-_IU4Hc/maxresdefault.jpg",
+      "expire": "19-12-2024",
+      "time": "XX",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "O mosquito biônico",
+      "reference_id": "000000611_16001293_chapolincolorado_2024_042",
+      "episode_order_number": "0",
+      "original_title": "",
+      "id": "20241220_014",
+      "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/mrlMHp7wtjc/maxresdefault.jpg",
+      "expire": "20-12-2024",
+      "time": "XX",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "Não seja burro Chapolin",
+      "reference_id": "000000611_16001293_chapolincolorado_2024_081",
+      "episode_order_number": "0",
+      "original_title": "",
+      "id": "20241226_017",
+      "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/D4yc3m70KI8/maxresdefault.jpg",
+      "expire": "26-12-2024",
+      "time": "XX",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "Tripas de cera",
+      "reference_id": "000000611_16001293_chapolincolorado_2024_084",
+      "episode_order_number": "0",
+      "original_title": "",
+      "id": "20241227_018",
+      "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/IX5SijfuHM0/maxresdefault.jpg",
+      "expire": "27-12-2024",
+      "time": "XX",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "O Ventríloquo",
+      "reference_id": "000000611_16001293_chapolincolorado_2024_047",
+      "episode_order_number": "0",
+      "original_title": "",
+      "id": "20241230_019",
+      "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/wiGihi-8geA/maxresdefault.jpg",
+      "expire": "30-12-2024",
+      "time": "XX",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "O bebê jupiteriano",
+      "reference_id": "000000611_16001293_chapolincolorado_2024_066",
+      "episode_order_number": "0",
+      "original_title": "",
+      "id": "20250101_020",
+      "cover": "https://images.weserv.nl/?sat=0&url=https://i3.ytimg.com/vi/Dpi8suLu7qY/hqdefault.jpg",
+      "expire": "01-01-2025",
+      "time": "XX",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "Dinheiro chama dinheiro, mas ladrão também!",
+      "reference_id": "000000611_16001293_chapolincolorado_2024_103",
+      "episode_order_number": "0",
+      "original_title": "",
+      "id": "20250102_021",
+      "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/a7QSIRV3tZU/maxresdefault.jpg",
+      "expire": "02-01-2025",
+      "time": "XX",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "Os marcianos",
+      "reference_id": "000000611_16001293_chapolincolorado_2024_097",
+      "episode_order_number": "0",
+      "original_title": "",
+      "id": "20250103_022",
+      "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/jJf55xOrLUM/maxresdefault.jpg",
+      "expire": "03-01-2025",
+      "time": "XX",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "O tesouro do pirata fantasma",
+      "reference_id": "000000611_16001293_chapolincolorado_2024_007",
+      "episode_order_number": "0",
+      "original_title": "",
+      "id": "20250107_024",
+      "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/PMVdYWmvq_k/maxresdefault.jpg",
+      "expire": "07-01-2025",
+      "time": "XX",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "Aristocratas vemos, gatunos não sabemos",
+      "reference_id": "000000611_16001293_chapolincolorado_2024_001",
+      "episode_order_number": "0",
+      "original_title": "",
+      "id": "20250109_026",
+      "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/VDupukvVoKI/maxresdefault.jpg",
+      "expire": "09-01-2025",
+      "time": "XX",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "Julieo e Romieta - Parte 1",
+      "reference_id": "000000611_16001293_chapolincolorado_2024_122",
+      "episode_order_number": "0",
+      "original_title": "",
+      "id": "20250113_027",
+      "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/Knk3IEnfslY/maxresdefault.jpg",
+      "expire": "13-01-2025",
+      "time": "XX",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+
+    {
+      "name": "Julieo e Romieta - Parte 2",
+      "reference_id": "000000611_16001293_chapolincolorado_2024_123",
+      "episode_order_number": "0",
+      "original_title": "",
+      "id": "20250114_028",
+      "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/2JgtUIgjI48/maxresdefault.jpg",
+      "expire": "14-01-2025",
+      "time": "XX",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "Buffalo Bill",
+      "reference_id": "000000611_16001293_chapolincolorado_2024_087",
+      "episode_order_number": "0",
+      "original_title": "",
+      "id": "20250115_029",
+      "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/4_kJw3l8_-Q/maxresdefault.jpg",
+      "expire": "15-01-2025",
+      "time": "XX",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "Não se enrugue, couro velho, que te quero para tambor!",
+      "reference_id": "000000611_16001293_chapolincolorado_2024_065",
+      "episode_order_number": "0",
+      "original_title": "",
+      "id": "20250116_030",
+      "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/ZuN9SRYyzw4/sddefault.jpg",
+      "expire": "16-01-2025",
+      "time": "XX",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "Irmãos gêmeos",
+      "reference_id": "000000611_16001293_chapolincolorado_2024_029",
+      "episode_order_number": "0",
+      "original_title": "",
+      "id": "20250120_031",
+      "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/1D1pPYdStBs/mqdefault.jpg",
+      "expire": "20-01-2025",
+      "time": "XX",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "De caçador e de louco, todos nós temos um pouco",
+      "reference_id": "000000611_16001293_chapolincolorado_2024_010",
+      "episode_order_number": "0",
+      "original_title": "",
+      "id": "20250121_032",
+      "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/EV7yaV5SHzQ/maxresdefault.jpg",
+      "expire": "21-01-2025",
+      "time": "XX",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "O pintor",
+      "reference_id": "000000611_16001293_chapolincolorado_2024_030",
+      "episode_order_number": "0",
+      "original_title": "",
+      "id": "20250127_035",
+      "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/xCzLo2NES1Q/maxresdefault.jpg",
+      "expire": "27-01-2025",
+      "time": "XX",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "O estranho e misterioso caso do morto que morreu",
+      "reference_id": "000000611_16001293_chapolincolorado_2024_041",
+      "episode_order_number": "0",
+      "original_title": "",
+      "id": "20250129_037",
+      "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/G4y61mVdcgU/mqdefault.jpg",
+      "expire": "29-01-2025",
+      "time": "XX",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "Fotos no museu... não!",
+      "reference_id": "000000611_16001293_chapolincolorado_2024_035",
+      "episode_order_number": "0",
+      "original_title": "",
+      "id": "20250130_038",
+      "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/JMrlngKWzf4/mqdefault.jpg",
+      "expire": "30-01-2025",
+      "time": "XX",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "A festa à fantasia - parte 1",
+      "reference_id": "000000611_16001293_chapolincolorado_2024_039",
+      "episode_order_number": "0",
+      "original_title": "",
+      "id": "20250203_039",
+      "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/vkkLyVs2UMo/mqdefault.jpg",
+      "expire": "03-02-2025",
+      "time": "XX",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+
+    {
+      "name": "A festa à fantasia, segunda parte",
+      "reference_id": "000000611_16001293_chapolincolorado_2024_040",
+      "episode_order_number": "0",
+      "original_title": "",
+      "id": "20250204_040",
+      "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/yADnnd28iSc/maxresdefault.jpg",
+      "expire": "04-02-2025",
+      "time": "XX",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+    
     {
       "name": "Uma conferência sobre o Chapolin",
       "reference_id": "000000611_16001293_chapolincolorado_2024_093",
