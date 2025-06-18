@@ -456,20 +456,6 @@
       ]
     },
     {
-      "name": "Irmãos gêmeos",
-      "reference_id": "000000611_16001293_chapolincolorado_2024_029",
-      "episode_order_number": "0",
-      "original_title": "",
-      "id": "20250120_031",
-      "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/1D1pPYdStBs/mqdefault.jpg",
-      "expire": "20-01-2025",
-      "time": "XX",
-      "enabled": false,
-      "quality": [
-        "720P"
-      ]
-    },
-    {
       "name": "De caçador e de louco, todos nós temos um pouco",
       "reference_id": "000000611_16001293_chapolincolorado_2024_010",
       "episode_order_number": "0",
@@ -1772,15 +1758,29 @@
       ]
     },
     {
-      "name": "Cristovão Colombo/ Vovô Matusquela",
+      "name": "Cristovão Colombo / Vovô matusquela",
       "reference_id": "000000611_16007465_chapolincolorado_2024_063",
-      "episode_order_number": "035",
-      "original_title": "",
-      "id": "20250616_XXX",
-      "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/nZbu0w8S2DU/sddefault.jpg",
-      "expire": "16-16-2025",
+      "original_title": " CRISTOBAL COLON Y LOS REYES CATOLICOS\t",
+      "episode_order_number": "36",
+      "id": "6374454179112",
+      "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F85a3680d-59b4-456e-9ed2-2998d4f28408%2Fmain%2F1280x720%2F10m40s522ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzg1YTM2ODBkLTU5YjQtNDU2ZS05ZWQyLTI5OThkNGYyODQwOC9tYWluLzEyODB4NzIwLzEwbTQwczUyMm1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTAyMDYyMzB9fX1dfQ__%26Signature%3DBIXqo2ubKQctLlZq7CdCbWUPhgNrxVPE0nT7sQjWKU1dj13UixYuufjrFgBzx0FQxD~3LRsBYUZPbwRgSAkf~s3PvfccMsB4rBPx4YusRloZaoIxyk72vMwjsFTjyrwbxMdfqZgZLJ1LXGAyTp9FoP2yc~O3-HNoqRugx2St6laba5W9onRlL1JVwjgLMZ2iP76jynoE4cJ8dLrOw0t8L9LJU4Ew4-uy9Be3ZE~OVqC8tAVz37FZMeFuyOToDwoC17eRf9frPuJcSM8uO0HQt5KMYuhlLVLHk1ViCHHWukWbbElaJc-WiHSjvZrvJfidAOkeQ1Q6gbEKubnAQ3cAYA__&w=640&q=75",
+      "expire": "23-06-2025",
       "time": "21",
-      "enabled": true,
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "Irmãos gêmeos",
+      "reference_id": "000000611_16001293_chapolincolorado_2024_029",
+      "original_title": "CUANDO LOS GEMELOS NO SON BUENOS CUATES",
+      "episode_order_number": "37",
+      "id": "6374453600112",
+      "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2Fa97f4c71-eac4-481a-9c00-00ad80f255d9%2Fmain%2F1280x720%2F9m20s576ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxL2E5N2Y0YzcxLWVhYzQtNDgxYS05YzAwLTAwYWQ4MGYyNTVkOS9tYWluLzEyODB4NzIwLzltMjBzNTc2bXMvbWF0Y2gvaW1hZ2UuanBnKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc1MDIwNjA0M319fV19%26Signature%3DARe~BZziDNf2KJtTmD60XNZG-vwh8e0KxM9wlIy~wb8Ujaj6iIG6cJ1wFaolqjRPVjGFVSo8fAMo6amk5NwHE96MjNYw0N2Q0yMDnEW6NUs0GDyUkr36niUpq3Pd5puVNKHC2Jay0qdeSsj6WdCuF70WvlCg-MS5yi3nXIaZTAWLFgejsvDBStHYktiLpRvOgOM86W3f4duOnN9MzWUQL0hhdSkJU1P4cPYn9PVWjE9WKMoySZUw17snPPpNDMg2wU08EUwsaI016eKdZpKQd61NlxXxQ3JP4Kte0K0I1BEVuzCNxpmnWypxU9Xjbv29nN9J9-51JIvjNhaPjGhSVA__&w=640&q=75",
+      "expire": "24-06-2025",
+      "time": "19",
+      "enabled": false,
       "quality": [
         "720P"
       ]
