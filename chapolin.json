@@ -568,20 +568,6 @@
       ]
     },
     {
-      "name": "Uma múmia incomoda muita gente, duas muito mais!",
-      "reference_id": "000000611_16001293_chapolincolorado_2024_026",
-      "episode_order_number": "0",
-      "original_title": "",
-      "id": "20250210_043",
-      "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/Xa8AaxR2MvQ/maxresdefault.jpg",
-      "expire": "10-02-2025",
-      "time": "XX",
-      "enabled": false,
-      "quality": [
-        "720P"
-      ]
-    },
-    {
       "name": "Aqui, quem canta de galo sou eu!",
       "reference_id": "000000611_16001293_chapolincolorado_2024_145",
       "episode_order_number": "0",
@@ -617,20 +603,6 @@
       "id": "20250213_046",
       "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/5YEldBSVxRE/maxresdefault.jpg",
       "expire": "13-02-2025",
-      "time": "XX",
-      "enabled": false,
-      "quality": [
-        "720P"
-      ]
-    },
-    {
-      "name": "Brincadeira de mão é para boxeadores",
-      "reference_id": "000000611_16001293_chapolincolorado_2024_124",
-      "episode_order_number": "0",
-      "original_title": "",
-      "id": "20250214_047",
-      "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/ZuAABwIFdOE/maxresdefault.jpg",
-      "expire": "14-02-2025",
       "time": "XX",
       "enabled": false,
       "quality": [
@@ -1784,6 +1756,48 @@
       "quality": [
         "720P"
       ]
-    }
+    },
+    {
+      "name": "Uma múmia incomoda muita gente, duas muito mais!",
+      "reference_id": "000000611_16001293_chapolincolorado_2024_026",
+      "episode_order_number": "38",
+      "original_title": "",
+      "id": "20250618_XXX",
+      "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/Xa8AaxR2MvQ/maxresdefault.jpg",
+      "expire": "18-06-2025",
+      "time": "XX",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "Brincadeira de mão é para boxeadores",
+      "reference_id": "000000611_16001293_chapolincolorado_2024_124",
+      "episode_order_number": "39",
+      "original_title": "",
+      "id": "20250619_XXX",
+      "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/ZuAABwIFdOE/maxresdefault.jpg",
+      "expire": "19-06-2025",
+      "time": "XX",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+  {
+    "name": "Parabéns sargento / O julgamento / O bandido mata fácil",
+    "reference_id": "000000611_16001293_chapolincolorado_2024_061",
+    "original_title": "CUMPLEAÑOS, EL PERRO ATROPELLADO Y EL MATA FÁCIL - SEM TÍTULO ORIGINAL",
+    "episode_order_number": "44",
+    "id": "6374614836112",
+    "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F7086259d-f393-47a2-aef9-f4c83c5aebd5%2Fmain%2F1280x720%2F8m36s981ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzcwODYyNTlkLWYzOTMtNDdhMi1hZWY5LWY0YzgzYzVhZWJkNS9tYWluLzEyODB4NzIwLzhtMzZzOTgxbXMvbWF0Y2gvaW1hZ2UuanBnKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc1MDQ5Mjc3OH19fV19%26Signature%3DUjhz8D5nQfleJrcT-l8Np5~BTalQRcl6o1BZ8jl38BuQp3BBuDe7mphvVyNplXRR-c2Q0EbqRTVLkqvtiJeKvWNfIWFoChm6GyOyIYV1hXOpWVuB2uSa59Mfm9Flg2Dn73m2No1w3mdFHd2k79u3Ext~9TZVBk-K1eNIgmBPQxuao-6xXVBM3Yb9O4taqnySG7f6h4qGYS15AIbpjslX9BpVrzSZ34L-VUaf6KfU6gw9wH-AeRtwN7dn6kwcEztgc7Vhj0WCqcG4DKTl50euSfKE04zMau~swm7xywNSUVpEkGbKMsFyfGm7BJMHdrZ8Ugww3x6AhLLbqAWdJc1BZQ__&w=640&q=75",
+    "expire": "27-06-2025",
+    "time": "17",
+    "enabled": false,
+    "quality": [
+      "720P"
+    ]
+  }
   ]
 }
