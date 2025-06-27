@@ -610,20 +610,6 @@
       ]
     },
     {
-      "name": "Por favor, é aqui que vive o morto?",
-      "reference_id": "000000611_16001293_chapolincolorado_2024_094",
-      "episode_order_number": "0",
-      "original_title": "",
-      "id": "20250217_048",
-      "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/LkqunDUsL0A/mqdefault.jpg",
-      "expire": "17-02-2025",
-      "time": "XX",
-      "enabled": false,
-      "quality": [
-        "720P"
-      ]
-    },
-    {
       "name": "Menino ou menina? / A caricatura",
       "reference_id": "000000611_16001293_chapolincolorado_2024_086",
       "episode_order_number": "0",
@@ -1822,6 +1808,34 @@
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F8cac60e7-c206-4abe-b7e2-03287511ed30%2Fmain%2F1280x720%2F10m46s645ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzhjYWM2MGU3LWMyMDYtNGFiZS1iN2UyLTAzMjg3NTExZWQzMC9tYWluLzEyODB4NzIwLzEwbTQ2czY0NW1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTA3OTYzNjl9fX1dfQ__%26Signature%3DSncHG8-IDTr1X-48IBmfPFSA5tnLqiJFMtrqxZ-Xf-CKmMOa-BQbtdn1G3wo8shbtMuqRXewxCsneb8yBzdPH7~fUmiAQZ-vFcJmBUl92ffcLCRKLU79qzFoGFbLTbSyrZmi1iOQUaeFYddM9WGO5GRGzWUhfNpNy~H3VRWCbqv5MEl56sBZsH-SJ6w9DLS1KfC2D4BoQCJYDXL9Fvq7qjwA7Can8E69Us2Z~jtKJWnu~vNl2CSKNr7GBndLo12egz94MrNROl~~nhXGcEg~FBJbd7IuJ-ugbtnWrM8ziMIlETy35wYQ0MIQD3YqRE7XbpSSKLPkLqWFbToxTYS9Uw__&w=640&q=75",
       "expire": "01-07-2025",
       "time": "22",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "Encontro às escuras / Garçom desastrado / Confusão no celeiro",
+      "reference_id": "000000611_16007465_chapolincolorado_2024_070",
+      "original_title": " CHAPATIN CORAZON APASIONADO / MESERO DEMOLEDOR / ESPANTAPAJAROS\t",
+      "episode_order_number": "45",
+      "id": "6374762318112",
+      "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2Fe77f858d-15a7-4c9a-b63a-133bbf7c830d%2Fmain%2F1280x720%2F11m9s621ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxL2U3N2Y4NThkLTE1YTctNGM5YS1iNjNhLTEzM2JiZjdjODMwZC9tYWluLzEyODB4NzIwLzExbTlzNjIxbXMvbWF0Y2gvaW1hZ2UuanBnKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc1MDkyNTc0NX19fV19%26Signature%3DFuZoCoMeqBEY-JMnVn7anhTV1tsUku5Eu7FIZkyajGHiIO-m40k0M-HkAhM0LuI-NqTenMK43ySB0Gnoz0~hjTIrSysHvB3~AhXR43zoljr~Xshkim4~Knwq1flUggtYZwHHWnWcKSZX3dPsqtBHL1brUKyNRptvv65dg~3cjxw32po-venuk8yp~ArkSm7VGTe4E-5Au99SDTm3-f6RxO4GnT~4qC1oM~V0eJDf0aGqihDmwIJKT2MaXNBijUU9hDOAnD~1~2oY0PA~9IHB5FngR66IFRQd~U9t77tg72lxLVzg34hqY-ZklJ1QHkj2pjn8xv4WKGpkqDxU26fZGw__&w=640&q=75",
+      "expire": "02-07-2025",
+      "time": "22",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "Por favor, é aqui que vive um morto?",
+      "reference_id": "000000611_16001293_chapolincolorado_2024_094",
+      "original_title": "PERDÓN AQUI ES DONDE VIVE EL MUERTO?",
+      "episode_order_number": "46",
+      "id": "6374763275112",
+      "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2Fe63ed2a4-7f99-4c6b-bc04-a24b6a64abfd%2Fmain%2F1280x720%2F9m48s789ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxL2U2M2VkMmE0LTdmOTktNGM2Yi1iYzA0LWEyNGI2YTY0YWJmZC9tYWluLzEyODB4NzIwLzltNDhzNzg5bXMvbWF0Y2gvaW1hZ2UuanBnKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc1MTAxMTM4MX19fV19%26Signature%3DN6mMslczSHF8HMaOprPguWruand7ebknV4hxXJAMdDim4iqr2OGCg7XFwYlAQ9vylKT2tITZHxQme29NwxFGNxQMtDW~~xnxs4mXCtrDj6f5Ct3AsuSd8K3X6p4FDjhUopYND~L-XeobSCJJIBYZO-MaU6VKBUsHeP~eeIvaoiQDT0KFdTP6jU~q-iyVtPCdOQSgOf2uVqNEihWNgveaAaKPyawA~FV0FU61LF4pT~qY82~eGhByOYSCo-VnGCl261tC6e2U16QRGVR-O26QEDOAHgxeyvipmaQbfGxIJ2VagtRhsj5hNNAb5nK6aEtgCFZKURO9ZRh4shOf2MZZig__&w=640&q=75",
+      "expire": "03-07-2025",
+      "time": "20",
       "enabled": false,
       "quality": [
         "720P"
