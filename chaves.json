@@ -245,20 +245,6 @@
       ]
     },
     {
-      "name": "Nasce uma bisavó",
-      "reference_id": "000000610_16001224_chaves_2024_021",
-      "original_title": "",
-      "episode_order_number": "0",
-      "id": "20241227_025",
-      "cover": "https://images.weserv.nl/?sat=0&url=https://i.ibb.co/2zDB23c/20241227-025.jpg",
-      "expire": "27-12-2024",
-      "time": "22",
-      "enabled": false,
-      "quality": [
-        "720P"
-      ]
-    },
-    {
       "name": "O Ano Novo de Chaves",
       "reference_id": "000000610_16001224_chaves_2024_174",
       "original_title": "El año nuevo",
@@ -625,10 +611,10 @@
     {
       "name": "Vizinhança bem educada",
       "reference_id": "000000610_16007200_chaves_2024_056",
-      "original_title": "-",
+      "original_title": "Nunca es demasiado tarde para estudar",
       "episode_order_number": "9",
       "id": "6371483813112",
-      "cover": "https://img.youtube.com/vi/mVvAZLmCLvs/maxresdefault.jpg",
+      "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F6c858535-cbee-4513-bb0e-8fd6e1a61895%2Fmain%2F1280x720%2F10m17s696ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzZjODU4NTM1LWNiZWUtNDUxMy1iYjBlLThmZDZlMWE2MTg5NS9tYWluLzEyODB4NzIwLzEwbTE3czY5Nm1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTEwOTQ1Mjh9fX1dfQ__%26Signature%3DQ0QOn2~eIhlizsYtXwztZ5j~VdMvyKr41xDpcbuFDkWtYgtm1yKh-YDUbho4Mn0Qnlh54CCI9mKxchnQNAh7LuuxCgAe1m-CSa8yzKZyrsrZasqimJSm~7TIcwBYvmr2OzTvhf3F-j-EyD8AoujVlQHjHAQZHT2mRiC3lMju-Ip4kTNOiYT4xDYFaQxKdi1NLFnysj6rAQcezWiN-glEJV77niM7~yErMZDc~qYbD~3srEEiDDlNmdovjFKldsGkWtnR6us0QbR21HsRqsGY9gMLh8QRHpxnsmRQcLeU19PZdrIuZ5MM8uuUYz-wkrn~KthoBoQbk8NcjXweqLrapw__&w=640&q=75",
       "expire": "22-04-2025",
       "time": "20",
       "enabled": true,
@@ -3193,6 +3179,118 @@
       "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/pn4Zso_a7gs/maxresdefault.jpg",
       "expire": "27-06-2025",
       "time": "20",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "Vizinhança bem educada",
+      "reference_id": "000000610_16007200_chaves_2024_056",
+      "original_title": "Nunca es demasiado tarde para estudar",
+      "episode_order_number": "191",
+      "id": "6371483813112",
+      "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F6c858535-cbee-4513-bb0e-8fd6e1a61895%2Fmain%2F1280x720%2F10m17s696ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzZjODU4NTM1LWNiZWUtNDUxMy1iYjBlLThmZDZlMWE2MTg5NS9tYWluLzEyODB4NzIwLzEwbTE3czY5Nm1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTEwOTQ1Mjh9fX1dfQ__%26Signature%3DQ0QOn2~eIhlizsYtXwztZ5j~VdMvyKr41xDpcbuFDkWtYgtm1yKh-YDUbho4Mn0Qnlh54CCI9mKxchnQNAh7LuuxCgAe1m-CSa8yzKZyrsrZasqimJSm~7TIcwBYvmr2OzTvhf3F-j-EyD8AoujVlQHjHAQZHT2mRiC3lMju-Ip4kTNOiYT4xDYFaQxKdi1NLFnysj6rAQcezWiN-glEJV77niM7~yErMZDc~qYbD~3srEEiDDlNmdovjFKldsGkWtnR6us0QbR21HsRqsGY9gMLh8QRHpxnsmRQcLeU19PZdrIuZ5MM8uuUYz-wkrn~KthoBoQbk8NcjXweqLrapw__&w=640&q=75",
+      "expire": "04-07-2025",
+      "time": "21",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "Cyrano de Belgerac / Ama teu inimigo",
+      "reference_id": "000000610_16007200_chaves_2024_019",
+      "original_title": "CYRANO DE BERGERAC / PERDONAR A LOS ENEMIGOS",
+      "episode_order_number": "187",
+      "id": "6375054940112",
+      "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F9bb0db55-c767-467e-b977-0dad15e8b0e4%2Fmain%2F1280x720%2F14m9s920ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzliYjBkYjU1LWM3NjctNDY3ZS1iOTc3LTBkYWQxNWU4YjBlNC9tYWluLzEyODB4NzIwLzE0bTlzOTIwbXMvbWF0Y2gvaW1hZ2UuanBnKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc1MTMzMDkyMn19fV19%26Signature%3DN2UIaHDJtPDWGWuqWF851~WI72hdOHypy-RkpMc7raOfoMn7fXu3iLUl6zlKD1LyMUHudTHgddhstex5herakfU5ivMHSm79xtI94ZEOAr6Mqur4CKQz7suyMjqw2ULvoXMn46hm4JnSUozwt3tIfpMEQwprleWeI9krmd3yROxdIj4ZiDT8NT~YlcwNE1RaLzrtt7CvsirX0RsYeAFTx5MDKhjVugxwmoY8538WVCf6pT~vAsqvTXoPjUAKhx6McNunPDruOzPJZNXC3YRWtFLOuenbuFxt7mtR8-nVJpOcHlunE3R6S6iS6GClIpDJmsOwo9AFGUBSEbwVgby6BQ__&w=640&q=75",
+      "expire": "06-70-2025",
+      "time": "28",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "Horas bolas",
+      "reference_id": "000000610_16007200_chaves_2024_032",
+      "original_title": "El desayuno",
+      "episode_order_number": "194",
+      "id": "6375053439112",
+      "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F0539cd3c-487b-4ed1-9345-26afefe47df7%2Fmain%2F1280x720%2F11m51s541ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzA1MzljZDNjLTQ4N2ItNGVkMS05MzQ1LTI2YWZlZmU0N2RmNy9tYWluLzEyODB4NzIwLzExbTUxczU0MW1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTEzMjY1MDd9fX1dfQ__%26Signature%3DFSLGVEypwh7JaOlktjddBy~bDpSbnKgnyaEImtTP6b~TgQKIr9UR0ky9GLbzSUJAd3p~n2OZDJmYJjkisIFUOsswWqIUsJ7UcGcPOxSDX0ibelfi3VubxrAD9oUUfK6M~dUtIBt6xXfczbzOsHGgSEBxaI4pc8e5J5KDHVD98Xh8HijzXIA-lm3IJFpUVABLjnJbctDmG~NGdEvC18UiF0v0x8rwcyaquZUlnxxSvQcCIMOPS5ZAUqKFQtdRkIvPZ6fxkcLYAaAn4Chp0zsbmgfv7rIzjDGC2NhyXa32X8SQiHARnOJWL-gLNpuy9pNSf7erv5Yr2mUiClMqVLt8FQ__&w=640&q=75",
+      "expire": "07-07-2025",
+      "time": "24",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "Uma lição de boxe",
+      "reference_id": "000000610_16007200_chaves_2024_021",
+      "original_title": "",
+      "episode_order_number": "195",
+      "id": "20250630_XXX",
+      "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/CS9t-TR9Sv8/maxresdefault.jpg",
+      "expire": "30-06-2025",
+      "time": "22",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "Nasce uma bisavó",
+      "reference_id": "000000610_16001224_chaves_2024_021",
+      "original_title": "EL REGRESO DE LA BIZCABUELA",
+      "episode_order_number": "196",
+      "id": "6375054807112",
+      "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F624fed91-848e-4380-a439-b408d5239ea2%2Fmain%2F1280x720%2F11m5s834ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzYyNGZlZDkxLTg0OGUtNDM4MC1hNDM5LWI0MDhkNTIzOWVhMi9tYWluLzEyODB4NzIwLzExbTVzODM0bXMvbWF0Y2gvaW1hZ2UuanBnKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc1MTM1MjgyOX19fV19%26Signature%3DIQ~3NJgYwTlocab5Mc0Qk4AJtfD0zFISyWS5spfLe0sVmu3egD3rmGuLgiOXm83B5B5HPwncwkRzMQZwHl6FUMMIv58tF8rFCfahHGa70ouD6prP1aUrjWGgjI6tvnIXo~kcVsMIDMNB7-6W~d3ySi8aKISDsKtJeJ6gn9J1DPH46ABtbjCsJFnCs-3QQRSaEJ0rsI69vgPV3DlUTDb-ypRJC-M~29me0hvUsVHgmn37043AEsNw1shIN0tyv7rl8aRJuGJezuSm6qVIs5y5eppXqV4raplxwzcnazRrRA5zxyls4B7jPVoMUvymBUXtjAndsgSN1je3sq6VbCbnSQ__&w=640&q=75",
+      "expire": "08-07-2025",
+      "time": "21",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "Falta de água, sem problemas - Parte 1",
+      "reference_id": "000000610_16001224_chaves_2024_097",
+      "original_title": "Escasez de água",
+      "episode_order_number": "197",
+      "id": "6373660302112",
+      "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2Fe122b759-b6e5-4290-b4b6-0d5cf7d84a7c%2Fmain%2F1280x720%2F8m58s90ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxL2UxMjJiNzU5LWI2ZTUtNDI5MC1iNGI2LTBkNWNmN2Q4NGE3Yy9tYWluLzEyODB4NzIwLzhtNThzOTBtcy9tYXRjaC9pbWFnZS5qcGcqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzUxNDI2MjQ5fX19XX0_%26Signature%3DKk79ItNNSW5qXlgM9FDMK3peCZP9Z1KNOjjr4Z-p4JloHwzoSgeFJf73FbzpLkv6Ob3bfojBXOFmNO~2Wb2uWAwkRvlg68GlG~KfDW~zHXuSgZIB9fHy9XqYs4VXSGbGmto9m~S~qqn94ZrHbQnF9LQvzmjlr58FRqRTyCLnP4jxzCmQp8HgWP4avcDJQB602cIke05Ad-ZKQ3rExGYQvRWYagnHuICsmer27Nl9YhW3jLQfSe1T0PoE1rNMqj99nEuRd7qeoAFjMb2Ts-kN-ydoOXkx4ZVTNyelPPbsxd7xX3LkDsGxeWKWvRWAIvQ2QKjxK1Ei-P8EAwaHlZEZ7g__&w=640&q=75",
+      "expire": "08-07-2025",
+      "time": "18",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "O dia de São Valentim",
+      "reference_id": "000000610_16001224_chaves_2024_115",
+      "original_title": "Festejando el dia de la amistad",
+      "episode_order_number": "199",
+      "id": "6375056087112",
+      "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2Fc8b6466f-98e2-40d8-a860-d492ab9de5ce%2Fmain%2F1280x720%2F10m20s490ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxL2M4YjY0NjZmLTk4ZTItNDBkOC1hODYwLWQ0OTJhYjlkZTVjZS9tYWluLzEyODB4NzIwLzEwbTIwczQ5MG1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTE0OTgyMTh9fX1dfQ__%26Signature%3DWSaYwYGr87j4qYPPSQR4XaNe7IZUTxya8MsoYewse6oH0v~lLQTyvBc9tp7AXvUPS4zAZM6n2YC2ULXt0JOf-ELHUyI6ze6tUf1~yE3LuNJXvtKq8rEwtq2yHRGcqcIVhRNVKvB2src6qIK-h4Ud2eVF0aLZC3ODIyxB~auuszGK~TRk~iEi1LY~upTSTXTPO8sHI5a6mZtP1hKN0H6w4N39TxQSzPx2ke9Rw2qBR0sFu0Radm2liMb2VMoVPZdmTCjx5Qt-oPdcnUKTy66Ova8cWu4KNkvdrfUqBGJpJFmmQW9q2KOpmL1OJk17Xf5WU9AmvFCAg0iwnxX~V8JYpg__&w=640&q=75",
+      "expire": "09-07-2025",
+      "time": "21",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "Não é fácil roubar / A chegada das novas vizinhas",
+      "reference_id": "000000610_16007200_chaves_2024_015",
+      "original_title": "",
+      "episode_order_number": "200",
+      "id": "20250701_XXX",
+      "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/bEbrrhAyzVc/maxresdefault.jpg",
+      "expire": "01-07-2025",
+      "time": "23",
       "enabled": false,
       "quality": [
         "720P"
