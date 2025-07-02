@@ -218,20 +218,6 @@
       ]
     },
     {
-      "name": "A troca de cérebros",
-      "reference_id": "000000611_16001293_chapolincolorado_2024_012",
-      "episode_order_number": "0",
-      "original_title": "",
-      "id": "20241212_009",
-      "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/4FclMteTCRU/mqdefault.jpg",
-      "expire": "12-12-2024",
-      "time": "XX",
-      "enabled": false,
-      "quality": [
-        "720P"
-      ]
-    },
-    {
       "name": "O vazamento de gás 2",
       "reference_id": "000000611_16007465_chapolincolorado_2024_058",
       "episode_order_number": "0",
@@ -239,20 +225,6 @@
       "id": "20241216_011",
       "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/WnQ9CIkvT0A/maxresdefault.jpg",
       "expire": "16-12-2024",
-      "time": "XX",
-      "enabled": false,
-      "quality": [
-        "720P"
-      ]
-    },
-    {
-      "name": "Sai de baixo que lá vem pedra!",
-      "reference_id": "000000611_16001293_chapolincolorado_2024_021",
-      "episode_order_number": "0",
-      "original_title": "",
-      "id": "20241218_012",
-      "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/Lemdkxe9cQc/maxresdefault.jpg",
-      "expire": "18-12-2024",
       "time": "XX",
       "enabled": false,
       "quality": [
@@ -449,20 +421,6 @@
       "id": "20250116_030",
       "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/ZuN9SRYyzw4/sddefault.jpg",
       "expire": "16-01-2025",
-      "time": "XX",
-      "enabled": false,
-      "quality": [
-        "720P"
-      ]
-    },
-    {
-      "name": "De caçador e de louco, todos nós temos um pouco",
-      "reference_id": "000000611_16001293_chapolincolorado_2024_010",
-      "episode_order_number": "0",
-      "original_title": "",
-      "id": "20250121_032",
-      "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/EV7yaV5SHzQ/maxresdefault.jpg",
-      "expire": "21-01-2025",
       "time": "XX",
       "enabled": false,
       "quality": [
@@ -1814,6 +1772,20 @@
       ]
     },
     {
+      "name": "Foi pênalti ou não / O lobisomem",
+      "reference_id": "000000611_16007465_chapolincolorado_2024_068",
+      "original_title": "",
+      "episode_order_number": "0",
+      "id": "20250625_XXX",
+      "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/UBBYK0A74nw/mqdefault.jpg",
+      "expire": "25-06-2025",
+      "time": "22",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
       "name": "Encontro às escuras / Garçom desastrado / Confusão no celeiro",
       "reference_id": "000000611_16007465_chapolincolorado_2024_070",
       "original_title": " CHAPATIN CORAZON APASIONADO / MESERO DEMOLEDOR / ESPANTAPAJAROS\t",
@@ -1836,6 +1808,48 @@
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2Fe63ed2a4-7f99-4c6b-bc04-a24b6a64abfd%2Fmain%2F1280x720%2F9m48s789ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxL2U2M2VkMmE0LTdmOTktNGM2Yi1iYzA0LWEyNGI2YTY0YWJmZC9tYWluLzEyODB4NzIwLzltNDhzNzg5bXMvbWF0Y2gvaW1hZ2UuanBnKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc1MTAxMTM4MX19fV19%26Signature%3DN6mMslczSHF8HMaOprPguWruand7ebknV4hxXJAMdDim4iqr2OGCg7XFwYlAQ9vylKT2tITZHxQme29NwxFGNxQMtDW~~xnxs4mXCtrDj6f5Ct3AsuSd8K3X6p4FDjhUopYND~L-XeobSCJJIBYZO-MaU6VKBUsHeP~eeIvaoiQDT0KFdTP6jU~q-iyVtPCdOQSgOf2uVqNEihWNgveaAaKPyawA~FV0FU61LF4pT~qY82~eGhByOYSCo-VnGCl261tC6e2U16QRGVR-O26QEDOAHgxeyvipmaQbfGxIJ2VagtRhsj5hNNAb5nK6aEtgCFZKURO9ZRh4shOf2MZZig__&w=640&q=75",
       "expire": "03-07-2025",
       "time": "20",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "Sai de baixo que lá vem pedra",
+      "reference_id": "000000611_16001293_chapolincolorado_2024_021",
+      "original_title": "De que dicen e pelear del cielo te caen las piedras",
+      "episode_order_number": "47",
+      "id": "6374963342112",
+      "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F94a7970f-3745-4001-9de8-36378d485b87%2Fmain%2F1280x720%2F10m31s61ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzk0YTc5NzBmLTM3NDUtNDAwMS05ZGU4LTM2Mzc4ZDQ4NWI4Ny9tYWluLzEyODB4NzIwLzEwbTMxczYxbXMvbWF0Y2gvaW1hZ2UuanBnKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc1MTEyNDA0Nn19fV19%26Signature%3DbWa43dqVxPsFOxdWPEW8fopt~BVrKUFdYoy7Rhgw7mipCVId2hvVneDfua7r~RPXtH7CjQTNE0lrDRmD27D-DQg0Yx12uzNM3DBo0nVzW-3x7TL83RxHKezIDc5ALhJbyC-8~rn3i4psdp8Qjc-EDf-jiZ5hUkvQHdSbLOFfVAU12xyHRMtRrQ9p1yoxZaVxgg4zNfekxrQVppSda3W7n-RJvT-o4~v95tmdITe3XXI3C7WhlU0fJqWMBkKVQo-MYRV7az8X-A1QCVD6WJ87ZcdO-0~n95vgyl2r~MVOJC-GrT6OmJcvosFGSrPGzobAxMUkElb0HlbXnoMUwe4HUA__&w=640&q=75",
+      "expire": "04-07-2025",
+      "time": "21",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "De caçador e de louco, todos temos um pouco",
+      "reference_id": "000000611_16001293_chapolincolorado_2024_010",
+      "original_title": "DE CHAPULIN Y LOCOS, TODOS TENEMOS UN POCO",
+      "episode_order_number": "48",
+      "id": "6374965482112",
+      "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2Fa29a16cd-15bc-4c9e-8cee-ff069c029094%2Fmain%2F1280x720%2F10m18s698ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxL2EyOWExNmNkLTE1YmMtNGM5ZS04Y2VlLWZmMDY5YzAyOTA5NC9tYWluLzEyODB4NzIwLzEwbTE4czY5OG1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTEzNTczNjV9fX1dfQ__%26Signature%3DZCw4NhqnvQ~kpQQeJMmY2qg5kgrQ0bwrXaeXCRCa6W00frlySAWsx~7YOQ6AXI~D7bm4hcKusd7Q~PiqkmVO-ie1sEeTufX4osqcvsyTKFDa4Lj90jK151xlf5YkzIZT5A2ZX-i2nKTlv1cYttBrHZ~o8OCYdQHVr9Lm0cDcuv~~UTdkKbqW3z0vebie28gaDvgBxlWL5Lh1iYj~CbkhPkDYd23rbrNNNprRDRKARaDbA6GlxW8UWImSUZDe1BT~XboxqQfZbkUDsxwMCr9olFziQMdksLlgAFlvSGKX2tV0c-Vx4h-fOES7KlqFjPOuUH--EOeQmH4efO7PXNb7-w__&w=640&q=75",
+      "expire": "07-07-2025",
+      "time": "21",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "A troca de cérebros",
+      "reference_id": "000000611_16001293_chapolincolorado_2024_012",
+      "original_title": "SE HACEN TRANSPLANTES DE CEREBROS",
+      "episode_order_number": "49",
+      "id": "6375047939112",
+      "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2Fa9597868-7ee1-4443-b719-fa8095795d1c%2Fmain%2F1280x720%2F10m29s408ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxL2E5NTk3ODY4LTdlZTEtNDQ0My1iNzE5LWZhODA5NTc5NWQxYy9tYWluLzEyODB4NzIwLzEwbTI5czQwOG1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTE0NDM2NDF9fX1dfQ__%26Signature%3DN0uPl-dnHOM~AjLWTVt4jSQz12ojyNg-UoAY5ler1FBXNcgMJIjEqHSbEDpShaOkp1CIbNt~0oU5iBrPI9jh5nIBFTAxUole4tSzYlSAJX~UVK6V1blZqnYSrFLBlVUxAE29O2UZbuEUEYy7Rtc5aI5IcbbuV7F1Yxn2~TG83gZWAsmiv0x-2eO8fxHdDwvRIra3ow~qCR91bXH8urkKTWrqq~IFp2UKoTaL1lM~NWwTAdKe9S3nzqZQq-4T6A6KOe7HSEY734puG78JbcJVrRI3InGYWp~BSdr1tf4YKpeOz~8qk9UC~ix9swe7H03pOXdpMbmXATltxrgtnaFHYg__&w=640&q=75",
+      "expire": "08-07-2025",
+      "time": "21",
       "enabled": false,
       "quality": [
         "720P"
