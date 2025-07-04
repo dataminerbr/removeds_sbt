@@ -204,20 +204,6 @@
       ]
     },
     {
-      "name": "O Louco",
-      "reference_id": "000000611_16001293_chapolincolorado_2024_022",
-      "episode_order_number": "0",
-      "original_title": "",
-      "id": "20241210_007",
-      "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/J-5pQqsn32c/maxresdefault.jpg",
-      "expire": "10-12-2024",
-      "time": "XX",
-      "enabled": false,
-      "quality": [
-        "720P"
-      ]
-    },
-    {
       "name": "O vazamento de gás 2",
       "reference_id": "000000611_16007465_chapolincolorado_2024_058",
       "episode_order_number": "0",
@@ -295,20 +281,6 @@
       "id": "20241230_019",
       "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/wiGihi-8geA/maxresdefault.jpg",
       "expire": "30-12-2024",
-      "time": "XX",
-      "enabled": false,
-      "quality": [
-        "720P"
-      ]
-    },
-    {
-      "name": "O bebê jupiteriano",
-      "reference_id": "000000611_16001293_chapolincolorado_2024_066",
-      "episode_order_number": "0",
-      "original_title": "",
-      "id": "20250101_020",
-      "cover": "https://images.weserv.nl/?sat=0&url=https://i3.ytimg.com/vi/Dpi8suLu7qY/hqdefault.jpg",
-      "expire": "01-01-2025",
       "time": "XX",
       "enabled": false,
       "quality": [
@@ -1850,6 +1822,34 @@
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2Fa9597868-7ee1-4443-b719-fa8095795d1c%2Fmain%2F1280x720%2F10m29s408ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxL2E5NTk3ODY4LTdlZTEtNDQ0My1iNzE5LWZhODA5NTc5NWQxYy9tYWluLzEyODB4NzIwLzEwbTI5czQwOG1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTE0NDM2NDF9fX1dfQ__%26Signature%3DN0uPl-dnHOM~AjLWTVt4jSQz12ojyNg-UoAY5ler1FBXNcgMJIjEqHSbEDpShaOkp1CIbNt~0oU5iBrPI9jh5nIBFTAxUole4tSzYlSAJX~UVK6V1blZqnYSrFLBlVUxAE29O2UZbuEUEYy7Rtc5aI5IcbbuV7F1Yxn2~TG83gZWAsmiv0x-2eO8fxHdDwvRIra3ow~qCR91bXH8urkKTWrqq~IFp2UKoTaL1lM~NWwTAdKe9S3nzqZQq-4T6A6KOe7HSEY734puG78JbcJVrRI3InGYWp~BSdr1tf4YKpeOz~8qk9UC~ix9swe7H03pOXdpMbmXATltxrgtnaFHYg__&w=640&q=75",
       "expire": "08-07-2025",
       "time": "21",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "O Louco",
+      "reference_id": "000000611_16001293_chapolincolorado_2024_022",
+      "episode_order_number": "22",
+      "original_title": "",
+      "id": "20250702_XXX",
+      "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/J-5pQqsn32c/maxresdefault.jpg",
+      "expire": "02-07-2024",
+      "time": "XX",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "O bebê jupiteriano",
+      "reference_id": "000000611_16001293_chapolincolorado_2024_066",
+      "episode_order_number": "23",
+      "original_title": "",
+      "id": "20250703_XXX",
+      "cover": "https://images.weserv.nl/?sat=0&url=https://i3.ytimg.com/vi/Dpi8suLu7qY/hqdefault.jpg",
+      "expire": "03-07-2024",
+      "time": "XX",
       "enabled": false,
       "quality": [
         "720P"
