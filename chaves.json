@@ -2851,7 +2851,7 @@
     {
       "name": "O cãozinho da dona Clotilde - Parte 1",
       "reference_id": "000000610_16001224_chaves_2024_103",
-      "original_title": "",
+      "original_title": "Prohibidos los ninos",
       "episode_order_number": "2168",
       "id": "6374254983112",
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F99413138-32e4-4a47-a794-805a0af6ffab%2Fmain%2F1280x720%2F9m12s565ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzk5NDEzMTM4LTMyZTQtNGE0Ny1hNzk0LTgwNWEwYWY2ZmZhYi9tYWluLzEyODB4NzIwLzltMTJzNTY1bXMvbWF0Y2gvaW1hZ2UuanBnKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc1MDI5MDY4Mn19fV19%26Signature%3DbcFALWesXZ4rTHuMfHIMeJqCHZBnnw3fJlPXATq0FmJ0QWA7-FEuI7QMTJmI9XNzcJc5F-zfVEG59bYcXTpNS~aygpXjQry7Qvdtd2jCP0EbjLGCtfa6pHRKxqEu0eq4XnIKqa0niY-QyFM6dSTdv-~hYGJGjjH9gL-bcCgiun-Uu4v8FBqWaX~3ummKGTJSzA0e3uR0L8xScMkFpYFu7vCX8iIJQNW2xB1C-sPuJZ~fA8NS1Mgwvu9Jf0T~~rT0KWOabQUsqxMYkLsJ17TE3gPN09n5MhPZKTA97xnyQmZHNRkfN8i5hNlMtx69x1u57U24CjX6RkFDcQ3YGZfR4Q__%0A%0A&w=640&q=75",
@@ -2865,7 +2865,7 @@
     {
       "name": "Pai por algumas horas - Parte 2",
       "reference_id": "000000610_16001224_chaves_2024_104",
-      "original_title": "",
+      "original_title": "La sobrina de la bruja del 71",
       "episode_order_number": "2169",
       "id": "6374256049112",
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F0d7a15dd-a1a7-4960-bf44-b582e753634b%2Fmain%2F1280x720%2F9m59s893ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzBkN2ExNWRkLWExYTctNDk2MC1iZjQ0LWI1ODJlNzUzNjM0Yi9tYWluLzEyODB4NzIwLzltNTlzODkzbXMvbWF0Y2gvaW1hZ2UuanBnKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc1MDI5MDc4NH19fV19%26Signature%3DJ-fZA~3C09JMOAZkJ0vRQIQRK2Dkxfl5itE8RbdG4DX9KiHK0qmuXYvGzFFc5OvvAxZl7bpSBbW8inmVvoUcaxgEo~3~-Vd8eAnZf3uFRcmYyPla0MA7WcxEYZc8Z6l07UcebkDF6iB2S4mBnUNXXE5MVt9pUOl60ICHm34PyRQYpnn5CJms7O-149AMgiyTpWTPPJkJUIK0tcH8NLUlxv8SSd6CP2JXGOQE0sDkq2w7GcGQ2KvMkNWvpWWq~iQBXnART51SXkUunPlkmyxnva~bczWo7ACqP8W3ags6ZAFqvYFxV8Idlxng30MbyGYut80GQpRX7XOovcYmPpBA0A__&w=640&q=75",
@@ -3291,6 +3291,76 @@
       "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/bEbrrhAyzVc/maxresdefault.jpg",
       "expire": "01-07-2025",
       "time": "23",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "Um bom encanador não entra no cano - Parte 2",
+      "reference_id": "000000610_16001224_chaves_2024_098",
+      "original_title": "Escasez de agua",
+      "episode_order_number": "201",
+      "id": "6373659311112",
+      "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2Fdcc2d948-9c45-4978-a6e7-b2c0b05aea9f%2Fmain%2F1280x720%2F9m41s898ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxL2RjYzJkOTQ4LTljNDUtNDk3OC1hNmU3LWIyYzBiMDVhZWE5Zi9tYWluLzEyODB4NzIwLzltNDFzODk4bXMvbWF0Y2gvaW1hZ2UuanBnKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc1MTUyNjg0OH19fV19%26Signature%3DCYQmeG9vPpu0rV~MDuFa6AJsdMsTuLLeWOYr2dmSYjz0wLdqzo916ezhCbLbH2~XEt5rz~QRJaYf7jdTfWmAng8FpjuX6jWKMOM4T8aTo-PwPlZXiLuTC9D5~zJyi~EHvIvusJ48qdCkSmyZKwX9GLBaEIHb8K~o0huLi64UQovjJmZlnsaycoFkLi~JoEnWbyY8O361mX1ZsKKjrwqeND0tdv~R44MCykbEYLEY5Ao~Gu2KyB-0BWL-cLu7PZHtiHrzFuH8608fLxVKVR00IUyDtKIQZG11CdYjduiNI-3uO9c4VRPD-muE3UCifb8NHSF8WQKEKYQGlZSAp4r1RA__&w=640&q=75",
+      "expire": "09-07-2025",
+      "time": "19",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "O cãozinho satanás",
+      "reference_id": "000000610_16001224_chaves_2024_165",
+      "original_title": "El cachorro de dona cleotilde",
+      "episode_order_number": "206",
+      "id": "6372253836112",
+      "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F06be7711-91ae-4bce-a9fb-84a249da3ad7%2Fmain%2F1280x720%2F10m12s416ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzA2YmU3NzExLTkxYWUtNGJjZS1hOWZiLTg0YTI0OWRhM2FkNy9tYWluLzEyODB4NzIwLzEwbTEyczQxNm1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTE1ODY1NzN9fX1dfQ__%26Signature%3DIRmv~qZD5IiSzZi5498-onsLgXwCbrfvGZ6IY6Is~7sBWGExw01dHV2lVl4o74y9mTRNhB10tC9eL4ieQp~xpcZB15F1P6i1-ixrhAAWEgsmdxeCw9zjXcZMMOHHJkVJxcdl8bNV6qTdj3Bnte1nVgqPoMjY0Pux2lbe1LGckjOCrZ-CFt4AQ9Gtjyf-4TaA5k~MzuE1Udf2lowP04gkRwKhURzIGLdGzwzeiuIDgiFIZmaIIGfIROGuv~MGE9MM~gsW4cG2pbDfJNavkqDS3kM2YFVc4W-y3tLGnxg8VeVp8rcfn5LqawB-YhEu9MHHzOg5bEgyD05pHT3o2bwMfg__&w=640&q=75",
+      "expire": "10-07-2025",
+      "time": "20",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "O cãozinho da dona Clotilde - Parte 1",
+      "reference_id": "000000610_16001224_chaves_2024_103",
+      "original_title": "Prohibidos los ninos",
+      "episode_order_number": "202",
+      "id": "6374254983112",
+      "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F0d7a15dd-a1a7-4960-bf44-b582e753634b%2Fmain%2F1280x720%2F9m59s893ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzBkN2ExNWRkLWExYTctNDk2MC1iZjQ0LWI1ODJlNzUzNjM0Yi9tYWluLzEyODB4NzIwLzltNTlzODkzbXMvbWF0Y2gvaW1hZ2UuanBnKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc1MTY3MzE2OX19fV19%26Signature%3DFzzlW3uKafstlc2fL5du~5G~LwMXA3S88waN5s3i96EuLr0Dd3yjP6j-n7whv9wwWFEIpOVU1VBMrqvx8dver4vkWGiRN1L5f7MvSuK-kwyA7xHORbw-QZz1C9vvBOfWZ-~npOUsjui8Uuet6jn8N5OJJKeH7KGgPCymA-Ri0ZQ7WzMilW4irf9OoAELCXxHND7v2zS0PNtdFK1BEiadymcHW~fpSb1kn-lBx2faHqj2WLZZ8YZd3bAJI5Hoeeskc7zTJ8GtqeLXNo4-i-Yw3quW~rzFsV0izK71-FVATaGsTawvmrASWfYyy5I~e7kXlRXZaCpAS5cGhj2RRRrXvw__&w=640&q=75",
+      "expire": "11-07-2025",
+      "time": "20",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "Pai por algumas horas - Parte 2",
+      "reference_id": "000000610_16001224_chaves_2024_104",
+      "original_title": "La sobrina de la bruja del 71",
+      "episode_order_number": "203",
+      "id": "6374256049112",
+      "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F99413138-32e4-4a47-a794-805a0af6ffab%2Fmain%2F1280x720%2F9m12s565ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzk5NDEzMTM4LTMyZTQtNGE0Ny1hNzk0LTgwNWEwYWY2ZmZhYi9tYWluLzEyODB4NzIwLzltMTJzNTY1bXMvbWF0Y2gvaW1hZ2UuanBnKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc1MTY3MzA1OH19fV19%26Signature%3DMaHH5LFiVMbe0nVLzn5r5PZDa7R4KLJjPTH5hORW92SMXEQ5ZUFC~pODs7lx4lp3apLAYAvgfqJb8TlOYy9j58c3wmDo6qKDNfI3ThnQ1em0jT8vSZGN7ozqzGwBb6RarF54JcXYjfWLR-IbJiw6pPn04EHT1NuT-~MTSfXzcnnmmcvKqVTiqgUrRiobMTS6LVzTA-zrufajrCdrZuUS5mZfAhKzdkHBrxDRrmLmaqThDHCijs24Lbs5NuRAZNpG9qpg7-ThBakxx4sLz-Y8Q8QgyCGPlU7rA0ARqRbosN521nM5~6vpiiLGXDf4CHsU9QhqGhoCv1P9hLSgh-J1EQ__&w=640&q=75",
+      "expire": "11-07-2025",
+      "time": "18",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "Concurso de beleza",
+      "reference_id": "000000610_16001224_chaves_2024_144",
+      "original_title": "Concurso en la TV",
+      "episode_order_number": "205",
+      "id": "6374748958112",
+      "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F2e37c19b-7723-4940-aa05-6f95abfcdf8d%2Fmain%2F1280x720%2F11m7s317ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzJlMzdjMTliLTc3MjMtNDk0MC1hYTA1LTZmOTVhYmZjZGY4ZC9tYWluLzEyODB4NzIwLzExbTdzMzE3bXMvbWF0Y2gvaW1hZ2UuanBnKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc1MTY3MTE1N319fV19%26Signature%3DWrX-VKVWBhSyQoqcNYe0IauN-ed1Yrf0JIOi0Iki15OVLqZLpAfFshRQug0dF34mzrrIv1XEHjy5FlqF12yu1IS-62dFTGyuC00Zsj~3kJiEJKyiTHZMX43eP-tfBSoeeYpSefE8H80phl4Bl8LLCmJU9K5KIfoxKSbLjNhxAMcKaR6uAnmArHNJLfbUCMd6MUTfup7AU7LGKuaVJbx6sdo0srsVfeudVHaXTmbu4AdE5Y1~aEpOMCDw8FYs55fx1-3XfaTeOjtso15y~V~avkPuzqHjhOOg22OTPOI1HLOLD~Lsdz4aFl6nMCaQ3Ayc~pj4d~zxdWuAlZ1uD-Jxlw__&w=640&q=75",
+      "expire": "11-07-2025",
+      "time": "21",
       "enabled": false,
       "quality": [
         "720P"
