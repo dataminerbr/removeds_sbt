@@ -204,6 +204,19 @@
       ]
     },
     {
+      "name": "O Bandido",
+      "reference_id": "000000611_16001293_chapolincolorado_2024_006",
+      "episode_order_number": "0",
+      "id": "xxxxxxxxxxx",
+      "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/abL61_mEcrM/maxresdefault.jpg",
+      "expire": "-",
+      "time": "26",
+      "enabled": true,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
       "name": "O vazamento de gás 2",
       "reference_id": "000000611_16007465_chapolincolorado_2024_058",
       "episode_order_number": "0",
