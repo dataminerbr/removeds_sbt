@@ -469,20 +469,6 @@
       ]
     },
     {
-      "name": "Sustos na Vila",
-      "reference_id": "000000610_16001224_chaves_2024_112",
-      "original_title": "",
-      "episode_order_number": "0",
-      "id": "20250412_153",
-      "cover": "https://images.weserv.nl/?sat=0&url=https://i.ibb.co/zzmmXT5/20250412-153.jpg",
-      "expire": "12-04-2025",
-      "time": "26",
-      "enabled": false,
-      "quality": [
-        "720P"
-      ]
-    },
-    {
       "name": "Don Quixote / Isto Merece Um Prêmio!",
       "reference_id": "000000610_16001224_chaves_2024_126",
       "original_title": "",
@@ -544,7 +530,7 @@
       "original_title": "-",
       "episode_order_number": "4",
       "id": "6371482632112",
-      "cover": "https://img.youtube.com/vi/RsfFeVSGEfc/maxresdefault.jpg",
+      "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F274aff21-865d-4ac0-a4ba-a69ff1e147aa%2Fmain%2F1280x720%2F10m55s658ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzI3NGFmZjIxLTg2NWQtNGFjMC1hNGJhLWE2OWZmMWUxNDdhYS9tYWluLzEyODB4NzIwLzEwbTU1czY1OG1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTIwMDY1MzN9fX1dfQ__%26Signature%3DEnm~Qg2e35c7DmBIAtzUv7csP6pYwFZ1D-jJ5xzFe~6ugcft2hI6V~3C6zsjC8MVC27jUVeesktI5h0~uOvE7O7yRnZR2EBQCJPQ6X1gjl7MdeJ6mMsVhZiem-FhkOTpFWsVtzZ28rApBxohQdnooF4i3AojbkofXMMdvmQRxfol4FTcJcsGTRZx7dC3xbhKlVt-MW~rPeyf1Osz5untdX-VlsgiRkX~7e1DDyQvWUb268w-EGfIktQm49Gn~9kaag6cI99HVShm6LrHOMtX4Vl9dnMR4BZduMMReSUidj9s1~LKUgnCdo2E~2t5usHmOssonA~a5wHf~KCV4WOoNw__&w=640&q=75",
       "expire": "21-04-2025",
       "time": "21",
       "enabled": true,
@@ -737,10 +723,10 @@
     {
       "name": "A máquina de lavar",
       "reference_id": "000000610_16001224_chaves_2024_008",
-      "original_title": "-",
+      "original_title": "Lavadora nueva",
       "episode_order_number": "18",
       "id": "6371615702112",
-      "cover": "https://img.youtube.com/vi/WxvP9kSA30M/mqdefault.jpg",
+      "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F595ddfaa-8ef3-463f-9ca7-c548edf8471c%2Fmain%2F1280x720%2F10m5s792ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzU5NWRkZmFhLThlZjMtNDYzZi05Y2E3LWM1NDhlZGY4NDcxYy9tYWluLzEyODB4NzIwLzEwbTVzNzkybXMvbWF0Y2gvaW1hZ2UuanBnKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc1MjA0Mzg0M319fV19%26Signature%3Darv~XV1vWn9N1-kah9JUeJ83pjDD~Bx09eoSGAX1xPGtpslaX-R5VIP6lASP0Clxp3OcLsiWsRGMXW8aL1e6xqeTKNOkD2QJnzVVhs3QMPg1GxqIXxzsWBIMcUI6yqmRYNxOUwZdxPAN94lP1phjm7fqHNmxewgWn9EtcJY8MvtbEmYdA5Vw~WHfsdgQPhmVqmVUH~rVhcdL3zHM85xi~YMP~yJuJtNclmmt8Ya1t14RorhcDdM6x6Sk6HKU0ee5zaHUorxdoCi6Y9E-MhPwaWLQO4aRhSYvfyKBT2jkzwTr7WE~snsuZaTkqiCf8gDbkTzP19e50XynYRvQs10Ikw__&w=640&q=75",
       "expire": "26-04-2025",
       "time": "20",
       "enabled": true,
@@ -807,10 +793,10 @@
     {
       "name": "O vendedor de balões",
       "reference_id": "000000610_16001224_chaves_2024_155",
-      "original_title": "-",
+      "original_title": "O vendedor de balões",
       "episode_order_number": "23",
       "id": "6371798583112",
-      "cover": "https://img.youtube.com/vi/N3RFciqXRTw/maxresdefault.jpg",
+      "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2Fce20907b-36ef-4204-b6de-c0197d70ad90%2Fmain%2F1280x720%2F10m50s485ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxL2NlMjA5MDdiLTM2ZWYtNDIwNC1iNmRlLWMwMTk3ZDcwYWQ5MC9tYWluLzEyODB4NzIwLzEwbTUwczQ4NW1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NDk3MTEwNTd9fX1dfQ__%26Signature%3DGIZEbp0e8we85~LBs88wObMreOfokwTn2waexvnIVBfVxzA2W-7QgAYGmhWh640UKbBM19heLJif7Hi3XiXtID-ji8DqK187GUSvI7TeqZ15RunrwuokjUuF0RD1qqX-T0IbvddORSsi-cHe2C70vcda67WDONADKWOF3rqrzPxDdO4x0NwS~gZq7EG36LpoPIpS2WCpp6~t4Z9--ohXTShDrj5CV-wA~oCw8EEq5YArAzVZCDVxcnr9MfyWXEOrmafbHHKKVzSsxMADrCKRqdwvcqlEzev0VUBKm451CI58I43pasfIOXRXK9Kewj6ItGDS1ztIKwguE9HUmXoRmA__&w=640&q=75",
       "expire": "29-04-2025",
       "time": "21",
       "enabled": true,
@@ -849,10 +835,10 @@
     {
       "name": "Santa ignorância",
       "reference_id": "000000610_16001224_chaves_2024_135",
-      "original_title": "-",
+      "original_title": "Santa ignorância",
       "episode_order_number": "26",
       "id": "6371841561112",
-      "cover": "https://img.youtube.com/vi/tiy_nPDSb74/maxresdefault.jpg",
+      "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F0e4f826a-380e-435a-914d-4c47844196ad%2Fmain%2F1280x720%2F10m11s648ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzBlNGY4MjZhLTM4MGUtNDM1YS05MTRkLTRjNDc4NDQxOTZhZC9tYWluLzEyODB4NzIwLzEwbTExczY0OG1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTIxOTAyNzJ9fX1dfQ__%26Signature%3DKibImf2YZoNB3fd0gerxXNhG9KMdPku9fFr8cbQwK9pmYa8ucsM4UFkibMijlRPFA5325JMmer6E1ZaRYCXDSZINAhNcR~YZrO68dYWF-69qcb-GJRfSDIM-ywaxU-T8QdFJRKEivnNbd31g7QH6U4L3kXoJt4ChfZ5p53r2Q3KQJPOY0Yp788A~xirFCp6r7q-Fv0UiYSxbo8LoidVBNVXd2uPdju8kkrb4KII0nycff66-gW80u480Txp7eSV~CY2lp-7QrRk5t6J1HglhTRUR-j23W00hO6dMFLnN4Dl3TgWoKCCHLWmm78JBfIzDAqiX6GabNqR8~T2ePHyDOQ__&w=640&q=75",
       "expire": "30-04-2025",
       "time": "20",
       "enabled": true,
@@ -3376,6 +3362,305 @@
       "expire": "11-07-2025",
       "time": "21",
       "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+
+
+
+    {
+      "name": "O caçador de lagartixa",
+      "reference_id": "000000610_16007200_chaves_2024_001",
+      "original_title": "La lagartija",
+      "episode_order_number": "207",
+      "id": "6373823021112",
+      "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2Ffb67831b-c18b-41f3-86ef-7e7388d6e0c6%2Fmain%2F1280x720%2F9m19s744ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxL2ZiNjc4MzFiLWMxOGItNDFmMy04NmVmLTdlNzM4OGQ2ZTBjNi9tYWluLzEyODB4NzIwLzltMTlzNzQ0bXMvbWF0Y2gvaW1hZ2UuanBnKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc1MTY5ODE4Nn19fV19%26Signature%3DRz5BZ9X67pmiLw8uXQJmHQ0LoqSKC8~Q8LdIXcEyd0vaN~E-rA7Y4kVLQ4uAWdHvwckYcwyNgpT4RI0Ic8lWp5BZR~sTOv0UzO4w4AZoyDXfS~HoLcFDmmqCTQGaOTaaEho64v4f~97rffUF0Q4y5DpQzAxUCnPHt6jvYPoHdwgvtZ9S-5HtBOSfO2OePpw68Ms016BMOn7lcdw3RHZOX-7Q0kz8qM7Qwwivuvba-HmM7JVR30Ws8YdCAMFCXa3RAewHBlMZ1dKHC9iJAi5MnRt0NWGOMnHHRDZuqz1bzn0w1xgGcPrvoXfrufeYaQpIz~Vakisx9B3speifl95zfw__&w=640&q=75",
+      "expire": "11-07-2025",
+      "time": "19",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "Caça ao rato - Parte 1",
+      "reference_id": "000000610_16001224_chaves_2024_024",
+      "original_title": "Roedores en la fonda",
+      "episode_order_number": "59",
+      "id": "6372385145112",
+      "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2Ff69859f1-eef9-4746-9144-8acbae73bd67%2Fmain%2F1280x720%2F10m18s581ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxL2Y2OTg1OWYxLWVlZjktNDc0Ni05MTQ0LThhY2JhZTczYmQ2Ny9tYWluLzEyODB4NzIwLzEwbTE4czU4MW1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NDY2ODU5MTh9fX1dfQ__%26Signature%3DMvtPd9~z8x3XFUQOl-pxI6JD5oQmaXHjROcnQbcvD3rVIdkp-HBtVEuVWnZiQZiASRaRwC-FPUn7OqetRI-8gt~G9U4zBa1Dy6i9XfH~S9AmyZ1YWXEO0ko59bp5G7d8e17ifbxNiqjJUPUuMoVsA6beoP4wKQE8hZf1IhmL18wKK7mZNaWwgLgYnrnbnrrbVTYLIxlUPftqkFxrIs43elQ61sGncJwZ3yxNQnCcrng30eqOqRT88OlMq0Mtq450c3hRAksNkkrhM9UsfH9vuNphQAkhYFa6nJInpZ6o1X9gCDImOpMyOZ~WtJ4k47gWzP4qtHMVfz44-2uQkz-Hsw__&w=640&q=75",
+      "expire": "05-07-2025",
+      "time": "21",
+      "enabled": true,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "Caça ao rato - Parte 2",
+      "reference_id": "000000610_16001224_chaves_2024_025",
+      "original_title": "Roedores en la fonda",
+      "episode_order_number": "61",
+      "id": "6372383701112",
+      "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F1e4c8675-8a4c-4a30-a969-0deb1087075a%2Fmain%2F1280x720%2F10m53s301ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzFlNGM4Njc1LThhNGMtNGEzMC1hOTY5LTBkZWIxMDg3MDc1YS9tYWluLzEyODB4NzIwLzEwbTUzczMwMW1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NDY2ODc5NzF9fX1dfQ__%26Signature%3DSeraGNqt2gR5uhULkzaux1S3Xs9DWP5iQfum6woWiG17tFdVTw2gGQ3WngKwtDiweu8OtvbrYWFz~wSj6-W92FUKXXaOYh2b3FmMyzPpVJWTZ1rs8e~fVC2jsRyI5MyLEuAWCDkPrOzIgzODaEVl6Se87ZxcMasx8xUho24qQ3AIh2egcxa61D5SVaFw8EnP929glndvvZpsmaA587PFvwTWGoGxfPHqnM9SFYc9UNGKp3VkrGSit5cUuVykmMcEc572q~Whr1nzP9QiChWsybaS3wm~hVC5LdYtduiAlLmeQZgZGVszZiKo8Szvo-ZSbvXqtGT~Eg5Ft1IlbZkBVQ__&w=640&q=75",
+      "expire": "05-07-2025",
+      "time": "22",
+      "enabled": true,
+      "quality": [
+        "720P"
+      ]
+    },
+
+
+    {
+      "name": "O marujo enjoado / Sustos na vila",
+      "reference_id": "000000610_16001224_chaves_2024_112",
+      "original_title": "El Mareo / Los Sustos",
+      "episode_order_number": "208",
+      "id": "6375261748112",
+      "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2Fadb65eef-4f40-4f3a-8c0c-979e09b9b9a4%2Fmain%2F1280x720%2F13m33s610ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxL2FkYjY1ZWVmLTRmNDAtNGYzYS04YzBjLTk3OWUwOWI5YjlhNC9tYWluLzEyODB4NzIwLzEzbTMzczYxMG1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTE5MTgyODV9fX1dfQ__%26Signature%3DMfibdMEz6gg9aC8yIxr7gchxFE9WwvZzkBs94z3J2jTxn3WOOxXFXhJuf0DqEVXFcF2PekK~-msMjb5ZZkCbghzSHq54eDZLyYfbAIuh0CGsghNyCoUEL8NESDDHMfXlY8~Ap~R6Au8W1ILEvDFJroKMyV-P1o2SoUDaCdOTzMCVn1qShf8J2DCJGyYOPrAKuTiaz1OjQBe-ikBcb-GtXJOgstMhegCEQvrQp2iUgDelHUclw6u9Liisbggpljrm3wRK0VtB7XK9vTdFqczvRnODD47C0L6GrLK4798WXFU4L7UEnEuFr1cd0wDOXb4LxjbkNOsIQUzPNFvHIPpATQ__&w=640&q=75",
+      "expire": "13-07-2025",
+      "time": "27",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "O vendedor de balões",
+      "reference_id": "000000610_16001224_chaves_2024_155",
+      "original_title": "O vendedor de balões",
+      "episode_order_number": "209",
+      "id": "6371798583112",
+      "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2Fce20907b-36ef-4204-b6de-c0197d70ad90%2Fmain%2F1280x720%2F10m50s485ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxL2NlMjA5MDdiLTM2ZWYtNDIwNC1iNmRlLWMwMTk3ZDcwYWQ5MC9tYWluLzEyODB4NzIwLzEwbTUwczQ4NW1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTE5MzA2MzF9fX1dfQ__%26Signature%3DFTkY0aTQPSwsTq59Yeapv5FxBIFd~fwRlcU-9b122oZHHEfCBVkYcPc5DbGHb3Xh440onSGRrBJ6eGZLgm0m7IEq3A2HL8pzQjlNoDTdPMQ8OBfm~lZOXE2UB8gRNHywA6x-qzy55EA9c4GvioQYnut-0dK3Z~yI1M7Ijli6a7GkkkZNUQFWaSEndXUdt-AdaufBRrYstkrBOqQxCYPsdGSujnjRhRAzNKjkLpguBwpdw4r3A5EdnYm2EpCvUY7UYtpxvCiWFRYTHCi83Kkn9~8cl4D0te4XbC1g5EwKp02osHoEqDCbq6ZTMvffKYqpoabiSsUyMoiUNb9G~xNYKQ__&w=640&q=75",
+      "expire": "14-07-2025",
+      "time": "22",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "O aniversário do Kiko",
+      "reference_id": "000000610_16001224_chaves_2024_116",
+      "original_title": "Cumpleanos de Quico",
+      "episode_order_number": "210",
+      "id": "6374454758112",
+      "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F3b8839eb-9370-4795-a9ba-97c636eaa256%2Fmain%2F1280x720%2F10m30s165ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzNiODgzOWViLTkzNzAtNDc5NS1hOWJhLTk3YzYzNmVhYTI1Ni9tYWluLzEyODB4NzIwLzEwbTMwczE2NW1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTE5MzA0NTN9fX1dfQ__%26Signature%3DVelkQ4yegYqM1uCtjctHQRkdY9p7L0Lqxw~OhSBYBvg6z62uEddzjpecIo53WlQ5HTWY~jRGOJ57cvme-IYVIKHOB52W~ORGHdfsCK7sdduP2VpUN4p0fUeEZUZO1-HPLL71FItMW3V~DfbYwdfdYNEIqik0p5dbgQLb7tHQHrQeM-e8n9kBEEzZg~CfD1E2I2R2pPZcqJB527jtA5WIetjeP4bZ0EMeA-Sdzbd0r-rnkg1y6XqHMso1nteYjFCEzBBXSnY~7rarFC4r3cyojq6Dq~fNDbCVdrDedAYiVVDrrQe5BMAmVY9x4jd6TZzMgpfOVUjp7JiGTCm5odHvUw__&w=640&q=75",
+      "expire": "14-07-2025",
+      "time": "21",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "4. A Limpeza do Pátio ",
+      "reference_id": "000000610_16001224_chaves_2024_038",
+      "original_title": "4. A Limpeza do Pátio ",
+      "episode_order_number": "304",
+      "id": "6371482632112",
+      "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F274aff21-865d-4ac0-a4ba-a69ff1e147aa%2Fmain%2F1280x720%2F10m55s658ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzI3NGFmZjIxLTg2NWQtNGFjMC1hNGJhLWE2OWZmMWUxNDdhYS9tYWluLzEyODB4NzIwLzEwbTU1czY1OG1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTIwMDY1MzN9fX1dfQ__%26Signature%3DEnm~Qg2e35c7DmBIAtzUv7csP6pYwFZ1D-jJ5xzFe~6ugcft2hI6V~3C6zsjC8MVC27jUVeesktI5h0~uOvE7O7yRnZR2EBQCJPQ6X1gjl7MdeJ6mMsVhZiem-FhkOTpFWsVtzZ28rApBxohQdnooF4i3AojbkofXMMdvmQRxfol4FTcJcsGTRZx7dC3xbhKlVt-MW~rPeyf1Osz5untdX-VlsgiRkX~7e1DDyQvWUb268w-EGfIktQm49Gn~9kaag6cI99HVShm6LrHOMtX4Vl9dnMR4BZduMMReSUidj9s1~LKUgnCdo2E~2t5usHmOssonA~a5wHf~KCV4WOoNw__&w=640&q=75",
+      "expire": "",
+      "time": "22",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "A grande festa - Parte 1",
+      "reference_id": "000000610_16001224_chaves_2024_129",
+      "original_title": "FESTIVAL DE LA BUENA VENCIDAD I ",
+      "episode_order_number": "211",
+      "id": "6375331181112",
+      "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F31b60367-bd94-4476-8e15-51b421d1236b%2Fmain%2F1280x720%2F11m25s34ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzMxYjYwMzY3LWJkOTQtNDQ3Ni04ZTE1LTUxYjQyMWQxMjM2Yi9tYWluLzEyODB4NzIwLzExbTI1czM0bXMvbWF0Y2gvaW1hZ2UuanBnKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc1MjAwNDc5MH19fV19%26Signature%3DOsBYrG7OVhHwf3IBKihrga8-TWV~4PWy7a~Rt-O-EJPZrQfDQ7NhRsIKqEkzYGQ4wvbjenVznFO8RjZ9pXXFUiUXKOmiFmm1QK4~ut14lXrrEeUfyHhEZ93Qumf1sE56jmyWl5Am8biweDe5OToiSZ8G3KTRIVrOf5-GAv2NuKtZfsEOegoajWPeGfut5qmdyeT7fnp7uq0PWZdK1HuIR6sDC~TElidjC8w0NexvbUq1vzWb-3Jqw3ZXEcTTwCBxC7-SQqsHzWh2qZoV7aXjZ4J-M1SWS6q-g4X5ZmQ3cjfsXGlHjU2KK4H3OTIyEfY63ziqWgOw3oxRbAkv0TmkEA__&w=640&q=75",
+      "expire": "14-07-2025",
+      "time": "23",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "Um festival de vizinhos - Parte 2",
+      "reference_id": "000000610_16001224_chaves_2024_130",
+      "original_title": "FESTIVAL DE LA BUENA VENCIDAD II",
+      "episode_order_number": "212",
+      "id": "6375333231112",
+      "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F02ec7a2d-415a-4772-b786-7bfd3341c449%2Fmain%2F1280x720%2F11m4s992ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzAyZWM3YTJkLTQxNWEtNDc3Mi1iNzg2LTdiZmQzMzQxYzQ0OS9tYWluLzEyODB4NzIwLzExbTRzOTkybXMvbWF0Y2gvaW1hZ2UuanBnKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc1MjAwNDc0NH19fV19%26Signature%3DNz2Ca3PJ3bc9qNnZgbByszF~nj~DqRyLBRPV8-XI97bPFVQi5eJCicKK6mZPsEWcyqqsb94GD~KOBhCHblmxSu8TwCeD4Q~9sNxdLGyQJo~Anxrp~8pDyt2eA6Nma7Adlak66lB6uL~rWJu7KsCpj4V27UwF~QQLiadOGuJZ5pSlJ8y~3AN~zP49NF6h3fooLsyCI7Hx~t8tADWJ0XNSFIVdXK3gJL3~nWjMQJtGctZXr8guXkFktzampVLcvE7-He1VT0RLjCJb~UBdYnHafkVg2gaDEqXpwxlTz4RdweFzD9BCY7UBPXEE4BXTC-oN6TeHXx34zbp5zz9exkrmjg__&w=640&q=75",
+      "expire": "14-07-2025",
+      "time": "22",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "A máquina de lavar",
+      "reference_id": "000000610_16001224_chaves_2024_008",
+      "original_title": "Lavadora nueva",
+      "episode_order_number": "215",
+      "id": "6371615702112",
+      "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F595ddfaa-8ef3-463f-9ca7-c548edf8471c%2Fmain%2F1280x720%2F10m5s792ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzU5NWRkZmFhLThlZjMtNDYzZi05Y2E3LWM1NDhlZGY4NDcxYy9tYWluLzEyODB4NzIwLzEwbTVzNzkybXMvbWF0Y2gvaW1hZ2UuanBnKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc1MjA0Mzg0M319fV19%26Signature%3Darv~XV1vWn9N1-kah9JUeJ83pjDD~Bx09eoSGAX1xPGtpslaX-R5VIP6lASP0Clxp3OcLsiWsRGMXW8aL1e6xqeTKNOkD2QJnzVVhs3QMPg1GxqIXxzsWBIMcUI6yqmRYNxOUwZdxPAN94lP1phjm7fqHNmxewgWn9EtcJY8MvtbEmYdA5Vw~WHfsdgQPhmVqmVUH~rVhcdL3zHM85xi~YMP~yJuJtNclmmt8Ya1t14RorhcDdM6x6Sk6HKU0ee5zaHUorxdoCi6Y9E-MhPwaWLQO4aRhSYvfyKBT2jkzwTr7WE~snsuZaTkqiCf8gDbkTzP19e50XynYRvQs10Ikw__&w=640&q=75",
+      "expire": "15-07-2025",
+      "time": "20",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "Ah... E o festival continua - Parte 3",
+      "reference_id": "000000610_16001224_chaves_2024_131",
+      "original_title": "FESTIVAL DE LA BUENA VENCIDAD III",
+      "episode_order_number": "213",
+      "id": "6375371316112",
+      "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2Fef75ca8b-92ef-4629-ad5a-1a271f25e519%2Fmain%2F1280x720%2F10m26s656ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxL2VmNzVjYThiLTkyZWYtNDYyOS1hZDVhLTFhMjcxZjI1ZTUxOS9tYWluLzEyODB4NzIwLzEwbTI2czY1Nm1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTIwMjczOTh9fX1dfQ__%26Signature%3DTASezLP0Q4Oj~pB0D5GlyZgHzMtb24MvG7JokLpANxH2hIIvIMT7~MRzAH678a~si8IJeYERwt7vU15C9GA-TTrqhkBFVj0NiboSXNnG7xANk1hMMgSUpn~P4l4xfVxPpMk1ghVNrxAaZjxYoA9pxGioaihctxy2AVPSDQxVYcl4vWctmc-~T1oCrtxbxVeXo-gHFlmGxPlJzlaJIEuGcZT70RCuqPHUMsJIAGoFegBi22LxWuu~72AcatEJvn4UunD9MRlTI26hkgJW39xddieCwx889dap51m~lUZyvzY1-NwJ7QBsB5WxffEm6UjpAOMDFBy7iGjtZhuU-LLXyw__&w=640&q=75",
+      "expire": "15-07-2025",
+      "time": "21",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "O festival da boa vizinhança - Parte 4",
+      "reference_id": "000000610_16001224_chaves_2024_132",
+      "original_title": "FESTIVAL DE LA BUENA VENCIDAD IV",
+      "episode_order_number": "213",
+      "id": "20250807_XXX",
+      "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/r6d9KzeW0qs/mqdefault.jpg",
+      "expire": "08-07-2025",
+      "time": "20",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "É duro ser eletricista ",
+      "reference_id": "000000610_16001224_chaves_2024_147",
+      "original_title": "EL CAMBIO DE FOCO",
+      "episode_order_number": "216",
+      "id": "6375372614112",
+      "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F9b813776-7b8c-4194-85b7-51aa4dfac522%2Fmain%2F1280x720%2F10m18s805ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzliODEzNzc2LTdiOGMtNDE5NC04NWI3LTUxYWE0ZGZhYzUyMi9tYWluLzEyODB4NzIwLzEwbTE4czgwNW1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTIxMDMxODF9fX1dfQ__%26Signature%3DC5A23YR2gKp-gQ-RlBy-Bnr6Diy66nQN4o1k~BIiIVla2ZYLW9~iEC6b07BA6IrxDohbu0XQYiyvoKOfgDjx6tHBSdicOQ8mG992cH7PFKLkNqxpsdeC9MmWqX2Gn9gO5h8Yqiq0I3E6O2GszhA9PByOdMNq1z289sE6yOZdSwh-tpC7NtTMpuKYrf1VcXG3QMH~KkInAmx3StT5Q2PnPv-jS6RChulE3RtS4sO7SvJynQhml5eHlL6RYcpjEb3zEb4VflxQjZrYNv9i0qBQcdsCrFOF7JjM-NO-7KSyFwandkma8ps4XBiBqilEiVxpT2uKxQXAqlwSHMUnvPaZAg__&w=640&q=75",
+      "expire": "16-07-2025",
+      "time": "21",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "Coleção de insetos (Os insetos de Chaves)",
+      "reference_id": "000000610_16007200_chaves_2024_012",
+      "original_title": "LOS INSECTOS II (LAS PALOMITAS DEL CHAVO)",
+      "episode_order_number": "217",
+      "id": "6375372509112",
+      "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2Fb55c0eee-8837-47cb-8f0d-a3448a103da4%2Fmain%2F1280x720%2F11m51s392ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxL2I1NWMwZWVlLTg4MzctNDdjYi04ZjBkLWEzNDQ4YTEwM2RhNC9tYWluLzEyODB4NzIwLzExbTUxczM5Mm1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTIxMDMzOTh9fX1dfQ__%26Signature%3DZx8xsbcbDX~JwzTuuQ7QxtvcRwg4eWVA0cRAdPSzY0cBZynlBfMiNh4mf4WBIbiDXfqRZ96FB~GcsolEoT57PU6-nx6agSf7UbznFvQCVqQgPISIWj34b1bWi2rfpqdU67miKeUCH8Y~qEF7q-O17BPL5xy190lsTeRxFEXW85vAxN1Ch9K4LvOlJtCB1~IMGahzCqZf-jeIDr9lrB3Vhd~z9unagHIYwtdmF4DFd4xFnCBcatuxFuR2PgLCV0Sw2~j--zNoo1NYceqlEoNpHaTCrG6hT7FRDpAN02BNFF7RPll4Z1LgbNJvdxQwzgwu3Lf6~JCVSWaGOEf5Gc1dyw__&w=640&q=75",
+      "expire": "16-07-2025",
+      "time": "24",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "A Limpeza do Pátio ",
+      "reference_id": "000000610_16001224_chaves_2024_038",
+      "original_title": "4. A Limpeza do Pátio ",
+      "episode_order_number": "219",
+      "id": "6371482632112",
+      "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F274aff21-865d-4ac0-a4ba-a69ff1e147aa%2Fmain%2F1280x720%2F10m55s658ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzI3NGFmZjIxLTg2NWQtNGFjMC1hNGJhLWE2OWZmMWUxNDdhYS9tYWluLzEyODB4NzIwLzEwbTU1czY1OG1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTIwMDY1MzN9fX1dfQ__%26Signature%3DEnm~Qg2e35c7DmBIAtzUv7csP6pYwFZ1D-jJ5xzFe~6ugcft2hI6V~3C6zsjC8MVC27jUVeesktI5h0~uOvE7O7yRnZR2EBQCJPQ6X1gjl7MdeJ6mMsVhZiem-FhkOTpFWsVtzZ28rApBxohQdnooF4i3AojbkofXMMdvmQRxfol4FTcJcsGTRZx7dC3xbhKlVt-MW~rPeyf1Osz5untdX-VlsgiRkX~7e1DDyQvWUb268w-EGfIktQm49Gn~9kaag6cI99HVShm6LrHOMtX4Vl9dnMR4BZduMMReSUidj9s1~LKUgnCdo2E~2t5usHmOssonA~a5wHf~KCV4WOoNw__&w=640&q=75",
+      "expire": "",
+      "time": "22",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "Santa ignorância",
+      "reference_id": "000000610_16001224_chaves_2024_135",
+      "original_title": "Santa ignorância",
+      "episode_order_number": "221",
+      "id": "6371841561112",
+      "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F0e4f826a-380e-435a-914d-4c47844196ad%2Fmain%2F1280x720%2F10m11s648ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzBlNGY4MjZhLTM4MGUtNDM1YS05MTRkLTRjNDc4NDQxOTZhZC9tYWluLzEyODB4NzIwLzEwbTExczY0OG1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTIxOTAyNzJ9fX1dfQ__%26Signature%3DKibImf2YZoNB3fd0gerxXNhG9KMdPku9fFr8cbQwK9pmYa8ucsM4UFkibMijlRPFA5325JMmer6E1ZaRYCXDSZINAhNcR~YZrO68dYWF-69qcb-GJRfSDIM-ywaxU-T8QdFJRKEivnNbd31g7QH6U4L3kXoJt4ChfZ5p53r2Q3KQJPOY0Yp788A~xirFCp6r7q-Fv0UiYSxbo8LoidVBNVXd2uPdju8kkrb4KII0nycff66-gW80u480Txp7eSV~CY2lp-7QrRk5t6J1HglhTRUR-j23W00hO6dMFLnN4Dl3TgWoKCCHLWmm78JBfIzDAqiX6GabNqR8~T2ePHyDOQ__&w=640&q=75",
+      "expire": "17-07-2025",
+      "time": "20",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "A cruz vermelha ",
+      "reference_id": "000000610_16007200_chaves_2024_061",
+      "original_title": "El Loco",
+      "episode_order_number": "222",
+      "id": "6375489843112",
+      "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2Ff9a4c9a2-58e2-4d5c-9a17-da9df6bb47ca%2Fmain%2F1280x720%2F11m11s173ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxL2Y5YTRjOWEyLTU4ZTItNGQ1Yy05YTE3LWRhOWRmNmJiNDdjYS9tYWluLzEyODB4NzIwLzExbTExczE3M21zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTIxODk4MjZ9fX1dfQ__%26Signature%3DPM~dCnpIxoFmyduvT5G4qz27FO0Z8Iip1pzyJLYsAa9COY9W1~niolpnhGgIFjqXlrGCYlUn~6Xav5lV-u9hL5gvBj~SEjqOEELb6nTWF0JPHJTHbmLzUIdu018KENsHkcKxdaCMANdZbH44EKqqw3nU0RXIcI4-xn-r31-HdzK5XtQ95qtlhWpPtGg5mphATb7Ej4D5DR4ZO2K1zdbM9wsPB8qDII~JTZ7nfX8O7Vp6WTkjtilk3kW0JS7kxVcCabuFvKuWWYU4w2NTNlu9pl6HMedN~mWmtyUEOVz-AuOVnUxVg3rJ5P0ZgG1ons-dBTujeSpk5B0mP~hJWO~CuQ__&w=640&q=75",
+      "expire": "17-07-2025",
+      "time": "22",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "Os Carpinteiros / Quantos mais quente pior",
+      "reference_id": "000000610_16001224_chaves_2024_065",
+      "original_title": "Os Carpinteiros - Parte 1",
+      "episode_order_number": "223",
+      "id": "6371369121112",
+      "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F373e30cb-9059-45e1-a185-e41c109ce910%2Fmain%2F1280x720%2F19m52s879ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzM3M2UzMGNiLTkwNTktNDVlMS1hMTg1LWU0MWMxMDljZTkxMC9tYWluLzEyODB4NzIwLzE5bTUyczg3OW1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTIxOTcyNzV9fX1dfQ__%26Signature%3DZjU7tP5KXB2oIaYH~1k5LXCFDNW4s-t7SsY3YbvCgNIA~DKgj2a0ZVW8AOzH97DnOdSJ5Xk8lrijAh0VNxZF8PjtJNf5H6V7kzWABAXAw59dgMLl1Ywi6LK~Z8Vmzf317fupaDtkQwY1jnrrjHsjk48TbQjmEq4sEvNtoTiRGyvHzwOyf6-3JQX3e6NuqPTNlNDe~nqjaVZ7bCJGWEVVb9i576diWRCQqfWHr6Ji6vPBrJ3HkoDy-Z7Uhd1tiCz1mkLoXA9JbsHdUab-p23O2W4UJ7BN9t3obIt6mcAB9OdsTMTg7mbBwJWs~GnmO-5H~dvhzwPYq7hlF3FatIszug__&w=640&q=75",
+      "expire": "17-07-2025",
+      "time": "18",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "Agenta Zero Zero Seta / Barquinhos de papel",
+      "reference_id": "000000610_16007200_chaves_2024_047",
+      "original_title": "-",
+      "episode_order_number": "224",
+      "id": "20250710",
+      "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/FcmhxyJD38Y/mqdefault.jpg",
+      "expire": "10-07-2025",
+      "time": "23",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "Se beijo fosse sapinho, o mundo seria brejo",
+      "reference_id": "000000610_16007200_chaves_2024_087",
+      "original_title": "Los desmayos",
+      "episode_order_number": "226",
+      "id": "6375493006112",
+      "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F66338b41-435a-4a27-aac9-2ae279ee4471%2Fmain%2F1280x720%2F11m28s581ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzY2MzM4YjQxLTQzNWEtNGEyNy1hYWM5LTJhZTI3OWVlNDQ3MS9tYWluLzEyODB4NzIwLzExbTI4czU4MW1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTIyNzU5MzR9fX1dfQ__%26Signature%3DLshJouwkIpUdzI8Pd2NcGEDVHKxQKU1VuUebYDy9mn5AKfYfiRlJKg35bb9GONiOMExInPkxWqrxvtXhsIPJYIX1FDoKtSDKuNfBwP~WRLqR5mnTR4zJ93pdeOamssDtb6nGA-gu4umyD4khMTXbZ-mt5pxhcd7kBcRFL9GB40TPJsfiJ0dPLb5OZyznOx1EvlQOXHrysGiXlxWsdec4O92Ui6wcUlrGzAYcdPE2UwbfeUt8cLog1auZ8Ca9JPIBU71Kw0F73CyNM9Q5pp8uJltUFMh3lxSCyqpblal7fm-Hv-MKw29z9IXM87hD1ReG9qWbyOcn-kk4y3jWGccdEg__&w=640&q=75",
+      "expire": "18-07-2025",
+      "time": "23",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "Lavagem completa",
+      "reference_id": "000000610_16001224_chaves_2024_123",
+      "original_title": "-",
+      "episode_order_number": "227",
+      "id": "6371616070112",
+      "cover": "https://img.youtube.com/vi/6blFDca4aUI/maxresdefault.jpg",
+      "expire": "28-04-2025",
+      "time": "21",
+      "enabled": true,
       "quality": [
         "720P"
       ]
