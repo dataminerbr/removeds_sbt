@@ -1,0 +1,304 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>WIKI CH SBT+</title>
+  <style>
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      padding: 0;
+      background: #f7f7f7;
+      font-family: 'Segoe UI', sans-serif;
+      color: #333;
+    }
+
+    header {
+      background: #c62828;
+      color: white;
+      padding: 20px;
+      text-align: center;
+      font-size: 2rem;
+      font-weight: bold;
+    }
+
+    main {
+      max-width: 1200px;
+      margin: auto;
+      padding: 20px;
+    }
+
+    h2 {
+      margin-top: 40px;
+      font-size: 1.8rem;
+      border-left: 6px solid #c62828;
+      padding-left: 12px;
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(130px, 1fr));
+      gap: 16px;
+      margin-top: 20px;
+    }
+
+    .fig {
+      background: white;
+      border-radius: 10px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+      overflow: hidden;
+      text-align: center;
+      transition: transform 0.2s ease;
+    }
+
+    .fig:hover {
+      transform: scale(1.03);
+    }
+
+    .fig img {
+      width: 100%;
+      display: block;
+    }
+
+    .fig span {
+      display: block;
+      padding: 10px;
+      font-size: 14px;
+      color: #555;
+    }
+
+    .lista {
+      margin-top: 16px;
+      font-size: 14px;
+      white-space: pre-wrap;
+      font-family: monospace;
+      color: #333;
+    }
+
+    section {
+      border: 4px solid #c62828;
+      border-radius: 10px;
+      padding: 16px;
+      margin-top: 40px;
+      background-color: white;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+    }
+
+    @media (max-width: 600px) {
+      h2 {
+        font-size: 1.5rem;
+      }
+      .fig span {
+        font-size: 12px;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <header>WIKI CH SBT // 2024 - 2025</header>
+
+  <main>
+    <section id="chavesI">
+      <h2>SEMANAIS/DIÁRIOS: CHAVES LOTE I (0 / 181)</h2>
+      <div class="grid" id="grid-chaves-i"></div>
+      <div class="lista" id="lista-chaves-i"></div>
+    </section>
+
+    <section id="chavesII">
+      <h2>SEMANAIS/DIÁRIOS: CHAVES LOTE II (0 / 103)</h2>
+      <div class="grid" id="grid-chaves-ii"></div>
+      <div class="lista" id="lista-chaves-ii"></div>
+    </section>
+
+    <section id="chapolinI">
+      <h2>SEMANAIS/DIÁRIOS: CHAPOLIN LOTE I (0 / 146)</h2>
+      <div class="grid" id="grid-chapolin-i"></div>
+      <div class="lista" id="lista-chapolin-i"></div>
+    </section>
+
+    <section id="chapolinII">
+      <h2>SEMANAIS/DIÁRIOS: CHAPOLIN LOTE II (0 / 125)</h2>
+      <div class="grid" id="grid-chapolin-ii"></div>
+      <div class="lista" id="lista-chapolin-ii"></div>
+    </section>
+
+    <section id="chavesIII">
+      <h2>FIXOS: CHAVES (0 / 10)</h2>
+      <div class="grid" id="grid-chaves-iii"></div>
+      <div class="lista" id="lista-chaves-iii"></div>
+    </section>
+
+    <section id="chapolinIII">
+      <h2>FIXOS: CHAPOLIN (0 / 10)</h2>
+      <div class="grid" id="grid-chapolin-iii"></div>
+      <div class="lista" id="lista-chapolin-iii"></div>
+    </section>
+  </main>
+
+<script>
+const coverDefault = 'https://dataminerbr.github.io/removeds_sbt/cover.jpg';
+
+function renderLote(containerId, loteId, totalEps, episodesMap, fallbackTitles) {
+  const grid = document.getElementById(containerId);
+  let exibidos = 0;
+
+  for (let i = 1; i <= totalEps; i++) {
+    const episode = episodesMap[loteId]?.[i];
+    const fallbackName = fallbackTitles?.[i];
+    const div = document.createElement('div');
+    div.className = 'fig';
+
+    const img = document.createElement('img');
+    img.src = episode?.cover || coverDefault;
+    img.alt = episode?.name || fallbackName || `Episódio ${i}`;
+
+    if (episode?.cover) exibidos++;
+
+    const span = document.createElement('span');
+    const displayName = episode?.name || fallbackName || 'Episódio ' + i;
+    span.innerHTML = `#${String(i).padStart(3, '0')} - ${displayName}`;
+
+    div.appendChild(img);
+    div.appendChild(span);
+    grid.appendChild(div);
+  }
+
+  const section = grid.closest('section');
+  const h2 = section?.querySelector('h2');
+  if (h2) {
+    const titleText = h2.innerText.replace(/\(.*?\)/, `(${exibidos} / ${totalEps})`);
+    h2.innerText = titleText;
+  }
+}
+
+function renderListaTexto(containerId, loteId, totalEps, episodesMap, fallbackTitles) {
+  const lista = document.getElementById(containerId);
+  let exibidos = 0;
+  let output = '';
+
+  for (let i = 1; i <= totalEps; i++) {
+    const episode = episodesMap[loteId]?.[i];
+    const fallbackName = fallbackTitles?.[i];
+    const name = episode?.name || fallbackName || `Episódio ${i}`;
+    const prefix = episode?.cover ? '✅' : '❌';
+    if (episode?.cover) exibidos++;
+    output += `${prefix} #${String(i).padStart(3, '0')} - ${name}\n`;
+  }
+
+  lista.textContent = output;
+
+  const section = lista.closest('section');
+  const h2 = section?.querySelector('h2');
+  if (h2) {
+    const titleText = h2.innerText.replace(/\(.*?\)/, `(${exibidos} / ${totalEps})`);
+    h2.innerText = titleText;
+  }
+}
+
+function fetchTxtTitles(txtUrl) {
+  return fetch(txtUrl)
+    .then(res => res.text())
+    .then(text => {
+      const lines = text.trim().split('\n');
+      const titles = {};
+      for (const line of lines) {
+        const match = line.match(/^(\d{3})\.\s+(.+)/);
+        if (match) {
+          const epNum = parseInt(match[1], 10);
+          const name = match[2].trim();
+          titles[epNum] = name;
+        }
+      }
+      return titles;
+    });
+}
+
+// CHAVES
+fetch('https://dataminerbr.github.io/removeds_sbt/chaves.json')
+  .then(res => res.json())
+  .then(async data => {
+    const episodesMap = {};
+    data.videos_rotativos.forEach(ep => {
+      const parts = ep.reference_id.split('_');
+      const loteId = parts.slice(0, -1).join('_') + '_';
+      const epNumber = parseInt(parts.at(-1), 10);
+      if (!episodesMap[loteId]) episodesMap[loteId] = {};
+      episodesMap[loteId][epNumber] = { name: ep.name, cover: ep.cover };
+    });
+
+    const chavesI = await fetchTxtTitles('https://dataminerbr.github.io/removeds_sbt/000000610_16001224_chaves_2024.txt');
+    const chavesII = await fetchTxtTitles('https://dataminerbr.github.io/removeds_sbt/000000610_16007200_chaves_2024.txt');
+
+    renderLote('grid-chaves-i', '000000610_16001224_chaves_2024_', 181, episodesMap, chavesI);
+    renderListaTexto('lista-chaves-i', '000000610_16001224_chaves_2024_', 181, episodesMap, chavesI);
+
+    renderLote('grid-chaves-ii', '000000610_16007200_chaves_2024_', 103, episodesMap, chavesII);
+    renderListaTexto('lista-chaves-ii', '000000610_16007200_chaves_2024_', 103, episodesMap, chavesII);
+  });
+
+// CHAPOLIN
+fetch('https://dataminerbr.github.io/removeds_sbt/chapolin.json')
+  .then(res => res.json())
+  .then(async data => {
+    const episodesMap = {};
+    data.videos_rotativos.forEach(ep => {
+      const parts = ep.reference_id.split('_');
+      const loteId = parts.slice(0, -1).join('_') + '_';
+      const epNumber = parseInt(parts.at(-1), 10);
+      if (!episodesMap[loteId]) episodesMap[loteId] = {};
+      episodesMap[loteId][epNumber] = { name: ep.name, cover: ep.cover };
+    });
+
+    const chapolinI = await fetchTxtTitles('https://dataminerbr.github.io/removeds_sbt/000000611_16001293_chapolincolorado_2024.txt');
+    const chapolinII = await fetchTxtTitles('https://dataminerbr.github.io/removeds_sbt/000000611_16007465_chapolincolorado_2024.txt');
+
+    renderLote('grid-chapolin-i', '000000611_16001293_chapolincolorado_2024_', 146, episodesMap, chapolinI);
+    renderListaTexto('lista-chapolin-i', '000000611_16001293_chapolincolorado_2024_', 146, episodesMap, chapolinI);
+
+    renderLote('grid-chapolin-ii', '000000611_16007465_chapolincolorado_2024_', 125, episodesMap, chapolinII);
+    renderListaTexto('lista-chapolin-ii', '000000611_16007465_chapolincolorado_2024_', 125, episodesMap, chapolinII);
+  });
+
+// CHAVES fixo
+fetch('https://dataminerbr.github.io/removeds_sbt/chaves.json')
+  .then(res => res.json())
+  .then(async data => {
+    const episodesMap = {};
+    data.videos_fixos.forEach(ep => {
+      const parts = ep.reference_id.split('_');
+      const loteId = parts.slice(0, -1).join('_') + '_';
+      const epNumber = parseInt(parts.at(-1), 10);
+      if (!episodesMap[loteId]) episodesMap[loteId] = {};
+      episodesMap[loteId][epNumber] = { name: ep.name, cover: ep.cover };
+    });
+
+    const chavesIII = await fetchTxtTitles('https://dataminerbr.github.io/removeds_sbt/000000610_16007200_chaves_2024.txt');
+    renderLote('grid-chaves-iii', '24000368_chaves_2024_', 10, episodesMap, chavesIII);
+    renderListaTexto('lista-chaves-iii', '24000368_chaves_2024_', 10, episodesMap, chavesIII);
+  });
+
+// CHAPOLIN fixo
+fetch('https://dataminerbr.github.io/removeds_sbt/chapolin.json')
+  .then(res => res.json())
+  .then(async data => {
+    const episodesMap = {};
+    data.videos_fixos.forEach(ep => {
+      const parts = ep.reference_id.split('_');
+      const loteId = parts.slice(0, -1).join('_') + '_';
+      const epNumber = parseInt(parts.at(-1), 10);
+      if (!episodesMap[loteId]) episodesMap[loteId] = {};
+      episodesMap[loteId][epNumber] = { name: ep.name, cover: ep.cover };
+    });
+
+    const chapolinIII = await fetchTxtTitles('https://dataminerbr.github.io/removeds_sbt/000000611_16007465_chapolincolorado_2024.txt');
+    renderLote('grid-chapolin-iii', '24000369_chapolincolorado_2024_', 10, episodesMap, chapolinIII);
+    renderListaTexto('lista-chapolin-iii', '24000369_chapolincolorado_2024_', 10, episodesMap, chapolinIII);
+  });
+</script>
+
+</body>
+</html>
