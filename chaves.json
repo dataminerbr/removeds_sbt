@@ -600,7 +600,7 @@
       "original_title": "-",
       "episode_order_number": "10",
       "id": "6371481270112",
-      "cover": "https://img.youtube.com/vi/ZPMeoU9vTJI/mqdefault.jpg",
+      "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F4f2ecf55-918d-4887-812b-fbdb431438ee%2Fmain%2F1280x720%2F11m3s328ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzRmMmVjZjU1LTkxOGQtNDg4Ny04MTJiLWZiZGI0MzE0MzhlZS9tYWluLzEyODB4NzIwLzExbTNzMzI4bXMvbWF0Y2gvaW1hZ2UuanBnKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc1Mjg0MzI5NH19fV19%26Signature%3DSlmbKt6ESf8AihQnNA740T~5VTqxdmTHIBEipx6cZJbRmnGznldMHgCK8Pn1ksJB2aFa7YGZEt8Ua1dcdkNSq3rLMIaJgTEe8NBKGvg-QIKL8aPQ5C84lFXFoTzCmR2iXGz81oaGKRlMBxCFYk4r2h2qxqJy3jVFGV7Wkaxp8bp-aVl~d2DA84JZ7kCeEOboDJLOxWiHYnlvvhkHXDDKAr3244iUgAV~PN1fFRHBUCuaPWrHwaaegViV6p38t5~njy84qELxEt~aN6zGw9SGgFj-kEFrVwsVFTlsoC4Vqw8Nl9bJMUnBmHYpEA~xbBncQ4LyUlp5wOUooBfztyEjCw__&w=640&q=75",
       "expire": "23-04-2025",
       "time": "22",
       "enabled": true,
@@ -614,7 +614,7 @@
       "original_title": "-",
       "episode_order_number": "11",
       "id": "6371482938112",
-      "cover": "https://img.youtube.com/vi/uZagnuSwbzo/maxresdefault.jpg",
+      "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F1780a020-215a-4b9d-bdac-0749b08109bd%2Fmain%2F1280x720%2F10m56s138ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzE3ODBhMDIwLTIxNWEtNGI5ZC1iZGFjLTA3NDliMDgxMDliZC9tYWluLzEyODB4NzIwLzEwbTU2czEzOG1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTI4NDMyNzd9fX1dfQ__%26Signature%3DXYNPqOTEO~TdfVTXanyaDBFvvVLA-tfxTCYRR-U62CarfXBbFypP~3pZGQRFYQh37JOilZMCD0dHt8VBbN0Q-ePHNxSEXJC8UYNJ0F3FtkchBWWJvjrWT-sBjmOqTQgEdhG4BmuUd6KQSUbNdD5Ty6nHKWEJZ3F-c64mROBBpxzcNTXvxegBMLMBCAH18QiT4kw5t892IGCO2RsZRoK-INIFJIe6~mA9apc5AIDY8onPkiQhKmGZspGR7s-Rk0dBf6m5yI92Mbt7KiCpUIzbqVrAEXJw3KmphTtCvFTFBFB3wRoc8NVPlVfMHr0jM2WrvE2ItZZ5VkSVnr~yS9ulUg__&w=640&q=75",
       "expire": "23-04-2025",
       "time": "21",
       "enabled": true,
@@ -3766,6 +3766,76 @@
       "id": "6372254548112",
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F14d8a8a8-8ccc-4d07-b70e-19ea401d373e%2Fmain%2F1280x720%2F10m24s960ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzE0ZDhhOGE4LThjY2MtNGQwNy1iNzBlLTE5ZWE0MDFkMzczZS9tYWluLzEyODB4NzIwLzEwbTI0czk2MG1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTI3MDg0NDl9fX1dfQ__%26Signature%3DO~uOW0zYJzb0xcxIwV8u94vlw40YaPD2nXkA3txuL9EFi0KnFV6lJqf6wOM~uQRfexJyxGVzQzbcSg0qPsEYy0QGhNMLAEVfXD4uo65mM1bDrtJKqS~Nz2~GMljskCWIZ~DcYgqI8uYAR4~VT~HVkEVhAW4gwioVhr83pp4mCXtJS9xCuk8y6wws2bxsbF~nPKQrMrYp8S~cHpSZhNLVmfAOveMLI9MJyvz0wXPfk4Q8bxlNOTIgKCDmoviL5T-uh5fD-JITZibVUEuoR4S5Xm-JS~s6i3WmtbSUlB3BdfnJ~2ayYC593rpVWuhnONK6f9fttWZeCPiR1H~E~eO5Aw__&w=640&q=75",
       "expire": "23-07-2025",
+      "time": "21",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "Reivindicação salariais (Reivindicação salarial para o Chaves)",
+      "reference_id": "000000610_16001224_chaves_2024_022",
+      "original_title": "11. Reivindicação Salariais (Reivindicação Salarial Para O Chaves)",
+      "episode_order_number": "237",
+      "id": "6371482938112",
+      "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F1780a020-215a-4b9d-bdac-0749b08109bd%2Fmain%2F1280x720%2F10m56s138ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzE3ODBhMDIwLTIxNWEtNGI5ZC1iZGFjLTA3NDliMDgxMDliZC9tYWluLzEyODB4NzIwLzEwbTU2czEzOG1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTI4NDMyNzd9fX1dfQ__%26Signature%3DXYNPqOTEO~TdfVTXanyaDBFvvVLA-tfxTCYRR-U62CarfXBbFypP~3pZGQRFYQh37JOilZMCD0dHt8VBbN0Q-ePHNxSEXJC8UYNJ0F3FtkchBWWJvjrWT-sBjmOqTQgEdhG4BmuUd6KQSUbNdD5Ty6nHKWEJZ3F-c64mROBBpxzcNTXvxegBMLMBCAH18QiT4kw5t892IGCO2RsZRoK-INIFJIe6~mA9apc5AIDY8onPkiQhKmGZspGR7s-Rk0dBf6m5yI92Mbt7KiCpUIzbqVrAEXJw3KmphTtCvFTFBFB3wRoc8NVPlVfMHr0jM2WrvE2ItZZ5VkSVnr~yS9ulUg__&w=640&q=75",
+      "expire": "23-07-2025",
+      "time": "43",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "O restaurante da dona Florinda",
+      "reference_id": "000000610_16001224_chaves_2024_018",
+      "original_title": "O restaurante da dona Florinda",
+      "episode_order_number": "239",
+      "id": "6372385729112",
+      "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2Fb5b7dfed-65a6-402b-9212-9b058f4cdbb0%2Fmain%2F1280x720%2F10m14s229ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxL2I1YjdkZmVkLTY1YTYtNDAyYi05MjEyLTliMDU4ZjRjZGJiMC9tYWluLzEyODB4NzIwLzEwbTE0czIyOW1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTI4NDMxNzl9fX1dfQ__%26Signature%3DKQ-UVfY-KT2uktg6CCPA9YkJvTyRhNaeiAhZHPFhRI8ic-iWVJdDwgIFUfqQNVy4HSa1lCuuKq037uMeil2Qc1EGO6YCPS0cK-NlXd0c9jh40ZFM66Svt9UpoHhNxZfhfmVMbvZxMCDzrepUng8IMlJZNUzzRctUrcLmrZoifyytfnMSqLv2HzvGhhb8MUaNnYlNFYHxJNMJ2wE~3fFjSQfKGqe0cUw5vk3oYjuEkkxjMlTvjLP0TK5VrSzFrEfznbaLWe2RH1FpwXyR8DH51-M~986ayklnAHZqvDECqZXcl5B3mweuljsL~Q2YWhEC-j9k-FYxEEhFvkFnLFrEbQ__&w=640&q=75",
+      "expire": "24-07-2025",
+      "time": "20",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "A mosca que caiu na sua sopa",
+      "reference_id": "000000610_16001224_chaves_2024_019",
+      "original_title": "10. A Mosca Que Caiu Na Sua Sopa",
+      "episode_order_number": "240",
+      "id": "6371481270112",
+      "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F4f2ecf55-918d-4887-812b-fbdb431438ee%2Fmain%2F1280x720%2F11m3s328ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzRmMmVjZjU1LTkxOGQtNDg4Ny04MTJiLWZiZGI0MzE0MzhlZS9tYWluLzEyODB4NzIwLzExbTNzMzI4bXMvbWF0Y2gvaW1hZ2UuanBnKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc1Mjg0MzI5NH19fV19%26Signature%3DSlmbKt6ESf8AihQnNA740T~5VTqxdmTHIBEipx6cZJbRmnGznldMHgCK8Pn1ksJB2aFa7YGZEt8Ua1dcdkNSq3rLMIaJgTEe8NBKGvg-QIKL8aPQ5C84lFXFoTzCmR2iXGz81oaGKRlMBxCFYk4r2h2qxqJy3jVFGV7Wkaxp8bp-aVl~d2DA84JZ7kCeEOboDJLOxWiHYnlvvhkHXDDKAr3244iUgAV~PN1fFRHBUCuaPWrHwaaegViV6p38t5~njy84qELxEt~aN6zGw9SGgFj-kEFrVwsVFTlsoC4Vqw8Nl9bJMUnBmHYpEA~xbBncQ4LyUlp5wOUooBfztyEjCw__&w=640&q=75",
+      "expire": "24-07-2025",
+      "time": "44",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "Um banho para o Chaves",
+      "reference_id": "000000610_16001224_chaves_2024_039",
+      "original_title": "Manos negras del Chavo",
+      "episode_order_number": "243",
+      "id": "6372384264112",
+      "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F78c38018-3fca-41d8-bd65-be50df5209c9%2Fmain%2F1280x720%2F10m19s605ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzc4YzM4MDE4LTNmY2EtNDFkOC1iZDY1LWJlNTBkZjUyMDljOS9tYWluLzEyODB4NzIwLzEwbTE5czYwNW1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTI4ODEwMDJ9fX1dfQ__%26Signature%3DKeOWCuF8Kje8ein5~Nqnr6eYIKSC4Z5-5ha9QlAFZBv3-od9ZokKIYpG8GDQqeXvdohrDg7qJBhokcTu8usrCmCw~0UZsO6Uij1-8RDl0TB4ISz9TaN2c5cSwUfg7bYoCB-hExIKJiPa3xlNbTu7KBWRUzF6TQqKFFIJbqS~wZI5X0B~0i6fOzbuLEaTdxYN8L9OeEey1PJ3F7ItwJwqpGwJfELPHgB3Q5bEcgj1jO2KWqxMUv0~TnEMkhYxNU1VEcPeXx9IKAiPUb~OsBtw2aiBZjQ15TenT2bapNC5cYfRc00G7lDMq5lr7yEqwYkHlusdIuQuL72bGD2bb453YQ__&w=640&q=75",
+      "expire": "25-07-2025",
+      "time": "21",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "As pessoas boas devem amar seus inimigos",
+      "reference_id": "000000610_16001224_chaves_2024_041",
+      "original_title": "Ama a tus enemigos",
+      "episode_order_number": "244",
+      "id": "6372077196112",
+      "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2Fbd052cab-662a-49da-804b-ea1430e1c914%2Fmain%2F1280x720%2F10m44s714ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxL2JkMDUyY2FiLTY2MmEtNDlkYS04MDRiLWVhMTQzMGUxYzkxNC9tYWluLzEyODB4NzIwLzEwbTQ0czcxNG1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTI4ODEzMjB9fX1dfQ__%26Signature%3Da8R--Chnz86dYUbJsNEzcLmEoi3qUsWAoknRq2wnO8oMziOozM9G3piC19e0n-PsDJ2ZVCKysRAYUlz0~QAUYiqHxfzSJiIe1CDpLFhLXcfCK5n18B1ONCmw2ma7xrxuIGUJMc-OCxy6aS5hl3W46TEz4ds06N673cEjbEsT7GlPEwKBd6wPA~hlaUqDofYXg3ypyJhE9j4v7GIgxBWxtbqyvdd1ZlPtNDFDcZJkCUnt~fxj4R1A9RoWi4bispZODT9OwGlARio5rz2C8tx7lB6Ch~ihZzcgTa1qxD4rGJGAWd0yD8MOq3MO0kPT3fBMxiyuMdAc6gRotNpi3zmA3Q__&w=640&q=75",
+      "expire": "25-07-2025",
       "time": "21",
       "enabled": false,
       "quality": [
