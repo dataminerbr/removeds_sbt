@@ -1881,6 +1881,20 @@
       "quality": [
         "720P"
       ]
+    },
+    {
+      "name": "Ser Pequeno Tem Suas Vantagens",
+      "reference_id": "000000611_16001293_chapolincolorado_2024_076",
+      "episode_order_number": "0",
+      "original_title": "",
+      "id": "20250718_XXX",
+      "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/_k8ms_Y6178/maxresdefault.jpg",
+      "expire": "18-07-2025",
+      "time": "XX",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
     }
   ]
 }
