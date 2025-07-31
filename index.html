@@ -104,6 +104,11 @@ section {
       <div class="grid" id="grid-chaves-ii"></div>
     </section>
 
+    <section id="chavesIII">
+      <h2>SEMANAIS/DIÁRIOS: CHAVES LOTE III (1 / 10)</h2>
+      <div class="grid" id="grid-chaves-iii"></div>
+    </section>
+
     <section id="chapolinI">
       <h2>SEMANAIS/DIÁRIOS: CHAPOLIN LOTE I (1 / 146)</h2>
       <div class="grid" id="grid-chapolin-i"></div>
@@ -114,9 +119,9 @@ section {
       <div class="grid" id="grid-chapolin-ii"></div>
     </section>
 	
-    <section id="chavesIII">
+    <section id="chavesIIII">
       <h2>FIXOS: CHAVES (1 / 10)</h2>
-      <div class="grid" id="grid-chaves-iii"></div>
+      <div class="grid" id="grid-chaves-iiii"></div>
     </section>
 
     <section id="chapolinIII">
@@ -201,9 +206,11 @@ fetch('https://dataminerbr.github.io/removeds_sbt/chaves.json')
 
     const chavesI = await fetchTxtTitles('https://dataminerbr.github.io/removeds_sbt/000000610_16001224_chaves_2024.txt');
     const chavesII = await fetchTxtTitles('https://dataminerbr.github.io/removeds_sbt/000000610_16007200_chaves_2024.txt');
+    const chavesIII = await fetchTxtTitles('https://dataminerbr.github.io/removeds_sbt/000000610_16000000_chaves_2025.txt');
 
     renderLote('grid-chaves-i', '000000610_16001224_chaves_2024_', 181, episodesMap, chavesI);
     renderLote('grid-chaves-ii', '000000610_16007200_chaves_2024_', 103, episodesMap, chavesII);
+    renderLote('grid-chaves-iii', '000000610_16000000_chaves_2025_', 10, episodesMap, chavesIII);
   });
 
 // CHAPOLIN
@@ -249,7 +256,7 @@ fetch('https://dataminerbr.github.io/removeds_sbt/chaves.json')
 
     const chavesIII = await fetchTxtTitles('https://dataminerbr.github.io/removeds_sbt/000000610_16007200_chaves_2024.txt');
 
-    renderLote('grid-chaves-iii', '24000368_chaves_2024_', 10, episodesMap, chavesIII);
+    renderLote('grid-chaves-iiii', '24000368_chaves_2024_', 10, episodesMap, chavesIIII);
   });
 
 // CHAPOLIN fixo
