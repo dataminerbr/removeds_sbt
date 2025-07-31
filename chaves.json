@@ -287,20 +287,6 @@
       ]
     },
     {
-      "name": "Vamos ao cinema",
-      "reference_id": "000000610_16001224_chaves_2024_154",
-      "original_title": "",
-      "episode_order_number": "0",
-      "id": "20250110_034",
-      "cover": "https://images.weserv.nl/?sat=0&url=https://i.ibb.co/nNHFvpb8/20250110-034.jpg",
-      "expire": "10-01-2025",
-      "time": "16",
-      "enabled": false,
-      "quality": [
-        "720P"
-      ]
-    },
-    {
       "name": "Isto merece um prêmio!",
       "reference_id": "000000610_16001224_chaves_2024_127",
       "original_title": "",
@@ -894,7 +880,7 @@
       "original_title": "-",
       "episode_order_number": "31",
       "id": "6371842058112",
-      "cover": "https://img.youtube.com/vi/thRzVfwUf8o/maxresdefault.jpg",
+      "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2Ffdbcf7ff-55cf-4726-9db8-8fa6dd2264c3%2Fmain%2F1280x720%2F11m160ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxL2ZkYmNmN2ZmLTU1Y2YtNDcyNi05ZGI4LThmYTZkZDIyNjRjMy9tYWluLzEyODB4NzIwLzExbTE2MG1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTM5NTEzNDJ9fX1dfQ__%26Signature%3DcYCVDPgof-iMZNdb3WqEBdIUggjHLo64CEOQ62o2zwgF2LQQhB71juinqZd5D~qxPFX-LiqVWfQ0okTB08A2lp1FLbOYqLIFYV--caVwx6nRvtz2LcvSaX0zd0THpP6qgTMb1xkVGSVACMBQTM1oY6hJ~nQSWHMO2OWd70jgVDPJRJJqYAesX8~3OkYmB~xWT14n4ARJDpXAHe4WTkBbCqNiPVMz92U8I3OWfuqv09MoVGsm~IuITvwTvX3ZRBqW5~xCCcV--myEFqLd5GloqvEv5RKtJ9PxwN4L5EIBO8HdjT56nGYcHRhbj0U3vAwbuiT33zG3DJp3hz3KuiPS~w__&w=640&q=75",
       "expire": "02-05-2025",
       "time": "22",
       "enabled": true,
@@ -922,7 +908,7 @@
       "original_title": "-",
       "episode_order_number": "33",
       "id": "6371897645112",
-      "cover": "https://img.youtube.com/vi/OYVjNpBupbs/mqdefault.jpg",
+      "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F3c517429-2492-412d-9cc8-5180d28aae72%2Fmain%2F1280x720%2F10m50s368ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzNjNTE3NDI5LTI0OTItNDEyZC05Y2M4LTUxODBkMjhhYWU3Mi9tYWluLzEyODB4NzIwLzEwbTUwczM2OG1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTM4NDIyNzh9fX1dfQ__%26Signature%3DWDdoV5xsNlVSCgO0L8JCqT8fppCCtWQlx81Bzzg85aXiDH0gIWTSe7Tv2eG1998aeur~ldi9giPMaoSjqd-FEIkX8IIfQyvsRgLuS22iTmd67iaLH18OAAOhnPZy8QEXXxqXr1Z2bi-iO1A091-QzvtF6pP7DoMhjet-Qb~vNkw0oJNDbRgzqV3ua8xEK7Alsh9ibtHscqIyIgJfdPTxrsv4XRNMcMNPENYz59Mmf~ddTs9gncmLXsm2ZvfAiuk2taCw3HLMlAOrfccAnmMhq6O8PKgpm0B~lTsrWtQDWTSaMrubIaiZJrssEd5LvcCMXmo9Xsj7d6wPDFRcjhbxmg__&w=640&q=75",
       "expire": "03-05-2025",
       "time": "21",
       "enabled": true,
@@ -2896,7 +2882,7 @@
       "episode_order_number": "173",
       "original_title": "Los cuernos del profesor",
       "id": "6372076997112",
-      "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/gO-hwMabzAY/mqdefault.jpg",
+      "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2Fdd4fa4ff-cdeb-4bc2-8114-a23d35db7145%2Fmain%2F1280x720%2F9m51s477ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxL2RkNGZhNGZmLWNkZWItNGJjMi04MTE0LWEyM2QzNWRiNzE0NS9tYWluLzEyODB4NzIwLzltNTFzNDc3bXMvbWF0Y2gvaW1hZ2UuanBnKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0NjMzOTM5NX19fV19%26Signature%3DZDIhEVqn71VDyrQkMSCoG5C0Bc8RT76YPlONCzp5aJOSh~bADKLYOSd~aTIq-b7fp~GIO0l6P8QuqymtQ~AWP25r8azdzm1uO6Hq8lHymYkRFlMRHfqCGcUVp5gsIWFPdjFxvCQpj1QvpdO3eYGFgqpdHfTC0MVY00g9IGvyuHJzSO3X3xkz0g6aKbdC5we0gHpew5yo6D2ddVchuDvreWSSJKTq73QxIwNGljG7S3ocEFMKd1FyrUw38CkqRcPgCZjeujWA21jnGPxIw7Rw9VmaRUxiI9hqbZ9zn1Dr5U~fUmDSkmec6-TFQ-Va~FtptVgztIiBh1-nbXCYER9Q1w__&w=640&q=75",
       "expire": "19-06-2025",
       "time": "19",
       "enabled": true,
@@ -3837,6 +3823,300 @@
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2Fbd052cab-662a-49da-804b-ea1430e1c914%2Fmain%2F1280x720%2F10m44s714ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxL2JkMDUyY2FiLTY2MmEtNDlkYS04MDRiLWVhMTQzMGUxYzkxNC9tYWluLzEyODB4NzIwLzEwbTQ0czcxNG1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTI4ODEzMjB9fX1dfQ__%26Signature%3Da8R--Chnz86dYUbJsNEzcLmEoi3qUsWAoknRq2wnO8oMziOozM9G3piC19e0n-PsDJ2ZVCKysRAYUlz0~QAUYiqHxfzSJiIe1CDpLFhLXcfCK5n18B1ONCmw2ma7xrxuIGUJMc-OCxy6aS5hl3W46TEz4ds06N673cEjbEsT7GlPEwKBd6wPA~hlaUqDofYXg3ypyJhE9j4v7GIgxBWxtbqyvdd1ZlPtNDFDcZJkCUnt~fxj4R1A9RoWi4bispZODT9OwGlARio5rz2C8tx7lB6Ch~ihZzcgTa1qxD4rGJGAWd0yD8MOq3MO0kPT3fBMxiyuMdAc6gRotNpi3zmA3Q__&w=640&q=75",
       "expire": "25-07-2025",
       "time": "21",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "Confusão de cartas",
+      "reference_id": "000000610_16000000_chaves_2025_001",
+      "original_title": "",
+      "episode_order_number": "0",
+      "id": "XXXXXXXXXXXX",
+      "cover": "https://img.youtube.com/vi/drb3O2xX2YI/mqdefault.jpg",
+      "expire": "18-07-2025",
+      "time": "12",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "O calo",
+      "reference_id": "000000610_16000000_chaves_2025_002",
+      "original_title": "",
+      "episode_order_number": "0",
+      "id": "XXXXXXXXXXXX",
+      "cover": "https://img.youtube.com/vi/UVYt1g7eYTM/maxresdefault.jpg",
+      "expire": "18-07-2025",
+      "time": "10",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "Por uma Mulher Formosa / Grito de Independência / Este Varal é Meu!",
+      "reference_id": "000000610_16007200_chaves_2024_010",
+      "original_title": "",
+      "episode_order_number": "0",
+      "id": "XXXXXXXXXX",
+      "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/w9I_VlcrZ2k/mqdefault.jpg",
+      "expire": "20-07-2025",
+      "time": "20",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "O calo do senhor Barriga",
+      "reference_id": "000000610_16007200_chaves_2024_030",
+      "original_title": "El calo",
+      "episode_order_number": "250",
+      "id": "6372111133112",
+      "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F28be6caa-114b-49f9-9b31-b9a805486b33%2Fmain%2F1280x720%2F10m17s952ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzI4YmU2Y2FhLTExNGItNDlmOS05YjMxLWI5YTgwNTQ4NmIzMy9tYWluLzEyODB4NzIwLzEwbTE3czk1Mm1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTMxNTQ5NDB9fX1dfQ__%26Signature%3DaRoCpzDJ8Jr5HFwNuX-C0ovexRhvml0HiX4jHU0JcZkYEO2gdwhGmzpOWYzn4BqxcbOyifTWn35~~c1hYKGYULE3WzSRezfSAMV87diC2de47CnjL0icpHeC2m7IUXFpYVJBIDAJnEnXe8VGjl7jLhQgRfpYoex1bmTA-dinYHhiq3AMd14VRyq65Bx63r8epJFZlvPu11twLcFLYNwFIMmpM792QpXMDeU241XLig~wjXsPHjLDr5JvXR87iZuEpCNb~Wsjdwj1cWPpAEvjV2hr46RrWJramRY~t5kJqWA5qleqT~4gIKW22CmeRc3xNL2g4Jro0Kndd0nbF6dpbw__&w=640&q=75",
+      "expire": "28-07-2025",
+      "time": "21",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "Roupa limpa suja-se em casa",
+      "reference_id": "000000610_16001224_chaves_2024_090",
+      "original_title": "La munequita prietita del chilindrina",
+      "episode_order_number": "251",
+      "id": "6372384938112",
+      "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2Faaf551a5-82af-456c-9817-2751fa70586b%2Fmain%2F1280x720%2F11m213ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxL2FhZjU1MWE1LTgyYWYtNDU2Yy05ODE3LTI3NTFmYTcwNTg2Yi9tYWluLzEyODB4NzIwLzExbTIxM21zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTMyMTUxNDl9fX1dfQ__%26Signature%3DU4pEtge~Lp5z6IWZRAADfAW0byICBPL6r4TZyKHhjfcxTQ-vFUAQFZN6lLLDw0rn85mWyq5GhNklzk8V6XzHd~VlWRNN97XU6rCQE94UwFYRVwDXqjVtSEOnBr4OrUqCrjSre43mh-1FOvZ7WgzMBirFl7vrnElKJ4id3gmsxGYN03y638eIEdXKt0P22NHXfYzQF-txom~StKxuBG-MtAyFsx3d71-ZfiVqRnY6gFy3wq1pNKHv8d29SMYABbHlIjxXTo35hKshEmT2iY82DFcpz2v9JRB8RwNIpt28FM2~FnlONRGe9pkS149j6T~76ZTdA955G5OwZTfc4trD8Q__&w=640&q=75",
+      "expire": "28-07-2025",
+      "time": "44",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "Aula de comunicação",
+      "reference_id": "000000610_16000000_chaves_2025_003",
+      "original_title": "",
+      "episode_order_number": "0",
+      "id": "XXXXXXXXXXXX",
+      "cover": "https://img.youtube.com/vi/DmSAlGA8G5k/maxresdefault.jpg",
+      "expire": "22-07-2025",
+      "time": "12",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "Panquecas",
+      "reference_id": "000000610_16000000_chaves_2025_004",
+      "original_title": "",
+      "episode_order_number": "0",
+      "id": "XXXXXXXXXXXX",
+      "cover": "https://img.youtube.com/vi/8B6HQYhN2Hk/maxresdefault.jpg",
+      "expire": "22-07-2025",
+      "time": "10",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "Vamos ao cinema",
+      "reference_id": "000000610_16001224_chaves_2024_154",
+      "original_title": "El cine",
+      "episode_order_number": "254",
+      "id": "6376018063112",
+      "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F96574f78-bc86-41a3-b720-f8587ae2bc17%2Fmain%2F1280x720%2F14m59s882ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzk2NTc0Zjc4LWJjODYtNDFhMy1iNzIwLWY4NTg3YWUyYmMxNy9tYWluLzEyODB4NzIwLzE0bTU5czg4Mm1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTMzMzE2NzZ9fX1dfQ__%26Signature%3DC42HhA-Ary-H~1HC69GTIthsiOH3NvxPUX8eYMC1bwnJfkNWH~9ltHTKo8QtR4-rrJ9j8E0woXJusDUr9keGdvqQzM~f1zOk20Yg0VEBBIlz5TV8oXj2NSaus6wjinNUU~NZAS1FpaWxGMkqNjEK8QjBVUKm2ULSCmvlZOL2tnldz7ShdCKAUB8-48bDMqUc4Z0NGJzTbaw1yV~gBb3NWsyZOjudhwPAYAMeWwZVRt5naTXgbPPBD5esYbnQhDvqZwVVkiVanZRLUl8jSoPx2M~H9vgp0qusak4x1-Z1DcTUmWEXGqs~u8bj~hRYCM5HXjxxw6rpfVxySIK80kVJtA__&w=640&q=75",
+      "expire": "30-07-2025",
+      "time": "30",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "A prova de recuperação",
+      "reference_id": "000000610_16000000_chaves_2025_005",
+      "original_title": "",
+      "episode_order_number": "0",
+      "id": "XXXXXXXXXXXX",
+      "cover": "https://img.youtube.com/vi/i9EpHn0Co68/maxresdefault.jpg",
+      "expire": "23-07-2025",
+      "time": "10",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "O frango da dona Clotilde",
+      "reference_id": "000000610_16001224_chaves_2024_032",
+      "original_title": "Pollo asado",
+      "episode_order_number": "255",
+      "id": "6372075814112",
+      "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2Fbfc6840d-32fe-439a-a2a0-45f241c285b8%2Fmain%2F1280x720%2F10m44s640ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxL2JmYzY4NDBkLTMyZmUtNDM5YS1hMmEwLTQ1ZjI0MWMyODViOC9tYWluLzEyODB4NzIwLzEwbTQ0czY0MG1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTM0MTc1NzF9fX1dfQ__%26Signature%3DAKht8vueAjA1J59FdMGfEcW2thAsO7i4ouku6H4HBFNTD3Rdh6FWsChdfgqcHH7nMUKA6AgZw0fw6pY~sPjkx9wUwaS2sBBK7A7BaBeRMCXhogjCKunZFjneY243-dSiE-V37D7~0aeTYoeDCmC9W3UytuKOK~EJBa6BAg4yPdGoOOWEA35tYWrjt0YVMWEHEjEplvOu772WA3dbFQPzcd67XlmYEGG8nlJjOYjru85DtZTVIQB0s9KtkEATnOZF-IWzkfbDMJg9h8PZ2XFPfdQjEFZSv5t87bLp0PwRHi83mS1XSinVpRnPe5q99Qk5ixWq-0QRdMo~y2fqKdeUOA__&w=640&q=75",
+      "expire": "31-07-2025",
+      "time": "21",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "Aula de linguagem: inglês",
+      "reference_id": "000000610_16000000_chaves_2025_006",
+      "original_title": "",
+      "episode_order_number": "0",
+      "id": "XXXXXXXXXXXX",
+      "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/5x7yZEXGwNs/mqdefault.jpg",
+      "expire": "24-07-2025",
+      "time": "10",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "Dando sorte com muito azar",
+      "reference_id": "000000610_16001224_chaves_2024_076",
+      "original_title": "Dando sorte com muito azar",
+      "episode_order_number": "256",
+      "id": "6372077682112",
+      "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F8ea65066-5f6c-483a-9a42-2e5a778ff4cc%2Fmain%2F1280x720%2F10m20s757ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzhlYTY1MDY2LTVmNmMtNDgzYS05YTQyLTJlNWE3NzhmZjRjYy9tYWluLzEyODB4NzIwLzEwbTIwczc1N21zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTM1MDQxMzR9fX1dfQ__%26Signature%3DMg6VyV-j1hOWoQNOyPeKwuINk67j~Ip~ei1ebMYw0eFnY7-8E3OCLad49pECJJf-t8jxOwpP3m~IWrVlDafTuG-B~jyRHBemQE1NAStAKwWUMObPftFEi35xTZi7tG28kJxN9tZLAXcL9SXN3muygW6hAX~A2ub6s4vdQCBN53I19ikqSfJI3sGIL84M6qE1QWSEOtFF-ElDR46ZpOHBZ9xDYC3ac9zzqkfEl0uVGpcvrWF-jnCOlymKQiuQ7wc7XeGmOElMIWDPAUZeXgA~noBGJYyDv~0w-Et53KZz80XO-BA062nqKXavRmJmCh5ntHMr27fDF1AWTknYsPY5gg__&w=640&q=75",
+      "expire": "01-08-2025",
+      "time": "20",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "A carabina (Guerra às crianças)",
+      "reference_id": "000000610_16001224_chaves_2024_128",
+      "original_title": "La guerra contra los ninos",
+      "episode_order_number": "0",
+      "id": "6373505202112",
+      "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F5b5f2039-20b9-4901-ac06-f3b2ed1fc34e%2Fmain%2F1280x720%2F9m29s690ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzViNWYyMDM5LTIwYjktNDkwMS1hYzA2LWYzYjJlZDFmYzM0ZS9tYWluLzEyODB4NzIwLzltMjlzNjkwbXMvbWF0Y2gvaW1hZ2UuanBnKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0ODMyOTcxM319fV19%26Signature%3DN8kG7S9Xx8Xyz7wckSCcB49SYno7ohc4ilyNKoLO~N8Vy188h37GMPGNxPhM4XlzQBO2q0NEoPm~Xv7a3XEh2DXhGUo8uSzIZ3yxW1q23ppVC1CKKSbQt43Feq4s9A~~YUfWtkiTWrXag-xS7rwMmQchNH2wcalkXM1dx244XuRbf76gV8O5dWV-DmqTVTgUoQ0~Xx0n~Yi6KmkUzIuf-sZodt2OvsF5AnBM2H8anE2nWhNJXT8-WZeEWOMVhdv4a8BZ5B-sRYVCc~pO41vKtVdfFnvoQaWdXOuXJL7cJnnf4pt3TEYIgWGJgX1TJJV3ls16eKqFW5CKP3qYruqDHA__&w=640&q=75",
+      "expire": "02-06-2025",
+      "time": "19",
+      "enabled": true,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "As férias dos folgados / A casinha do Chaves",
+      "reference_id": "000000610_16007200_chaves_2024_044",
+      "original_title": "",
+      "episode_order_number": "0",
+      "id": "XXXXXXXXXX",
+      "cover": "https://images.weserv.nl/?sat=0&url=hhttps://img.youtube.com/vi/uXHL7M9smdI/maxresdefault.jpg",
+      "expire": "27-07-2025",
+      "time": "26",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "Os ioiôs e o relógio",
+      "reference_id": "000000610_16000000_chaves_2025_007",
+      "original_title": "",
+      "episode_order_number": "0",
+      "id": "XXXXXXXXXXXX",
+      "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/HVauxenvvxA/maxresdefault.jpg",
+      "expire": "28-07-2025",
+      "time": "10",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "Ciências naturais",
+      "reference_id": "000000610_16000000_chaves_2025_008",
+      "original_title": "",
+      "episode_order_number": "0",
+      "id": "XXXXXXXXXXXX",
+      "cover": "https://img.youtube.com/vi/HN3aYfDFf-U/maxresdefault.jpg",
+      "expire": "28-07-2025",
+      "time": "10",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "Tocando violão",
+      "reference_id": "000000610_16001224_chaves_2024_033",
+      "original_title": "Violinistas e Violinadas",
+      "episode_order_number": "258",
+      "id": "6371897645112",
+      "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F3c517429-2492-412d-9cc8-5180d28aae72%2Fmain%2F1280x720%2F10m50s368ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzNjNTE3NDI5LTI0OTItNDEyZC05Y2M4LTUxODBkMjhhYWU3Mi9tYWluLzEyODB4NzIwLzEwbTUwczM2OG1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTM4NDIyNzh9fX1dfQ__%26Signature%3DWDdoV5xsNlVSCgO0L8JCqT8fppCCtWQlx81Bzzg85aXiDH0gIWTSe7Tv2eG1998aeur~ldi9giPMaoSjqd-FEIkX8IIfQyvsRgLuS22iTmd67iaLH18OAAOhnPZy8QEXXxqXr1Z2bi-iO1A091-QzvtF6pP7DoMhjet-Qb~vNkw0oJNDbRgzqV3ua8xEK7Alsh9ibtHscqIyIgJfdPTxrsv4XRNMcMNPENYz59Mmf~ddTs9gncmLXsm2ZvfAiuk2taCw3HLMlAOrfccAnmMhq6O8PKgpm0B~lTsrWtQDWTSaMrubIaiZJrssEd5LvcCMXmo9Xsj7d6wPDFRcjhbxmg__&w=640&q=75",
+      "expire": "04-08-2025",
+      "time": "22",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "O ladrão da vila",
+      "reference_id": "000000610_16001224_chaves_2024_156",
+      "original_title": "El ratero arrepentido",
+      "episode_order_number": "257",
+      "id": "6369062174112",
+      "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F7923fd85-ab5b-468c-834d-5e2a35abb9c7%2Fmain%2F1280x720%2F11m24s736ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzc5MjNmZDg1LWFiNWItNDY4Yy04MzRkLTVlMmEzNWFiYjljNy9tYWluLzEyODB4NzIwLzExbTI0czczNm1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTM4MTk2MjV9fX1dfQ__%26Signature%3DGelBSmkV6XPq~4a1Zhl2d7ga3RQZlDgMoSHEx3ovzgFdTdbJWv4ZdYkTNE1UiQxTtbuBjVvZEav1Xk2s~YlATZpy~5gp4xzhp9kclFrmTuM3ccN3t-eNjiP6HsG9DDDHVX4cgVl65iqix99XpzvVaN88MqI4PPhadM1DYvbLWZoD95cyw50c~HP-DOOGDBsAQ0HZZkHXlbXKWQcywvv99-A1Z0IABL8VNPD7JntFFV5YZH4ci86QjKAQVaoOkdrUUIA2yz2zDwa-0XU~i9U4zbpSbhPyLUJ1LblDdBb7TtoCvpmrY2WjTGMF1fc-B94Elk9ryPldpMhjQ85OCsrRMA__&w=640&q=75",
+      "expire": "04-08-2025",
+      "time": "23",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "Quem convida paga",
+      "reference_id": "000000610_16001224_chaves_2024_160",
+      "original_title": "Quem convida paga",
+      "episode_order_number": "255",
+      "id": "6372029514112",
+      "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fstatic%2F6415726697001%2F41992630-c5ba-4e76-93da-c58d3e3e979e%2F2aa5b4d7-4c12-4713-9368-fb708fe7a87c%2F1280x720%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL3N0YXRpYy82NDE1NzI2Njk3MDAxLzQxOTkyNjMwLWM1YmEtNGU3Ni05M2RhLWM1OGQzZTNlOTc5ZS8yYWE1YjRkNy00YzEyLTQ3MTMtOTM2OC1mYjcwOGZlN2E4N2MvMTI4MHg3MjAvbWF0Y2gvaW1hZ2UuanBnKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc1MzM0NzU1N319fV19%26Signature%3DWZwZtM9F44SFXgJ~SHmMkcOGHtVQ0y10SYKCyFxEPkGKnlGb3E949SojkYS1tVmwNcDgBBJQu3UxgxR1OItxwW0h90WdUmy9MOj4X~I-Gnu3ijauyH5hGNSoDC7o1iAt0NdAsimt9Oc69ZF2hAOOR2uwVuhxqIPQHCFrN1dGObhl8glGCAoVk1zR7JwpyGoe7G6f9TOm3Olk1mB52-PXYD-fS6UCrz3csqLZzO7dGbwEDm12yOhN4WOYUqU3Wlv60kgPUgTag~e2cICCUCtflzcrTniBeV-Q7tbkFJHHIjKRPljUnvQZP7Qji-vOpv8EUXEx4b1sD9We-JLJmlEbxA__&w=640&q=75",
+      "expire": "30-07-2025",
+      "time": "23",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "Um astro cai na vila",
+      "reference_id": "000000610_16001224_chaves_2024_157",
+      "original_title": "El actor bonilla",
+      "episode_order_number": "259",
+      "id": "6372928395112",
+      "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F54fc4edd-292d-493b-91fd-74b780725c74%2Fmain%2F1280x720%2F10m29s632ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzU0ZmM0ZWRkLTI5MmQtNDkzYi05MWZkLTc0Yjc4MDcyNWM3NC9tYWluLzEyODB4NzIwLzEwbTI5czYzMm1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTM5MzY3NTl9fX1dfQ__%26Signature%3DaeN-AT1kXi8gXMI4LKLK7HtWY6caYQgm0zoSKvUvlMZBPsGLAuV0V4Jx4EbKG5kiknZg1D0ABmkkbuIiIXbMWeBtjc44OJkR8QgK9ZlA4bsESFTfHCg7S-Fusijjc7Uzc86YtNpywy-R8zoGW~HyEp0PJ7K6weDwOzhi~Li1FNJiOpqBOD4N7rC6APdBXs0j3GOpIzvw1cTYDi7ReYO~ZtAFbsrDA3gQ3Rwj6tVoZShRBZrDex4G-JpktlsEd892-aPSIkURJrNCvIKYt~bykaaN3J3cXFfIjduXkPTZYSHpyAJSccY8rBcvdcS6hycPm7YlKIxFgULz86RSkX0lkg__&w=640&q=75",
+      "expire": "06-08-2025",
+      "time": "21",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "O bolo",
+      "reference_id": "000000610_16001224_chaves_2024_023",
+      "original_title": "O bolo",
+      "episode_order_number": "260",
+      "id": "6371842058112",
+      "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2Ffdbcf7ff-55cf-4726-9db8-8fa6dd2264c3%2Fmain%2F1280x720%2F11m160ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxL2ZkYmNmN2ZmLTU1Y2YtNDcyNi05ZGI4LThmYTZkZDIyNjRjMy9tYWluLzEyODB4NzIwLzExbTE2MG1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTM5NTEzNDJ9fX1dfQ__%26Signature%3DcYCVDPgof-iMZNdb3WqEBdIUggjHLo64CEOQ62o2zwgF2LQQhB71juinqZd5D~qxPFX-LiqVWfQ0okTB08A2lp1FLbOYqLIFYV--caVwx6nRvtz2LcvSaX0zd0THpP6qgTMb1xkVGSVACMBQTM1oY6hJ~nQSWHMO2OWd70jgVDPJRJJqYAesX8~3OkYmB~xWT14n4ARJDpXAHe4WTkBbCqNiPVMz92U8I3OWfuqv09MoVGsm~IuITvwTvX3ZRBqW5~xCCcV--myEFqLd5GloqvEv5RKtJ9PxwN4L5EIBO8HdjT56nGYcHRhbj0U3vAwbuiT33zG3DJp3hz3KuiPS~w__&w=640&q=75",
+      "expire": "06-08-2025",
+      "time": "22",
       "enabled": false,
       "quality": [
         "720P"
