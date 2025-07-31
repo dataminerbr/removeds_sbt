@@ -1309,6 +1309,20 @@
       ]
     },
     {
+      "name": "Foi pênalti ou não / O lobisomem",
+      "reference_id": "000000611_16007465_chapolincolorado_2024_068",
+      "episode_order_number": "11",
+      "original_title": "",
+      "id": "",
+      "cover": "https://img.youtube.com/vi/UBBYK0A74nw/mqdefault.jpg",
+      "expire": "25-06-2025",
+      "time": "22",
+      "enabled": true,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
       "name": "Selva",
       "reference_id": "000000611_16001293_chapolincolorado_2024_017",
       "episode_order_number": "12",
@@ -1692,7 +1706,7 @@
       "episode_order_number": "38",
       "original_title": "",
       "id": "20250618_XXX",
-      "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/Xa8AaxR2MvQ/maxresdefault.jpg",
+      "cover": "https://img.youtube.com/vi/Xa8AaxR2MvQ/maxresdefault.jpg",
       "expire": "18-06-2025",
       "time": "XX",
       "enabled": false,
@@ -1750,20 +1764,6 @@
       "id": "6374761440112",
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F8cac60e7-c206-4abe-b7e2-03287511ed30%2Fmain%2F1280x720%2F10m46s645ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzhjYWM2MGU3LWMyMDYtNGFiZS1iN2UyLTAzMjg3NTExZWQzMC9tYWluLzEyODB4NzIwLzEwbTQ2czY0NW1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTA3OTYzNjl9fX1dfQ__%26Signature%3DSncHG8-IDTr1X-48IBmfPFSA5tnLqiJFMtrqxZ-Xf-CKmMOa-BQbtdn1G3wo8shbtMuqRXewxCsneb8yBzdPH7~fUmiAQZ-vFcJmBUl92ffcLCRKLU79qzFoGFbLTbSyrZmi1iOQUaeFYddM9WGO5GRGzWUhfNpNy~H3VRWCbqv5MEl56sBZsH-SJ6w9DLS1KfC2D4BoQCJYDXL9Fvq7qjwA7Can8E69Us2Z~jtKJWnu~vNl2CSKNr7GBndLo12egz94MrNROl~~nhXGcEg~FBJbd7IuJ-ugbtnWrM8ziMIlETy35wYQ0MIQD3YqRE7XbpSSKLPkLqWFbToxTYS9Uw__&w=640&q=75",
       "expire": "01-07-2025",
-      "time": "22",
-      "enabled": false,
-      "quality": [
-        "720P"
-      ]
-    },
-    {
-      "name": "Foi pênalti ou não / O lobisomem",
-      "reference_id": "000000611_16007465_chapolincolorado_2024_068",
-      "original_title": "",
-      "episode_order_number": "0",
-      "id": "20250625_XXX",
-      "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/UBBYK0A74nw/mqdefault.jpg",
-      "expire": "25-06-2025",
       "time": "22",
       "enabled": false,
       "quality": [
