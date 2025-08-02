@@ -299,7 +299,22 @@ async function renderData(channel) {
       const episodeTitle = getEpisodeTitle(schedule.title, epNumber);
 
       const fullTitle = `${schedule.title} - D${String(season).padStart(2, '0')}:E${String(epNumber).padStart(2, '0')} - ${episodeTitle}`;
-      const titleColor = schedule.title === "Chaves" ? "green" : schedule.title === "Chapolin" ? "red" : "black";
+
+const scheduleDay = inicio.toLocaleDateString('pt-BR', {
+  day: '2-digit',
+  timeZone: 'America/Sao_Paulo'
+});
+
+const expectedDay = String(season).padStart(2, '0');
+
+let titleColor = "black";
+if (scheduleDay !== expectedDay) {
+  titleColor = "orange"; // Episódio fora do dia esperado
+} else if (schedule.title === "Chaves") {
+  titleColor = "green";
+} else if (schedule.title === "Chapolin") {
+  titleColor = "red";
+}
 
       sched.innerHTML = `
         <div class="formatted-time">${diaSemana}, das ${horaInicio} às ${horaFim}</div>
