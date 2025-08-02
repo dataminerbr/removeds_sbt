@@ -1,0 +1,358 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <title>Programação MSW</title>
+  <style>
+    body {
+      background-color: #121212;
+      color: white;
+      font-family: sans-serif;
+      margin: 0;
+      padding: 20px;
+    }
+    h1 {
+      color: red;
+      text-align: center;
+      margin-bottom: 30px;
+    }
+    .date-group {
+      background-color: #1c1c1c;
+      border: 1px solid #333;
+      border-radius: 10px;
+      padding: 20px;
+      margin-bottom: 30px;
+    }
+    .date-title {
+      font-size: 22px;
+      color: #f44336;
+      margin-bottom: 15px;
+      border-bottom: 1px solid #444;
+      padding-bottom: 5px;
+    }
+    .channel-group {
+      background-color: #252525;
+      border-left: 5px solid #2196f3;
+      padding: 15px;
+      margin-bottom: 20px;
+      border-radius: 8px;
+    }
+    .channel-header {
+      display: flex;
+      align-items: center;
+      margin-bottom: 10px;
+    }
+    .channel-logo {
+      height: 40px;
+      margin-right: 10px;
+    }
+    .channel-title {
+      font-size: 18px;
+      font-weight: bold;
+    }
+    .schedule {
+      background-color: #2e2e2e;
+      border-radius: 8px;
+      padding: 10px;
+      margin: 8px 0;
+      position: relative;
+    }
+    .formatted-time {
+      font-size: 14px;
+      color: #bbbbbb;
+      margin-bottom: 5px;
+    }
+    .progress-bar-container {
+      background-color: #444;
+      height: 8px;
+      border-radius: 4px;
+      overflow: hidden;
+      margin-top: 8px;
+    }
+    .progress-bar {
+      background-color: #f44336;
+      height: 100%;
+    }
+#content {
+  max-width: 1400px; /* aumente aqui a largura */
+  margin: 0 auto;
+  padding: 0 20px; /* opcional: espaço interno lateral */
+}
+
+  /* Modal estilo Claro TV+ */
+  #modal {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0,0,0,0.9);
+    display: none;
+    justify-content: center;
+    align-items: center;
+    z-index: 9999;
+  }
+
+  #modal-content {
+    width: 600px;
+    max-width: 90%;
+    background: #111;
+    color: white;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 0 20px #000;
+    font-family: sans-serif;
+  }
+
+.modal-header {
+  background-size: cover;
+  background-position: center;
+  height: 320px; /* Aumentei de 200px para 320px */
+  position: relative;
+  border-bottom: 1px solid #222; /* opcional: separa visualmente a imagem do conteúdo */
+}
+
+.modal-body {
+  padding: 30px 20px; /* um pouco mais de padding vertical */
+}
+
+.modal-meta {
+  margin: 15px 0; /* espaço maior entre título/meta e descrição */
+}
+  .modal-header::after {
+    content: '';
+    position: absolute;
+    top: 0; left: 0; right: 0; bottom: 0;
+    background: linear-gradient(to top, rgba(0,0,0,0.8), transparent);
+  }
+
+
+
+  .modal-title {
+    font-size: 20px;
+    font-weight: bold;
+  }
+
+  .modal-description {
+    font-size: 15px;
+    margin-top: 10px;
+  }
+
+  .close-modal {
+    position: absolute;
+    top: 10px; right: 10px;
+    background: transparent;
+    color: white;
+    font-size: 24px;
+    border: none;
+    cursor: pointer;
+    z-index: 2;
+  }
+  
+  </style>
+</head>
+<body>
+  <h1>Programação MSW</h1>
+  <div id="content">Carregando programação...</div>
+  
+<div id="modal">
+  <div id="modal-content">
+    <div class="modal-header" id="modal-header">
+      <button class="close-modal" onclick="document.getElementById('modal').style.display='none'">✖</button>
+    </div>
+    <div class="modal-body">
+      <div class="modal-title" id="modal-title"></div>
+      <div class="modal-meta" id="modal-meta"></div>
+      <div class="modal-description" id="modal-description"></div>
+    </div>
+  </div>
+</div>
+
+ <script>
+function gerarURL() {
+  const agora = Math.floor(Date.now() / 1000);
+  const startTime = agora - (4 * 60 * 60); // 4h atrás
+  const endTime = agora + (10 * 365 * 24 * 60 * 60); // 10 anos
+
+  return `https://www.clarotvmais.com.br/avsclient/1.2/epg/livechannels?types=&channelIds=98&startTime=${startTime}&endTime=${endTime}&onlyUserContent=&location=FLORIANOPOLIS,SANTA%20CATARINA&channel=PCTV`;
+}
+
+// Exemplo de uso:
+const API_URL = gerarURL();
+
+  async function fetchData() {
+    try {
+      const response = await fetch(API_URL);
+      const data = await response.json();
+      renderData(data.response.liveChannels[0]);
+    } catch (error) {
+      document.getElementById('content').innerHTML = `<p style="color:red;">Erro ao carregar dados: ${error.message}</p>`;
+    }
+  }
+
+async function renderData(channel) {
+  const container = document.getElementById('content');
+  container.innerHTML = '';
+
+  const now = Math.floor(Date.now() / 1000);
+
+  const episodeData = await fetch("https://raw.githubusercontent.com/dataminerbr/removeds_sbt/refs/heads/main/ch_msw.json")
+    .then(response => response.json())
+    .catch(err => {
+      console.error("Erro ao carregar os dados dos episódios:", err);
+      return { chaves_msw: [], chapolin_msw: [] };
+    });
+
+  const getEpisodeTitle = (program, epNumber) => {
+    const list = program === "Chaves" ? episodeData.chaves_msw : episodeData.chapolin_msw;
+    const match = list.find(ep => ep.numero === String(epNumber));
+    return match ? match.titulo : '';
+  };
+
+  const header = document.createElement('div');
+  header.className = 'channel-header';
+  header.innerHTML = `
+    <img src="${channel.logo}" class="channel-logo">
+    <span class="channel-title">${channel.name} (Canal ${channel.channelNumber})</span>
+  `;
+  container.appendChild(header);
+
+  channel.schedules.sort((a, b) => a.startTime - b.startTime);
+
+  const filteredSchedules = channel.schedules.filter(schedule =>
+    schedule.title === "Chaves" || schedule.title === "Chapolin"
+  );
+
+  const groupedByDate = {};
+  filteredSchedules.forEach(schedule => {
+    const start = new Date(schedule.startTime * 1000);
+
+    // Ajuste para considerar episódios entre 0h e 5h como "do dia anterior"
+    const localHour = start.toLocaleTimeString('pt-BR', {
+      hour: '2-digit',
+      hour12: false,
+      timeZone: 'America/Sao_Paulo'
+    });
+
+    let adjustedDate = new Date(start);
+    const hourNumber = parseInt(localHour, 10);
+
+    if (hourNumber >= 0 && hourNumber < 6) {
+      // Subtrai 1 dia para madrugadas
+      adjustedDate.setDate(adjustedDate.getDate() - 1);
+    }
+
+    const dateKey = adjustedDate.toLocaleDateString('pt-BR', {
+      year: 'numeric',
+      month: '2-digit',
+      day: '2-digit',
+      timeZone: 'America/Sao_Paulo'
+    });
+
+    if (!groupedByDate[dateKey]) {
+      groupedByDate[dateKey] = [];
+    }
+    groupedByDate[dateKey].push(schedule);
+  });
+
+  // Renderização por grupo de data
+  for (const [date, schedules] of Object.entries(groupedByDate)) {
+    const dateGroup = document.createElement('div');
+    dateGroup.className = 'date-group';
+
+    const title = document.createElement('div');
+    title.className = 'date-title';
+    title.innerText = date;
+    dateGroup.appendChild(title);
+
+    const channelBox = document.createElement('div');
+    channelBox.className = 'channel-group';
+
+    schedules.forEach(schedule => {
+      const sched = document.createElement('div');
+      sched.className = 'schedule';
+
+      const inicio = new Date(schedule.startTime * 1000);
+      const fim = new Date(schedule.endTime * 1000);
+
+      const diaSemana = inicio.toLocaleDateString('pt-BR', {
+        weekday: 'long',
+        day: 'numeric',
+        month: 'long',
+        timeZone: 'America/Sao_Paulo'
+      });
+
+      const horaInicio = inicio.toLocaleTimeString('pt-BR', {
+        hour: '2-digit',
+        minute: '2-digit',
+        timeZone: 'America/Sao_Paulo'
+      });
+
+      const horaFim = fim.toLocaleTimeString('pt-BR', {
+        hour: '2-digit',
+        minute: '2-digit',
+        timeZone: 'America/Sao_Paulo'
+      });
+
+      const epNumber = schedule.episodeNumber || '';
+      const season = schedule.seasonNumber || '';
+      const episodeTitle = getEpisodeTitle(schedule.title, epNumber);
+
+      const fullTitle = `${schedule.title} - D${String(season).padStart(2, '0')}:E${String(epNumber).padStart(2, '0')} - ${episodeTitle}`;
+      const titleColor = schedule.title === "Chaves" ? "green" : schedule.title === "Chapolin" ? "red" : "black";
+
+      sched.innerHTML = `
+        <div class="formatted-time">${diaSemana}, das ${horaInicio} às ${horaFim}</div>
+        <strong><font color="${titleColor}">${fullTitle}</font></strong>
+        <div class="schedule-description"><font size="2">Sinopse: ${schedule.description || 'Não disponível'}</font></div>
+      `;
+
+      sched.style.cursor = 'pointer';
+      sched.addEventListener('click', () => abrirModalComDetalhes(schedule));
+
+      if (now >= schedule.startTime && now <= schedule.endTime) {
+        const progress = ((now - schedule.startTime) / (schedule.endTime - schedule.startTime)) * 100;
+        const bar = document.createElement('div');
+        bar.className = 'progress-bar-container';
+        bar.innerHTML = `<div class="progress-bar" style="width: ${Math.round(progress)}%"></div>`;
+        sched.appendChild(bar);
+      }
+
+      channelBox.appendChild(sched);
+    });
+
+    dateGroup.appendChild(channelBox);
+    container.appendChild(dateGroup);
+  }
+}
+
+
+
+  async function abrirModalComDetalhes(schedule) {
+    try {
+      // Preencher modal diretamente com os dados já recebidos
+      const inicio = new Date(schedule.startTime * 1000);
+      const fim = new Date(schedule.endTime * 1000);
+      const formatarHora = d => d.toLocaleTimeString('pt-BR', { hour: '2-digit', minute: '2-digit' });
+
+      document.getElementById("modal-title").innerText = `${schedule.title} (T${schedule.seasonNumber || 1}:E${schedule.episodeNumber || 1})`;
+      document.getElementById("modal-meta").innerHTML = `
+        ${inicio.toLocaleDateString('pt-BR')} — ${formatarHora(inicio)} até ${formatarHora(fim)}<br>
+        Duração: ${Math.round((schedule.endTime - schedule.startTime) / 60)} min<br>
+        Classificação: ${schedule.rating?.code || 'N/A'} — ${schedule.rating?.descriptor?.join(', ') || ''}
+      `;
+      document.getElementById("modal-description").innerText = schedule.description || 'Sem descrição disponível.';
+      document.getElementById("modal-header").style.backgroundImage = `url('${schedule.image.replace('{{image-size-placeholder}}', '640_360')}')`;
+
+      document.getElementById("modal").style.display = 'flex';
+    } catch (err) {
+      alert('Erro ao abrir os detalhes.');
+      console.error(err);
+    }
+  }
+
+  fetchData();
+</script>
+
+</body>
+</html>
