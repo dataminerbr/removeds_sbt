@@ -1,44 +1,44 @@
 {
   "chaves_msw": [
     {
-      "numero": "1",
-      "titulo": "Balões / Boas Festas"
+        "numero": 1,
+        "nome": "Balões \/ Boas Festas"
     },
     {
-      "numero": "2",
-      "titulo": "A Lata De Lixo / Pintores Amadores / O Homem Das Mil Caras"
+        "numero": 2,
+        "nome": "A Lata De Lixo \/ Pintores Amadores \/ O Homem Das Mil Caras"
     },
     {
-      "numero": "3",
-      "titulo": "Moedas / Dando Bolo / Dois Ladrões"
+        "numero": 3,
+        "nome": "Moedas \/ Dando Bolo \/ Dois Ladrões"
     },
     {
-      "numero": "4",
-      "titulo": "A Troca / O Dedo-Duro / O Surto de Catapora"
+        "numero": 4,
+        "nome": "A Troca \/ O Dedo-Duro \/ O Surto de Catapora"
     },
     {
-      "numero": "5",
-      "titulo": "Ladrão Que Rouba Ladrão / Remédio Duro De Engolir / Quem Semeia Moeda"
+        "numero": 5,
+        "nome": "Ladrão Que Rouba Ladrão \/ Remédio Duro De Engolir \/ Quem Semeia Moeda"
     },
     {
-      "numero": "6",
-      "titulo": "Quem Canta, Seus Males Espanca / O Doente"
+        "numero": 6,
+        "nome": "Quem Canta, Seus Males Espanca \/ O Doente"
     },
     {
-      "numero": "7",
-      "titulo": "O Despejo / O Piquenique Voador/ Doutor Chapatin"
+        "numero": 7,
+        "nome": "O Despejo \/ O Piquenique Voador\/ Doutor Chapatin"
     },
     {
-      "numero": "8",
-      "titulo": "Como Sujar A Roupa Do Quico / Ajudem-Se Uns Aos Outros / À Procura De Desemprego"
+        "numero": 8,
+        "nome": "Como Sujar A Roupa Do Quico \/ Ajudem-Se Uns Aos Outros \/ À Procura De Desemprego"
     },
     {
-      "numero": "9",
-      "titulo": "Uma Visita Muito Importante / Uma Vizinha – Parte 2 / Os Contrabandistas De Joias"
+        "numero": 9,
+        "nome": "Uma Visita Muito Importante \/ Uma Vizinha – Parte 2 \/ Os Contrabandistas De Joias"
     },
     {
-      "numero": "10",
-      "titulo": "Beijinhos / Doutor Chapatin / O Mosquito"
+        "numero": 10,
+        "nome": "Beijinhos \/ Doutor Chapatin \/ O Mosquito"
     },
     {
       "numero": "11",
@@ -354,45 +354,45 @@
     }
   ],
   "chapolin_msw": [
-    {
-      "numero": "1",
-      "titulo": "A Casa Mal Assombrada / Um Boneco Muito Vivo"
+     {
+        "numero": 1,
+        "nome": "A Casa Mal Assombrada \/ Um Boneco Muito Vivo"
     },
     {
-      "numero": "2",
-      "titulo": "O Quarto Errado / O Prêmio Da Loteria / Os Duendezinhos"
+        "numero": 2,
+        "nome": "O Quarto Errado \/ O Prêmio Da Loteria \/ Os Duendezinhos"
     },
     {
-      "numero": "3",
-      "titulo": "O Exame / O Descobrimento da Tribo Perdida"
+        "numero": 3,
+        "nome": "O Exame \/ O Descobrimento da Tribo Perdida"
     },
     {
-      "numero": "4",
-      "titulo": "Bloqueando a Entrada / Ator de Araque / Prometida"
+        "numero": 4,
+        "nome": "Bloqueando a Entrada \/ Ator de Araque \/ Prometida"
     },
     {
-      "numero": "5",
-      "titulo": "A Mão do Bandido / A Explosão / Por uma Fatia de Melancia"
+        "numero": 5,
+        "nome": "A Mão do Bandido \/ A Explosão \/ Por uma Fatia de Melancia"
     },
     {
-      "numero": "6",
-      "titulo": "O Bandido Mata Fácil / Parabéns, Sargento! / O Julgamento"
+        "numero": 6,
+        "nome": "O Bandido Mata Fácil \/ Parabéns, Sargento! \/ O Julgamento"
     },
     {
-      "numero": "7",
-      "titulo": "A Fronteira / Um Passageiro Encrequeiro / Os Fantasmas"
+        "numero": 7,
+        "nome": "A Fronteira \/ Um Passageiro Encrequeiro \/ Os Fantasmas"
     },
     {
-      "numero": "8",
-      "titulo": "O Roubo das Maçãs / A Fuga / Visita ao Museu"
+        "numero": 8,
+        "nome": "O Roubo Das Maçãs \/ A Fuga \/ Visita Ao Museu"
     },
     {
-      "numero": "9",
-      "titulo": "Conde Terra Nova/Doutor Chapatin/O Vampiro"
+        "numero": 9,
+        "nome": "Conde Terra Nova \/ Doutor Chapatin \/ O Vampiro"
     },
     {
-      "numero": "10",
-      "titulo": "Arruaceiros / Os Prisioneiros / Jantar Executivo 2"
+        "numero": 10,
+        "nome": "Arruaceiros \/ Os Prisioneiros \/ Jantar Executivo 2"
     },
     {
       "numero": "11",
