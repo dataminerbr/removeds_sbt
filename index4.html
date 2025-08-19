@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Grade de Programação — Chaves & Chapolin</title>
+  <style>
+    :root {
+      --bg: #0b0f14;
+      --panel: #111827;
+      --panel-2: #0f172a;
+      --text: #e5e7eb;
+      --muted: #94a3b8;
+      --card: #0b1220;
+      --accent: #38bdf8;
+      --ring: rgba(56,189,248,0.25);
+      --radius: 16px;
+    }
+    * { box-sizing: border-box; }
+    html, body { height: 100%; }
+    body {
+      margin: 0; font-family: system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, "Helvetica Neue", Arial, "Noto Sans", "Apple Color Emoji", "Segoe UI Emoji";
+      background: radial-gradient(1200px 800px at 10% 0%, #0f172a 0%, #0b0f14 40%, #090c11 100%);
+      color: var(--text);
+    }
+    header {
+      padding: 28px 20px 10px; text-align: center;
+    }
+    header h1 { margin: 0 0 8px; font-size: clamp(22px, 3vw, 36px); letter-spacing: 0.2px; }
+    header p { margin: 0; color: var(--muted); }
+
+    .wrap { max-width: 1100px; margin: 0 auto; padding: 18px; }
+
+    .legend {
+      display: flex; gap: 14px; flex-wrap: wrap; align-items: center; justify-content: center;
+      margin: 18px auto 26px; padding: 12px 16px; border-radius: var(--radius);
+      background: linear-gradient(180deg, var(--panel), var(--panel-2));
+      border: 1px solid #111827; box-shadow: 0 0 0 1px var(--ring) inset, 0 6px 24px rgba(0,0,0,0.35);
+      font-size: 15px;
+    }
+    .legend .item { display: inline-flex; gap: 8px; align-items: center; padding: 6px 10px; border-radius: 999px; background: #0b1220; border: 1px solid #0f1a32; }
+    .legend .note { color: var(--muted); font-size: 13px; opacity: 0.9; }
+
+    .grid {
+      display: grid; grid-template-columns: repeat(12, 1fr); gap: 18px;
+    }
+    @media (max-width: 980px) { .grid { grid-template-columns: 1fr; } }
+
+    .day {
+      grid-column: span 4; min-width: 0; background: linear-gradient(180deg, var(--panel), var(--panel-2));
+      border: 1px solid #0f172a; border-radius: calc(var(--radius) + 4px);
+      box-shadow: 0 10px 30px rgba(0,0,0,0.35), 0 0 0 1px var(--ring) inset;
+      overflow: hidden;
+    }
+    @media (max-width: 980px) { .day { grid-column: span 1; } }
+
+    .day header { text-align: left; padding: 16px 18px; background: rgba(56,189,248,0.06); border-bottom: 1px solid #0b2030; }
+    .day h2 { margin: 0; font-size: clamp(16px, 2.2vw, 22px); letter-spacing: .2px; }
+
+    .list { list-style: none; margin: 0; padding: 12px 12px 16px; }
+
+    .time { font-variant-numeric: tabular-nums; letter-spacing: .2px; }
+    .emoji { text-align: center; font-size: 20px; }
+    .chan { color: var(--text); }
+    .progress { height: 100%; background: var(--accent); width: 0%; }
+
+    .footer-note { margin: 22px 0 10px; color: var(--muted); text-align: center; font-size: 13px; }
+	
+.row {
+  display: grid;
+  grid-template-columns: 2.5fr auto;
+  gap: 12px;
+  align-items: center;
+  padding: 10px;
+  margin: 6px 0;
+  border-radius: 12px;
+  background: var(--card);
+  border: 1px solid #0e1a2c;
+}
+.chan {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.progress-container {
+  margin-top: 4px;
+  height: 6px;
+  background: #0b1220;
+  border-radius: 3px;
+  overflow: hidden;
+}
+
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Grade de Programação — Chaves & Chapolin</h1>
+  </header>
+
+  <div class="wrap">
+    
+    <section class="grid" id="grid"></section>
+
+    <p class="footer-note">Dica: copie e cole este HTML onde quiser ou exporte como arquivo.</p>
+  </div>
+
+<script>
+const grade = [
+  {
+  dia: "Segunda a Sexta",
+  diasValidos: [1, 2, 3, 4, 5],
+  programas: [
+    { canal: "Unimas", horario: "01:00–02:00", programa: "Chaves" },
+    { canal: "Unimas", horario: "02:00–03:00", programa: "Chapolin" },
+    { canal: "La Tele", horario: "06:00–06:20", programa: "Chapolin" },
+    { canal: "Teleamazonas", horario: "07:30–07:55", programa: "Chaves" },
+    { canal: "Unimas", horario: "08:00–09:00", programa: "Chaves" },
+    { canal: "Ciudad Magazine", horario: "09:00–10:00", programa: "Chaves" },
+    { canal: "Red Uno", horario: "09:35–11:00", programa: "Chapolin" },
+    { canal: "Multishow", horario: "10:25–11:45", programa: "Chaves e Chapolin" },
+    { canal: "Red Uno", horario: "17:30–18:00", programa: "Chaves" },
+    { canal: "Distrito Comedia", horario: "16:30–17:45", programa: "Chaves" },
+    { canal: "Venevisión", horario: "17:00–18:00", programa: "Chaves e Chapolin" },
+    { canal: "Las Estrellas", horario: "17:30–18:30", programa: "Chaves" },
+    { canal: "Teleamazonas", horario: "19:00–19:30", programa: "Chapolin" },
+    { canal: "Teleamazonas", horario: "19:30–20:00", programa: "Chaves" },
+    { canal: "América TV", horario: "19:00–20:00", programa: "Chaves" },
+    { canal: "Repretel", horario: "21:00–22:00", programa: "Chaves e Chapolin" },
+    { canal: "Distrito Comedia", horario: "23:00–00:15", programa: "Chaves" }
+  ]
+},
+  {
+  dia: "Sábado",
+  diasValidos: [6],
+  programas: [
+    { canal: "Unimas", horario: "23:00–00:00", programa: "Chaves" },
+    { canal: "Distrito Comedia", horario: "23:00–00:15", programa: "Chaves" },
+    { canal: "Unimas", horario: "02:00–03:00", programa: "Chapolin" },
+    { canal: "La Tele", horario: "06:00–07:30", programa: "Chaves" },
+    { canal: "TVN", horario: "08:30–09:45", programa: "Chapolin" },
+    { canal: "Telefe", horario: "09:00–13:00", programa: "Chaves e Chapolin" },
+    { canal: "Red Uno", horario: "11:00–12:00", programa: "Chaves" },
+    { canal: "Distrito Comedia", horario: "11:00–14:00", programa: "Chaves" },
+    { canal: "La Tele", horario: "12:00–13:00", programa: "Chapolin" },
+    { canal: "TVN", horario: "12:00–14:30", programa: "Chaves" },
+    { canal: "Red Uno", horario: "13:00–13:25", programa: "Chapolin" },
+    { canal: "Unimas", horario: "13:00–14:00", programa: "Chaves" },
+    { canal: "Teleamazonas", horario: "14:00–14:30", programa: "Chapolin" },
+    { canal: "Teleamazonas", horario: "14:30–15:00", programa: "Chaves" },
+    { canal: "América TV", horario: "16:00–17:00", programa: "Chaves" },
+    { canal: "Univision", horario: "16:00–17:00", programa: "Chapolin" },
+    { canal: "Univision", horario: "17:00–18:00", programa: "Chaves" },
+    { canal: "Las Estrellas", horario: "17:30–20:00", programa: "Chapolin" },
+    { canal: "Red Uno", horario: "19:00–20:00", programa: "Chaves" },
+    { canal: "Red Uno", horario: "20:00–21:00", programa: "Chapolin" },
+    { canal: "Repretel", horario: "21:00–22:00", programa: "Chaves e Chapolin" }
+  ]
+},
+  {
+  dia: "Domingo",
+  diasValidos: [0],
+  programas: [
+    { canal: "Univision", horario: "04:00–05:00", programa: "Chaves" },
+    { canal: "Unimas", horario: "04:00–05:00", programa: "Chapolin" },
+    { canal: "Red Uno", horario: "18:30–19:30", programa: "Chaves" },
+    { canal: "RCN", horario: "07:00–09:00", programa: "Chaves" },
+    { canal: "Univision", horario: "09:00–10:00", programa: "Chapolin" },
+    { canal: "Telefe", horario: "09:30–12:00", programa: "Chaves e Chapolin" },
+    { canal: "Univision", horario: "10:00–11:00", programa: "Chaves" },
+    { canal: "TVN", horario: "12:30–14:30", programa: "Chaves" },
+    { canal: "Red Uno", horario: "13:00–13:25", programa: "Chapolin" },
+    { canal: "La Tele", horario: "13:00–13:30", programa: "Chapolin" },
+    { canal: "Unimas", horario: "14:00–15:00", programa: "Chaves" },
+    { canal: "América TV", horario: "14:00–15:00", programa: "Chapolin" },
+    { canal: "Distrito Comedia", horario: "14:55–17:55", programa: "Chaves" },
+    { canal: "Las Estrellas", horario: "15:00–16:00", programa: "Chapolin" },
+    { canal: "América TV", horario: "17:00–18:00", programa: "Chaves" },
+    { canal: "La Tele", horario: "18:00–20:00", programa: "Chaves" },
+    { canal: "Red Uno", horario: "19:30–20:30", programa: "Chapolin" }
+  ]
+}
+];
+
+// Converte "HH:MM" (24h) em objeto Date, baseado em uma data base
+function parseHorario(str, baseDate) {
+  const [h, m] = str.split(":").map(Number);
+  const d = new Date(baseDate);
+  d.setHours(h, m, 0, 0);
+  return d;
+}
+
+// Calcula progresso percentual
+function calculaProgresso(agora, inicio, fim) {
+  if (agora < inicio) return 0;
+  if (agora > fim) return 100;
+  return Math.floor(((agora - inicio) / (fim - inicio)) * 100);
+}
+
+const grid = document.getElementById("grid");
+const agora = new Date();
+const hoje = agora.getDay(); // 0 = Domingo, ..., 6 = Sábado
+
+grade.forEach(dia => {
+  const article = document.createElement("article");
+  article.className = "day";
+  article.innerHTML = `<header><h2>${dia.dia}</h2></header>`;
+
+  const ul = document.createElement("ul");
+  ul.className = "list";
+
+  // Descobre o dia correspondente na semana
+  const diff = dia.diasValidos.includes(hoje)
+    ? 0
+    : (dia.diasValidos[0] - hoje + 7) % 7;
+
+  const baseDate = new Date(agora);
+  baseDate.setDate(baseDate.getDate() + diff);
+
+  dia.programas.forEach(prog => {
+    const li = document.createElement("li");
+    li.className = "row";
+
+    const [startStr, endStr] = prog.horario.split("–");
+    const inicio = parseHorario(startStr.trim(), baseDate);
+    let fim = parseHorario(endStr.trim(), baseDate);
+
+    // Corrige casos em que o horário final é no dia seguinte (ex: 23:00–00:15)
+    if (fim <= inicio) {
+      fim.setDate(fim.getDate() + 1);
+    }
+
+    const progresso = calculaProgresso(agora, inicio, fim);
+
+    li.innerHTML = `
+      <span class="chan">${prog.canal}: ${prog.programa}</span>
+      <span class="time">${prog.horario}</span>
+      <div class="progress-container">
+        <div class="progress" style="width:${progresso}%;"></div>
+      </div>
+      <span style="font-size:12px; color:#94a3b8; margin-left:6px;">${progresso}%</span>
+    `;
+    ul.appendChild(li);
+  });
+
+  article.appendChild(ul);
+  grid.appendChild(article);
+});
+</script>
+
+
+
+
+</body>
+</html>
