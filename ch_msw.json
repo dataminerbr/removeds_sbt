@@ -2,87 +2,87 @@
   "chaves_msw": [
   {
     "numero": 1,
-    "nome": "A Casa Mal Assombrada / Um Boneco Muito Vivo"
+    "titulo": "A Casa Mal Assombrada / Um Boneco Muito Vivo"
   },
   {
     "numero": 2,
-    "nome": "O Quarto Errado / O Prêmio Da Loteria / Os Duendezinhos"
+    "titulo": "O Quarto Errado / O Prêmio Da Loteria / Os Duendezinhos"
   },
   {
     "numero": 3,
-    "nome": "O Exame / O Descobrimento da Tribo Perdida"
+    "titulo": "O Exame / O Descobrimento da Tribo Perdida"
   },
   {
     "numero": 4,
-    "nome": "Bloqueando a Entrada / Ator de Araque / Prometida"
+    "titulo": "Bloqueando a Entrada / Ator de Araque / Prometida"
   },
   {
     "numero": 5,
-    "nome": "A Mão do Bandido / A Explosão / Por uma Fatia de Melancia"
+    "titulo": "A Mão do Bandido / A Explosão / Por uma Fatia de Melancia"
   },
   {
     "numero": 6,
-    "nome": "O Bandido Mata Fácil / Parabéns, Sargento! / O Julgamento"
+    "titulo": "O Bandido Mata Fácil / Parabéns, Sargento! / O Julgamento"
   },
   {
     "numero": 7,
-    "nome": "A Fronteira / Um Passageiro Encrequeiro / Os Fantasmas"
+    "titulo": "A Fronteira / Um Passageiro Encrequeiro / Os Fantasmas"
   },
   {
     "numero": 8,
-    "nome": "O Roubo Das Maçãs / A Fuga / Visita Ao Museu"
+    "titulo": "O Roubo Das Maçãs / A Fuga / Visita Ao Museu"
   },
   {
     "numero": 9,
-    "nome": "Conde Terra Nova / Doutor Chapatin / O Vampiro"
+    "titulo": "Conde Terra Nova / Doutor Chapatin / O Vampiro"
   },
   {
     "numero": 10,
-    "nome": "Arruaceiros / Os Prisioneiros / Jantar Executivo 2"
+    "titulo": "Arruaceiros / Os Prisioneiros / Jantar Executivo 2"
   },
   {
     "numero": 11,
-    "nome": "Confusão No Celeiro / Encontro Às Escuras / Garçom Desastrado"
+    "titulo": "Confusão No Celeiro / Encontro Às Escuras / Garçom Desastrado"
   },
   {
     "numero": 12,
-    "nome": "Operação De Salvamento / Problemas De Peso / A Lenda Da Chorona"
+    "titulo": "Operação De Salvamento / Problemas De Peso / A Lenda Da Chorona"
   },
   {
     "numero": 13,
-    "nome": "Um Aluno e Tanto / Presente de Grego"
+    "titulo": "Um Aluno e Tanto / Presente de Grego"
   },
   {
     "numero": 14,
-    "nome": "A Lata de Suco / Trapaças no Restaurante / O Índio Pele Vermelha"
+    "titulo": "A Lata de Suco / Trapaças no Restaurante / O Índio Pele Vermelha"
   },
   {
     "numero": 15,
-    "nome": "Uma Investigação Perigosa"
+    "titulo": "Uma Investigação Perigosa"
   },
   {
     "numero": 16,
-    "nome": "O Cão Raivoso"
+    "titulo": "O Cão Raivoso"
   },
   {
     "numero": 17,
-    "nome": "O Debilitador Potencial"
+    "titulo": "O Debilitador Potencial"
   },
   {
     "numero": 18,
-    "nome": "Fila e Fichas no Hospital / Duas Vezes Chapolin"
+    "titulo": "Fila e Fichas no Hospital / Duas Vezes Chapolin"
   },
   {
     "numero": 19,
-    "nome": "Para Fugir Da Prisão"
+    "titulo": "Para Fugir Da Prisão"
   },
   {
     "numero": 20,
-    "nome": "Médicos Birutas / O Minidisco Voador"
+    "titulo": "Médicos Birutas / O Minidisco Voador"
   },
   {
     "numero": 21,
-    "nome": "Dando Um Fim No Chapolin"
+    "titulo": "Dando Um Fim No Chapolin"
   },
     {
       "numero": "22",
@@ -356,87 +356,87 @@
   "chapolin_msw": [
   {
     "numero": 1,
-    "nome": "Balões / Boas Festas"
+    "titulo": "Balões / Boas Festas"
   },
   {
     "numero": 2,
-    "nome": "A Lata De Lixo / Pintores Amadores / O Homem Das Mil Caras"
+    "titulo": "A Lata De Lixo / Pintores Amadores / O Homem Das Mil Caras"
   },
   {
     "numero": 3,
-    "nome": "Moedas / Dando Bolo / Dois Ladrões"
+    "titulo": "Moedas / Dando Bolo / Dois Ladrões"
   },
   {
     "numero": 4,
-    "nome": "A Troca / O Dedo-Duro / O Surto de Catapora"
+    "titulo": "A Troca / O Dedo-Duro / O Surto de Catapora"
   },
   {
     "numero": 5,
-    "nome": "Ladrão Que Rouba Ladrão / Remédio Duro De Engolir / Quem Semeia Moeda"
+    "titulo": "Ladrão Que Rouba Ladrão / Remédio Duro De Engolir / Quem Semeia Moeda"
   },
   {
     "numero": 6,
-    "nome": "Quem Canta, Seus Males Espanca / O Doente"
+    "titulo": "Quem Canta, Seus Males Espanca / O Doente"
   },
   {
     "numero": 7,
-    "nome": "O Despejo / O Piquenique Voador/ Doutor Chapatin"
+    "titulo": "O Despejo / O Piquenique Voador/ Doutor Chapatin"
   },
   {
     "numero": 8,
-    "nome": "Como Sujar A Roupa Do Quico / Ajudem-Se Uns Aos Outros / À Procura De Desemprego"
+    "titulo": "Como Sujar A Roupa Do Quico / Ajudem-Se Uns Aos Outros / À Procura De Desemprego"
   },
   {
     "numero": 9,
-    "nome": "Uma Visita Muito Importante / Uma Vizinha – Parte 2 / Os Contrabandistas De Joias"
+    "titulo": "Uma Visita Muito Importante / Uma Vizinha – Parte 2 / Os Contrabandistas De Joias"
   },
   {
     "numero": 10,
-    "nome": "Beijinhos / Doutor Chapatin / O Mosquito"
+    "titulo": "Beijinhos / Doutor Chapatin / O Mosquito"
   },
   {
     "numero": 11,
-    "nome": "O Cofre / Marteladas / Zarabatana E Chumbinhos"
+    "titulo": "O Cofre / Marteladas / Zarabatana E Chumbinhos"
   },
   {
     "numero": 12,
-    "nome": "O Mistério Dos Peixinhos / O Ensaio"
+    "titulo": "O Mistério Dos Peixinhos / O Ensaio"
   },
   {
     "numero": 13,
-    "nome": "A Chirimoia / O Que Fazer Quando Um Ladrão Entra Em Casa?"
+    "titulo": "A Chirimoia / O Que Fazer Quando Um Ladrão Entra Em Casa?"
   },
   {
     "numero": 14,
-    "nome": "A Bola / Grito De Independência / Este Varal É Meu! / Por Uma Mulher Formosa"
+    "titulo": "A Bola / Grito De Independência / Este Varal É Meu! / Por Uma Mulher Formosa"
   },
   {
     "numero": 15,
-    "nome": "As Apostas / Escolinha Da Chiquinha / Os Ladrões"
+    "titulo": "As Apostas / Escolinha Da Chiquinha / Os Ladrões"
   },
   {
     "numero": 16,
-    "nome": "Oras, Bolas"
+    "titulo": "Oras, Bolas"
   },
   {
     "numero": 17,
-    "nome": "As Crianças Faltam À Escola / O Mendigo"
+    "titulo": "As Crianças Faltam À Escola / O Mendigo"
   },
   {
     "numero": 18,
-    "nome": "O Leiteiro / Quem Será O Novo Chefe?"
+    "titulo": "O Leiteiro / Quem Será O Novo Chefe?"
   },
   {
     "numero": 19,
-    "nome": "Barba, Cabelo... E Graxa! / Campanha México 73"
+    "titulo": "Barba, Cabelo... E Graxa! / Campanha México 73"
   },
   {
     "numero": 20,
-    "nome": "Barquinhos De Papel / Agenta Zero Zero Seta"
+    "titulo": "Barquinhos De Papel / Agenta Zero Zero Seta"
   },
   {
     "numero": 21,
-    "nome": "O Marujo Enjoado / Sustos Na Vila"
+    "titulo": "O Marujo Enjoado / Sustos Na Vila"
   },
     {
       "numero": "22",
