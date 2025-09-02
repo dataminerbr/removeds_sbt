@@ -1,105 +1,105 @@
 {
   "chaves_msw": [
   {
-    "numero": 1,
-    "titulo": "A Casa Mal Assombrada / Um Boneco Muito Vivo"
+    "numero": "1",
+    "titulo": "Balões / Boas Festas"
   },
   {
-    "numero": 2,
-    "titulo": "O Quarto Errado / O Prêmio Da Loteria / Os Duendezinhos"
+    "numero": "2",
+    "titulo": "A Lata De Lixo / Pintores Amadores / O Homem Das Mil Caras"
   },
   {
-    "numero": 3,
-    "titulo": "O Exame / O Descobrimento da Tribo Perdida"
+    "numero": "3",
+    "titulo": "Moedas / Dando Bolo / Dois Ladrões"
   },
   {
-    "numero": 4,
-    "titulo": "Bloqueando a Entrada / Ator de Araque / Prometida"
+    "numero": "4",
+    "titulo": "A Troca / O Dedo-Duro / O Surto de Catapora"
   },
   {
-    "numero": 5,
-    "titulo": "A Mão do Bandido / A Explosão / Por uma Fatia de Melancia"
+    "numero": "5",
+    "titulo": "Ladrão Que Rouba Ladrão / Remédio Duro De Engolir / Quem Semeia Moeda"
   },
   {
-    "numero": 6,
-    "titulo": "O Bandido Mata Fácil / Parabéns, Sargento! / O Julgamento"
+    "numero": "6",
+    "titulo": "Quem Canta, Seus Males Espanca / O Doente"
   },
   {
-    "numero": 7,
-    "titulo": "A Fronteira / Um Passageiro Encrequeiro / Os Fantasmas"
+    "numero": "7",
+    "titulo": "O Despejo / O Piquenique Voador/ Doutor Chapatin"
   },
   {
-    "numero": 8,
-    "titulo": "O Roubo Das Maçãs / A Fuga / Visita Ao Museu"
+    "numero": "8",
+    "titulo": "Como Sujar A Roupa Do Quico / Ajudem-Se Uns Aos Outros / À Procura De Desemprego"
   },
   {
-    "numero": 9,
-    "titulo": "Conde Terra Nova / Doutor Chapatin / O Vampiro"
+    "numero": "9",
+    "titulo": "Uma Visita Muito Importante / Uma Vizinha – Parte 2 / Os Contrabandistas De Joias"
   },
   {
-    "numero": 10,
-    "titulo": "Arruaceiros / Os Prisioneiros / Jantar Executivo 2"
+    "numero": "10",
+    "titulo": "Beijinhos / Doutor Chapatin / O Mosquito"
   },
   {
-    "numero": 11,
-    "titulo": "Confusão No Celeiro / Encontro Às Escuras / Garçom Desastrado"
+    "numero": "11",
+    "titulo": "O Cofre / Marteladas / Zarabatana E Chumbinhos"
   },
   {
-    "numero": 12,
-    "titulo": "Operação De Salvamento / Problemas De Peso / A Lenda Da Chorona"
+    "numero": "12",
+    "titulo": "O Mistério Dos Peixinhos / O Ensaio"
   },
   {
-    "numero": 13,
-    "titulo": "Um Aluno e Tanto / Presente de Grego"
+    "numero": "13",
+    "titulo": "A Chirimoia / O Que Fazer Quando Um Ladrão Entra Em Casa?"
   },
   {
-    "numero": 14,
-    "titulo": "A Lata de Suco / Trapaças no Restaurante / O Índio Pele Vermelha"
+    "numero": "14",
+    "titulo": "A Bola / Grito De Independência / Este Varal É Meu! / Por Uma Mulher Formosa"
   },
   {
-    "numero": 15,
-    "titulo": "Uma Investigação Perigosa"
+    "numero": "15",
+    "titulo": "As Apostas / Escolinha Da Chiquinha / Os Ladrões"
   },
   {
-    "numero": 16,
-    "titulo": "O Cão Raivoso"
+    "numero": "16",
+    "titulo": "Oras, Bolas"
   },
   {
-    "numero": 17,
-    "titulo": "O Debilitador Potencial"
+    "numero": "17",
+    "titulo": "As Crianças Faltam À Escola / O Mendigo"
   },
   {
-    "numero": 18,
-    "titulo": "Fila e Fichas no Hospital / Duas Vezes Chapolin"
+    "numero": "18",
+    "titulo": "O Leiteiro / Quem Será O Novo Chefe?"
   },
   {
-    "numero": 19,
-    "titulo": "Para Fugir Da Prisão"
+    "numero": "19",
+    "titulo": "Barba, Cabelo... E Graxa! / Campanha México 73"
   },
   {
-    "numero": 20,
-    "titulo": "Médicos Birutas / O Minidisco Voador"
+    "numero": "20",
+    "titulo": "Barquinhos De Papel / Agenta Zero Zero Seta"
   },
   {
-    "numero": 21,
-    "titulo": "Dando Um Fim No Chapolin"
+    "numero": "21",
+    "titulo": "O Marujo Enjoado / Sustos Na Vila"
   },
-    {
-      "numero": "22",
-      "titulo": "A Louca Da Escadaria – Parte 1"
-    },
-    {
-      "numero": "23",
-      "titulo": "A Festa Da Boa Vizinhança"
-    },
-    {
-      "numero": "24",
-      "titulo": "As Festas De Independência"
-    },
-    {
-      "numero": "25",
-      "titulo": "Caçando Insetos"
-    },
+  {
+    "numero": "22",
+    "titulo": "A Louca Da Escadaria – Parte 1"
+  },
+  {
+    "numero": "23",
+    "titulo": "A Festa Da Boa Vizinhança"
+  },
+  {
+    "numero": "24",
+    "titulo": "As Festas De Independência"
+  },
+  {
+    "numero": "25",
+    "titulo": "Caçando Insetos"
+  },
     {
       "numero": "26",
       "titulo": "Uma Aula De Canto – Parte 2 / Quem Brinca Com Fogo Faz Pipi Na Cama"
@@ -354,106 +354,106 @@
     }
   ],
   "chapolin_msw": [
-  {
-    "numero": 1,
-    "titulo": "Balões / Boas Festas"
+{
+    "numero": "1",
+    "titulo": "A Casa Mal Assombrada / Um Boneco Muito Vivo"
   },
   {
-    "numero": 2,
-    "titulo": "A Lata De Lixo / Pintores Amadores / O Homem Das Mil Caras"
+    "numero": "2",
+    "titulo": "O Quarto Errado / O Prêmio Da Loteria / Os Duendezinhos"
   },
   {
-    "numero": 3,
-    "titulo": "Moedas / Dando Bolo / Dois Ladrões"
+    "numero": "3",
+    "titulo": "O Exame / O Descobrimento da Tribo Perdida"
   },
   {
-    "numero": 4,
-    "titulo": "A Troca / O Dedo-Duro / O Surto de Catapora"
+    "numero": "4",
+    "titulo": "Bloqueando a Entrada / Ator de Araque / Prometida"
   },
   {
-    "numero": 5,
-    "titulo": "Ladrão Que Rouba Ladrão / Remédio Duro De Engolir / Quem Semeia Moeda"
+    "numero": "5",
+    "titulo": "A Mão do Bandido / A Explosão / Por uma Fatia de Melancia"
   },
   {
-    "numero": 6,
-    "titulo": "Quem Canta, Seus Males Espanca / O Doente"
+    "numero": "6",
+    "titulo": "O Bandido Mata Fácil / Parabéns, Sargento! / O Julgamento"
   },
   {
-    "numero": 7,
-    "titulo": "O Despejo / O Piquenique Voador/ Doutor Chapatin"
+    "numero": "7",
+    "titulo": "A Fronteira / Um Passageiro Encrequeiro / Os Fantasmas"
   },
   {
-    "numero": 8,
-    "titulo": "Como Sujar A Roupa Do Quico / Ajudem-Se Uns Aos Outros / À Procura De Desemprego"
+    "numero": "8",
+    "titulo": "O Roubo Das Maçãs / A Fuga / Visita Ao Museu"
   },
   {
-    "numero": 9,
-    "titulo": "Uma Visita Muito Importante / Uma Vizinha – Parte 2 / Os Contrabandistas De Joias"
+    "numero": "9",
+    "titulo": "Conde Terra Nova / Doutor Chapatin / O Vampiro"
   },
   {
-    "numero": 10,
-    "titulo": "Beijinhos / Doutor Chapatin / O Mosquito"
+    "numero": "10",
+    "titulo": "Arruaceiros / Os Prisioneiros / Jantar Executivo 2"
   },
   {
-    "numero": 11,
-    "titulo": "O Cofre / Marteladas / Zarabatana E Chumbinhos"
+    "numero": "11",
+    "titulo": "Confusão No Celeiro / Encontro Às Escuras / Garçom Desastrado"
   },
   {
-    "numero": 12,
-    "titulo": "O Mistério Dos Peixinhos / O Ensaio"
+    "numero": "12",
+    "titulo": "Operação De Salvamento / Problemas De Peso / A Lenda Da Chorona"
   },
   {
-    "numero": 13,
-    "titulo": "A Chirimoia / O Que Fazer Quando Um Ladrão Entra Em Casa?"
+    "numero": "13",
+    "titulo": "Um Aluno e Tanto / Presente de Grego"
   },
   {
-    "numero": 14,
-    "titulo": "A Bola / Grito De Independência / Este Varal É Meu! / Por Uma Mulher Formosa"
+    "numero": "14",
+    "titulo": "A Lata de Suco / Trapaças no Restaurante / O Índio Pele Vermelha"
   },
   {
-    "numero": 15,
-    "titulo": "As Apostas / Escolinha Da Chiquinha / Os Ladrões"
+    "numero": "15",
+    "titulo": "Uma Investigação Perigosa"
   },
   {
-    "numero": 16,
-    "titulo": "Oras, Bolas"
+    "numero": "16",
+    "titulo": "O Cão Raivoso"
   },
   {
-    "numero": 17,
-    "titulo": "As Crianças Faltam À Escola / O Mendigo"
+    "numero": "17",
+    "titulo": "O Debilitador Potencial"
   },
   {
-    "numero": 18,
-    "titulo": "O Leiteiro / Quem Será O Novo Chefe?"
+    "numero": "18",
+    "titulo": "Fila e Fichas no Hospital / Duas Vezes Chapolin"
   },
   {
-    "numero": 19,
-    "titulo": "Barba, Cabelo... E Graxa! / Campanha México 73"
+    "numero": "19",
+    "titulo": "Para Fugir Da Prisão"
   },
   {
-    "numero": 20,
-    "titulo": "Barquinhos De Papel / Agenta Zero Zero Seta"
+    "numero": "20",
+    "titulo": "Médicos Birutas / O Minidisco Voador"
   },
   {
-    "numero": 21,
-    "titulo": "O Marujo Enjoado / Sustos Na Vila"
+    "numero": "21",
+    "titulo": "Dando Um Fim No Chapolin"
   },
-    {
-      "numero": "22",
-      "titulo": "Uma Múmia Bastante Egípcia"
-    },
-    {
-      "numero": "23",
-      "titulo": "A Casa de Chá do Luar de 8 de agosto de 1984 / A Autópsia"
-    },
-    {
-      "numero": "24",
-      "titulo": "O Pistoleiro Da Marreta Biônica / Infelizmente Perdemos o Avião, Graças a Deus"
-    },
-    {
-      "numero": "25",
-      "titulo": "Um Hotel Nada Agradável"
-    },
+  {
+    "numero": "22",
+    "titulo": "Uma Múmia Bastante Egípcia"
+  },
+  {
+    "numero": "23",
+    "titulo": "A Casa de Chá do Luar de 8 de agosto de 1984 / A Autópsia"
+  },
+  {
+    "numero": "24",
+    "titulo": "O Pistoleiro Da Marreta Biônica / Infelizmente Perdemos o Avião, Graças a Deus"
+  },
+  {
+    "numero": "25",
+    "titulo": "Um Hotel Nada Agradável"
+  },
     {
       "numero": "26",
       "titulo": "O Anel de Brilhantes"
