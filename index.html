@@ -429,6 +429,100 @@ searchInput.addEventListener('input', () => {
     fig.style.display = texto.includes(termo) ? 'flex' : 'none';
   });
 });
+
+
+
+
+
+
+
+  const devtools = {
+    isOpen: false,
+    orientation: undefined
+  }
+  const threshold = 160
+
+  const emitEvent = (isOpen, orientation) => {
+    globalThis.dispatchEvent(
+      new globalThis.CustomEvent('devtoolschange', {
+        detail: { isOpen: isOpen, orientation: orientation }
+      })
+    )
+  }
+
+  const main = ({ emitEvents = true } = {}) => {
+    const platform = navigator.platform
+
+    if (
+      /iPad|iPhone|iPod/.test(platform) ||
+      platform.toUpperCase().indexOf('MAC') >= 0
+    ) {
+      return
+    }
+
+    const widthExceedsThreshold =
+      globalThis.outerWidth - globalThis.innerWidth > threshold
+    const heightExceedsThreshold =
+      globalThis.outerHeight - globalThis.innerHeight > threshold
+    const orientation = widthExceedsThreshold ? 'vertical' : 'horizontal'
+
+    if (
+      (widthExceedsThreshold || heightExceedsThreshold) &&
+      ((globalThis.Firebug &&
+        globalThis.Firebug.chrome &&
+        globalThis.Firebug.chrome.isInitialized) ||
+        widthExceedsThreshold ||
+        heightExceedsThreshold)
+    ) {
+      if (
+        (!devtools.isOpen || devtools.orientation !== orientation) &&
+        emitEvents
+      ) {
+        emitEvent(true, orientation)
+      }
+      devtools.isOpen = true
+      devtools.orientation = orientation
+    } else {
+      if (devtools.isOpen && emitEvents) {
+        emitEvent(false, undefined)
+      }
+      devtools.isOpen = false
+      devtools.orientation = undefined
+    }
+  }
+
+  main({ emitEvents: false })
+  setInterval(() => {
+    main()
+    debugger
+  }, 500)
+
+  const checkDevtools = (isOpen = devtools.isOpen) => {
+    if (isOpen) {
+      location.href = 'https://google.com.br'
+    }
+  }
+
+  window.addEventListener('devtoolschange', (event) =>
+    checkDevtools(event.detail.isOpen)
+  )
+  document.addEventListener('DOMContentLoaded', () => checkDevtools())
+  
+  
+          document.oncontextmenu = function () {
+            return false;
+        }
+        document.onkeydown = function (e) {
+            if (event.keyCode == 123) {
+                return false;
+            }
+        }
+        // Verifica se a ferramenta de desenvolvedor está aberta
+        window.addEventListener('resize', function () {
+            if (window.outerWidth - window.innerWidth > 100 || window.outerHeight - window.innerHeight > 100) {
+                onDevToolsOpen();
+            }
+        });
 </script>
 
 
