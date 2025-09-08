@@ -1475,7 +1475,7 @@
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F15e52cb9-527d-4ed0-a2e5-965bc851d333%2Fmain%2F1280x720%2F10m25s472ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzE1ZTUyY2I5LTUyN2QtNGVkMC1hMmU1LTk2NWJjODUxZDMzMy9tYWluLzEyODB4NzIwLzEwbTI1czQ3Mm1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NDgwNjk3Njd9fX1dfQ__%26Signature%3DCaq3y-DnUCDbBHH02OTkBB2jGcrVW8pHzdfgBcEtyFnFlJcfRLY3~JrK-S0HT0AdnPumlRJsM26TfPjJUEBBneGup1kzV~f~5PnHak-tL3ohVk0Gnfh2MCkETQEdlNqEnn7DxVTLIg~a4q-lWdkKvJls-IvB4EnJlospIguGAFUjsRMxJHGOFseCdeCfw4EAFMI~w1KhR4~xe5He6ouDiOb-xXKAs~By6l6Eh94MVB7sCWP2J4TG1tF6hYUkS7Yl2QlnZefmfVKQQpUbpczRBgaHcdz0IVwdXNZqXQE-gHyiXSX9MWtqCia0AqDWPMs5Q9daKchrAWAx6Wxvb2rLhQ__&w=640&q=75",
       "time": "21",
       "enabled": true,
-      "exibicao": "SBT REDE",
+      "exibicao": "SBT REDE | +SBT",
       "datas": [
         "14/03/2025"
       ]
@@ -1771,7 +1771,7 @@
       "enabled": true,
       "exibicao": "SBT REDE | +SBT",
       "datas": [
-        "09/12/2024", "23/04/2025", "16/05/2025"
+        "09/12/2024", "23/04/2025"
       ]
     },
     {
@@ -3619,9 +3619,9 @@
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2Fdc069932-1dc0-4b85-a432-01166c82ee8a%2Fmain%2F1280x720%2F11m9s984ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxL2RjMDY5OTMyLTFkYzAtNGI4NS1hNDMyLTAxMTY2YzgyZWU4YS9tYWluLzEyODB4NzIwLzExbTlzOTg0bXMvbWF0Y2gvaW1hZ2UuanBnKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0NzQ2NzUwM319fV19%26Signature%3DdPROuhJL4trcRSt~BFP5hcC~6Lz9hEJsXt~J14HxoMDMLDjqQDQhZ~rPkBdiZZZT50uwnJ3T8wFJWzSbSSbzyZDkwANP8XcA~bf2O9apmc99JXXWJBoXymrnLaj4TLezh~~Ew0wImE2ixeK1uUL9dbVBZ0CW2cG0i0FopbVLoal--uyn2KsUSoZ7G3tAgSSBtsNb1DoQeofDGQgnosEhV-XSjVEMrZ81vuDJ3fr35p5hhloV56yHgkU6Zp34UpPw8RXq7ctBsZszSWJHoKzuwl0O7ajlAfS5OVAhwpx-vyin473hddjvM8SZ3x7gh15ylBrGMD4-67gWpx0jYJ6Nqg__&w=640&q=75",
       "time": "22",
       "enabled": true,
-      "exibicao": "",
+      "exibicao": "SBT REDE | +SBT",
       "datas": [
-        ""
+        "16/05/2025"
       ]
     },
     {
