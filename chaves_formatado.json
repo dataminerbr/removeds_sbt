@@ -567,7 +567,7 @@
       "enabled": true,
       "exibicao": "SBT REDE | +SBT",
       "datas": [
-        "13/12/2024", "19/04/2025"
+        "13/12/2024", "19/04/2025", "08/07/2025"
       ]
     },
     {
@@ -609,7 +609,7 @@
       "enabled": true,
       "exibicao": "SBT REDE | +SBT",
       "datas": [
-        "27/01/2025", "18/04/2025"
+        "27/01/2025", "18/04/2025", "24/06/2025"
       ]
     },
     {
@@ -623,7 +623,7 @@
       "enabled": true,
       "exibicao": "SBT REDE | +SBT",
       "datas": [
-        "28/01/2025", "18/04/2025"
+        "28/01/2025", "18/04/2025", "24/06/2025"
       ]
     },
     {
@@ -637,7 +637,7 @@
       "enabled": true,
       "exibicao": "SBT REDE | +SBT",
       "datas": [
-        "23/12/2024", "19/04/2025"
+        "23/12/2024", "19/04/2025", "17/06/2025"
       ]
     },
     {
@@ -721,7 +721,7 @@
       "enabled": true,
       "exibicao": "SBT REDE | +SBT",
       "datas": [
-        "26/12/2024", "17/04/2025"
+        "26/12/2024", "17/04/2025", "17/07/2025"
       ]
     },
     {
@@ -747,9 +747,9 @@
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F624fed91-848e-4380-a439-b408d5239ea2%2Fmain%2F1280x720%2F11m5s834ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzYyNGZlZDkxLTg0OGUtNDM4MC1hNDM5LWI0MDhkNTIzOWVhMi9tYWluLzEyODB4NzIwLzExbTVzODM0bXMvbWF0Y2gvaW1hZ2UuanBnKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc1MTM1MjgyOX19fV19%26Signature%3DIQ~3NJgYwTlocab5Mc0Qk4AJtfD0zFISyWS5spfLe0sVmu3egD3rmGuLgiOXm83B5B5HPwncwkRzMQZwHl6FUMMIv58tF8rFCfahHGa70ouD6prP1aUrjWGgjI6tvnIXo~kcVsMIDMNB7-6W~d3ySi8aKISDsKtJeJ6gn9J1DPH46ABtbjCsJFnCs-3QQRSaEJ0rsI69vgPV3DlUTDb-ypRJC-M~29me0hvUsVHgmn37043AEsNw1shIN0tyv7rl8aRJuGJezuSm6qVIs5y5eppXqV4raplxwzcnazRrRA5zxyls4B7jPVoMUvymBUXtjAndsgSN1je3sq6VbCbnSQ__&w=640&q=75",
       "time": "21",
       "enabled": true,
-      "exibicao": "SBT REDE",
+      "exibicao": "SBT REDE | +SBT",
       "datas": [
-        "27/12/2024", "11/04/2025"
+        "27/12/2024", "11/04/2025", "01/07/2025"
       ]
     },
     {
@@ -763,7 +763,7 @@
       "enabled": true,
       "exibicao": "SBT REDE | +SBT",
       "datas": [
-        "19/12/2024", "17/04/2025"
+        "19/12/2024", "17/04/2025", "16/07/2025"
       ]
     },
     {
@@ -819,7 +819,7 @@
       "enabled": true,
       "exibicao": "SBT REDE | +SBT",
       "datas": [
-        "02/11/2024", "15/04/2025"
+        "02/11/2024", "15/04/2025", "16/07/2025"
       ]
     },
     {
@@ -833,7 +833,7 @@
       "enabled": true,
       "exibicao": "SBT REDE",
       "datas": [
-        "20/12/2024", "07/04/2025"
+        "20/12/2024", "07/04/2025", "31/07/2025"
       ]
     },
     {
@@ -903,7 +903,7 @@
       "enabled": true,
       "exibicao": "SBT REDE | +SBT",
       "datas": [
-        "03/02/2025", "29/04/2025"
+        "03/02/2025", "29/04/2025", "24/07/2025"
       ]
     },
     {
@@ -987,7 +987,7 @@
       "enabled": true,
       "exibicao": "SBT REDE | +SBT",
       "datas": [
-        "07/01/2025", "15/04/2025"
+        "07/01/2025", "15/04/2025", "09/07/2025"
       ]
     },
     {
@@ -1029,7 +1029,7 @@
       "enabled": true,
       "exibicao": "SBT REDE | +SBT",
       "datas": [
-        "20/01/2025", "30/04/2025"
+        "20/01/2025", "30/04/2025", "12/08/2025"
       ]
     },
     {
@@ -1043,7 +1043,7 @@
       "enabled": true,
       "exibicao": "SBT REDE | +SBT",
       "datas": [
-        "05/02/2025", "29/04/2025"
+        "05/02/2025", "29/04/2025", "14/07/2025"
       ]
     },
     {
@@ -1057,7 +1057,7 @@
       "enabled": true,
       "exibicao": "SBT REDE | +SBT",
       "datas": [
-        "06/02/2025", "28/04/2025"
+        "06/02/2025", "28/04/2025", "15/08/2025"
       ]
     },
     {
@@ -1209,9 +1209,9 @@
       "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/W16OzwAQvTM/maxresdefault.jpg",
       "time": "21",
       "enabled": true,
-      "exibicao": "",
+      "exibicao": "SBT REDE",
       "datas": [
-        ""
+        "19/06/2025"
       ]
     },
     {
@@ -1223,9 +1223,9 @@
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2Fd741d6df-8ae7-4b4c-8cb4-c02ec61c3909%2Fmain%2F1280x720%2F10m21s386ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxL2Q3NDFkNmRmLThhZTctNGI0Yy04Y2I0LWMwMmVjNjFjMzkwOS9tYWluLzEyODB4NzIwLzEwbTIxczM4Nm1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTAzNzU5MzF9fX1dfQ__%26Signature%3DTtVNG~Q9pilwOhw4zbhhkoZDojSh~DDxDGzDFWXmrmvr2qoUgHHud2rz7BoZYtQi207Sxk8KE4MXYD7RJXRrDT7bN~FRrnajgUxdKs8J6XsgtULM9hfm7bCLS2q5XqreUz4iH22OIDzEdueN3q3Z3U5QQ1LeKljHwSHPRnyt0pk5TprqLNV15gylii9nvgpVJFmjjRmQf0BaXPQsKoa4hWBkB~P-mPOQFUij8Dll1ERG-wwK8InFwxGq3l-DfjMatrcdaQroiOFhuFaI9xto7mgcQAalx51YrX5RJIxBFCGcm7iHu~fP7ZgkmquMS3bXSL3oS7Oqyr1CZ0AW1iOCfg__&w=640&q=75",
       "time": "21",
       "enabled": true,
-      "exibicao": "",
+      "exibicao": "SBT REDE | +SBT",
       "datas": [
-        ""
+        "19/06/2025"
       ]
     },
     {
@@ -1321,9 +1321,9 @@
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F2bd06ae5-497b-4648-9690-434726169170%2Fmain%2F1280x720%2F11m14s954ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzJiZDA2YWU1LTQ5N2ItNDY0OC05NjkwLTQzNDcyNjE2OTE3MC9tYWluLzEyODB4NzIwLzExbTE0czk1NG1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTAxMTY5NDV9fX1dfQ__%26Signature%3DTyUcFEEZ2tQaXDhgggK0C9AkFS9btmd9bqOs6WR771~xWtQk-IDoZNiWoHq0DcBFt7kdplQb0yiuEHZ-HIfa9ZeJVmixHzR7V1VE9bWZZPRrSuVp47AsbwJX5C1x0Cc8G-4CSixY3i70kCChfiKShpDZlh232BAtpcm4RqZSKB3s9nn7SPHQ16SSkB8~0QfP8wAkV-ws4-FR~EyhIQrfVMWDcxramhD0P-xg3ufVrdRh7e0aJZdjJjSsbXX9GXh1s-3-hyXpOfAcP3a5gInCgGvwUlUY7uXBhtQ9sBo1VCR-ITfQS0UzzIGmBjedQ7OV191Rz-YYxp8GhcJacYPaFQ__&w=640&q=75",
       "time": "22",
       "enabled": true,
-      "exibicao": "",
+      "exibicao": "SBT REDE | +SBT",
       "datas": [
-        ""
+        "16/06/2025"
       ]
     },
     {
@@ -1335,9 +1335,9 @@
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F71bbc47a-cb3e-4231-bebd-f01bc4f5bfed%2Fmain%2F1280x720%2F11m13s653ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzcxYmJjNDdhLWNiM2UtNDIzMS1iZWJkLWYwMWJjNGY1YmZlZC9tYWluLzEyODB4NzIwLzExbTEzczY1M21zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTAxMTY5NDJ9fX1dfQ__%26Signature%3DBUAG2wJ~6OQSLUHR9fmswndxisTV~tm5xUoRxlf~~6BZUhImwg9HH4mTpMHUq7lhp5yvhTTRV7BQ~KnflhUciyYSpfhIXvVGVid9YyDaBYauyeorf50jRO64rIS3SdMk1TmhOftfQu8USfWwh2kebDkLJN7QNM-lJna8S3EMs6~n-RWA83L5I-efh2DVmUtF9CisuyaWcyz-yH36lZZvDiH4sDbzIzszybFCIHfi~pxGrD9FxfOIezwgoNG2TgDCqtnAkCiZYO5S-FXo3CRcVJZItvKsyLvkrb37HyovB489Qf6HCTGuvBFRw2pk2zamYeGWj1MqWGgSZZfRnTDtIQ__&w=640&q=75",
       "time": "22",
       "enabled": true,
-      "exibicao": "",
+      "exibicao": "SBT REDE | +SBT",
       "datas": [
-        ""
+        "16/06/2025"
       ]
     },
     {
@@ -1379,7 +1379,7 @@
       "enabled": true,
       "exibicao": "SBT REDE | +SBT",
       "datas": [
-        "02/11/2024", "16/04/2025"
+        "02/11/2024", "16/04/2025", "13/06/2025"
       ]
     },
     {
@@ -1391,9 +1391,9 @@
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F9e453e2e-a936-45f5-a284-26b6b862e19c%2Fmain%2F1280x720%2F10m45s610ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzllNDUzZTJlLWE5MzYtNDVmNS1hMjg0LTI2YjZiODYyZTE5Yy9tYWluLzEyODB4NzIwLzEwbTQ1czYxMG1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTAxNDI4NTZ9fX1dfQ__%26Signature%3DPd5pp-Ia9A2YY2LTJgCdaZXU4MyGuXqbWNXMaInCp7iJwJz2rqfNzJCIizi2YJ10lWEYLCcN7t~aknFpBVzeQbDk-9lcX7FOFUO1s4n5Ein7uIalmdj0rWWiM3XSQpP24K0odPV1sTyLiJWLAL0SCfenT9yknc4JbaLPDlc7C0uUqAp-xOAPgICG8~IT7P8xkFPhkflKJaGfeYf8LyHbaty~hIccNWP26PYLY6rAbos4zi~YfDLCFbYifQd-AZaZ-zt2jKxzujeBrMS8~0VAqROZC5b3EHcEzJ9A-RTSMPSr4CBmtTKolAZDBNnX4naigRUCs5lPiLe2DLW2jFmBfA__&w=640&q=75",
       "time": "22",
       "enabled": true,
-      "exibicao": "",
+      "exibicao": "SBT REDE | +SBT",
       "datas": [
-        ""
+        "16/06/2025"
       ]
     },
     {
@@ -1407,7 +1407,7 @@
       "enabled": true,
       "exibicao": "SBT REDE | +SBT",
       "datas": [
-        "02/11/2024", "16/04/2025"
+        "02/11/2024", "16/04/2025", "13/06/2025"
       ]
     },
     {
@@ -1545,9 +1545,9 @@
       "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/9bIsr6Rylus/mqdefault.jpg",
       "time": "21",
       "enabled": true,
-      "exibicao": "",
+      "exibicao": "SBT REDE",
       "datas": [
-        ""
+        "20/06/2025"
       ]
     },
     {
@@ -1559,9 +1559,9 @@
       "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/137MdAIpSA0/maxresdefault.jpg",
       "time": "22",
       "enabled": true,
-      "exibicao": "",
+      "exibicao": "SBT REDE",
       "datas": [
-        ""
+        "20/06/2025"
       ]
     },
     {
@@ -1657,9 +1657,9 @@
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F0ce209ef-ebbb-43ef-b428-7c7dde439d63%2Fmain%2F1280x720%2F9m56s917ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzBjZTIwOWVmLWViYmItNDNlZi1iNDI4LTdjN2RkZTQzOWQ2My9tYWluLzEyODB4NzIwLzltNTZzOTE3bXMvbWF0Y2gvaW1hZ2UuanBnKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0OTg4NDIwMH19fV19%26Signature%3DOrz6l0uFdAoCs5s-re1Izy2qE4154VjWg1ax4ZZWr~4wJw2XWanE5ze7rnY0szbqr5SRHCjsY-OAmI7rG1XMebJwaFuG224CCtWZyDv~1hGoro4n59tMkaZwa76-TgZi2fd15SbXGQVjkcU2T6MSRjZO9j93Np0lJTVpD3gEOir20Tpa30q7v3SD~qThR-yBv8uj~rrDdJ3km0LkKDiykyZ8scls1VdK9wCEDWHup5lPj6qUluRmxEuq-KM3vahBSCEM6a5m42EixcZizzso6zAZ15amJFlaBpdUKLepgKh7mtnMcdKGQwd7Xj2s932oWpjN2J6JSXFcweU34~KDVw__&w=640&q=75",
       "time": "20",
       "enabled": true,
-      "exibicao": "SBT REDE",
+      "exibicao": "SBT REDE | +SBT",
       "datas": [
-        "24/12/2024", "09/04/2025"
+        "24/12/2024", "09/04/2025", "13/06/2025"
       ]
     },
     {
@@ -1799,7 +1799,7 @@
       "enabled": true,
       "exibicao": "SBT REDE | +SBT",
       "datas": [
-        "12/12/2024", "22/04/2025"
+        "12/12/2024", "22/04/2025", "01/08/2025"
       ]
     },
     {
@@ -1883,7 +1883,7 @@
       "enabled": true,
       "exibicao": "SBT REDE | +SBT",
       "datas": [
-        "06/01/2025", "23/04/2025"
+        "06/01/2025", "23/04/2025", "14/07/2025"
       ]
     },
     {
@@ -1895,9 +1895,9 @@
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F0d7a15dd-a1a7-4960-bf44-b582e753634b%2Fmain%2F1280x720%2F9m59s893ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzBkN2ExNWRkLWExYTctNDk2MC1iZjQ0LWI1ODJlNzUzNjM0Yi9tYWluLzEyODB4NzIwLzltNTlzODkzbXMvbWF0Y2gvaW1hZ2UuanBnKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc1MTY3MzE2OX19fV19%26Signature%3DFzzlW3uKafstlc2fL5du~5G~LwMXA3S88waN5s3i96EuLr0Dd3yjP6j-n7whv9wwWFEIpOVU1VBMrqvx8dver4vkWGiRN1L5f7MvSuK-kwyA7xHORbw-QZz1C9vvBOfWZ-~npOUsjui8Uuet6jn8N5OJJKeH7KGgPCymA-Ri0ZQ7WzMilW4irf9OoAELCXxHND7v2zS0PNtdFK1BEiadymcHW~fpSb1kn-lBx2faHqj2WLZZ8YZd3bAJI5Hoeeskc7zTJ8GtqeLXNo4-i-Yw3quW~rzFsV0izK71-FVATaGsTawvmrASWfYyy5I~e7kXlRXZaCpAS5cGhj2RRRrXvw__&w=640&q=75",
       "time": "20",
       "enabled": true,
-      "exibicao": "",
+      "exibicao": "SBT REDE | +SBT",
       "datas": [
-        ""
+        "04/07/2025"
       ]
     },
     {
@@ -1909,9 +1909,9 @@
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F99413138-32e4-4a47-a794-805a0af6ffab%2Fmain%2F1280x720%2F9m12s565ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzk5NDEzMTM4LTMyZTQtNGE0Ny1hNzk0LTgwNWEwYWY2ZmZhYi9tYWluLzEyODB4NzIwLzltMTJzNTY1bXMvbWF0Y2gvaW1hZ2UuanBnKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc1MTY3MzA1OH19fV19%26Signature%3DMaHH5LFiVMbe0nVLzn5r5PZDa7R4KLJjPTH5hORW92SMXEQ5ZUFC~pODs7lx4lp3apLAYAvgfqJb8TlOYy9j58c3wmDo6qKDNfI3ThnQ1em0jT8vSZGN7ozqzGwBb6RarF54JcXYjfWLR-IbJiw6pPn04EHT1NuT-~MTSfXzcnnmmcvKqVTiqgUrRiobMTS6LVzTA-zrufajrCdrZuUS5mZfAhKzdkHBrxDRrmLmaqThDHCijs24Lbs5NuRAZNpG9qpg7-ThBakxx4sLz-Y8Q8QgyCGPlU7rA0ARqRbosN521nM5~6vpiiLGXDf4CHsU9QhqGhoCv1P9hLSgh-J1EQ__&w=640&q=75",
       "time": "18",
       "enabled": true,
-      "exibicao": "",
+      "exibicao": "SBT REDE | +SBT",
       "datas": [
-        ""
+        "04/07/2025"
       ]
     },
     {
@@ -1923,9 +1923,9 @@
       "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/cS4EWBFaOYs/mqdefault.jpg",
       "time": "27",
       "enabled": true,
-      "exibicao": "",
+      "exibicao": "SBT REDE",
       "datas": [
-        ""
+        "13/07/2025"
       ]
     },
     {
@@ -2021,9 +2021,9 @@
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2Fadb65eef-4f40-4f3a-8c0c-979e09b9b9a4%2Fmain%2F1280x720%2F13m33s610ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxL2FkYjY1ZWVmLTRmNDAtNGYzYS04YzBjLTk3OWUwOWI5YjlhNC9tYWluLzEyODB4NzIwLzEzbTMzczYxMG1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTE5MTgyODV9fX1dfQ__%26Signature%3DMfibdMEz6gg9aC8yIxr7gchxFE9WwvZzkBs94z3J2jTxn3WOOxXFXhJuf0DqEVXFcF2PekK~-msMjb5ZZkCbghzSHq54eDZLyYfbAIuh0CGsghNyCoUEL8NESDDHMfXlY8~Ap~R6Au8W1ILEvDFJroKMyV-P1o2SoUDaCdOTzMCVn1qShf8J2DCJGyYOPrAKuTiaz1OjQBe-ikBcb-GtXJOgstMhegCEQvrQp2iUgDelHUclw6u9Liisbggpljrm3wRK0VtB7XK9vTdFqczvRnODD47C0L6GrLK4798WXFU4L7UEnEuFr1cd0wDOXb4LxjbkNOsIQUzPNFvHIPpATQ__&w=640&q=75",
       "time": "27",
       "enabled": true,
-      "exibicao": "SBT REDE",
+      "exibicao": "SBT REDE | +SBT",
       "datas": [
-        "12/04/2025"
+        "12/04/2025", "06/07/2025"
       ]
     },
     {
@@ -2063,9 +2063,9 @@
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2Fc8b6466f-98e2-40d8-a860-d492ab9de5ce%2Fmain%2F1280x720%2F10m20s490ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxL2M4YjY0NjZmLTk4ZTItNDBkOC1hODYwLWQ0OTJhYjlkZTVjZS9tYWluLzEyODB4NzIwLzEwbTIwczQ5MG1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTE0OTgyMTh9fX1dfQ__%26Signature%3DWSaYwYGr87j4qYPPSQR4XaNe7IZUTxya8MsoYewse6oH0v~lLQTyvBc9tp7AXvUPS4zAZM6n2YC2ULXt0JOf-ELHUyI6ze6tUf1~yE3LuNJXvtKq8rEwtq2yHRGcqcIVhRNVKvB2src6qIK-h4Ud2eVF0aLZC3ODIyxB~auuszGK~TRk~iEi1LY~upTSTXTPO8sHI5a6mZtP1hKN0H6w4N39TxQSzPx2ke9Rw2qBR0sFu0Radm2liMb2VMoVPZdmTCjx5Qt-oPdcnUKTy66Ova8cWu4KNkvdrfUqBGJpJFmmQW9q2KOpmL1OJk17Xf5WU9AmvFCAg0iwnxX~V8JYpg__&w=640&q=75",
       "time": "21",
       "enabled": true,
-      "exibicao": "",
+      "exibicao": "SBT REDE | +SBT",
       "datas": [
-        ""
+        "02/07/2025"
       ]
     },
     {
@@ -2077,9 +2077,9 @@
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F3b8839eb-9370-4795-a9ba-97c636eaa256%2Fmain%2F1280x720%2F10m30s165ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzNiODgzOWViLTkzNzAtNDc5NS1hOWJhLTk3YzYzNmVhYTI1Ni9tYWluLzEyODB4NzIwLzEwbTMwczE2NW1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTE5MzA0NTN9fX1dfQ__%26Signature%3DVelkQ4yegYqM1uCtjctHQRkdY9p7L0Lqxw~OhSBYBvg6z62uEddzjpecIo53WlQ5HTWY~jRGOJ57cvme-IYVIKHOB52W~ORGHdfsCK7sdduP2VpUN4p0fUeEZUZO1-HPLL71FItMW3V~DfbYwdfdYNEIqik0p5dbgQLb7tHQHrQeM-e8n9kBEEzZg~CfD1E2I2R2pPZcqJB527jtA5WIetjeP4bZ0EMeA-Sdzbd0r-rnkg1y6XqHMso1nteYjFCEzBBXSnY~7rarFC4r3cyojq6Dq~fNDbCVdrDedAYiVVDrrQe5BMAmVY9x4jd6TZzMgpfOVUjp7JiGTCm5odHvUw__&w=640&q=75",
       "time": "21",
       "enabled": true,
-      "exibicao": "SBT REDE",
+      "exibicao": "SBT REDE | +SBT",
       "datas": [
-        "09/12/2024", "04/04/2025"
+        "09/12/2024", "04/04/2025", "07/07/2025"
       ]
     },
     {
@@ -2135,7 +2135,7 @@
       "enabled": true,
       "exibicao": "SBT REDE | +SBT",
       "datas": [
-        "15/01/2024", "21/04/2025"
+        "15/01/2024", "21/04/2025", "11/06/2025"
       ]
     },
     {
@@ -2163,7 +2163,7 @@
       "enabled": true,
       "exibicao": "SBT REDE | +SBT",
       "datas": [
-        "17/01/2025", "19/04/2025"
+        "17/01/2025", "19/04/2025", "10/08/2025"
       ]
     },
     {
@@ -2177,7 +2177,7 @@
       "enabled": true,
       "exibicao": "SBT REDE | +SBT",
       "datas": [
-        "30/12/2024", "21/04/2025"
+        "30/12/2024", "21/04/2025", "11/07/2025"
       ]
     },
     {
@@ -2219,7 +2219,7 @@
       "enabled": true,
       "exibicao": "SBT REDE",
       "datas": [
-        "12/04/2025"
+        "12/04/2025", "03/08/2025"
       ]
     },
     {
@@ -2259,9 +2259,9 @@
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F31b60367-bd94-4476-8e15-51b421d1236b%2Fmain%2F1280x720%2F11m25s34ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzMxYjYwMzY3LWJkOTQtNDQ3Ni04ZTE1LTUxYjQyMWQxMjM2Yi9tYWluLzEyODB4NzIwLzExbTI1czM0bXMvbWF0Y2gvaW1hZ2UuanBnKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc1MjAwNDc5MH19fV19%26Signature%3DOsBYrG7OVhHwf3IBKihrga8-TWV~4PWy7a~Rt-O-EJPZrQfDQ7NhRsIKqEkzYGQ4wvbjenVznFO8RjZ9pXXFUiUXKOmiFmm1QK4~ut14lXrrEeUfyHhEZ93Qumf1sE56jmyWl5Am8biweDe5OToiSZ8G3KTRIVrOf5-GAv2NuKtZfsEOegoajWPeGfut5qmdyeT7fnp7uq0PWZdK1HuIR6sDC~TElidjC8w0NexvbUq1vzWb-3Jqw3ZXEcTTwCBxC7-SQqsHzWh2qZoV7aXjZ4J-M1SWS6q-g4X5ZmQ3cjfsXGlHjU2KK4H3OTIyEfY63ziqWgOw3oxRbAkv0TmkEA__&w=640&q=75",
       "time": "23",
       "enabled": true,
-      "exibicao": "",
+      "exibicao": "SBT REDE | +SBT",
       "datas": [
-        ""
+        "07/07/2025"
       ]
     },
     {
@@ -2273,9 +2273,9 @@
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F02ec7a2d-415a-4772-b786-7bfd3341c449%2Fmain%2F1280x720%2F11m4s992ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzAyZWM3YTJkLTQxNWEtNDc3Mi1iNzg2LTdiZmQzMzQxYzQ0OS9tYWluLzEyODB4NzIwLzExbTRzOTkybXMvbWF0Y2gvaW1hZ2UuanBnKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc1MjAwNDc0NH19fV19%26Signature%3DNz2Ca3PJ3bc9qNnZgbByszF~nj~DqRyLBRPV8-XI97bPFVQi5eJCicKK6mZPsEWcyqqsb94GD~KOBhCHblmxSu8TwCeD4Q~9sNxdLGyQJo~Anxrp~8pDyt2eA6Nma7Adlak66lB6uL~rWJu7KsCpj4V27UwF~QQLiadOGuJZ5pSlJ8y~3AN~zP49NF6h3fooLsyCI7Hx~t8tADWJ0XNSFIVdXK3gJL3~nWjMQJtGctZXr8guXkFktzampVLcvE7-He1VT0RLjCJb~UBdYnHafkVg2gaDEqXpwxlTz4RdweFzD9BCY7UBPXEE4BXTC-oN6TeHXx34zbp5zz9exkrmjg__&w=640&q=75",
       "time": "22",
       "enabled": true,
-      "exibicao": "",
+      "exibicao": "SBT REDE | +SBT",
       "datas": [
-        ""
+        "07/07/2025"
       ]
     },
     {
@@ -2287,9 +2287,9 @@
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2Fef75ca8b-92ef-4629-ad5a-1a271f25e519%2Fmain%2F1280x720%2F10m26s656ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxL2VmNzVjYThiLTkyZWYtNDYyOS1hZDVhLTFhMjcxZjI1ZTUxOS9tYWluLzEyODB4NzIwLzEwbTI2czY1Nm1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTIwMjczOTh9fX1dfQ__%26Signature%3DTASezLP0Q4Oj~pB0D5GlyZgHzMtb24MvG7JokLpANxH2hIIvIMT7~MRzAH678a~si8IJeYERwt7vU15C9GA-TTrqhkBFVj0NiboSXNnG7xANk1hMMgSUpn~P4l4xfVxPpMk1ghVNrxAaZjxYoA9pxGioaihctxy2AVPSDQxVYcl4vWctmc-~T1oCrtxbxVeXo-gHFlmGxPlJzlaJIEuGcZT70RCuqPHUMsJIAGoFegBi22LxWuu~72AcatEJvn4UunD9MRlTI26hkgJW39xddieCwx889dap51m~lUZyvzY1-NwJ7QBsB5WxffEm6UjpAOMDFBy7iGjtZhuU-LLXyw__&w=640&q=75",
       "time": "21",
       "enabled": true,
-      "exibicao": "",
+      "exibicao": "SBT REDE | +SBT",
       "datas": [
-        ""
+        "08/07/2025"
       ]
     },
     {
@@ -2301,9 +2301,9 @@
       "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/r6d9KzeW0qs/mqdefault.jpg",
       "time": "20",
       "enabled": true,
-      "exibicao": "",
+      "exibicao": "SBT REDE",
       "datas": [
-        ""
+        "08/07/2025"
       ]
     },
     {
@@ -2345,7 +2345,7 @@
       "enabled": true,
       "exibicao": "SBT REDE | +SBT",
       "datas": [
-        "16/01/2025", "23/04/2025"
+        "16/01/2025", "23/04/2025", "10/07/2025"
       ]
     },
     {
@@ -2455,9 +2455,9 @@
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2Fbdbb82b7-5cce-47d6-91f6-5c3b86aea476%2Fmain%2F1280x720%2F10m52s320ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxL2JkYmI4MmI3LTVjY2UtNDdkNi05MWY2LTVjM2I4NmFlYTQ3Ni9tYWluLzEyODB4NzIwLzEwbTUyczMyMG1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTA3MjM3NTZ9fX1dfQ__%26Signature%3DQt6lKKi~qVfD3LXRJM4N7gF0MAfYg4vhMt9TeAb7b5P9i~T9VGmB57ayXlo2PLmCwjSbojRyHcWyimdxJ37-T5815BYoW4G2EHP8-UkGQ5anpjz6iAfXq3OjSCYtADMh8g2AFgad0k-Jrxok38PIPTuau3-cQhPzwtH6Su-f3UKtJGg3ipX8LpZB~vYebAM3BTRFV~At-oUKU3BaVhElFufoyNtbGTHLCQN1wRod2m2umX37TlScgn0Tb7MThEAGxTy7IaVZtn5Cq9mxfHq7aBja1tYX4caLy5e2YJf2R~sgEPdbcsn5eq4SCnl8Gn~SJA7F2l6dtyRuvH5mh1ZJ4g__&w=640&q=75",
       "time": "21",
       "enabled": true,
-      "exibicao": "",
+      "exibicao": "SBT REDE | +SBT",
       "datas": [
-        ""
+        "23/06/2025"
       ]
     },
     {
@@ -2469,9 +2469,9 @@
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F2e37c19b-7723-4940-aa05-6f95abfcdf8d%2Fmain%2F1280x720%2F11m7s317ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzJlMzdjMTliLTc3MjMtNDk0MC1hYTA1LTZmOTVhYmZjZGY4ZC9tYWluLzEyODB4NzIwLzExbTdzMzE3bXMvbWF0Y2gvaW1hZ2UuanBnKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc1MjUzNjI4OH19fV19%26Signature%3DK~aXLLLQIGpY5sMnu2c6~uWVD1nphV0vwgngAqv9fCoA99YEntvDZSskSMnYMZfLNDGzs0b~0CYIbqddHkZsQMDyLPfv~RM3VYfzCxBPJC0novxtOAbwxaR44O2jxVUm8fK5XpiE38SUZCWOo8clRQb4FiFo855ijv3OIr9~UC0OEtZOfWSFhVmOkUqy7ikoTfzSYq9GI3AOXKhmTWXaRMZKGbB5lnwAnZhuIm7-0IUbIdU5TgqUZbJqP6PYukdXgWQNW2EkTj~rgt7jC33pWYvQJ3WhaahEi7xCq4vUGNZbg03yIILIvAlpE7ajP50-m~sIfx22fI09GQ9ozCJKoQ__&w=640&q=75",
       "time": "21",
       "enabled": true,
-      "exibicao": "",
+      "exibicao": "SBT REDE | +SBT",
       "datas": [
-        ""
+        "14/07/2025"
       ]
     },
     {
@@ -2485,7 +2485,7 @@
       "enabled": true,
       "exibicao": "SBT REDE | +SBT",
       "datas": [
-        "21/01/2025", "25/04/2025"
+        "21/01/2025", "25/04/2025", "14/08/2025"
       ]
     },
     {
@@ -2511,9 +2511,9 @@
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F9b813776-7b8c-4194-85b7-51aa4dfac522%2Fmain%2F1280x720%2F10m18s805ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzliODEzNzc2LTdiOGMtNDE5NC04NWI3LTUxYWE0ZGZhYzUyMi9tYWluLzEyODB4NzIwLzEwbTE4czgwNW1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTIxMDMxODF9fX1dfQ__%26Signature%3DC5A23YR2gKp-gQ-RlBy-Bnr6Diy66nQN4o1k~BIiIVla2ZYLW9~iEC6b07BA6IrxDohbu0XQYiyvoKOfgDjx6tHBSdicOQ8mG992cH7PFKLkNqxpsdeC9MmWqX2Gn9gO5h8Yqiq0I3E6O2GszhA9PByOdMNq1z289sE6yOZdSwh-tpC7NtTMpuKYrf1VcXG3QMH~KkInAmx3StT5Q2PnPv-jS6RChulE3RtS4sO7SvJynQhml5eHlL6RYcpjEb3zEb4VflxQjZrYNv9i0qBQcdsCrFOF7JjM-NO-7KSyFwandkma8ps4XBiBqilEiVxpT2uKxQXAqlwSHMUnvPaZAg__&w=640&q=75",
       "time": "21",
       "enabled": true,
-      "exibicao": "",
+      "exibicao": "SBT REDE | +SBT",
       "datas": [
-        ""
+        "09/07/2025"
       ]
     },
     {
@@ -2581,9 +2581,9 @@
       "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/OSik4oS-kv4/maxresdefault.jpg",
       "time": "19",
       "enabled": true,
-      "exibicao": "",
+      "exibicao": "SBT REDE",
       "datas": [
-        ""
+        "27/06/2025"
       ]
     },
     {
@@ -2595,9 +2595,9 @@
       "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/pn4Zso_a7gs/maxresdefault.jpg",
       "time": "20",
       "enabled": true,
-      "exibicao": "",
+      "exibicao": "SBT REDE",
       "datas": [
-        ""
+        "27/06/2025"
       ]
     },
     {
@@ -2609,9 +2609,9 @@
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F96574f78-bc86-41a3-b720-f8587ae2bc17%2Fmain%2F1280x720%2F14m59s882ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzk2NTc0Zjc4LWJjODYtNDFhMy1iNzIwLWY4NTg3YWUyYmMxNy9tYWluLzEyODB4NzIwLzE0bTU5czg4Mm1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTMzMzE2NzZ9fX1dfQ__%26Signature%3DC42HhA-Ary-H~1HC69GTIthsiOH3NvxPUX8eYMC1bwnJfkNWH~9ltHTKo8QtR4-rrJ9j8E0woXJusDUr9keGdvqQzM~f1zOk20Yg0VEBBIlz5TV8oXj2NSaus6wjinNUU~NZAS1FpaWxGMkqNjEK8QjBVUKm2ULSCmvlZOL2tnldz7ShdCKAUB8-48bDMqUc4Z0NGJzTbaw1yV~gBb3NWsyZOjudhwPAYAMeWwZVRt5naTXgbPPBD5esYbnQhDvqZwVVkiVanZRLUl8jSoPx2M~H9vgp0qusak4x1-Z1DcTUmWEXGqs~u8bj~hRYCM5HXjxxw6rpfVxySIK80kVJtA__&w=640&q=75",
       "time": "30",
       "enabled": true,
-      "exibicao": "SBT REDE",
+      "exibicao": "SBT REDE | +SBT",
       "datas": [
-        "10/01/2025"
+        "10/01/2025", "23/07/2025"
       ]
     },
     {
@@ -2625,7 +2625,7 @@
       "enabled": true,
       "exibicao": "SBT REDE | +SBT",
       "datas": [
-        "14/01/2025", "22/04/2025"
+        "14/01/2025", "22/04/2025" , "11/06/2025", "07/07/2025"
       ]
     },
     {
@@ -2639,7 +2639,7 @@
       "enabled": true,
       "exibicao": "SBT REDE | +SBT",
       "datas": [
-        "19/02/2025", "29/04/2025"
+        "19/02/2025", "29/04/2025", "29/07/2025"
       ]
     },
     {
@@ -2695,7 +2695,7 @@
       "enabled": true,
       "exibicao": "SBT REDE | +SBT",
       "datas": [
-        "07/02/2025", "28/04/2025"
+        "07/02/2025", "28/04/2025", "29/07/2025"
       ]
     },
     {
@@ -2805,9 +2805,9 @@
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F8bf7f8ac-125a-4068-bdbe-27bf615e2d91%2Fmain%2F1280x720%2F10m55s253ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzhiZjdmOGFjLTEyNWEtNDA2OC1iZGJlLTI3YmY2MTVlMmQ5MS9tYWluLzEyODB4NzIwLzEwbTU1czI1M21zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NDk3OTgwMzl9fX1dfQ__%26Signature%3DPQGWKEvuTbwwRhmm3w-InD82aNrK7RSj~lG3s27zH7Vm0AXPeHfTE7I924DDge-g8gIfSAhrFhTJZ3dSkknr3~1LfhXPrxWGxzeF7u04U88u7WpuWb~Rs9ibfCvHhKgoZGvm03QcO5rrDX4KGxhNNMQ7dUbZ-5ZcjLO~UIPmm-jiP3XdtqMxjUQFx~rsxXhIwEDZQHNdna8A-c4VUjpceIYwO2OAOXY-fCVYd2G2w3Sdo1CGxRWzX5ZkrlvQhvIZGefQsmhg~T8fhHiE6lSDfksdQ1mh2UzhB6MW-0Ac8An5faHojSK8qDxia77QxkpgIp7Z4HG6ucRXTEF1RIbRyw__&w=640&q=75",
       "time": "22",
       "enabled": true,
-      "exibicao": "",
+      "exibicao": "SBT REDE | +SBT",
       "datas": [
-        ""
+        "12/06/2025"
       ]
     },
     {
@@ -2947,7 +2947,7 @@
       "enabled": true,
       "exibicao": "SBT REDE | +SBT",
       "datas": [
-        "24/03/2025", "03/06/2025"
+        "24/03/2025", "03/06/2025", "25/06/2025"
       ]
     },
     {
@@ -2961,7 +2961,7 @@
       "enabled": true,
       "exibicao": "SBT REDE | +SBT",
       "datas": [
-        "24/04/2025"
+        "24/04/2025", "25/06/2025"
       ]
     },
     {
@@ -3031,9 +3031,9 @@
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2Fea6f55c9-d5b7-4471-a4b0-29c6ac163155%2Fmain%2F1280x720%2F10m44s213ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxL2VhNmY1NWM5LWQ1YjctNDQ3MS1hNGIwLTI5YzZhYzE2MzE1NS9tYWluLzEyODB4NzIwLzEwbTQ0czIxM21zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NDk3NzEyMDZ9fX1dfQ__%26Signature%3DSm3osuL1JX1yDyhABpyz1wb1lC0X~0OxYLYNcfnuTwUWmaiDq1qSYg9ksAbecFyF1Q~clY0PCzVZP1~eEKSe5W5iGUADZB2ZWYuSftltUt3CGPhlCFL1XNUgJBMdyLS0V7PeGg2lJdXtR9zRhVSzdl~nYMJOPTObc-ttf5ZMUIXdmfMGNzHve~J1ykJdy~jN9I9Fpf3gYyfeyQ3I5CIQoUEZAVsrN3KshqxygIGY8zlbXiMNqKRu8TLG-RzIjGdu8oldOAZiIMUm2yWw-9CNorQdcacfshCOYKCAlzrtLp0TE4Dm6DnQazy6StzAGsbVDhMNB6YciKhw58RydCD~lQ__&w=640&q=75",
       "time": "21",
       "enabled": true,
-      "exibicao": "",
+      "exibicao": "SBT REDE | +SBT",
       "datas": [
-        ""
+        "12/06/2025"
       ]
     },
     {
@@ -3129,9 +3129,9 @@
       "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/w9I_VlcrZ2k/mqdefault.jpg",
       "time": "20",
       "enabled": true,
-      "exibicao": "",
+      "exibicao": "SBT REDE",
       "datas": [
-        ""
+        "20/07/2025"
       ]
     },
     {
@@ -3157,9 +3157,9 @@
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2Fb55c0eee-8837-47cb-8f0d-a3448a103da4%2Fmain%2F1280x720%2F11m51s392ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxL2I1NWMwZWVlLTg4MzctNDdjYi04ZjBkLWEzNDQ4YTEwM2RhNC9tYWluLzEyODB4NzIwLzExbTUxczM5Mm1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTIxMDMzOTh9fX1dfQ__%26Signature%3DZx8xsbcbDX~JwzTuuQ7QxtvcRwg4eWVA0cRAdPSzY0cBZynlBfMiNh4mf4WBIbiDXfqRZ96FB~GcsolEoT57PU6-nx6agSf7UbznFvQCVqQgPISIWj34b1bWi2rfpqdU67miKeUCH8Y~qEF7q-O17BPL5xy190lsTeRxFEXW85vAxN1Ch9K4LvOlJtCB1~IMGahzCqZf-jeIDr9lrB3Vhd~z9unagHIYwtdmF4DFd4xFnCBcatuxFuR2PgLCV0Sw2~j--zNoo1NYceqlEoNpHaTCrG6hT7FRDpAN02BNFF7RPll4Z1LgbNJvdxQwzgwu3Lf6~JCVSWaGOEf5Gc1dyw__&w=640&q=75",
       "time": "24",
       "enabled": true,
-      "exibicao": "",
+      "exibicao": "SBT REDE | +SBT",
       "datas": [
-        ""
+        "09/07/2025"
       ]
     },
     {
@@ -3199,9 +3199,9 @@
       "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/bEbrrhAyzVc/maxresdefault.jpg",
       "time": "23",
       "enabled": true,
-      "exibicao": "",
+      "exibicao": "SBT REDE",
       "datas": [
-        ""
+        "02/07/2025"
       ]
     },
     {
@@ -3213,9 +3213,9 @@
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2Ffb865e9a-3cff-427b-a809-4287888bd45e%2Fmain%2F1280x720%2F10m59s925ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxL2ZiODY1ZTlhLTNjZmYtNDI3Yi1hODA5LTQyODc4ODhiZDQ1ZS9tYWluLzEyODB4NzIwLzEwbTU5czkyNW1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NDk3NzEyNDR9fX1dfQ__%26Signature%3DPWR9QFOh7s5IpTFNqfurwQBqmaBsfTKmaPQXRoBmmzXDPnHec5h~C5MNTcFkyHrtzJxBRg9dkXvDNYEs-PRkm7j1nQCLKTX20X-W3IrhNP~J8RRpIY4a0lNxWiEUR1DdjXVAI~ZUydukyDMY8kknZ9uLVzHpkX0wWRJ4EdYPTImqjmfFR~qOwhiNxd~6~5YwO9oUMsD4NdZvW-yv78bo6JcOuJAWmZCRIBjisshHb6tUL0TpyWW1~4pGciuXzoRGSKAwr7T1lIpKTQRKpIWhl2bUZoZu5hXCemSAvRdHZEJQ67X5oR8p~cLXOo5BfxrfxGqok~gLR27GaBj1YH29FA__&w=640&q=75",
       "time": "22",
       "enabled": true,
-      "exibicao": "",
+      "exibicao": "SBT REDE | +SBT",
       "datas": [
-        ""
+        "12/06/2025"
       ]
     },
     {
@@ -3227,9 +3227,9 @@
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F54f70824-45e0-48b8-a5fd-faaf6916c338%2Fmain%2F1280x720%2F20m31s211ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzU0ZjcwODI0LTQ1ZTAtNDhiOC1hNWZkLWZhYWY2OTE2YzMzOC9tYWluLzEyODB4NzIwLzIwbTMxczIxMW1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTI2OTMzNDZ9fX1dfQ__%26Signature%3DA~gy-4KGzdMO5psOHwDbUN8ox0NGAjWoTGD8t7So9DJSNEdhvshwHIfcvmoqG31cKmFTqiFFyBTXJrrdCFVqbY5srhqDYd757~orH5pEu6ueVcWFHEI1NPlMHBCO532nA2IjpyY6rPqjJdWRPH4fqmZVwY2C7w1LwGwJRjQVTImw1IG--D6FmUqy-qjU-vuZhJACT7jh~jbXgCR87cXoTS~DTAJFz~vaI1Br3UnioXbt6A6BCdUs~oM6c4AuaVSA1Q0n3VwuNc1DRz4ZndDqHNTRQR1~OS15l286Lxwddh9ovdNMT-swig0rUdIM5WIV-n2eYqL~Y67Lw9-XxJVbcA__&w=640&q=75",
       "time": "41",
       "enabled": true,
-      "exibicao": "SBT REDE",
+      "exibicao": "SBT REDE | +SBT",
       "datas": [
-        "03/04/2025"
+        "03/04/2025", "15/07/2025"
       ]
     },
     {
@@ -3255,9 +3255,9 @@
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F9bb0db55-c767-467e-b977-0dad15e8b0e4%2Fmain%2F1280x720%2F14m9s920ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzliYjBkYjU1LWM3NjctNDY3ZS1iOTc3LTBkYWQxNWU4YjBlNC9tYWluLzEyODB4NzIwLzE0bTlzOTIwbXMvbWF0Y2gvaW1hZ2UuanBnKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc1MTMzMDkyMn19fV19%26Signature%3DN2UIaHDJtPDWGWuqWF851~WI72hdOHypy-RkpMc7raOfoMn7fXu3iLUl6zlKD1LyMUHudTHgddhstex5herakfU5ivMHSm79xtI94ZEOAr6Mqur4CKQz7suyMjqw2ULvoXMn46hm4JnSUozwt3tIfpMEQwprleWeI9krmd3yROxdIj4ZiDT8NT~YlcwNE1RaLzrtt7CvsirX0RsYeAFTx5MDKhjVugxwmoY8538WVCf6pT~vAsqvTXoPjUAKhx6McNunPDruOzPJZNXC3YRWtFLOuenbuFxt7mtR8-nVJpOcHlunE3R6S6iS6GClIpDJmsOwo9AFGUBSEbwVgby6BQ__&w=640&q=75",
       "time": "28",
       "enabled": true,
-      "exibicao": "",
+      "exibicao": "SBT REDE | +SBT",
       "datas": [
-        ""
+        "29/06/2025"
       ]
     },
     {
@@ -3283,9 +3283,9 @@
       "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/vK3sWY_2BSI/mqdefault.jpg",
       "time": "22",
       "enabled": true,
-      "exibicao": "",
+      "exibicao": "SBT REDE",
       "datas": [
-        ""
+        "30/06/2025"
       ]
     },
     {
@@ -3411,7 +3411,7 @@
       "enabled": true,
       "exibicao": "SBT REDE | +SBT",
       "datas": [
-        "14/02/2025", "30/04/2025"
+        "14/02/2025", "30/04/2025", "21/07/2025"
       ]
     },
     {
@@ -3437,9 +3437,9 @@
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F0539cd3c-487b-4ed1-9345-26afefe47df7%2Fmain%2F1280x720%2F11m51s541ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzA1MzljZDNjLTQ4N2ItNGVkMS05MzQ1LTI2YWZlZmU0N2RmNy9tYWluLzEyODB4NzIwLzExbTUxczU0MW1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTEzMjY1MDd9fX1dfQ__%26Signature%3DFSLGVEypwh7JaOlktjddBy~bDpSbnKgnyaEImtTP6b~TgQKIr9UR0ky9GLbzSUJAd3p~n2OZDJmYJjkisIFUOsswWqIUsJ7UcGcPOxSDX0ibelfi3VubxrAD9oUUfK6M~dUtIBt6xXfczbzOsHGgSEBxaI4pc8e5J5KDHVD98Xh8HijzXIA-lm3IJFpUVABLjnJbctDmG~NGdEvC18UiF0v0x8rwcyaquZUlnxxSvQcCIMOPS5ZAUqKFQtdRkIvPZ6fxkcLYAaAn4Chp0zsbmgfv7rIzjDGC2NhyXa32X8SQiHARnOJWL-gLNpuy9pNSf7erv5Yr2mUiClMqVLt8FQ__&w=640&q=75",
       "time": "24",
       "enabled": true,
-      "exibicao": "",
+      "exibicao": "SBT REDE | +SBT",
       "datas": [
-        ""
+        "30/06/2025"
       ]
     },
     {
@@ -3481,7 +3481,7 @@
       "enabled": true,
       "exibicao": "SBT REDE | +SBT",
       "datas": [
-        "24/04/2025"
+        "24/04/2025", "17/06/2025"
       ]
     },
     {
@@ -3605,9 +3605,9 @@
       "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/uXHL7M9smdI/maxresdefault.jpg",
       "time": "26",
       "enabled": true,
-      "exibicao": "",
+      "exibicao": "SBT REDE",
       "datas": [
-        ""
+        "27/07/2025"
       ]
     },
     {
@@ -3647,9 +3647,9 @@
       "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/FcmhxyJD38Y/mqdefault.jpg",
       "time": "23",
       "enabled": true,
-      "exibicao": "",
+      "exibicao": "SBT REDE",
       "datas": [
-        ""
+        "10/07/2025"
       ]
     },
     {
@@ -3661,9 +3661,9 @@
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2Fc51bea11-d1c4-4fea-8b0e-8fb4ddd8ab45%2Fmain%2F1280x720%2F11m12s618ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxL2M1MWJlYTExLWQxYzQtNGZlYS04YjBlLThmYjRkZGQ4YWI0NS9tYWluLzEyODB4NzIwLzExbTEyczYxOG1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTAyOTIwMDF9fX1dfQ__%26Signature%3DDE0AsDM6n4bXvNjnj3g465NBC1LfD8XtjWZKuRv1nW-gGSD4To8TTfMV~0mujdZsMQLYDfBBE7QO4pZGcznCQ63u-tEmcSOfNhiNSSTUFMK~A-jAtGhUUBURlYwOixPWY-e6lK75gGX1Q9CqsON63vhconXasaagrWvqUdAqdviIudBp1M6fkcaBfEXDxy8OAqH2PJVGphs81vOefgF3SPhaLXIPZtwoW8y2g4nO6FE2tRT5-w3-GkzAbhcXkSVAGq8oQ-cPhkwSsgF7MkL8xm4yhyuipDIUWE-iX4QAqzK1jOGw1vBGUNafzQ68et00EkB32ZEGzJdi7pUZeQ1RBg__&w=640&q=75",
       "time": "22",
       "enabled": true,
-      "exibicao": "",
+      "exibicao": "SBT REDE | +SBT",
       "datas": [
-        ""
+        "18/06/2025"
       ]
     },
     {
@@ -3775,7 +3775,7 @@
       "enabled": true,
       "exibicao": "SBT REDE | +SBT",
       "datas": [
-        "16/04/2025"
+        "16/04/2025", "27/06/2025"
       ]
     },
     {
@@ -3843,9 +3843,9 @@
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2Ff9a4c9a2-58e2-4d5c-9a17-da9df6bb47ca%2Fmain%2F1280x720%2F11m11s173ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxL2Y5YTRjOWEyLTU4ZTItNGQ1Yy05YTE3LWRhOWRmNmJiNDdjYS9tYWluLzEyODB4NzIwLzExbTExczE3M21zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTIxODk4MjZ9fX1dfQ__%26Signature%3DPM~dCnpIxoFmyduvT5G4qz27FO0Z8Iip1pzyJLYsAa9COY9W1~niolpnhGgIFjqXlrGCYlUn~6Xav5lV-u9hL5gvBj~SEjqOEELb6nTWF0JPHJTHbmLzUIdu018KENsHkcKxdaCMANdZbH44EKqqw3nU0RXIcI4-xn-r31-HdzK5XtQ95qtlhWpPtGg5mphATb7Ej4D5DR4ZO2K1zdbM9wsPB8qDII~JTZ7nfX8O7Vp6WTkjtilk3kW0JS7kxVcCabuFvKuWWYU4w2NTNlu9pl6HMedN~mWmtyUEOVz-AuOVnUxVg3rJ5P0ZgG1ons-dBTujeSpk5B0mP~hJWO~CuQ__&w=640&q=75",
       "time": "22",
       "enabled": true,
-      "exibicao": "",
+      "exibicao": "SBT REDE | +SBT",
       "datas": [
-        ""
+        "10/07/2025"
       ]
     },
     {
@@ -3885,9 +3885,9 @@
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2Fe89ba57f-763f-420a-8442-5ed422a7eef1%2Fmain%2F1280x720%2F10m51s200ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxL2U4OWJhNTdmLTc2M2YtNDIwYS04NDQyLTVlZDQyMmE3ZWVmMS9tYWluLzEyODB4NzIwLzEwbTUxczIwMG1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTA3NDc4NDB9fX1dfQ__%26Signature%3DMhyug4ShFQ9oYUt57U0SAU0u3f12ABAc6n82dtcBzzcVnuDscT8Fts-EmaSj9HeTZw5PilFYIx787uWn01uZKWgDPQI5CRQ~~rzzxB1ZyjeOEjz40x9Y771JnqIbmYiqlJ2KR2uYJXZ4axTyNM6qCQHdR4kKw4NcYPi~~YL0OaFU0ScDElrk7jNi5pwCzL7JjwpV~AjJRh5mO38xVjhEc7rUgJT7d~bsWyi2iaRLtcRb1Bzdae2r6KLGH7R6DxJh1wI2xnMJXNrAjTDveqLTVlB0rXA6uWxeT~V2dju7nyGlbomhaZSggtWXHj6BppLlxObn1Omac5mpZ9Z6P44iCg__&w=640&q=75",
       "time": "21",
       "enabled": true,
-      "exibicao": "SBT REDE",
+      "exibicao": "SBT REDE | +SBT",
       "datas": [
-        "09/04/2025"
+        "09/04/2025", "23/06/2025"
       ]
     },
     {
@@ -3913,9 +3913,9 @@
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F6fdf7316-4ac0-4373-80b1-a431d0ee099b%2Fmain%2F1280x720%2F11m22s581ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzZmZGY3MzE2LTRhYzAtNDM3My04MGIxLWE0MzFkMGVlMDk5Yi9tYWluLzEyODB4NzIwLzExbTIyczU4MW1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTA0ODgyOTB9fX1dfQ__%26Signature%3DGLtBLBVRAD21XXYwyM65qa4wabVW2d~i2UTI5vvYo6nIfmu58rMx3HZcA2z-SKmSV7W9QcFCJPzMjJs8sHYW81N6gDiNEtgo4u7tPkJLyOgib2ognp0Dp9LZBhUNeKHLVRgP~5knpKF7bx3h8XJTt-XijEFQPFL5xdo6mXYfvqvrwj-uwwNFTD3NPwUXOqTTXC-jM2~TeF4vaO1Lx~Yc2m9rejJiBD~2Y3u69olIDv7byoucy1oyQxRudCpgCK-Pd~o7AzjBx0LlCXHBNQtpRrlGmY8tqT7KgSNiPOpc5DU6gAwKaRO4A~lXgNnXHG8PVdoIbPbKFqcyT4BUpsN2Eg__&w=640&q=75",
       "time": "23",
       "enabled": true,
-      "exibicao": "",
+      "exibicao": "SBT REDE | +SBT",
       "datas": [
-        ""
+        "20/06/2025"
       ]
     },
     {
@@ -3929,7 +3929,7 @@
       "enabled": true,
       "exibicao": "SBT REDE | +SBT",
       "datas": [
-        "18/04/2025"
+        "18/04/2025", "25/06/2025"
       ]
     },
     {
@@ -3955,9 +3955,9 @@
       "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/mUhQC-ibrUo/maxresdefault.jpg",
       "time": "22",
       "enabled": true,
-      "exibicao": "",
+      "exibicao": "SBT REDE",
       "datas": [
-        ""
+        "26/06/2025"
       ]
     },
     {
@@ -3971,7 +3971,7 @@
       "enabled": true,
       "exibicao": "SBT REDE",
       "datas": [
-        "10/04/2025"
+        "10/04/2025", "26/06/2025"
       ]
     },
     {
@@ -4193,9 +4193,9 @@
       "cover": "https://content.maissbt.com/image/v1/jit/6415726697001/570ba77b-2ed3-444d-af2b-85b31b0d699c/main/1280x720/14m4s192ms/match/image.jpg?Key-Pair-Id=APKAINLZLPQXMZG2IC5A&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzU3MGJhNzdiLTJlZDMtNDQ0ZC1hZjJiLTg1YjMxYjBkNjk5Yy9tYWluLzEyODB4NzIwLzE0bTRzMTkybXMvbWF0Y2gvaW1hZ2UuanBnKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc1MDYzNDQ4N319fV19&Signature=EmX~dY5TfKbHH8bwtE-32DtvDODhcP3qpZpgAgL-2Pk2vYZSsi1GP4ule-CCjD4HwKGMK7tE8BUI2a8tc5kMcUJNyhmyT3ipyXLCDn8PUWVqo-DA7l~mntARd1yOr4~vke6PA8MybQ~mkLkhDimenHv9KXREfVcNY81xdm2Nc6QL4i0LUiekPqagUTE8DW8NchXrZISNK7awDoz1ULlkR8xx4hVhJnQujsm0os2JM3V4WiVHxha0V4OUNpmZg26hiGbZjxxPXtezc7eqkGZIPv5wutAZTF4bNl0kpS--sDwRBYzMrPN5b7zkhBGbdvdR-A4-au38iQXTz8tVuSDIvA__",
       "time": "28",
       "enabled": true,
-      "exibicao": "",
+      "exibicao": "SBT REDE | +SBT",
       "datas": [
-        ""
+        "22/06/2025"
       ]
     },
     {
@@ -4207,9 +4207,9 @@
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fjit%2F6415726697001%2F66338b41-435a-4a27-aac9-2ae279ee4471%2Fmain%2F1280x720%2F11m28s581ms%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL2ppdC82NDE1NzI2Njk3MDAxLzY2MzM4YjQxLTQzNWEtNGEyNy1hYWM5LTJhZTI3OWVlNDQ3MS9tYWluLzEyODB4NzIwLzExbTI4czU4MW1zL21hdGNoL2ltYWdlLmpwZyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTIyNzU5MzR9fX1dfQ__%26Signature%3DLshJouwkIpUdzI8Pd2NcGEDVHKxQKU1VuUebYDy9mn5AKfYfiRlJKg35bb9GONiOMExInPkxWqrxvtXhsIPJYIX1FDoKtSDKuNfBwP~WRLqR5mnTR4zJ93pdeOamssDtb6nGA-gu4umyD4khMTXbZ-mt5pxhcd7kBcRFL9GB40TPJsfiJ0dPLb5OZyznOx1EvlQOXHrysGiXlxWsdec4O92Ui6wcUlrGzAYcdPE2UwbfeUt8cLog1auZ8Ca9JPIBU71Kw0F73CyNM9Q5pp8uJltUFMh3lxSCyqpblal7fm-Hv-MKw29z9IXM87hD1ReG9qWbyOcn-kk4y3jWGccdEg__&w=640&q=75",
       "time": "23",
       "enabled": true,
-      "exibicao": "",
+      "exibicao": "SBT REDE | +SBT",
       "datas": [
-        ""
+        "11/07/2025"
       ]
     },
     {
@@ -4235,9 +4235,9 @@
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fstatic%2F6415726697001%2F85f09e32-5eaf-45ff-8090-ccd14be91ec1%2F8457b7a5-dedd-47dc-a695-dcaafde9cd6c%2F1280x720%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL3N0YXRpYy82NDE1NzI2Njk3MDAxLzg1ZjA5ZTMyLTVlYWYtNDVmZi04MDkwLWNjZDE0YmU5MWVjMS84NDU3YjdhNS1kZWRkLTQ3ZGMtYTY5NS1kY2FhZmRlOWNkNmMvMTI4MHg3MjAvbWF0Y2gvaW1hZ2UuanBnKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc1NjMyMzcyNX19fV19%26Signature%3DWicWfwCTjCkJvnV68BHhiMCqVGls9mmZT~izwH8zRx-IFs2nCWXfZGQI6hbz4rj8nuxXJ1qwY0gDiCoJuVDPX5phTXBU5Y73vx7GUF2w1sr~vYHELXRz10BtmoCuD8pFcWIrg9-aFzBNdLYemwnZdySZHYXkEq3A69PI1k1fKzQxANK0wFYJxiSEIXcTk0goi40aViVK05cfY6tVqQ2qqPJTr3ltapGdSvefh3QjtUpNxBj3RxEE5AUog6a1SndgDUW~M0d~sJcPPNykfaYzGL9-FhABc~cC3~oURGtgngACVOUWjvPxlqNYUA6WOnY746J0FPBK2s44TN9evQljzA__&w=640&q=75",
       "time": "26",
       "enabled": true,
-      "exibicao": "",
+      "exibicao": "SBT REDE | +SBT",
       "datas": [
-        ""
+        "22/08/2025"
       ]
     },
     {
@@ -4265,7 +4265,7 @@
       "enabled": true,
       "exibicao": "SBT REDE | +SBT",
       "datas": [
-        "17/04/2025"
+        "17/04/2025", "26/06/2025"
       ]
     },
     {
@@ -4403,9 +4403,9 @@
       "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/_1fjIncAm5g/mqdefault.jpg",
       "time": "20",
       "enabled": true,
-      "exibicao": "",
+      "exibicao": "SBT REDE",
       "datas": [
-        ""
+        "03/07/2025"
       ]
     },
     {
@@ -4417,9 +4417,9 @@
       "cover": "https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcontent.maissbt.com%2Fimage%2Fv1%2Fstatic%2F6415726697001%2Fce500417-71eb-48ef-9bcc-5111dba01ddc%2F3b3923ed-c32b-4bbc-a84d-a116f63145fc%2F1280x720%2Fmatch%2Fimage.jpg%3FKey-Pair-Id%3DAPKAINLZLPQXMZG2IC5A%26Policy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jb250ZW50Lm1haXNzYnQuY29tL2ltYWdlL3YxL3N0YXRpYy82NDE1NzI2Njk3MDAxL2NlNTAwNDE3LTcxZWItNDhlZi05YmNjLTUxMTFkYmEwMWRkYy8zYjM5MjNlZC1jMzJiLTRiYmMtYTg0ZC1hMTE2ZjYzMTQ1ZmMvMTI4MHg3MjAvbWF0Y2gvaW1hZ2UuanBnKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc1NjMyNDg2Mn19fV19%26Signature%3DHyJykxR7rMkQWGouopLUGqmxB4eZ0dSkhiGEy1bEayCukmwiSrOBgnT9Ha6jjNeZ5b7lY15kw89zIZ24YO~KIjz2h3GFEhBG~2w~UtZzzbwVqvoocD2nqjk7yMifEgMws5EYW6rUMc5zG7rKoa2S1DOmdalb8-o2bVc~lpU~VLb~wPDylZRf8JuXWpu0MT5ZqRnZsRHkxmtHcmroUxWZwuDWshbzQejxa1UvU~Wgrac-jsi8lqYdbkLOvOJMX2z1nSEVNxydkvcUYzJNaFRkKQDpG5oVGBhbfugGLarZIJL5gqV01rtcy8WD0lKdGW9BEVDsZG4W~aQg0jEfV77utg__&w=640&q=75",
       "time": "21",
       "enabled": true,
-      "exibicao": "",
+      "exibicao": "SBT REDE | +SBT",
       "datas": [
-        ""
+        "20/08/2025"
       ]
     },
     {
