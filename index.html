@@ -2,7 +2,9 @@
 <html lang="pt-BR">
 <head>
   <meta charset="UTF-8">
-  <title>WIKI CH SBT+</title>
+  <link rel="icon" href="https://mais.sbt.com.br/favicon.ico" type="image/x-icon" sizes="128x128"/>
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>WIKI CH SBT+ — com Voltar ao Topo</title>
 <style>
   * {
     box-sizing: border-box;
@@ -14,6 +16,7 @@
     background: #0d0d0d;
     font-family: 'Segoe UI', sans-serif;
     color: #fff;
+    min-height: 100vh;
   }
     header {
       background: linear-gradient(90deg, #6a5acd, #8a2be2);
@@ -111,12 +114,12 @@
   }
 
   body.theme-chaves .fig:hover {
-    transform: translateY(-5px);
+    transform: translateY(-5px) scale(1.05);
     box-shadow: 0 10px 30px rgba(40, 167, 69, 0.4); /* verde claro */
   }
 
   body.theme-chapolin .fig:hover {
-    transform: translateY(-5px);
+    transform: translateY(-5px) scale(1.05);
     box-shadow: 0 10px 30px rgba(220, 53, 69, 0.4); /* vermelho claro */
   }
 
@@ -192,6 +195,89 @@
             color: rgba(255,255,255,0.5);
         }
 
+/* ========= Botão Voltar ao Topo ========= */
+#btnTopo {
+  position: fixed;
+  right: 30px;
+  bottom: 100px;
+  z-index: 9999;
+  width: 52px;
+  height: 52px;
+  border-radius: 50%;
+  border: none;
+  outline: none;
+  color: #fff;
+  font-size: 20px;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 0;
+  transform: translateY(8px);
+  transition: opacity .25s ease, transform .25s ease;
+  box-shadow: 0 8px 24px rgba(0,0,0,0.45);
+}
+
+#btnTopo.visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+#btnTopo:focus { box-shadow: 0 0 0 3px rgba(255,255,255,0.08); }
+
+/* A cor inicial (padrão) */
+#btnTopo { background-image: linear-gradient(90deg, #6a5acd, #8a2be2); }
+
+/* Ajustes responsivos */
+@media (max-width:600px){
+  #btnTopo { right: 12px; bottom: 16px; width:44px; height:44px; }
+}
+ /* Footer Geral */
+  #mainFooter {
+    background: #111;
+    color: #aaa;
+    font-size: 0.85rem;
+    padding: 16px 20px;
+    text-align: center;
+    border-top: 2px solid rgba(255,255,255,0.05);
+    margin-top: 40px;
+  }
+
+  .footer-content {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    max-width: 1400px;
+    margin: 0 auto;
+    align-items: center;
+  }
+
+  .footer-left p {
+    margin: 2px 0;
+  }
+
+  .footer-right a {
+    color: #aaa;
+    text-decoration: none;
+    margin-left: 16px;
+    transition: color 0.3s;
+  }
+
+  .footer-right a:hover {
+    color: #fff;
+  }
+
+  /* Responsivo */
+  @media (max-width: 600px) {
+    .footer-content {
+      flex-direction: column;
+      gap: 8px;
+    }
+    .footer-right a {
+      margin-left: 0;
+      margin-right: 12px;
+    }
+  }
 </style>
 
 </head>
@@ -251,6 +337,9 @@
       <div class="grid" id="grid-chapolin-e"></div>
     </section>
   </main>
+
+  <!-- Botão voltar ao topo (aparece quando estiver quase no fim da página) -->
+  <button id="btnTopo" aria-label="Voltar ao topo" title="Voltar ao topo">▲</button>
 
 <script>
 /* =========================
@@ -397,6 +486,10 @@ Promise.all([
 
   // Estado inicial só depois de tudo carregado
   activateMain(activeMain);
+}).catch(err => {
+  console.warn('Não foi possível carregar os JSONs:', err);
+  // Ainda assim inicializa a interface
+  activateMain(activeMain);
 });
 
 /* =========================
@@ -410,6 +503,21 @@ function applyTheme(mainName) {
   } else {
     body.classList.remove('theme-chaves');
     body.classList.add('theme-chapolin');
+  }
+  // Atualiza cor do botão de voltar ao topo
+  updateBackToTopTheme();
+}
+
+function updateBackToTopTheme(){
+  const btn = document.getElementById('btnTopo');
+  if (!btn) return;
+  const body = document.body;
+  if (body.classList.contains('theme-chaves')){
+    btn.style.backgroundImage = 'linear-gradient(90deg, #0f5132, #198754)';
+    btn.style.boxShadow = '0 8px 22px rgba(25,135,84,0.28)';
+  } else {
+    btn.style.backgroundImage = 'linear-gradient(90deg, #7f1d1d, #dc3545)';
+    btn.style.boxShadow = '0 8px 22px rgba(220,53,69,0.28)';
   }
 }
 
@@ -431,101 +539,60 @@ searchInput.addEventListener('input', () => {
 });
 
 
+		
+/* =========================
+   BOTÃO VOLTAR AO TOPO (COMPORTAMENTO)
+   - Aparece quando o usuário rola para baixo
+   - Ao clicar, faz scroll suave até o topo
+   - Herda a cor do tema atual
+   ========================= */
+const btnTopo = document.getElementById('btnTopo');
 
-
-
-
-
-  const devtools = {
-    isOpen: false,
-    orientation: undefined
-  }
-  const threshold = 160
-
-  const emitEvent = (isOpen, orientation) => {
-    globalThis.dispatchEvent(
-      new globalThis.CustomEvent('devtoolschange', {
-        detail: { isOpen: isOpen, orientation: orientation }
-      })
-    )
-  }
-
-  const main = ({ emitEvents = true } = {}) => {
-    const platform = navigator.platform
-
-    if (
-      /iPad|iPhone|iPod/.test(platform) ||
-      platform.toUpperCase().indexOf('MAC') >= 0
-    ) {
-      return
-    }
-
-    const widthExceedsThreshold =
-      globalThis.outerWidth - globalThis.innerWidth > threshold
-    const heightExceedsThreshold =
-      globalThis.outerHeight - globalThis.innerHeight > threshold
-    const orientation = widthExceedsThreshold ? 'vertical' : 'horizontal'
-
-    if (
-      (widthExceedsThreshold || heightExceedsThreshold) &&
-      ((globalThis.Firebug &&
-        globalThis.Firebug.chrome &&
-        globalThis.Firebug.chrome.isInitialized) ||
-        widthExceedsThreshold ||
-        heightExceedsThreshold)
-    ) {
-      if (
-        (!devtools.isOpen || devtools.orientation !== orientation) &&
-        emitEvents
-      ) {
-        emitEvent(true, orientation)
-      }
-      devtools.isOpen = true
-      devtools.orientation = orientation
+function checkShowBtn() {
+  try {
+    if (window.pageYOffset > 300) { // aparece após 300px de scroll
+      btnTopo.classList.add('visible');
     } else {
-      if (devtools.isOpen && emitEvents) {
-        emitEvent(false, undefined)
-      }
-      devtools.isOpen = false
-      devtools.orientation = undefined
+      btnTopo.classList.remove('visible');
     }
+  } catch (e) { /* ignora se btn não encontrado */ }
+}
+
+window.addEventListener('scroll', checkShowBtn, { passive: true });
+window.addEventListener('resize', checkShowBtn);
+
+document.addEventListener('DOMContentLoaded', () => {
+  checkShowBtn();
+  updateBackToTopTheme();
+});
+
+btnTopo.addEventListener('click', () => {
+  window.scrollTo({ top: 0, behavior: 'smooth' });
+});
+
+// Observa mudanças na classe do body (tema)
+const observer = new MutationObserver(muts => {
+  for (const m of muts) {
+    if (m.attributeName === 'class') updateBackToTopTheme();
   }
+});
+observer.observe(document.body, { attributes: true });
 
-  main({ emitEvents: false })
-  setInterval(() => {
-    main()
-    debugger
-  }, 500)
-
-  const checkDevtools = (isOpen = devtools.isOpen) => {
-    if (isOpen) {
-      location.href = 'https://google.com.br'
-    }
-  }
-
-  window.addEventListener('devtoolschange', (event) =>
-    checkDevtools(event.detail.isOpen)
-  )
-  document.addEventListener('DOMContentLoaded', () => checkDevtools())
-  
-  
-          document.oncontextmenu = function () {
-            return false;
-        }
-        document.onkeydown = function (e) {
-            if (event.keyCode == 123) {
-                return false;
-            }
-        }
-        // Verifica se a ferramenta de desenvolvedor está aberta
-        window.addEventListener('resize', function () {
-            if (window.outerWidth - window.innerWidth > 100 || window.outerHeight - window.innerHeight > 100) {
-                onDevToolsOpen();
-            }
-        });
 </script>
 
-
+<footer id="mainFooter">
+  <div class="footer-content">
+    <div class="footer-left">
+      <p>© 2024 - 2025 WIKI CH SBT+</p>
+      <p>Site wiki criado por fãs. Todos os direitos reservados ao SBT & Televisa.</p>
+    </div>
+    <div class="footer-right">
+      <a href="https://sbt.com.br" target="_blank">SBT</a>
+      <a href="https://mais.sbt.com.br" target="_blank">MAIS SBT+</a>
+      <a href="mailto:pwrmello@gmail.com">CRIADOR</a>
+    </div>
+  </div>
+</footer>
 </body>
 
 
