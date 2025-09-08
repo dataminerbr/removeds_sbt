@@ -1015,20 +1015,6 @@
       ]
     },
     {
-      "name": "Uma múmia bastante egípcia",
-      "reference_id": "000000611_16001293_chapolincolorado_2024_024",
-      "episode_order_number": "0",
-      "original_title": "",
-      "id": "20250407_083",
-      "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/F901vN8OoP4/mqdefault.jpg",
-      "expire": "07-04-2025",
-      "time": "XX",
-      "enabled": false,
-      "quality": [
-        "720P"
-      ]
-    },
-    {
       "name": "O alfaiatezinho valente - parte 1",
       "reference_id": "000000611_16001293_chapolincolorado_2024_134",
       "episode_order_number": "0",
@@ -1722,6 +1708,34 @@
       "id": "20250619_XXX",
       "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/ZuAABwIFdOE/maxresdefault.jpg",
       "expire": "19-06-2025",
+      "time": "XX",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "Uma múmia bastante egípcia",
+      "reference_id": "000000611_16001293_chapolincolorado_2024_024",
+      "episode_order_number": "40",
+      "original_title": "",
+      "id": "20250407_083",
+      "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/F901vN8OoP4/mqdefault.jpg",
+      "expire": "07-04-2025",
+      "time": "XX",
+      "enabled": false,
+      "quality": [
+        "720P"
+      ]
+    },
+    {
+      "name": "Tem uma mosca no meu café / Fantasma da pele vermalha",
+      "reference_id": "000000611_16001293_chapolincolorado_2024_068",
+      "episode_order_number": "41",
+      "original_title": "",
+      "id": "20250407_083",
+      "cover": "https://images.weserv.nl/?sat=0&url=https://img.youtube.com/vi/G9N-AkCkHHY/mqdefault.jpg",
+      "expire": "07-04-2025",
       "time": "XX",
       "enabled": false,
       "quality": [
