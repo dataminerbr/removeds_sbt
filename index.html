@@ -418,7 +418,7 @@ function renderLote(containerId, episodes) {
       <div class="fig-title">#${epNumber} - ${ep.name || 'Sem título'}</div>
       <div class="fig-info">REF: ${ep.reference_id || '—'}</div>
       <div class="fig-info">EX: ${ep.exibicao || '—'}</div>
-      <div class="fig-date">DT: ${(ep.datas || []).join(' | ') || '—'}</div>
+      <div class="fig-date">TV: ${(ep.datas || []).join(' | ') || '—'}</div>
     `;
 
     if (ep.enabled) exibidos++;
