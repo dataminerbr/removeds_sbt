@@ -195,7 +195,7 @@
 </style>
 
 </head>
-<body>
+<body class="theme-chaves">
 
   <header>WIKI CH SBT // 2024 - 2025</header>
 
@@ -253,7 +253,7 @@
   </main>
 
 <script>
- /* =========================
+/* =========================
    LÓGICA DE ABAS
    ========================= */
 const mainItems = document.querySelectorAll('.menu-item');
@@ -269,7 +269,7 @@ let activeMain = 'chaves';
 
 // Variáveis globais para armazenar dados carregados
 let chavesData = {};
-let chapolinData = [];
+let chapolinData = {};
 
 function showSectionById(id) {
   sections.forEach(s => s.classList.remove('active'));
@@ -327,7 +327,6 @@ function renderLote(containerId, episodes) {
     const span = document.createElement('span');
     span.innerHTML = `
       <div class="fig-title">#${epNumber} - ${ep.name || 'Sem título'}</div>
-      <!--<div class="fig-info">TB: ${ep.name || '—'}</div>-->
       <div class="fig-info">REF: ${ep.reference_id || '—'}</div>
       <div class="fig-info">EX: ${ep.exibicao || '—'}</div>
       <div class="fig-date">DT: ${(ep.datas || []).join(' | ') || '—'}</div>
@@ -339,24 +338,10 @@ function renderLote(containerId, episodes) {
     div.appendChild(span);
     grid.appendChild(div);
   });
-
-  // Atualiza contador da sub-tab (só visual, o update real é feito na função updateSubTabsCounters)
-  const section = grid.closest('section');
-  if (section) {
-    const index = Array.from(mapping[activeMain]).indexOf(section.id);
-    const tab = subTabs[index];
-    if (tab) {
-      const baseName = tab.dataset.index === "0" ? "LOTE I"
-                      : tab.dataset.index === "1" ? "LOTE II"
-                      : tab.dataset.index === "2" ? "LOTE F"
-                      : "LOTE E";
-      tab.innerText = `${baseName} (${exibidos} / ${episodes.length})`;
-    }
-  }
 }
 
 /* =========================
-   FETCH GENÉRICO
+   FUNÇÕES DE CONTADORES
    ========================= */
 function processJson(containerBaseId, data, prefixos) {
   prefixos.forEach(([key, containerId]) => {
@@ -365,7 +350,6 @@ function processJson(containerBaseId, data, prefixos) {
   });
 }
 
-// Função que atualiza os contadores das subtabs conforme dados atuais
 function updateSubTabsCounters(mainName) {
   const data = mainName === 'chaves' ? chavesData : chapolinData;
   const prefixos = mainName === 'chaves' 
@@ -387,37 +371,33 @@ function updateSubTabsCounters(mainName) {
   });
 }
 
-// Carrega dados e renderiza CHAVES
-fetch('https://dataminerbr.github.io/removeds_sbt/chaves_formatado.json')
-  .then(res => res.json())
-  .then(data => {
-    chavesData = data;  // guarda globalmente
-    processJson('chaves', data, [
-      ['videos_16001224_2024', 'grid-chaves-i'],
-      ['videos_16007200_2024', 'grid-chaves-ii'],
-      ['videos_fixos', 'grid-chaves-f'],
-      ['videos_extras', 'grid-chaves-e']
-    ]);
-    updateSubTabsCounters('chaves');
-  });
+/* =========================
+   CARREGAMENTO DOS JSONS
+   ========================= */
+Promise.all([
+  fetch('https://dataminerbr.github.io/removeds_sbt/chaves_formatado.json').then(res => res.json()),
+  fetch('https://dataminerbr.github.io/removeds_sbt/chapolin_formatado.json').then(res => res.json())
+]).then(([dataChaves, dataChapolin]) => {
+  chavesData = dataChaves;
+  chapolinData = dataChapolin;
 
-// Carrega dados e renderiza CHAPOLIN
-fetch('https://dataminerbr.github.io/removeds_sbt/chapolin_formatado.json')
-  .then(res => res.json())
-  .then(data => {
-    chapolinData = data; // guarda globalmente
-    processJson('chapolin', data, [
-      ['videos_16001293_2024', 'grid-chapolin-i'],
-      ['videos_16007465_2024', 'grid-chapolin-ii'],
-      ['videos_fixos', 'grid-chapolin-f'],
-      ['videos_extras', 'grid-chapolin-e']
-    ]);
-    updateSubTabsCounters('chapolin');
-  });
+  processJson('chaves', chavesData, [
+    ['videos_16001224_2024', 'grid-chaves-i'],
+    ['videos_16007200_2024', 'grid-chaves-ii'],
+    ['videos_fixos', 'grid-chaves-f'],
+    ['videos_extras', 'grid-chaves-e']
+  ]);
 
-// Estado inicial
-activateMain(activeMain);
+  processJson('chapolin', chapolinData, [
+    ['videos_16001293_2024', 'grid-chapolin-i'],
+    ['videos_16007465_2024', 'grid-chapolin-ii'],
+    ['videos_fixos', 'grid-chapolin-f'],
+    ['videos_extras', 'grid-chapolin-e']
+  ]);
 
+  // Estado inicial só depois de tudo carregado
+  activateMain(activeMain);
+});
 
 /* =========================
    TEMA CSS DINÂMICO
@@ -432,6 +412,7 @@ function applyTheme(mainName) {
     body.classList.add('theme-chapolin');
   }
 }
+
 /* =========================
    FILTRO DE BUSCA
    ========================= */
@@ -439,24 +420,17 @@ const searchInput = document.getElementById('searchInput');
 
 searchInput.addEventListener('input', () => {
   const termo = searchInput.value.toLowerCase();
-
-  // Pega apenas a section ativa
   const activeSection = document.querySelector('main section.active');
   if (!activeSection) return;
 
-  // Pega todos os episódios (cards) dentro da section ativa
   const figs = activeSection.querySelectorAll('.fig');
-
   figs.forEach(fig => {
     const texto = fig.innerText.toLowerCase();
-    if (texto.includes(termo)) {
-      fig.style.display = 'flex'; // mostra o card
-    } else {
-      fig.style.display = 'none'; // esconde o card
-    }
+    fig.style.display = texto.includes(termo) ? 'flex' : 'none';
   });
 });
 </script>
+
 
 </body>
 
