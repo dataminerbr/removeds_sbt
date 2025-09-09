@@ -2,303 +2,487 @@
 <html lang="pt-BR">
 <head>
   <meta charset="UTF-8">
-  <title>WIKI CH SBT+</title>
+  <link rel="icon" href="https://upload.wikimedia.org/wikipedia/commons/b/b2/Multishow_HD_logo.png" type="image/x-icon" sizes="128x128"/>
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>WIKI CH MSW</title>
   <style>
     * {
       box-sizing: border-box;
+      margin: 0;
+      padding: 0;
     }
 
     body {
-      margin: 0;
-      padding: 0;
-      background: #f7f7f7;
+      background: #0d0d0d;
       font-family: 'Segoe UI', sans-serif;
-      color: #333;
+      color: #fff;
+      min-height: 100vh;
     }
 
     header {
-      background: #c62828;
-      color: white;
-      padding: 20px;
+      background: linear-gradient(90deg, #6a5acd, #8a2be2);
       text-align: center;
-      font-size: 2rem;
-      font-weight: bold;
-    }
-
-    main {
-      max-width: 1200px;
-      margin: auto;
       padding: 20px;
-    }
-
-    h2 {
-      margin-top: 40px;
       font-size: 1.8rem;
-      border-left: 6px solid #c62828;
-      padding-left: 12px;
+      font-weight: bold;
+      color: white;
     }
 
-    .grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fill, minmax(130px, 1fr));
-      gap: 16px;
-      margin-top: 20px;
-    }
+/* ---------- THEMES ---------- */
+body.theme-chaves header {
+  background: linear-gradient(90deg, #6ec300, #9ffd04); /* verde forte -> verde principal */
+}
 
-    .fig {
-      background: white;
-      border-radius: 10px;
-      box-shadow: 0 2px 6px rgba(0,0,0,0.1);
-      overflow: hidden;
-      text-align: center;
-      transition: transform 0.2s ease;
-    }
+body.theme-chapolin header {
+  background: linear-gradient(90deg, #a94400, #ec6c02); /* laranja escuro -> laranja principal */
+}
 
-    .fig:hover {
-      transform: scale(1.03);
-    }
+body.theme-chaves .menu {
+  background: #7ac400; /* verde mais escuro */
+  border: 2px dashed #b7ff4a; /* verde bem claro */
+}
+
+body.theme-chapolin .menu {
+  background: #a94400; /* laranja mais escuro */
+  border: 2px dashed #ff9a3b; /* laranja mais claro */
+}
+
+.menu {
+  display: flex;
+  justify-content: space-between;
+  border-radius: 10px;
+  margin: 20px auto;
+  max-width: 1400px;
+  overflow: hidden;
+  flex-wrap: wrap;
+}
+
+.menu-item {
+  flex: 1;
+  text-align: center;
+  padding: 20px;
+  font-weight: bold;
+  font-size: 1.4rem;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.menu-item:hover,
+.menu-item.active {
+  background: rgba(255, 255, 255, 0.15);
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 20px;
+  padding: 20px;
+  max-width: 1400px;
+  margin: auto;
+}
+
+/* ========== FIGURA ========= */
+.fig {
+  background: #1a1a1a;
+  border-radius: 8px;
+  overflow: hidden;
+  transition: all 0.3s;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+}
+
+/* Hover para Chaves */
+body.theme-chaves .fig:hover {
+  transform: translateY(-5px) scale(1.05);
+  box-shadow: 0 10px 30px rgba(159, 253, 4, 0.5); /* verde brilhante */
+}
+
+/* Hover para Chapolin */
+body.theme-chapolin .fig:hover {
+  transform: translateY(-5px) scale(1.05);
+  box-shadow: 0 10px 30px rgba(236, 108, 2, 0.5); /* laranja vibrante */
+}
+
+/* Texto dentro do tema */
+body.theme-chaves .menu-item.active {
+  color: #eaffcc; /* verde muito claro para contraste */
+}
+
+body.theme-chapolin .menu-item.active {
+  color: #fff3e6; /* laranja claro para contraste */
+}
+
 
     .fig img {
       width: 100%;
-      display: block;
+      height: 140px;
+      object-fit: cover;
+      background-color: #2a2a2a;
     }
 
     .fig span {
+      padding: 12px;
+      font-size: 0.8em;
+      color: rgba(255, 255, 255, 0.9);
+      background: #1a1a1a;
       display: block;
-      padding: 10px;
-      font-size: 14px;
-      color: #555;
+      font-family: 'Segoe UI', sans-serif;
+      line-height: 1.4em;
+      border-top: 1px solid rgba(255, 255, 255, 0.05);
     }
 
-    .lista {
-      margin-top: 16px;
-      font-size: 14px;
-      white-space: pre-wrap;
+    .fig .fig-title {
+      font-size: 0.95em;
+      font-weight: 600;
+      margin-bottom: 8px;
+      color: white;
+      display: block;
+    }
+
+    .fig .fig-info {
+      font-size: 0.75em;
+      color: rgba(255, 255, 255, 0.6);
+      margin-bottom: 4px;
       font-family: monospace;
-      color: #333;
+    }
+
+    .fig .fig-date {
+      font-size: 0.7em;
+      color: rgba(255, 255, 255, 0.4);
     }
 
     section {
-      border: 4px solid #c62828;
-      border-radius: 10px;
-      padding: 16px;
-      margin-top: 40px;
-      background-color: white;
-      box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+      display: none;
     }
 
-    @media (max-width: 600px) {
-      h2 {
-        font-size: 1.5rem;
-      }
-      .fig span {
-        font-size: 12px;
-      }
+    section.active {
+      display: block;
     }
+
+    /* ========= Botão Voltar ao Topo ========= */
+    #btnTopo {
+      position: fixed;
+      right: 30px;
+      bottom: 100px;
+      z-index: 9999;
+      width: 52px;
+      height: 52px;
+      border-radius: 50%;
+      border: none;
+      outline: none;
+      color: #fff;
+      font-size: 20px;
+      cursor: pointer;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      opacity: 0;
+      transform: translateY(8px);
+      transition: opacity .25s ease, transform .25s ease;
+      box-shadow: 0 8px 24px rgba(0, 0, 0, 0.45);
+    }
+
+    #btnTopo.visible {
+      opacity: 1;
+      transform: translateY(0);
+    }
+
+    #btnTopo:focus { box-shadow: 0 0 0 3px rgba(255, 255, 255, 0.08); }
+
+/* Cores de fundo do botão, dependendo do tema */
+body.theme-chaves #btnTopo {
+  background-image: linear-gradient(90deg, #6ec300, #9ffd04); /* Verde */
+}
+
+body.theme-chapolin #btnTopo {
+  background-image: linear-gradient(90deg, #a94400, #ec6c02); /* Laranja */
+}
+
+
+    /* Ajustes responsivos */
+    @media (max-width:600px){
+      #btnTopo { right: 12px; bottom: 16px; width:44px; height:44px; }
+    }
+    
+    .search-bar {
+      background: rgba(255,255,255,0.05);
+      border: 1px solid rgba(255,255,255,0.1);
+      border-radius: 10px;
+      padding: 12px 20px;
+      margin: 20px auto;
+      max-width: 1400px;
+      display: none;
+    }
+
+    .search-bar.active {
+      display: block;
+    }
+
+    .search-input {
+      width: 100%;
+      background: transparent;
+      border: none;
+      color: white;
+      font-size: 1em;
+      outline: none;
+    }
+
+    .search-input::placeholder {
+      color: rgba(255,255,255,0.5);
+    }
+	
+	/* Footer Geral */
+  #mainFooter {
+    background: #111;
+    color: #aaa;
+    font-size: 0.85rem;
+    padding: 16px 20px;
+    text-align: center;
+    border-top: 2px solid rgba(255,255,255,0.05);
+    margin-top: 40px;
+  }
+
+  .footer-content {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    max-width: 1400px;
+    margin: 0 auto;
+    align-items: center;
+  }
+
+  .footer-left p {
+    margin: 2px 0;
+  }
+
+  .footer-right a {
+    color: #aaa;
+    text-decoration: none;
+    margin-left: 16px;
+    transition: color 0.3s;
+  }
+
+  .footer-right a:hover {
+    color: #fff;
+  }
+
+  /* Responsivo */
+  @media (max-width: 600px) {
+    .footer-content {
+      flex-direction: column;
+      gap: 8px;
+    }
+    .footer-right a {
+      margin-left: 0;
+      margin-right: 12px;
+    }
+  }
   </style>
 </head>
-<body>
+<body class="theme-chaves">
 
-  <header>WIKI CH SBT // 2024 - 2025</header>
+  <header>WIKI CH MSW // 2025 - 2026</header>
+
+  <div class="menu">
+    <div class="menu-item active" data-main="chaves">CHAVES</div>
+    <div class="menu-item" data-main="chapolin">CHAPOLIN</div>
+  </div>
 
   <main>
-    <section id="chavesI">
-      <h2>SEMANAIS/DIÁRIOS: CHAVES LOTE I (0 / 181)</h2>
+    <div class="search-bar active" id="searchBar">
+      <input type="text" class="search-input" id="searchInput" placeholder="🔍 Buscar por título, episódio ou ID...">
+    </div>
+  
+    <section id="chaves" class="active">
       <div class="grid" id="grid-chaves-i"></div>
-      <div class="lista" id="lista-chaves-i"></div>
     </section>
 
-    <section id="chavesII">
-      <h2>SEMANAIS/DIÁRIOS: CHAVES LOTE II (0 / 103)</h2>
-      <div class="grid" id="grid-chaves-ii"></div>
-      <div class="lista" id="lista-chaves-ii"></div>
-    </section>
-
-    <section id="chapolinI">
-      <h2>SEMANAIS/DIÁRIOS: CHAPOLIN LOTE I (0 / 146)</h2>
+    <section id="chapolin">
       <div class="grid" id="grid-chapolin-i"></div>
-      <div class="lista" id="lista-chapolin-i"></div>
-    </section>
-
-    <section id="chapolinII">
-      <h2>SEMANAIS/DIÁRIOS: CHAPOLIN LOTE II (0 / 125)</h2>
-      <div class="grid" id="grid-chapolin-ii"></div>
-      <div class="lista" id="lista-chapolin-ii"></div>
-    </section>
-
-    <section id="chavesIII">
-      <h2>FIXOS: CHAVES (0 / 10)</h2>
-      <div class="grid" id="grid-chaves-iii"></div>
-      <div class="lista" id="lista-chaves-iii"></div>
-    </section>
-
-    <section id="chapolinIII">
-      <h2>FIXOS: CHAPOLIN (0 / 10)</h2>
-      <div class="grid" id="grid-chapolin-iii"></div>
-      <div class="lista" id="lista-chapolin-iii"></div>
     </section>
   </main>
 
-<script>
-const coverDefault = 'https://dataminerbr.github.io/removeds_sbt/cover.jpg';
+  <button id="btnTopo" aria-label="Voltar ao topo" title="Voltar ao topo">▲</button>
 
-function renderLote(containerId, loteId, totalEps, episodesMap, fallbackTitles) {
-  const grid = document.getElementById(containerId);
-  let exibidos = 0;
+  <footer id="mainFooter">
+    <div class="footer-content">
+      <div class="footer-left">
+        <p>© 2025 - 2026 WIKI CH SBT+</p>
+        <p>Site wiki criado por fãs. Todos os direitos reservados ao SBT & Televisa.</p>
+      </div>
+      <div class="footer-right">
+        <a href="mailto:pwrmello@gmail.com">CRIADOR</a>
+        <a href="https://dataminerbr.github.io/removeds_sbt/index.html">WIKI SBT</a>
+      </div>
+    </div>
+  </footer>
+  
+ <script>
+  document.addEventListener('DOMContentLoaded', () => {
+    const menuItems = document.querySelectorAll('.menu-item');
+    const sections = document.querySelectorAll('section');
+    const gridChaves = document.getElementById('grid-chaves-i');
+    const gridChapolin = document.getElementById('grid-chapolin-i');
 
-  for (let i = 1; i <= totalEps; i++) {
-    const episode = episodesMap[loteId]?.[i];
-    const fallbackName = fallbackTitles?.[i];
-    const div = document.createElement('div');
-    div.className = 'fig';
+    const jsonURL = 'https://raw.githubusercontent.com/dataminerbr/removeds_sbt/refs/heads/main/msw_formatado.json';
 
-    const img = document.createElement('img');
-    img.src = episode?.cover || coverDefault;
-    img.alt = episode?.name || fallbackName || `Episódio ${i}`;
+    // Função para formatar número com 3 dígitos
+    function formatNumero(numero) {
+      return numero.toString().padStart(3, '0');
+    }
 
-    if (episode?.cover) exibidos++;
+    // Função para corrigir os espaços ao redor das barras
+    function formatTitulo(titulo) {
+      return titulo.replace(/\s*\/\s*/g, ' / ');
+    }
 
-    const span = document.createElement('span');
-    const displayName = episode?.name || fallbackName || 'Episódio ' + i;
-    span.innerHTML = `#${String(i).padStart(3, '0')} - ${displayName}`;
+    // Função para gerar datas válidas apenas de segunda a sexta
+    function generateDateForEpisode(index) {
+      const startDate = new Date(2025, 7, 4, 10, 0, 0); // 04/08/2025 10:00
+      let date = new Date(startDate);
 
-    div.appendChild(img);
-    div.appendChild(span);
-    grid.appendChild(div);
-  }
-
-  const section = grid.closest('section');
-  const h2 = section?.querySelector('h2');
-  if (h2) {
-    const titleText = h2.innerText.replace(/\(.*?\)/, `(${exibidos} / ${totalEps})`);
-    h2.innerText = titleText;
-  }
-}
-
-function renderListaTexto(containerId, loteId, totalEps, episodesMap, fallbackTitles) {
-  const lista = document.getElementById(containerId);
-  let exibidos = 0;
-  let output = '';
-
-  for (let i = 1; i <= totalEps; i++) {
-    const episode = episodesMap[loteId]?.[i];
-    const fallbackName = fallbackTitles?.[i];
-    const name = episode?.name || fallbackName || `Episódio ${i}`;
-    const prefix = episode?.cover ? '✅' : '❌';
-    if (episode?.cover) exibidos++;
-    output += `${prefix} #${String(i).padStart(3, '0')} - ${name}\n`;
-  }
-
-  lista.textContent = output;
-
-  const section = lista.closest('section');
-  const h2 = section?.querySelector('h2');
-  if (h2) {
-    const titleText = h2.innerText.replace(/\(.*?\)/, `(${exibidos} / ${totalEps})`);
-    h2.innerText = titleText;
-  }
-}
-
-function fetchTxtTitles(txtUrl) {
-  return fetch(txtUrl)
-    .then(res => res.text())
-    .then(text => {
-      const lines = text.trim().split('\n');
-      const titles = {};
-      for (const line of lines) {
-        const match = line.match(/^(\d{3})\.\s+(.+)/);
-        if (match) {
-          const epNum = parseInt(match[1], 10);
-          const name = match[2].trim();
-          titles[epNum] = name;
+      let addedEpisodes = 0;
+      while (addedEpisodes < index) {
+        date.setDate(date.getDate() + 1);
+        const day = date.getDay();
+        // Segunda a sexta (1 a 5)
+        if (day >= 1 && day <= 5) {
+          addedEpisodes++;
         }
       }
-      return titles;
-    });
-}
+      return date;
+    }
 
-// CHAVES
-fetch('https://dataminerbr.github.io/removeds_sbt/chaves.json')
-  .then(res => res.json())
-  .then(async data => {
-    const episodesMap = {};
-    data.videos_rotativos.forEach(ep => {
-      const parts = ep.reference_id.split('_');
-      const loteId = parts.slice(0, -1).join('_') + '_';
-      const epNumber = parseInt(parts.at(-1), 10);
-      if (!episodesMap[loteId]) episodesMap[loteId] = {};
-      episodesMap[loteId][epNumber] = { name: ep.name, cover: ep.cover };
-    });
+    // Função para formatar data como DD/MM/YYYY 10:00
+    function formatDate(date) {
+      const dd = String(date.getDate()).padStart(2, '0');
+      const mm = String(date.getMonth() + 1).padStart(2, '0');
+      const yyyy = date.getFullYear();
+      return `${dd}/${mm}/${yyyy}`;
+    }
 
-    const chavesI = await fetchTxtTitles('https://dataminerbr.github.io/removeds_sbt/000000610_16001224_chaves_2024.txt');
-    const chavesII = await fetchTxtTitles('https://dataminerbr.github.io/removeds_sbt/000000610_16007200_chaves_2024.txt');
+    // Função para carregar e renderizar os dados
+    function renderGrid(data, gridElement) {
+      gridElement.innerHTML = '';
 
-    renderLote('grid-chaves-i', '000000610_16001224_chaves_2024_', 181, episodesMap, chavesI);
-    renderListaTexto('lista-chaves-i', '000000610_16001224_chaves_2024_', 181, episodesMap, chavesI);
+      const now = new Date(); // Data atual
 
-    renderLote('grid-chaves-ii', '000000610_16007200_chaves_2024_', 103, episodesMap, chavesII);
-    renderListaTexto('lista-chaves-ii', '000000610_16007200_chaves_2024_', 103, episodesMap, chavesII);
+      data.forEach((item, idx) => {
+        const numeroFormatado = formatNumero(item.numero);
+        const tituloFormatado = formatTitulo(item.titulo);
+
+        // Gerar data para o episódio atual
+        const date = generateDateForEpisode(idx);
+        const dia = String(date.getDate()).padStart(2, '0');
+
+        // REF: D{dia}E{episodio}
+        const ref = `D${dia}E${numeroFormatado}`;
+
+        // TV: DD/MM/YYYY 10:00
+        const tv = formatDate(date);
+
+        // Verifica se já estreou
+        const estreou = now >= date; // true se a data atual for igual ou maior que a estreia
+        const imgClass = estreou ? 'estreou' : 'aguardando';
+
+        const div = document.createElement('div');
+        div.classList.add('fig');
+        div.innerHTML = `
+          <img src="${item.capa}" alt="${tituloFormatado}" class="${imgClass}">
+          <span>
+            <div class="fig-title">#${numeroFormatado} - ${tituloFormatado}</div>
+            <div class="fig-info">REF: ${ref}</div>
+            <div class="fig-info">TV: ${tv}</div>
+          </span>
+        `;
+        gridElement.appendChild(div);
+      });
+    }
+
+    function loadData() {
+      fetch(jsonURL)
+        .then(response => response.json())
+        .then(data => {
+          const loteChaves = data.lote_chaves;
+          const loteChapolin = data.lote_chapolin;
+
+          // Renderiza inicialmente Chaves
+          renderGrid(loteChaves, gridChaves);
+
+          // Eventos de troca de menu
+          menuItems.forEach(item => {
+            item.addEventListener('click', () => {
+              document.body.className = `theme-${item.dataset.main}`;
+
+              menuItems.forEach(menu => menu.classList.remove('active'));
+              item.classList.add('active');
+
+              sections.forEach(section => section.classList.remove('active'));
+              document.getElementById(item.dataset.main).classList.add('active');
+
+              if (item.dataset.main === 'chaves') {
+                renderGrid(loteChaves, gridChaves);
+              } else {
+                renderGrid(loteChapolin, gridChapolin);
+              }
+            });
+          });
+        })
+        .catch(error => {
+          console.error('Erro ao carregar o JSON:', error);
+        });
+    }
+
+    loadData();
   });
 
-// CHAPOLIN
-fetch('https://dataminerbr.github.io/removeds_sbt/chapolin.json')
-  .then(res => res.json())
-  .then(async data => {
-    const episodesMap = {};
-    data.videos_rotativos.forEach(ep => {
-      const parts = ep.reference_id.split('_');
-      const loteId = parts.slice(0, -1).join('_') + '_';
-      const epNumber = parseInt(parts.at(-1), 10);
-      if (!episodesMap[loteId]) episodesMap[loteId] = {};
-      episodesMap[loteId][epNumber] = { name: ep.name, cover: ep.cover };
-    });
+  const btnTopo = document.getElementById('btnTopo');
 
-    const chapolinI = await fetchTxtTitles('https://dataminerbr.github.io/removeds_sbt/000000611_16001293_chapolincolorado_2024.txt');
-    const chapolinII = await fetchTxtTitles('https://dataminerbr.github.io/removeds_sbt/000000611_16007465_chapolincolorado_2024.txt');
+  function checkShowBtn() {
+    try {
+      if (window.pageYOffset > 300) {
+        btnTopo.classList.add('visible');
+      } else {
+        btnTopo.classList.remove('visible');
+      }
+    } catch (e) {}
+  }
 
-    renderLote('grid-chapolin-i', '000000611_16001293_chapolincolorado_2024_', 146, episodesMap, chapolinI);
-    renderListaTexto('lista-chapolin-i', '000000611_16001293_chapolincolorado_2024_', 146, episodesMap, chapolinI);
+  window.addEventListener('scroll', checkShowBtn, { passive: true });
+  window.addEventListener('resize', checkShowBtn);
 
-    renderLote('grid-chapolin-ii', '000000611_16007465_chapolincolorado_2024_', 125, episodesMap, chapolinII);
-    renderListaTexto('lista-chapolin-ii', '000000611_16007465_chapolincolorado_2024_', 125, episodesMap, chapolinII);
+  document.addEventListener('DOMContentLoaded', () => {
+    checkShowBtn();
   });
 
-// CHAVES fixo
-fetch('https://dataminerbr.github.io/removeds_sbt/chaves.json')
-  .then(res => res.json())
-  .then(async data => {
-    const episodesMap = {};
-    data.videos_fixos.forEach(ep => {
-      const parts = ep.reference_id.split('_');
-      const loteId = parts.slice(0, -1).join('_') + '_';
-      const epNumber = parseInt(parts.at(-1), 10);
-      if (!episodesMap[loteId]) episodesMap[loteId] = {};
-      episodesMap[loteId][epNumber] = { name: ep.name, cover: ep.cover };
-    });
-
-    const chavesIII = await fetchTxtTitles('https://dataminerbr.github.io/removeds_sbt/000000610_16007200_chaves_2024.txt');
-    renderLote('grid-chaves-iii', '24000368_chaves_2024_', 10, episodesMap, chavesIII);
-    renderListaTexto('lista-chaves-iii', '24000368_chaves_2024_', 10, episodesMap, chavesIII);
+  btnTopo.addEventListener('click', () => {
+    window.scrollTo({ top: 0, behavior: 'smooth' });
   });
 
-// CHAPOLIN fixo
-fetch('https://dataminerbr.github.io/removeds_sbt/chapolin.json')
-  .then(res => res.json())
-  .then(async data => {
-    const episodesMap = {};
-    data.videos_fixos.forEach(ep => {
-      const parts = ep.reference_id.split('_');
-      const loteId = parts.slice(0, -1).join('_') + '_';
-      const epNumber = parseInt(parts.at(-1), 10);
-      if (!episodesMap[loteId]) episodesMap[loteId] = {};
-      episodesMap[loteId][epNumber] = { name: ep.name, cover: ep.cover };
-    });
-
-    const chapolinIII = await fetchTxtTitles('https://dataminerbr.github.io/removeds_sbt/000000611_16007465_chapolincolorado_2024.txt');
-    renderLote('grid-chapolin-iii', '24000369_chapolincolorado_2024_', 10, episodesMap, chapolinIII);
-    renderListaTexto('lista-chapolin-iii', '24000369_chapolincolorado_2024_', 10, episodesMap, chapolinIII);
+  const observer = new MutationObserver(muts => {
+    for (const m of muts) {
+      if (m.attributeName === 'class') checkShowBtn();
+    }
   });
+
+  observer.observe(document.body, { attributes: true });
 </script>
+
+<style>
+  /* Imagem em preto e branco para episódios não estrearam */
+  .fig img.aguardando {
+    filter: grayscale(100%);
+    transition: filter 0.5s ease;
+  }
+
+  /* Imagem colorida para episódios já estrearam */
+  .fig img.estreou {
+    filter: grayscale(0%);
+    transition: filter 0.5s ease;
+  }
+</style>
 
 </body>
 </html>
