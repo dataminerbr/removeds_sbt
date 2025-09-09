@@ -468,6 +468,25 @@ body.theme-chapolin #btnTopo {
   });
 
   observer.observe(document.body, { attributes: true });
+  
+  /* =========================
+   FILTRO DE BUSCA
+   ========================= */
+const searchInput = document.getElementById('searchInput');
+
+searchInput.addEventListener('input', () => {
+  const termo = searchInput.value.toLowerCase();
+  const activeSection = document.querySelector('main section.active');
+  if (!activeSection) return;
+
+  const figs = activeSection.querySelectorAll('.fig');
+  figs.forEach(fig => {
+    const texto = fig.innerText.toLowerCase();
+    fig.style.display = texto.includes(termo) ? 'flex' : 'none';
+  });
+});
+
+
 </script>
 
 <style>
