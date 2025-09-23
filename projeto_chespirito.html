@@ -152,7 +152,7 @@ let anoAtual = null;
 
 async function carregarDados() {
   try {
-    const res = await fetch('episodios_final.json');
+    const res = await fetch('https://dataminerbr.github.io/removeds_sbt/projeto_chespirito.json');
     dados = await res.json();
     const anos = [...new Set(dados.map(ep => ep.ano))].sort();
     gerarMenuAnos(anos);
