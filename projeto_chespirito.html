@@ -134,14 +134,38 @@ main {
 			height: 160px;
 		  }
 		}
+#pesquisa-container {
+  margin-top: 15px;
+  text-align: center;
+}
+
+#barra-pesquisa {
+  width: 80%;
+  max-width: 400px;
+  padding: 8px 12px;
+  font-size: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 20px;
+  outline: none;
+  transition: 0.3s;
+}
+
+#barra-pesquisa:focus {
+  border-color: #0026ff;
+  box-shadow: 0 0 5px rgba(0,38,255,0.4);
+}
+
 	  </style>
 	</head>
 	<body>
-	  <header>
-		<h1>PROJETO CHEPIRITO</h1>
-		<nav id="ano-nav"></nav>
-	  </header>
-
+<header>
+  <h1>PROJETO CHEPIRITO</h1>
+  <nav id="ano-nav"></nav>
+  <div id="pesquisa-container">
+    <input type="text" id="barra-pesquisa" placeholder="Pesquisar episódios ou programas..." />
+  </div>
+</header>
+		
 	  <main id="conteudo">
 		<p>Carregando episódios...</p>
 	  </main>
@@ -242,7 +266,82 @@ function mostrarAno(ano) {
     container.appendChild(box);
   });
 }
+// Filtro de pesquisa
+document.getElementById('barra-pesquisa').addEventListener('input', e => {
+  const termo = e.target.value.toLowerCase();
+  filtrarEpisodios(termo);
+});
 
+function filtrarEpisodios(termo) {
+  const container = document.getElementById('conteudo');
+  container.innerHTML = '';
+
+  const episodiosDoAno = dados.filter(ep => ep.ano === anoAtual);
+
+  episodiosDoAno.forEach(ep => {
+    // Verifica se o termo aparece no título do episódio ou em algum programa
+    const corresponde =
+      ep.titulos.toLowerCase().includes(termo) ||
+      ep.programas.some(p =>
+        (p.programa && p.programa.toLowerCase().includes(termo)) ||
+        (p.esquete && p.esquete.toLowerCase().includes(termo))
+      );
+
+    if (corresponde) {
+      const box = document.createElement('div');
+      box.className = 'episodio';
+
+      const titulo = document.createElement('h2');
+      titulo.textContent = `#${ep.numero} — ${ep.titulos}`;
+      box.appendChild(titulo);
+
+      const programasContainer = document.createElement('div');
+      programasContainer.className = 'programas-container';
+
+      ep.programas.forEach(p => {
+        const prog = document.createElement('div');
+        prog.className = 'programa';
+
+        if (!(p.dublagens.length === 1 && p.dublagens[0] === "Não encontrado")) {
+          prog.style.backgroundColor = "#d4f7d4";
+          prog.style.border = "1px solid #4caf50";
+        }
+
+        const img = document.createElement('img');
+        img.src = p.imagem;
+        img.alt = p.programa;
+        img.onerror = () => console.warn(`Erro ao carregar: ${p.imagem}`);
+        img.onclick = () => prog.classList.toggle('aberto');
+
+        const info = document.createElement('div');
+        info.className = 'info';
+        info.innerHTML = `<strong>${p.programa}</strong><div>${p.esquete || ''}</div>`;
+
+        const extra = document.createElement('div');
+        extra.className = 'extra-info';
+        extra.innerHTML = `
+          <div><strong>Dublagens:</strong> ${p.dublagens.join(', ')}</div>
+          <div><strong>Exibido:</strong> ${p.exibido.join(', ')}</div>
+        `;
+
+        prog.appendChild(img);
+        prog.appendChild(info);
+        prog.appendChild(extra);
+
+        programasContainer.appendChild(prog);
+      });
+
+      box.appendChild(programasContainer);
+      container.appendChild(box);
+    }
+  });
+
+  if (container.innerHTML === '') {
+    container.innerHTML = '<p>Nenhum resultado encontrado.</p>';
+  }
+}
+
+	
 // Carrega tudo ao iniciar
 carregarDados();
 </script>
