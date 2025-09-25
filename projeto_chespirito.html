@@ -1,174 +1,204 @@
-	<!DOCTYPE html>
-	<html lang="pt-BR">
-	<head>
-	  <meta charset="UTF-8" />
-	  <title>Projeto Chepirito</title>
-	  <style>
-		body {
-		  margin: 0;
-		  font-family: 'Segoe UI', sans-serif;
-		  background: #f7f9fc;
-		  color: #222;
-		}
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <title>Projeto Chepirito</title>
+  <style>
+    :root {
+      --azul: #0026ff;
+      --fundo: #f7f9fc;
+    }
 
-		header {
-		  background: #0026ff;
-		  color: white;
-		  padding: 30px 20px;
-		  text-align: center;
-		}
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', sans-serif;
+      background: var(--fundo);
+      color: #222;
+    }
 
-		header h1 {
-		  font-size: 2.5em;
-		  margin: 0;
-		  text-shadow: 1px 1px 3px #000;
-		}
+    header {
+      background: var(--azul);
+      color: white;
+      padding: 30px 20px 12px;
+      text-align: center;
+    }
 
-		#ano-nav {
-		  margin-top: 20px;
-		  display: flex;
-		  flex-wrap: wrap;
-		  justify-content: center;
-		  gap: 8px;
-		}
+    header h1 {
+      font-size: 2.2em;
+      margin: 0 0 6px;
+      text-shadow: 1px 1px 3px #000;
+    }
 
-		#ano-nav button {
-		  background: white;
-		  border: none;
-		  color: #0026ff;
-		  font-weight: bold;
-		  padding: 6px 12px;
-		  border-radius: 15px;
-		  font-size: 0.9rem;
-		  cursor: pointer;
-		  transition: 0.3s;
-		  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-		}
+    #ano-nav {
+      margin-top: 12px;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 8px;
+    }
 
-		#ano-nav button:hover,
-		#ano-nav button.active {
-		  background: #0026ff;
-		  color: white;
-		}
+    #ano-nav button {
+      background: white;
+      border: none;
+      color: var(--azul);
+      font-weight: bold;
+      padding: 6px 12px;
+      border-radius: 15px;
+      font-size: 0.9rem;
+      cursor: pointer;
+      transition: 0.3s;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    }
 
-main {
-  max-width: 1200px;
-  margin: 0 auto; /* centraliza */
-  padding: 40px 20px;
-  background: #0026ff; /* fundo azul */
-  min-height: 100vh; /* ocupa toda a altura visível */
-}
-		.episodio {
-		  background: white;
-		  border-radius: 8px;
-		  margin-bottom: 30px;
-		  padding: 20px;
-		  box-shadow: 0 1px 3px rgba(0,0,0,0.05);
-		}
+    #ano-nav button:hover,
+    #ano-nav button.active {
+      background: var(--azul);
+      color: white;
+    }
 
-	.episodio h2 {
-	  color: #0026ff;
-	  font-size: 0.95rem;
-	  margin-bottom: 10px;
-	  font-weight: 600;
-	  line-height: 1.4;
-	}
-	.programas-container {
-	  display: flex;
-	  flex-wrap: wrap;
-	  justify-content: flex-start;
-	  gap: 12px;
-	}
+    /* Wrapper para alinhar a barra ao mesmo largura do main */
+    #pesquisa-wrapper {
+      display: flex;
+      justify-content: center;
+      padding: 12px 0 18px;
+      background: transparent;
+    }
 
-	.programa {
-	  width: 120px;
-	  background: #ffffff;
-	  border: 1px solid #ddd;
-	  border-radius: 6px;
-	  overflow: hidden;
-	  cursor: pointer;
-	  transition: 0.2s;
-	  font-size: 0.8rem;
-	  text-align: center;
-	}
-		.programa img {
-		  width: 100%;
-		  height: 100px;
-		  object-fit: cover;
-		  transition: transform 0.2s ease;
-		}
+    #pesquisa-container {
+      width: 100%;
+      max-width: 1200px; /* mesma largura do main */
+      padding: 0 20px;
+      box-sizing: border-box;
+    }
 
-		.programa:hover img {
-		  transform: scale(1.03);
-		}
+    #barra-pesquisa {
+      width: 100%;
+      padding: 10px 14px;
+      font-size: 1rem;
+      border: 1px solid #ccc;
+      border-radius: 10px;
+      outline: none;
+      transition: 0.2s;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+    }
 
-		.info {
-		  padding: 6px;
-		}
+    #barra-pesquisa:focus {
+      border-color: var(--azul);
+      box-shadow: 0 0 8px rgba(0,38,255,0.15);
+    }
 
-		.info strong {
-		  display: block;
-		  color: #0026ff;
-		  font-size: 0.85rem;
-		  margin-bottom: 2px;
-		}
+    main {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 30px 20px 60px;
+      background: var(--azul);
+      min-height: 100vh;
+      box-sizing: border-box;
+    }
 
-		.extra-info {
-		  display: none;
-		  padding: 6px;
-		  font-size: 0.75rem;
-		  background: #f9f9f9;
-		  border-top: 1px solid #ccc;
-		}
+    .episodio {
+      background: white;
+      border-radius: 8px;
+      margin-bottom: 20px;
+      padding: 18px;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+    }
 
-		.programa.aberto .extra-info {
-		  display: block;
-		}
+    .episodio h2 {
+      color: var(--azul);
+      font-size: 0.98rem;
+      margin: 0 0 8px;
+      font-weight: 600;
+      line-height: 1.3;
+    }
 
-		@media (max-width: 600px) {
-		  .programas-container {
-			grid-template-columns: repeat(auto-fit, minmax(100%, 1fr));
-		  }
+    .programas-container {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: flex-start;
+      gap: 12px;
+    }
 
-		  .programa img {
-			height: 160px;
-		  }
-		}
-#pesquisa-container {
-  margin-top: 15px;
-  text-align: center;
-}
+    .programa {
+      width: 120px;
+      background: #ffffff;
+      border: 1px solid #ddd;
+      border-radius: 6px;
+      overflow: hidden;
+      cursor: pointer;
+      transition: 0.2s;
+      font-size: 0.8rem;
+      text-align: center;
+    }
 
-#barra-pesquisa {
-  width: 80%;
-  max-width: 400px;
-  padding: 8px 12px;
-  font-size: 1rem;
-  border: 1px solid #ccc;
-  border-radius: 20px;
-  outline: none;
-  transition: 0.3s;
-}
+    .programa img {
+      width: 100%;
+      height: 100px;
+      object-fit: cover;
+      transition: transform 0.2s ease;
+    }
 
-#barra-pesquisa:focus {
-  border-color: #0026ff;
-  box-shadow: 0 0 5px rgba(0,38,255,0.4);
-}
+    .programa:hover img {
+      transform: scale(1.03);
+    }
 
-	  </style>
-	</head>
-	<body>
-<header>
-  <h1>PROJETO CHEPIRITO</h1>
-  <nav id="ano-nav"></nav>
-  <div id="pesquisa-container">
-    <input type="text" id="barra-pesquisa" placeholder="Pesquisar episódios ou programas..." />
-  </div>
-</header>
-		
-	  <main id="conteudo">
-		<p>Carregando episódios...</p>
-	  </main>
+    .info {
+      padding: 6px;
+    }
+
+    .info strong {
+      display: block;
+      color: var(--azul);
+      font-size: 0.85rem;
+      margin-bottom: 2px;
+    }
+
+    .extra-info {
+      display: none;
+      padding: 6px;
+      font-size: 0.75rem;
+      background: #f9f9f9;
+      border-top: 1px solid #ccc;
+    }
+
+    .programa.aberto .extra-info {
+      display: block;
+    }
+
+    .mensagem {
+      color: white;
+      padding: 20px;
+      text-align: center;
+      font-weight: 600;
+    }
+
+    @media (max-width: 600px) {
+      .programas-container {
+        grid-template-columns: repeat(auto-fit, minmax(100%, 1fr));
+      }
+
+      .programa img {
+        height: 160px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>PROJETO CHEPIRITO</h1>
+    <nav id="ano-nav"></nav>
+
+    <!-- barra de pesquisa alinhada à largura do main -->
+    <div id="pesquisa-wrapper">
+      <div id="pesquisa-container">
+        <input type="text" id="barra-pesquisa" placeholder="Pesquisar por título, programa, esquete, dublagem ou exibido..." aria-label="Pesquisar">
+      </div>
+    </div>
+  </header>
+
+  <main id="conteudo">
+    <p class="mensagem">Carregando episódios...</p>
+  </main>
 
 <script>
 let dados = [];
@@ -178,11 +208,27 @@ async function carregarDados() {
   try {
     const res = await fetch('https://dataminerbr.github.io/removeds_sbt/projeto_chespirito.json');
     dados = await res.json();
+
+    // garante que exista pelo menos um ano
     const anos = [...new Set(dados.map(ep => ep.ano))].sort();
+    if (anos.length === 0) {
+      document.getElementById('conteudo').innerHTML = '<p class="mensagem">JSON vazio — sem episódios.</p>';
+      return;
+    }
+
     gerarMenuAnos(anos);
+    // define ano atual como primeiro disponível (pode ajustar se quiser o último)
     mostrarAno(anos[0]);
+
+    // listener da pesquisa
+    const inputPesquisa = document.getElementById('barra-pesquisa');
+    inputPesquisa.addEventListener('input', e => {
+      const termo = e.target.value.trim().toLowerCase();
+      filtrarEpisodios(termo);
+    });
+
   } catch (err) {
-    document.getElementById('conteudo').innerHTML = '<p>Erro ao carregar o JSON.</p>';
+    document.getElementById('conteudo').innerHTML = '<p class="mensagem">Erro ao carregar o JSON.</p>';
     console.error(err);
   }
 }
@@ -193,7 +239,11 @@ function gerarMenuAnos(anos) {
   anos.forEach(ano => {
     const btn = document.createElement('button');
     btn.textContent = ano;
-    btn.onclick = () => mostrarAno(ano);
+    btn.onclick = () => {
+      // limpa pesquisa ao mudar de ano (opcional)
+      document.getElementById('barra-pesquisa').value = '';
+      mostrarAno(ano);
+    };
     btn.dataset.ano = ano;
     nav.appendChild(btn);
   });
@@ -204,13 +254,68 @@ function mostrarAno(ano) {
   document.querySelectorAll('#ano-nav button').forEach(btn => {
     btn.classList.toggle('active', btn.dataset.ano == ano);
   });
+  // renderiza todos os episódios do ano (sem filtro)
+  const episodiosDoAno = dados.filter(ep => ep.ano === ano);
+  renderizarEpisodios(episodiosDoAno);
+}
 
+function filtrarEpisodios(termo) {
+  // se não houver ano selecionado, tenta usar o primeiro ano dos dados
+  if (!anoAtual) {
+    const anos = [...new Set(dados.map(ep => ep.ano))].sort();
+    if (anos.length) anoAtual = anos[0];
+  }
+
+  const episodiosDoAno = dados.filter(ep => ep.ano === anoAtual);
+
+  if (!termo) {
+    // sem termo -> mostra tudo do ano
+    renderizarEpisodios(episodiosDoAno);
+    return;
+  }
+
+  // busca direta nos campos do JSON: titulos, programas[].programa, programas[].esquete, programas[].dublagens, programas[].exibido
+  const filtrados = episodiosDoAno.filter(ep => {
+    const tituloMatch = String(ep.titulos || '').toLowerCase().includes(termo);
+    const numeroMatch = String(ep.numero || '').toLowerCase().includes(termo);
+
+    const programasMatch = Array.isArray(ep.programas) && ep.programas.some(p => {
+      const nome = String(p.programa || '').toLowerCase();
+      const esquete = String(p.esquete || '').toLowerCase();
+
+      // garante que dublagens/exibido fiquem em string mesmo se forem arrays ou strings
+      const dublagensText = Array.isArray(p.dublagens) ? p.dublagens.join(' ') : String(p.dublagens || '');
+      const exibidoText = Array.isArray(p.exibido) ? p.exibido.join(' ') : String(p.exibido || '');
+
+      const dublagens = dublagensText.toLowerCase();
+      const exibido = exibidoText.toLowerCase();
+
+      return nome.includes(termo) ||
+             esquete.includes(termo) ||
+             dublagens.includes(termo) ||
+             exibido.includes(termo);
+    });
+
+    return tituloMatch || numeroMatch || programasMatch;
+  });
+
+  if (filtrados.length === 0) {
+    document.getElementById('conteudo').innerHTML = '<p class="mensagem">Nenhum resultado encontrado.</p>';
+  } else {
+    renderizarEpisodios(filtrados);
+  }
+}
+
+function renderizarEpisodios(lista) {
   const container = document.getElementById('conteudo');
   container.innerHTML = '';
 
-  const episodiosDoAno = dados.filter(ep => ep.ano === ano);
+  if (!Array.isArray(lista) || lista.length === 0) {
+    container.innerHTML = '<p class="mensagem">Nenhum episódio para mostrar.</p>';
+    return;
+  }
 
-  episodiosDoAno.forEach(ep => {
+  lista.forEach(ep => {
     const box = document.createElement('div');
     box.className = 'episodio';
 
@@ -221,38 +326,39 @@ function mostrarAno(ano) {
     const programasContainer = document.createElement('div');
     programasContainer.className = 'programas-container';
 
-    ep.programas.forEach(p => {
+    (ep.programas || []).forEach(p => {
       const prog = document.createElement('div');
       prog.className = 'programa';
 
-      // Fundo verde se dublagem encontrada
-      if (!(p.dublagens.length === 1 && p.dublagens[0] === "Não encontrado")) {
-        prog.style.backgroundColor = "#d4f7d4"; // verde claro
-        prog.style.border = "1px solid #4caf50"; // borda verde
+      // sinal visual se dublagem encontrada
+      const temDublagem = Array.isArray(p.dublagens) ? !(p.dublagens.length === 1 && String(p.dublagens[0]).toLowerCase().includes('não encontrado')) :
+                          (String(p.dublagens || '').toLowerCase().indexOf('não encontrado') === -1 && Boolean(p.dublagens));
+
+      if (temDublagem) {
+        prog.style.backgroundColor = "#d4f7d4";
+        prog.style.border = "1px solid #4caf50";
       }
 
       const img = document.createElement('img');
-      img.src = p.imagem;
-      img.alt = p.programa;
+      img.src = p.imagem || '';
+      img.alt = p.programa || '';
+      img.onerror = () => { /* falha ao carregar imagem: opcional */ };
 
-      // Força recarregar a imagem e trata erros
-      img.onload = () => console.log(`Imagem carregada: ${p.imagem}`);
-      img.onerror = () => console.warn(`Erro ao carregar: ${p.imagem}`);
-
-      img.onclick = () => prog.classList.toggle('aberto');
+      img.addEventListener('click', () => prog.classList.toggle('aberto'));
 
       const info = document.createElement('div');
       info.className = 'info';
-      info.innerHTML = `
-        <strong>${p.programa}</strong>
-        <div>${p.esquete || ''}</div>
-      `;
+      info.innerHTML = `<strong>${p.programa || ''}</strong><div>${p.esquete || ''}</div>`;
 
       const extra = document.createElement('div');
       extra.className = 'extra-info';
+      // mostra dublagens/exibido retirados direto do JSON (mesmo antes do clique)
+      const dublagensText = Array.isArray(p.dublagens) ? p.dublagens.join(', ') : (p.dublagens || '');
+      const exibidoText = Array.isArray(p.exibido) ? p.exibido.join(', ') : (p.exibido || '');
+
       extra.innerHTML = `
-        <div><strong>Dublagens:</strong> ${p.dublagens.join(', ')}</div>
-        <div><strong>Exibido:</strong> ${p.exibido.join(', ')}</div>
+        <div><strong>Dublagens:</strong> ${dublagensText || 'Não encontrado'}</div>
+        <div><strong>Exibido:</strong> ${exibidoText || '—'}</div>
       `;
 
       prog.appendChild(img);
@@ -266,85 +372,10 @@ function mostrarAno(ano) {
     container.appendChild(box);
   });
 }
-// Filtro de pesquisa
-document.getElementById('barra-pesquisa').addEventListener('input', e => {
-  const termo = e.target.value.toLowerCase();
-  filtrarEpisodios(termo);
-});
 
-function filtrarEpisodios(termo) {
-  const container = document.getElementById('conteudo');
-  container.innerHTML = '';
-
-  const episodiosDoAno = dados.filter(ep => ep.ano === anoAtual);
-
-  episodiosDoAno.forEach(ep => {
-    // Verifica se o termo aparece no título do episódio ou em algum programa
-    const corresponde =
-      ep.titulos.toLowerCase().includes(termo) ||
-      ep.programas.some(p =>
-        (p.programa && p.programa.toLowerCase().includes(termo)) ||
-        (p.esquete && p.esquete.toLowerCase().includes(termo))
-      );
-
-    if (corresponde) {
-      const box = document.createElement('div');
-      box.className = 'episodio';
-
-      const titulo = document.createElement('h2');
-      titulo.textContent = `#${ep.numero} — ${ep.titulos}`;
-      box.appendChild(titulo);
-
-      const programasContainer = document.createElement('div');
-      programasContainer.className = 'programas-container';
-
-      ep.programas.forEach(p => {
-        const prog = document.createElement('div');
-        prog.className = 'programa';
-
-        if (!(p.dublagens.length === 1 && p.dublagens[0] === "Não encontrado")) {
-          prog.style.backgroundColor = "#d4f7d4";
-          prog.style.border = "1px solid #4caf50";
-        }
-
-        const img = document.createElement('img');
-        img.src = p.imagem;
-        img.alt = p.programa;
-        img.onerror = () => console.warn(`Erro ao carregar: ${p.imagem}`);
-        img.onclick = () => prog.classList.toggle('aberto');
-
-        const info = document.createElement('div');
-        info.className = 'info';
-        info.innerHTML = `<strong>${p.programa}</strong><div>${p.esquete || ''}</div>`;
-
-        const extra = document.createElement('div');
-        extra.className = 'extra-info';
-        extra.innerHTML = `
-          <div><strong>Dublagens:</strong> ${p.dublagens.join(', ')}</div>
-          <div><strong>Exibido:</strong> ${p.exibido.join(', ')}</div>
-        `;
-
-        prog.appendChild(img);
-        prog.appendChild(info);
-        prog.appendChild(extra);
-
-        programasContainer.appendChild(prog);
-      });
-
-      box.appendChild(programasContainer);
-      container.appendChild(box);
-    }
-  });
-
-  if (container.innerHTML === '') {
-    container.innerHTML = '<p>Nenhum resultado encontrado.</p>';
-  }
-}
-
-	
-// Carrega tudo ao iniciar
+// inicializa
 carregarDados();
 </script>
 
-	</body>
-	</html>
+</body>
+</html>
